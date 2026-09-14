@@ -1,0 +1,450 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ToiletsProductConfiguration_ss\"}ToiletsProductConfiguration_ss",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "{!ex=\"ATTR_SPEC_LitersPerFlush_s\"}ATTR_SPEC_LitersPerFlush_s",
+      "{!ex=\"ATTR_SPEC_BowlShape_s\"}ATTR_SPEC_BowlShape_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "ATTR_SPEC_RimType_s",
+      "ATTR_SPEC_WaterSaving_s",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ToiletsProductConfiguration_ss": "Product Type",
+      "ProductStyle_ss": "Style",
+      "ATTR_SPEC_LitersPerFlush_s": "Liters per flush",
+      "ATTR_SPEC_BowlShape_s": "Shape",
+      "ProductInstallationType_ss": "Installation Type",
+      "ATTR_SPEC_RimType_s": "Rim Type",
+      "ATTR_SPEC_WaterSaving_s": "Water Saving",
+      "SpecialFeatureList_ss": "Special Feature",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|17663IN-0|true|false|K-17663IN-0"
+        ],
+        "ProductBrandName_s": "Odeon",
+        "masterSKU_s": "17663IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "17663IN-0",
+        "productImages.labelWithUrl_ss": [
+          "17663IN-0|aad44273_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad44273_rgb"
+        ],
+        "priceList.GST.price_d": 8749.0,
+        "priceList.GST.finalPrice_d": 8749.0,
+        "ProductDescriptionProductShort_s": "Toilet tank, dual-flush",
+        "productName_s": "Odeon™ Two-piece toilet tank, dual-flush",
+        "ctId_s": "650938c8-fb80-4801-8366-7abb9207cdb8",
+        "Color.GST.Details_ss": [
+          "17663IN-0|White|10300.0|8749.0||https://kohler.scene7.com/is/image/PAWEB/aad44273_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "17663IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad44273_rgb"
+        ],
+        "priceList.ANY.price_d": 10300.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "17663IN-0",
+        "ProductBrandNameDisplay_s": "Odeon",
+        "variantList.sku_ss": [
+          "17663IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 8749.0,
+        "displayPriceStartingAt_s": "₹8,749.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "odeon-two-piece-toilet-tank-dual-flush-17663in",
+        "priceStartingAt.GST_d": 8749.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "650938c8-fb80-4801-8366-7abb9207cdb8|17663IN-0",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1853IN-0|true|false|K-1853IN-0"
+        ],
+        "ProductBrandName_s": "Brive Plus",
+        "masterSKU_s": "1853IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1853IN-0",
+        "productImages.labelWithUrl_ss": [
+          "1853IN-0|aad78128_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad78128_rgb"
+        ],
+        "priceList.GST.price_d": 7049.0,
+        "priceList.GST.finalPrice_d": 7049.0,
+        "ProductDescriptionProductShort_s": "Elongated toilet bowl with concealed trapway",
+        "productName_s": "Brive Plus Elongated toilet bowl with concealed trapway",
+        "ctId_s": "d77ea600-89d2-4e36-be80-8de6cc3448bf",
+        "Color.GST.Details_ss": [
+          "1853IN-0|White|8300.0|7049.0||https://kohler.scene7.com/is/image/PAWEB/aad78128_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "1853IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad78128_rgb"
+        ],
+        "priceList.ANY.price_d": 8300.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "1853IN-0",
+        "ProductBrandNameDisplay_s": "Brive Plus",
+        "variantList.sku_ss": [
+          "1853IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 7049.0,
+        "displayPriceStartingAt_s": "₹7,049.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "brive-compact-elongated-toilet-bowl-with-concealed-trapway-1853in",
+        "priceStartingAt.GST_d": 7049.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d77ea600-89d2-4e36-be80-8de6cc3448bf|1853IN-0",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1855IN-0|true|false|K-1855IN-0"
+        ],
+        "ProductBrandName_s": "Brive Plus",
+        "masterSKU_s": "1855IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1855IN-0",
+        "productImages.labelWithUrl_ss": [
+          "1855IN-0|aad35929_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad35929_rgb"
+        ],
+        "priceList.GST.price_d": 5269.0,
+        "priceList.GST.finalPrice_d": 5269.0,
+        "ProductDescriptionProductShort_s": "Toilet tank, dual-flush",
+        "productName_s": "Brive Plus Toilet tank, dual-flush",
+        "ctId_s": "fa2ce275-f19e-425f-aa06-8006c0eec1e1",
+        "Color.GST.Details_ss": [
+          "1855IN-0|White|6200.0|5269.0||https://kohler.scene7.com/is/image/PAWEB/aad35929_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "1855IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad35929_rgb"
+        ],
+        "priceList.ANY.price_d": 6200.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "1855IN-0",
+        "ProductBrandNameDisplay_s": "Brive Plus",
+        "variantList.sku_ss": [
+          "1855IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 5269.0,
+        "displayPriceStartingAt_s": "₹5,269.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "brive-2pc-tank-only-1855in",
+        "priceStartingAt.GST_d": 5269.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "fa2ce275-f19e-425f-aa06-8006c0eec1e1|1855IN-0",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1851IN-0|true|false|K-1851IN-0"
+        ],
+        "ProductBrandName_s": "Brive Plus",
+        "masterSKU_s": "1851IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1851IN-0",
+        "productImages.labelWithUrl_ss": [
+          "1851IN-0|aag42356_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
+        ],
+        "priceList.GST.price_d": 7049.0,
+        "priceList.GST.finalPrice_d": 7049.0,
+        "ProductDescriptionProductShort_s": "Round-front toilet bowl with concealed trapway",
+        "productName_s": "Brive Plus Round-front toilet bowl with concealed trapway",
+        "ctId_s": "2233534b-c7cc-45b2-a5e7-2c44b7eab0d9",
+        "Color.GST.Details_ss": [
+          "1851IN-0|White|8300.0|7049.0||https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "1851IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
+        ],
+        "priceList.ANY.price_d": 8300.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "1851IN-0",
+        "ProductBrandNameDisplay_s": "Brive Plus",
+        "variantList.sku_ss": [
+          "1851IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 7049.0,
+        "displayPriceStartingAt_s": "₹7,049.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "brive-p-trap-2-pc-bowl-only-1851in",
+        "priceStartingAt.GST_d": 7049.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "2233534b-c7cc-45b2-a5e7-2c44b7eab0d9|1851IN-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|17661K-S-0|false|false|K-17661K-S-0"
+        ],
+        "ProductBrandName_s": "Odeon",
+        "masterSKU_s": "17661K-S-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "17661K-S-0",
+        "productImages.labelWithUrl_ss": [
+          "17661K-S-0|K-17661K-S-0|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/K-17661K-S-0"
+        ],
+        "priceList.GST.price_d": 23459.0,
+        "priceList.GST.finalPrice_d": 23459.0,
+        "ProductDescriptionProductShort_s": "wall-hung toilet with exposed tank  with Quiet-Close seat and cover",
+        "productName_s": "Odeon wall-hung toilet with exposed tank  with Quiet-Close seat and cover",
+        "ctId_s": "f93b593c-e22e-4ce3-9480-0177f873e36f",
+        "Color.GST.Details_ss": [
+          "17661K-S-0|White|27600.0|23459.0||https://s7g10.scene7.com/is/image/kohlerindia/K-17661K-S-0"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "17661K-S",
+        "productImages.url_ss": [
+          "https://s7g10.scene7.com/is/image/kohlerindia/K-17661K-S-0"
+        ],
+        "priceList.ANY.price_d": 27600.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "17661K-S-0",
+        "ProductBrandNameDisplay_s": "Odeon",
+        "variantList.sku_ss": [
+          "17661K-S-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 23459.0,
+        "displayPriceStartingAt_s": "₹23,459.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "odeon-wall-hung-toilet-with-exposed-tank-with-quiet-close-seat-and-cover-17661k-s",
+        "priceStartingAt.GST_d": 23459.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f93b593c-e22e-4ce3-9480-0177f873e36f|17661K-S-0"
+      }
+    ],
+    "numFound": 5,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "ToiletsProductConfiguration_ss:\"Smart Toilet\"": 0,
+      "ToiletsProductConfiguration_ss:\"One Piece\"": 0,
+      "ToiletsProductConfiguration_ss:\"Two Piece\"": 5,
+      "ToiletsProductConfiguration_ss:\"Wall Hung\"": 0,
+      "ToiletsProductConfiguration_ss:\"Wall Hung With Exposed Tank\"": 2,
+      "Available_Now_s:\"Yes\"": 4
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        5
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Brive Plus",
+        3,
+        "Odeon",
+        2
+      ],
+      "ToiletsProductConfiguration_ss": [
+        "Smart Toilet",
+        3,
+        "One Piece",
+        8,
+        "Two Piece",
+        5,
+        "Wall Hung",
+        52,
+        "Wall Hung With Exposed Tank",
+        3
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        4,
+        "Transitional",
+        1
+      ],
+      "ATTR_SPEC_LitersPerFlush_s": [
+        "2.6 or 4.0",
+        2,
+        "3.0 or 6.0",
+        1,
+        "6.0",
+        1
+      ],
+      "ATTR_SPEC_BowlShape_s": [
+        "Elongated",
+        1,
+        "Round-front",
+        2
+      ],
+      "ProductInstallationType_ss": [
+        "Floor-mount",
+        3,
+        "Wall-mount",
+        2
+      ],
+      "ATTR_SPEC_RimType_s": [
+        "Non Rimless",
+        1
+      ],
+      "ATTR_SPEC_WaterSaving_s": [
+        "No",
+        1
+      ],
+      "Available_Now_s": [
+        "Yes",
+        4,
+        "No",
+        1
+      ],
+      "InstallationCost_s": [
+        "Paid",
+        5
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          3,
+          "10000",
+          1,
+          "20000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          3,
+          "10000",
+          1,
+          "20000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          4,
+          "20000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          3,
+          "10000",
+          1,
+          "20000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

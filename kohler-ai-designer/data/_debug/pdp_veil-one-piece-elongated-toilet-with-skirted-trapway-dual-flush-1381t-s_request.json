@@ -1,0 +1,178 @@
+{
+  "product_url": "https://www.kohler.co.in/p/veil-one-piece-elongated-toilet-with-skirted-trapway-dual-flush-1381t-s?skuId=1381T-S-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/veil-one-piece-elongated-toilet-with-skirted-trapway-dual-flush-1381t-s",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/veil-one-piece-elongated-toilet-with-skirted-trapway-dual-flush-1381t-s",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4890>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/veil-one-piece-elongated-toilet-with-skirted-trapway-dual-flush-1381t-s?skuId=1381T-S-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Qdn4da0Y9F",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=246, origin; dur=743, ak_p; desc=\"1789416415110_400553039_332768049_99013_10108_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:06:56 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1898",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381T-S.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381t_sfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Standard 12 inch (305 mm) rough-in",
+              "Supply line sold separately"
+            ],
+            "ProductOverallWidthInches_s": "15-1/4\"",
+            "ProductNarrativeDescription_s": "This Veil™ one-piece elongated toilet is the epitome of chic, modern living. The toilet's skirted trapway and rimless design makes cleaning effortless, while its dual-flushing capabilities provide unparalled performance, helping you to conserve water. Your new toilet comes complete with a Quiet-Close™ seat and lid for a peaceful, soundless finish. Also compatible with C3™ and PureWash™ electronic bidet seats (sold separately).",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1381T-S-0|true|false|K-1381T-S-0"
+            ],
+            "ProductBrandName_s": "Veil™",
+            "ProductPackageContents_s": "1 TOILET; 1 TOILET SEAT, 1 FLOOR MOUNTING KIT; 1 INSTALLATION TEMPLATE; 1 COMPLIANCE CERTIFICATE;",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381T-S.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1565677434451_K-1381T_K-1382T.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/Service part 1262233-T8-B(1381-1382)-2018-3-21.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1381T-S_spec_CN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-1381T-S_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381T-S.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1381T-S-0|aad74717_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad74717_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 33599.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 42000.0,
+            "ProductOverallLengthInches_s": "28-9/16\"",
+            "ProductDescriptionProductShort_s": "One-piece elongated toilet with skirted trapway, dual-flush",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381t_spln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381t_ssde.dxf"
+            ],
+            "productName_s": "Veil™ One-piece elongated toilet with skirted trapway, dual-flush",
+            "ctId_s": "2129eab0-b89b-490f-acca-f42d0bd98d79",
+            "ProductWebFeatures_ss": [
+              "One-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+              "Elongated bowl offers added room and comfort",
+              "Rim-to-floor height: 39 cm (15-3/8 inches)",
+              "Dual-flush offers a choice of 0.8 or 1.28 gpf (3.0 or 4.5 lpf)",
+              "Washdown flushing system",
+              "Left-hand Polished Chrome trip lever",
+              "52 mm (2 inch) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Seat and lid included",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Coordinates with other products in the Veil collection",
+              "Compatible with C3™ and PureWash™ electronic bidet seats (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 42000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381t_ssde.dwg"
+            ],
+            "ProductResource.EnvironProdDecl.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1667519-24.pdf"
+            ],
+            "sku_s": "1381T-S-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Toilet-Floor_Mount-KOHLER-VEIL-K-1381T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381T-S.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "51.500",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1381T-S",
+            "productInRiverId_s": "inRiver_608446",
+            "priceList.CTR.finalPrice_d": 42000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-1381T-S-0",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "variantList.sku_ss": [
+              "1381T-S-0"
+            ],
+            "SKUShippingHeight_s": "73.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "78.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381t_spln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Plastic seat"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381t_sfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1381T-S.dwg"
+            ],
+            "ProductOverallHeightInches_s": "27-1/4\"",
+            "id": "2129eab0-b89b-490f-acca-f42d0bd98d79|1381T-S-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "product_url": "https://www.kohler.co.in/p/apt-square-complete-wall-hung-toilet-bundle-in-white-1?skuId=32410IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/apt-square-complete-wall-hung-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/apt-square-complete-wall-hung-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4925>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/apt-square-complete-wall-hung-toilet-bundle-in-white-1?skuId=32410IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "aH97DoPPEk",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=864, origin; dur=778, ak_p; desc=\"1789416284244_400553039_332758424_164293_10642_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:04:45 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1931",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 6.3,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|32407IN-0|true|false|K-32407IN-0",
+              "Cashmere|swatch_K4|32407IN-K4|true|false|K-32407IN-K4"
+            ],
+            "ProductPackageContents_s": " 1 TOILET SEAT;\n1 INSTALLATION GUIDE;\n1 HARDWARE KIT;\n1 WARRANTYCARD",
+            "productImages.labelWithUrl_ss": [
+              "32407IN-0|aaf52700_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf52700_rgb",
+              "32407IN-K4|aag80819_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80819_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ square-front toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "APT™ Quiet-Close™ square-front toilet seat",
+            "ctId_s": "0db1d5ff-d8ce-4e5f-b777-fc3426cb2915",
+            "ProductWebFeatures_ss": [
+              "Square-front seat with lid",
+              "Hinge is concealed by lid when closed to offer a clean profile",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Coordinates with other products in the APT™ collection"
+            ],
+            "ProductOverallWidthCm_d": 36.7,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "32407IN-0",
+            "SKUShippingWidth_s": "38.500",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "APT™",
+            "SKUShippingHeight_s": "7.000",
+            "SKUShippingLength_s": "48.000",
+            "slug_s": "apt-quiet-close-square-front-toilet-seat-32407in",
+            "ProductOverallLengthCm_d": 45.4
+          },
+          {
+            "ProductOverallHeightCm_d": 35.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|32427IN-0|true|false|K-32427IN-0",
+              "Cashmere|swatch_K4|32427IN-K4|true|false|K-32427IN-K4"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG BOWL;\n1 FLOW DISTRIBUTOR ASSEMBLED WITH BOWL;\n1 INSTALLATION INSTRUCTION;\n2 SIDE COVER; 1 WARRANTY CARD\n1 SERVICE PART PAGE, 1 FLOW REDUCER",
+            "productImages.labelWithUrl_ss": [
+              "32427IN-0|aaf52702_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf52702_rgb",
+              "32427IN-K4|aah01034_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah01034_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Square Wall Hung Bowl W/O Seat",
+            "ColorFinish_s": "White",
+            "productName_s": "APT™ Square Wall Hung Bowl W/O Seat",
+            "ctId_s": "fcbc871a-4c76-4cb1-8ca9-1d543ab06745",
+            "ProductWebFeatures_ss": [
+              "Square-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Wall-hung design allows bowl to be set at preferred height",
+              "Bowl can be mounted anywhere between 390 – 52 cm (15.35 – 20.5 inches) from floor to bowl rim, depending on in-wall tank used",
+              "2-9/16\" (65 mm) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Ergonomic side pockets allow for easy installation while pocket covers maintain a cohesive aesthetic",
+              "Flow regulator smooths water flow for splash control",
+              "Coordinates with other products in the APT™ collection",
+              "Bowl only; requires in-wall tank (K-26353IN-M, K-26353IN-P, K-26352IN-M, K-26352IN-P, or K-26351IN-M), outlet connector (K-1527926), flush valve (K-31538IN), M12 bolts (K-1213309), and dual-flush faceplate, each sold separately"
+            ],
+            "ProductOverallWidthCm_d": 36.9,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "32427IN-0",
+            "SKUShippingWidth_s": "41.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "APT™",
+            "SKUShippingHeight_s": "57.000",
+            "SKUShippingLength_s": "45.000",
+            "slug_s": "apt-wall-hung-square-front-toilet-bowl-with-skirted-trapway-32427in",
+            "ProductOverallLengthCm_d": 54.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "APT Square complete wall hung toilet bundle in White",
+            "ctId_s": "1aae74c4-a972-4214-a7ae-4dc3d9b16f1c",
+            "priceList.ANY.finalPrice_d": 15500.0,
+            "sku_s": "32410IN-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 15500.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-32410IN-0",
+            "variantList.sku_ss": [
+              "32410IN-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "32410IN-0|aag85497_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag85497_rgb",
+              "32410IN-0|aag71196_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag71196_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 12239.0,
+            "priceList.KEMP.finalPrice_d": 15500.0,
+            "id": "1aae74c4-a972-4214-a7ae-4dc3d9b16f1c|32410IN-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

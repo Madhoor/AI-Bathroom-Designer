@@ -1,0 +1,127 @@
+{
+  "product_url": "https://www.kohler.co.in/p/odeon-two-piece-toilet-tank-dual-flush-17663in?skuId=17663IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/odeon-two-piece-toilet-tank-dual-flush-17663in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/odeon-two-piece-toilet-tank-dual-flush-17663in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4726>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/odeon-two-piece-toilet-tank-dual-flush-17663in?skuId=17663IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Fpsj6v7Jjf",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=263, origin; dur=721, ak_p; desc=\"1789416590271_400553039_332781192_98740_9426_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:09:51 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1404",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "redirectUrl_s": "https://shopkohler.in/products/odeon-dual-flush-tank",
+            "ProductWebInstallation_ss": [
+              "Supply line sold separately"
+            ],
+            "ProductOverallWidthInches_s": "15-3/4\"",
+            "ProductNarrativeDescription_s": "The Odeon collection combines spheres and arcs for sleek, European styling. Fitted with a top-mount Polished Chrome dual-flush button, this contemporary toilet tank provides a consistent and reliable flush, helping you to conserve water. Pair your new tank with a coordinating bowl and seat for a complete toilet system (sold separately).",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|17663IN-0|true|false|K-17663IN-0"
+            ],
+            "ProductBrandName_s": "Odeon",
+            "ProductPackageContents_s": "1 TANK; 1 WARRANTY;\n1 TANK COVER; 1 PLATE GASKET RUBBER;\n1 HARDWARE PACK; 1 INSTRUCTION;\n1 PUSH BUTTON ASSEMBLY",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600664"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1065282-IN2_K2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-17663IN_spec_IN_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "17663IN-0|aad44273_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad44273_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 8749.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 10300.0,
+            "ProductOverallLengthInches_s": "7-3/8\"",
+            "ProductDescriptionProductShort_s": "Toilet tank, dual-flush",
+            "productName_s": "Odeon™ Two-piece toilet tank, dual-flush",
+            "ctId_s": "650938c8-fb80-4801-8366-7abb9207cdb8",
+            "ProductWebFeatures_ss": [
+              "Minimal noise as water fills in",
+              "Mechanical flush valve for standard push-button actuation",
+              "Dual-flush technology allows you to choose between a full or partial flush",
+              "Top-mount Polished Chrome dual-flush button offers a choice of 0.7 or 1.1 gpf (2.6 or 4.0 lpf)",
+              "Tank only; requires bowl and seat (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 10300.0,
+            "sku_s": "17663IN-0",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "20.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "17663IN",
+            "productInRiverId_s": "inRiver_561322",
+            "priceList.CTR.finalPrice_d": 10300.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-17663IN-0",
+            "ProductBrandNameDisplay_s": "Odeon",
+            "variantList.sku_ss": [
+              "17663IN-0"
+            ],
+            "SKUShippingHeight_s": "43.000",
+            "ctProductType_s": "bathroom-accessories",
+            "SKUShippingLength_s": "43.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductOverallHeightInches_s": "15-5/16\"",
+            "id": "650938c8-fb80-4801-8366-7abb9207cdb8|17663IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

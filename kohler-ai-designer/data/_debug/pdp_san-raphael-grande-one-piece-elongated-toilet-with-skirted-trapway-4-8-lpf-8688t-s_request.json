@@ -1,0 +1,189 @@
+{
+  "product_url": "https://www.kohler.co.in/p/san-raphael-grande-one-piece-elongated-toilet-with-skirted-trapway-4-8-lpf-8688t-s?skuId=8688T-S-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/san-raphael-grande-one-piece-elongated-toilet-with-skirted-trapway-4-8-lpf-8688t-s",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/san-raphael-grande-one-piece-elongated-toilet-with-skirted-trapway-4-8-lpf-8688t-s",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4890>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/san-raphael-grande-one-piece-elongated-toilet-with-skirted-trapway-4-8-lpf-8688t-s?skuId=8688T-S-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "YsAnlpnyos",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=273, origin; dur=835, ak_p; desc=\"1789416423446_400553039_332768521_110847_11576_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:07:04 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2029",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688T-S.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688t_sfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/san-raphael-grande-one-piece-toilet-with-seat-cover-in-white",
+            "ProductWebInstallation_ss": [
+              "Mounting hardware included",
+              "Standard 12 inch (305 mm) rough-in"
+            ],
+            "ProductOverallWidthInches_s": "20-1/2\"",
+            "ProductNarrativeDescription_s": "The San Raphael Grande™ toilet integrates the elegant style of traditional minimalism to your bathroom. This elongated, one-piece toilet features a unique French Curve™ design and skirted trapway for an easy cleaning experience. Complete with a Quiet-Close™ seat and lid for a quiet, peaceful finish, this toilet makes the perfect addition to one of most important rooms in your home.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|8688T-S-0|true|false|K-8688T-S-0"
+            ],
+            "ProductBrandName_s": "San Raphael Grande™",
+            "ProductPackageContents_s": "1 TOILET;\n1 FLOOR FIXING KIT;\n1 INSTALLTION INSTRUCTIONS; 1 COMPLIANCE CERTIFICATION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688T-S.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553093"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/k-8688T.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/8688T_s.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-8688T-S_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688T-S.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "8688T-S-0|aaf80674_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf80674_rgb",
+              "8688T-S-0|aaj84091_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj84091_rgb",
+              "8688T-S-0|aaj84087_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84087_rgb",
+              "8688T-S-0|aaj84088_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84088_rgb",
+              "8688T-S-0|aaj84089_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84089_rgb",
+              "8688T-S-0|aaj84090_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84090_rgb",
+              "8688T-S-0|aaj84094_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84094_rgb",
+              "8688T-S-0|aaj84095_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84095_rgb",
+              "8688T-S-0|aaj84093_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84093_rgb",
+              "8688T-S-0|aaj84092_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84092_rgb",
+              "8688T-S-0|aaj98335_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj98335_rgb",
+              "8688T-S-0|aaj98333_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj98333_rgb",
+              "8688T-S-0|aaj98332_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj98332_rgb",
+              "8688T-S-0|aaj98336_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj98336_rgb",
+              "8688T-S-0|aaj98337_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj98337_rgb",
+              "8688T-S-0|aaj98334_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj98334_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 50399.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 63000.0,
+            "ProductOverallLengthInches_s": "29\"",
+            "ProductDescriptionProductShort_s": "One-piece elongated toilet with skirted trapway, 4.8 lpf",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688t_spln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688t_ssde.dxf"
+            ],
+            "productName_s": "San Raphael Grande™ One-piece elongated toilet with skirted trapway, 4.8 lpf",
+            "ctId_s": "d71b40df-dda8-4556-9728-20ef3ef0c15a",
+            "ProductWebFeatures_ss": [
+              "One-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+              "Elongated bowl offers added room and comfort",
+              "Rim-to-floor height: 39 cm (15-3/8 inches)",
+              "1.28 gpf (4.8 lpf)",
+              "Left-hand trip lever",
+              "2.3 inch (59 mm) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Class Five™ canister optimizes the flow out of the tank, harnessing gravity and the natural powerful reducing cascade of water to increase the power and effectiveness of the flush",
+              "French Curve™ seat and lid included",
+              "Quiet-Close™ seat with Quick-Release™ functionality closes quietly and quickly unlatches from the toilet for easy removal and convenient cleaning"
+            ],
+            "priceList.ANY.finalPrice_d": 63000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688t_ssde.dwg"
+            ],
+            "sku_s": "8688T-S-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Toilet-Floor_Mount-KOHLER-SAN_RAPHAEL-K-8688T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688T-S.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "58.400",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "8688T-S",
+            "productInRiverId_s": "inRiver_1339084",
+            "priceList.CTR.finalPrice_d": 63000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-8688T-S-0",
+            "ProductBrandNameDisplay_s": "San Raphael Grande™",
+            "variantList.sku_ss": [
+              "8688T-S-0"
+            ],
+            "SKUShippingHeight_s": "70.200",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "81.200",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688t_spln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Plastic seat"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688t_sfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8688T-S.dwg"
+            ],
+            "ProductOverallHeightInches_s": "24-9/16\"",
+            "id": "d71b40df-dda8-4556-9728-20ef3ef0c15a|8688T-S-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

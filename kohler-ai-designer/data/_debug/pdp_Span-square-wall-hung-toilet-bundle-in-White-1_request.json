@@ -1,0 +1,165 @@
+{
+  "product_url": "https://www.kohler.co.in/p/Span-square-wall-hung-toilet-bundle-in-White-1?skuId=29174IN-S-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/Span-square-wall-hung-toilet-bundle-in-White-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/Span-square-wall-hung-toilet-bundle-in-White-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4925>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/Span-square-wall-hung-toilet-bundle-in-White-1?skuId=29174IN-S-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Xv16jl6L70",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=259, origin; dur=763, ak_p; desc=\"1789416309324_400553039_332760263_102184_10130_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:05:10 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1617",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 5.4,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|29173IN-0|true|false|K-29173IN-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1 ACCESSORIES PACK, 1 TOOL, 1 SEAT INSTALLATION, 1 INSTALLATION INSTRUCTION & 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "29173IN-0|aae37460_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae37460_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Square Quiet-Close™ toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Span™ Square Quiet-Close™ toilet seat",
+            "ctId_s": "d8a4d1b8-cf6e-4a0f-9430-b0ab10d1f391",
+            "ProductWebFeatures_ss": [
+              "Part of the Span™ Square collection",
+              "Quiet-Close™ square-front seat closes quietly",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Color-matched plastic hinges",
+              "Toilet seats are not returnable to Kohler Co. if opened or outside of original packaging"
+            ],
+            "ProductOverallWidthCm_d": 36.2,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "29173IN-0",
+            "SKUShippingWidth_s": "39.800",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Span™",
+            "SKUShippingHeight_s": "7.000",
+            "SKUShippingLength_s": "48.000",
+            "slug_s": "span-square-quiet-close-seat-29173in",
+            "ProductOverallLengthCm_d": 43.3
+          },
+          {
+            "ProductOverallHeightCm_d": 33.9,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|29172IN-0|true|false|K-29172IN-0"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG;\n1 WARRANTY CARD;\n1 INSTL. INSTRUCTION\n",
+            "productImages.labelWithUrl_ss": [
+              "29172IN-0|aae40799_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae40799_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung square-front toilet bowl",
+            "ColorFinish_s": "White",
+            "productName_s": "Span™ Wall-hung square-front toilet bowl",
+            "ctId_s": "ebf6aad3-cd80-47c8-8c55-21be1e27306c",
+            "ProductWebFeatures_ss": [
+              "Square-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Wall-hung design allows bowl to be set at preferred height",
+              "2 inch (51 mm) fully glazed trapway",
+              "Washdown flushing system",
+              "Mounting hardware is completely concealed, allowing the design lines to remain intact when installed",
+              "Part of the Span Collection",
+              "Bowl only: requires in-wall tank and carrier system, faceplate, and Span™ Quiet-Close™ seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.5,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "29172IN-0",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Span™",
+            "SKUShippingHeight_s": "58.000",
+            "SKUShippingLength_s": "43.000",
+            "slug_s": "span-square-wall-hung-bowl-29172in",
+            "ProductOverallLengthCm_d": 54.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Span square wall hung toilet bundle in White",
+            "ctId_s": "0a7bcd77-4145-4c76-8bd3-01783fe9351a",
+            "priceList.ANY.finalPrice_d": 14000.0,
+            "sku_s": "29174IN-S-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 14000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-29174IN-S-0",
+            "variantList.sku_ss": [
+              "29174IN-S-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "29174IN-S-0|aag28879_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28879_rgb",
+              "29174IN-S-0|aag28878_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28878_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 9799.0,
+            "priceList.KEMP.finalPrice_d": 14000.0,
+            "id": "0a7bcd77-4145-4c76-8bd3-01783fe9351a|29174IN-S-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

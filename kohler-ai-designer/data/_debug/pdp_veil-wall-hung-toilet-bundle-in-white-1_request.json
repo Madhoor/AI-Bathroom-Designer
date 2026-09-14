@@ -1,0 +1,171 @@
+{
+  "product_url": "https://www.kohler.co.in/p/veil-wall-hung-toilet-bundle-in-white-1?skuId=75708IN-SS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/veil-wall-hung-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/veil-wall-hung-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4925>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/veil-wall-hung-toilet-bundle-in-white-1?skuId=75708IN-SS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "AvHO9SSelx",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=270, origin; dur=731, ak_p; desc=\"1789416337614_400553039_332762583_100109_10696_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:05:38 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1716",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 33.3,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|31539IN-SS-0|true|false|K-31539IN-SS-0"
+            ],
+            "ProductPackageContents_s": "1 BOWL; 1 INSTALLATION\nINSTRUCTION; 1 WARRANTY CARD, \nFIXATION KIT-OW",
+            "productImages.labelWithUrl_ss": [
+              "31539IN-SS-0|aae15814_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae15814_rgb",
+              "31539IN-SS-0|aae15816_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aae15816_rgb",
+              "31539IN-SS-0|aae15819_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aae15819_rgb",
+              "31539IN-SS-0|aae15818_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aae15818_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung elongated toilet bowl with skirted trapway",
+            "ColorFinish_s": "White",
+            "productName_s": "Veil™ Wall-hung elongated toilet bowl with skirted trapway",
+            "ctId_s": "cbb132a8-7940-45e0-81bd-d918807fb2f8",
+            "ProductWebFeatures_ss": [
+              "Elongated bowl offers added room and comfort",
+              "Wall-hung design allows bowl to be set at preferred height",
+              "Rimless design makes toilet bowl more hygienic and easier to clean",
+              "2.4 inch (60 mm) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Coordinates with other products in the Veil collection",
+              "Bowl only: requires in-wall tank and carrier system, faceplate, and Veil™ Quiet-Close™ seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 38.4,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "31539IN-SS-0",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "SKUShippingHeight_s": "58.000",
+            "SKUShippingLength_s": "42.000",
+            "slug_s": "veil-wall-hung-elongated-toilet-bowl-with-skirted-trapway-31539in-ss",
+            "ProductOverallLengthCm_d": 55.4
+          },
+          {
+            "ProductOverallHeightCm_d": 5.2,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|77070IN-SS-0|true|false|K-77070IN-SS-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT",
+            "productImages.labelWithUrl_ss": [
+              "77070IN-SS-0|aae47130_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae47130_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ elongated toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Veil™ Quiet-Close™ elongated toilet seat",
+            "ctId_s": "4b5a8b4c-7f1c-4cda-93ac-af5b49ce824d",
+            "ProductWebFeatures_ss": [
+              "Elongated closed-front seat with lid",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ hinge design allows both adult seat and child ring to be removed for easy cleaning",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Thermoset plastic material is strong and durable, allowing for a thin, modern aesthetic with enhanced scratch-resistance"
+            ],
+            "ProductOverallWidthCm_d": 37.3,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "77070IN-SS-0",
+            "SKUShippingWidth_s": "40.500",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "SKUShippingHeight_s": "7.500",
+            "SKUShippingLength_s": "52.500",
+            "slug_s": "veil-quiet-close-elongated-toilet-seat-77070in-ss",
+            "ProductOverallLengthCm_d": 50.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Veil wall hung toilet bundle in White",
+            "ctId_s": "416f1a94-12df-4c60-840a-2ed19d99525b",
+            "priceList.ANY.finalPrice_d": 41000.0,
+            "redirectUrl_s": "https://shopkohler.in/products/veil-wall-hung-toilet-in-white",
+            "sku_s": "75708IN-SS-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 41000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-75708IN-SS-0",
+            "variantList.sku_ss": [
+              "75708IN-SS-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "75708IN-SS-0|aag28885_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28885_rgb",
+              "75708IN-SS-0|aag28884_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28884_rgb",
+              "75708IN-SS-0|aag28880_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28880_rgb",
+              "75708IN-SS-0|aag28883_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28883_rgb",
+              "75708IN-SS-0|aag28890_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28890_rgb",
+              "75708IN-SS-0|aag28886_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28886_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 32799.0,
+            "priceList.KEMP.finalPrice_d": 41000.0,
+            "id": "416f1a94-12df-4c60-840a-2ed19d99525b|75708IN-SS-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

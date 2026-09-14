@@ -1,0 +1,1068 @@
+[
+  {
+    "url": "https://www.kohler.co.in/apirequest/search/plp?fq=%7B!tag%3D%22ProductInstallationType_ss%22%7DProductInstallationType_ss%3A(%22Freestanding%22)&rows=30&start=0&fl=masterSKU_s,sourceId_s,preferenceSku_s,SKUColorSwatchFilename_ss,ProductDescriptionProductShort_s,ProductBrandName_s,metaTitle_s,productName_s,id,productImages.url_ss,slug_s,Product_Category,displayPriceStartingAt_s,priceList.GST.price_d,priceList.GST.finalPrice_d,priceList.GST.discountedPrice_d,priceList.GST.saleOffer_s,priceStartingAt.GST_d,discountedPriceStartingAt.GST_d,variantList.sku_ss,SKUColorFinishName_ss,Color.SKU.Details_ss,Color.GST.Details_ss,ProductExclusive_s,RegionReleaseforShipment_dt,productImages.labelWithUrl_ss,productImageVariantImages.labelWithUrl_ss,ProductBrandNameDisplay_s,ctId_s,ProductProductNo_s,ProductServices_s,InstallationAvailable_s,priceList.ANY.price_d,RegionSupplyChain_ss,BundleList_ss,bundleNameSlugDetails_ss&persona=GST&profilename=profile_kohler-india_PLP_Bathtub&collections=kohler-india&q=*:*",
+    "method": "GET",
+    "resource_type": "xhr",
+    "request_headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJraW4tZ3Vlc3QtdG9rZW4iLCJzdWIiOiJraW4tZ3Vlc3QtdG9rZW4iLCJqdGkiOiI4NTVjYjhjZS1mYTY5LTQ2YjgtYWM2OC03ZDE2MzY1Mjg5MGMiLCJpYXQiOjE3ODk0MDI3ODQsImV4cCI6MTc4OTQwOTk4NCwiZ0lkIjoiNmFjZWM5YWEtMTIwYi00NDFhLThlYmQtMDY0NjAxYjg3ODQ3Iiwic2NvcGUiOlsiZ3Vlc3QiXSwic2NwIjpbImd1ZXN0Il0sImNoYW5uZWwiOiJpbmRpYSJ9.DiLEBE84xpwg545-nXARgZf7YzIZbUNdPU_pymWnJnI",
+      "referer": "https://www.kohler.co.in/p/bathtubs/shop-freestanding-bathtubs",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjMxMzAzMzAiLCJhcCI6IjEzODYxMzY5OTMiLCJpZCI6IjBlNTI2N2I0ZjE5MjI0NDAiLCJ0ciI6IjI2NjY0MGFiMzc4OGE0NTczMDZjYTAxNjI1Y2NjZDcwIiwidGkiOjE3ODk0MDI3ODQ1NDR9fQ==",
+      "traceparent": "00-266640ab3788a457306ca01625cccd70-0e5267b4f1922440-01",
+      "kohlertarget": "AzureApp",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "accept": "application/json, text/plain, */*",
+      "tracestate": "3130330@nr=0-1-3130330-1386136993-0e5267b4f1922440----1789402784544"
+    },
+    "post_data": null,
+    "status": 200,
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"7\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "KU2D0KrZQx",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1789402785446_400553078_259854352_414_22165_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 16:19:45 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "content-length": "2492",
+      "x-xss-protection": "1; mode=block"
+    },
+    "content_type": "application/json",
+    "response_body_json": {
+      "fusion": {
+        "facet.field": [
+          "Color.Name",
+          "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+          "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+          "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+          "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+          "ColorFinish_s",
+          "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+          "{!ex=\"BathingProductType_s\"}BathingProductType_s",
+          "{!ex=\"BathingProductOverallLengthDecimalRangeCm_s\"}BathingProductOverallLengthDecimalRangeCm_s",
+          "{!ex=\"BathingProductOverallHeightDecimalRangeCm_s\"}BathingProductOverallHeightDecimalRangeCm_s",
+          "{!ex=\"ProductBrandNameDisplay_s\"}ProductBrandNameDisplay_s",
+          "{!ex=\"ProductMaterial_s\"}ProductMaterial_s",
+          "{!ex=\"ATTR_SPEC_DrainLocation_s\"}ATTR_SPEC_DrainLocation_s",
+          "{!ex=\"ATTR_SPEC_Hydrotherapy_ss\"}ATTR_SPEC_Hydrotherapy_ss",
+          "{!ex=\"ProductShape_s\"}ProductShape_s",
+          "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+          "{!ex=\"Water_Depth_s\"}Water_Depth_s",
+          "ATTR_SPEC_IncludesChromatherapy_s",
+          "Available_Now_s",
+          "InstallationCost_s"
+        ],
+        "color_swatch_labels": {
+          "White": "swatch_0"
+        },
+        "facet_labels": {
+          "priceList.ANY.finalPrice_d": "Price Range",
+          "priceList.CTR.finalPrice_d": "Price Range",
+          "priceList.GST.finalPrice_d": "Price Range",
+          "priceList.KEMP.finalPrice_d": "Price Range",
+          "ColorFinish_s": "Color/Finish",
+          "ProductInstallationType_ss": "Installation Type",
+          "BathingProductType_s": "Product Type",
+          "BathingProductOverallLengthDecimalRangeCm_s": "Length",
+          "BathingProductOverallHeightDecimalRangeCm_s": "Height",
+          "ProductBrandNameDisplay_s": "Collections",
+          "ProductMaterial_s": "Material",
+          "ATTR_SPEC_DrainLocation_s": "Drain Location",
+          "ATTR_SPEC_Hydrotherapy_ss": "Hydrotherapy",
+          "ProductShape_s": "Shape",
+          "ProductStyle_ss": "Style",
+          "Water_Depth_s": "Water Depth",
+          "ATTR_SPEC_IncludesChromatherapy_s": "Chromatherapy",
+          "Available_Now_s": "Availability",
+          "InstallationCost_s": "Installation"
+        }
+      },
+      "spellcheck": {
+        "suggestions": [
+          "lucene",
+          {
+            "numFound": 2,
+            "startOffset": 3,
+            "endOffset": 9,
+            "suggestion": [
+              "lumens",
+              "license"
+            ]
+          },
+          "lucene",
+          {
+            "numFound": 2,
+            "startOffset": 39,
+            "endOffset": 45,
+            "suggestion": [
+              "lumens",
+              "license"
+            ]
+          },
+          "orig_q",
+          {
+            "numFound": 1,
+            "startOffset": 80,
+            "endOffset": 86,
+            "suggestion": [
+              "origin"
+            ]
+          }
+        ],
+        "collations": []
+      },
+      "response": {
+        "docs": [
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|18343T-0|false|false|K-18343T-0"
+            ],
+            "ProductBrandName_s": "Evok™",
+            "masterSKU_s": "18343T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "18343T-0",
+            "productImages.labelWithUrl_ss": [
+              "18343T-0|aad35207_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+            ],
+            "priceList.GST.price_d": 193299.0,
+            "priceList.GST.finalPrice_d": 193299.0,
+            "ProductDescriptionProductShort_s": "167.5 cm x 76.2 cm freestanding bath",
+            "productName_s": "Evok™ 167.5 cm x 76.2 cm freestanding bath",
+            "ctId_s": "ef6fb7bb-19ba-4308-a522-9c72981c7558",
+            "Color.GST.Details_ss": [
+              "18343T-0|White|203479.0|193299.0||https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "18343T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+            ],
+            "priceList.ANY.price_d": 203479.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "18343T-0",
+            "ProductBrandNameDisplay_s": "Evok™",
+            "variantList.sku_ss": [
+              "18343T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 193299.0,
+            "displayPriceStartingAt_s": "₹193,299.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "evok-1-6m-rectangular-freestanding-acrylic-bath-18343t",
+            "priceStartingAt.GST_d": 193299.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "ef6fb7bb-19ba-4308-a522-9c72981c7558|18343T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|8331T-0|false|false|K-8331T-0"
+            ],
+            "ProductBrandName_s": "Veil™",
+            "masterSKU_s": "8331T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "8331T-0",
+            "productImages.labelWithUrl_ss": [
+              "8331T-0|zac15126_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+            ],
+            "priceList.GST.price_d": 825000.0,
+            "priceList.GST.finalPrice_d": 825000.0,
+            "ProductDescriptionProductShort_s": "164.9 cm x 95.4 cm freestanding bath",
+            "productName_s": "Veil™ 164.9 cm x 95.4 cm freestanding bath",
+            "ctId_s": "48fb0c35-ebd9-4a0e-9ec9-f08b7f0345ad",
+            "Color.GST.Details_ss": [
+              "8331T-0|White|825000.0|825000.0||https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "8331T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+            ],
+            "priceList.ANY.price_d": 825000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "8331T-0",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "variantList.sku_ss": [
+              "8331T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 825000.0,
+            "displayPriceStartingAt_s": "₹825,000.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "veil-freestanding-lithocast-bath-8331t",
+            "priceStartingAt.GST_d": 825000.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "48fb0c35-ebd9-4a0e-9ec9-f08b7f0345ad|8331T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|20249T-0|false|false|K-20249T-0"
+            ],
+            "ProductBrandName_s": "Karing™",
+            "masterSKU_s": "20249T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "20249T-0",
+            "productImages.labelWithUrl_ss": [
+              "20249T-0|aad75463_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+            ],
+            "priceList.GST.price_d": 574749.0,
+            "priceList.GST.finalPrice_d": 574749.0,
+            "ProductDescriptionProductShort_s": "180 cm x 80 cm freestanding bath",
+            "productName_s": "Karing™ 180 cm x 80 cm freestanding bath",
+            "ctId_s": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94",
+            "Color.GST.Details_ss": [
+              "20249T-0|White|605000.0|574749.0||https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "20249T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+            ],
+            "priceList.ANY.price_d": 605000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "20249T-0",
+            "ProductBrandNameDisplay_s": "Karing™",
+            "variantList.sku_ss": [
+              "20249T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 574749.0,
+            "displayPriceStartingAt_s": "₹574,749.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "karing-1-8m-oval-lithocast-bath-20249t",
+            "priceStartingAt.GST_d": 574749.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94|20249T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|11195T-0|false|false|K-11195T-0"
+            ],
+            "ProductBrandName_s": "Cleo™",
+            "masterSKU_s": "11195T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "11195T-0",
+            "productImages.labelWithUrl_ss": [
+              "11195T-0|aae01045_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+            ],
+            "priceList.GST.price_d": 420000.0,
+            "priceList.GST.finalPrice_d": 420000.0,
+            "ProductDescriptionProductShort_s": "175 cm x 80 cm freestanding bath",
+            "productName_s": "Cleo™ 175 cm x 80 cm freestanding bath",
+            "ctId_s": "d22ff1dc-5ba2-44f8-b24a-ca339d5504e1",
+            "Color.GST.Details_ss": [
+              "11195T-0|White|420000.0|420000.0||https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "11195T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+            ],
+            "priceList.ANY.price_d": 420000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "11195T-0",
+            "ProductBrandNameDisplay_s": "Cleo™",
+            "variantList.sku_ss": [
+              "11195T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 420000.0,
+            "displayPriceStartingAt_s": "₹420,000.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "cleo-1-7m-freestanding-cast-iron-bath-11195t",
+            "priceStartingAt.GST_d": 420000.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "d22ff1dc-5ba2-44f8-b24a-ca339d5504e1|11195T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1800T-0|false|false|K-1800T-0"
+            ],
+            "ProductBrandName_s": "Abrazo™",
+            "masterSKU_s": "1800T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "1800T-0",
+            "productImages.labelWithUrl_ss": [
+              "1800T-0|zac73165_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+            ],
+            "priceList.GST.price_d": 1150000.0,
+            "priceList.GST.finalPrice_d": 1150000.0,
+            "ProductDescriptionProductShort_s": "167.6 cm x 80 cm freestanding bath",
+            "productName_s": "Abrazo™ 167.6 cm x 80 cm freestanding bath",
+            "ctId_s": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692",
+            "Color.GST.Details_ss": [
+              "1800T-0|White|1150000.0|1150000.0||https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "1800T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+            ],
+            "priceList.ANY.price_d": 1150000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "1800T-0",
+            "ProductBrandNameDisplay_s": "Abrazo™",
+            "variantList.sku_ss": [
+              "1800T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 1150000.0,
+            "displayPriceStartingAt_s": "₹1,150,000.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "abrazo-1-6m-freestanding-lithocast-bath-1800t",
+            "priceStartingAt.GST_d": 1150000.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692|1800T-0"
+          }
+        ],
+        "numFound": 5,
+        "start": 0,
+        "numFoundExact": true
+      },
+      "facet_counts": {
+        "facet_queries": {
+          "BathingProductOverallLengthDecimalRangeCm_s:\"<25cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"25cm to 50cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"50cm to 75cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"75cm to 100cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"100cm to 125cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"<25cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"25cm to 50cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"50cm to 75cm\"": 5,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"75cm to 100cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"100cm to 125cm\"": 0,
+          "Available_Now_s:\"Yes\"": 0
+        },
+        "facet_fields": {
+          "ColorFinish_s": [
+            "White",
+            5
+          ],
+          "ProductInstallationType_ss": [
+            "Drop-in",
+            14,
+            "Freestanding",
+            5
+          ],
+          "BathingProductType_s": [
+            "Hydrotherapy",
+            1,
+            "Plain",
+            4
+          ],
+          "BathingProductOverallLengthDecimalRangeCm_s": [
+            "150cm to 175cm",
+            4,
+            "175cm to 200cm",
+            1
+          ],
+          "BathingProductOverallHeightDecimalRangeCm_s": [
+            "50cm to 75cm",
+            5
+          ],
+          "ProductBrandNameDisplay_s": [
+            "Abrazo™",
+            1,
+            "Cleo™",
+            1,
+            "Evok™",
+            1,
+            "Karing™",
+            1,
+            "Veil™",
+            1
+          ],
+          "ProductMaterial_s": [
+            "Acrylic",
+            1,
+            "Cast Iron",
+            1,
+            "Lithocast",
+            3
+          ],
+          "ATTR_SPEC_DrainLocation_s": [
+            "Center",
+            4,
+            "Right",
+            1
+          ],
+          "ATTR_SPEC_Hydrotherapy_ss": [
+            "Non-Hydrotherapies",
+            5
+          ],
+          "ProductShape_s": [
+            "Oval",
+            4,
+            "Rectangle",
+            1
+          ],
+          "ProductStyle_ss": [
+            "Contemporary",
+            4,
+            "Traditional",
+            1
+          ],
+          "ATTR_SPEC_IncludesChromatherapy_s": [
+            "No",
+            5
+          ],
+          "Available_Now_s": [
+            "No",
+            5
+          ],
+          "InstallationCost_s": [
+            "Not Applicable",
+            5
+          ]
+        },
+        "facet_ranges": {
+          "priceList.ANY.finalPrice_d": {
+            "counts": [
+              "200000",
+              1,
+              "400000",
+              1,
+              "600000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          },
+          "priceList.CTR.finalPrice_d": {
+            "counts": [
+              "200000",
+              1,
+              "400000",
+              1,
+              "600000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          },
+          "priceList.GST.finalPrice_d": {
+            "counts": [
+              "100000",
+              1,
+              "400000",
+              1,
+              "500000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          },
+          "priceList.KEMP.finalPrice_d": {
+            "counts": [
+              "200000",
+              1,
+              "400000",
+              1,
+              "600000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          }
+        },
+        "facet_intervals": {},
+        "facet_heatmaps": {}
+      }
+    },
+    "response_body_text": null
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/search/plp?fq=%7B!tag%3D%22ProductInstallationType_ss%22%7DProductInstallationType_ss%3A(%22Freestanding%22)&rows=30&start=0&fl=masterSKU_s,sourceId_s,preferenceSku_s,SKUColorSwatchFilename_ss,ProductDescriptionProductShort_s,ProductBrandName_s,metaTitle_s,productName_s,id,productImages.url_ss,slug_s,Product_Category,displayPriceStartingAt_s,priceList.GST.price_d,priceList.GST.finalPrice_d,priceList.GST.discountedPrice_d,priceList.GST.saleOffer_s,priceStartingAt.GST_d,discountedPriceStartingAt.GST_d,variantList.sku_ss,SKUColorFinishName_ss,Color.SKU.Details_ss,Color.GST.Details_ss,ProductExclusive_s,RegionReleaseforShipment_dt,productImages.labelWithUrl_ss,productImageVariantImages.labelWithUrl_ss,ProductBrandNameDisplay_s,ctId_s,ProductProductNo_s,ProductServices_s,InstallationAvailable_s,priceList.ANY.price_d,RegionSupplyChain_ss,BundleList_ss,bundleNameSlugDetails_ss&persona=GST&profilename=profile_kohler-india_PLP_Bathtub&collections=kohler-india&q=*:*",
+    "method": "GET",
+    "resource_type": "xhr",
+    "request_headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJraW4tZ3Vlc3QtdG9rZW4iLCJzdWIiOiJraW4tZ3Vlc3QtdG9rZW4iLCJqdGkiOiI4NTVjYjhjZS1mYTY5LTQ2YjgtYWM2OC03ZDE2MzY1Mjg5MGMiLCJpYXQiOjE3ODk0MDI3ODQsImV4cCI6MTc4OTQwOTk4NCwiZ0lkIjoiNmFjZWM5YWEtMTIwYi00NDFhLThlYmQtMDY0NjAxYjg3ODQ3Iiwic2NvcGUiOlsiZ3Vlc3QiXSwic2NwIjpbImd1ZXN0Il0sImNoYW5uZWwiOiJpbmRpYSJ9.DiLEBE84xpwg545-nXARgZf7YzIZbUNdPU_pymWnJnI",
+      "referer": "https://www.kohler.co.in/p/bathtubs/shop-freestanding-bathtubs",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjMxMzAzMzAiLCJhcCI6IjEzODYxMzY5OTMiLCJpZCI6IjZjMjU5ZmQyZmQ5Mzg4MzAiLCJ0ciI6ImY0ZjkxOTZkNGM0NGNmZWFiMmNhYTUzYzM3ODQyNTQwIiwidGkiOjE3ODk0MDI3ODQ1NTB9fQ==",
+      "traceparent": "00-f4f9196d4c44cfeab2caa53c37842540-6c259fd2fd938830-01",
+      "kohlertarget": "AzureApp",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "accept": "application/json, text/plain, */*",
+      "tracestate": "3130330@nr=0-1-3130330-1386136993-6c259fd2fd938830----1789402784550"
+    },
+    "post_data": null,
+    "status": 200,
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"7\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "KU2D0KrZQx",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1789402785476_400553078_259854367_70_23480_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 16:19:45 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "content-length": "2492",
+      "x-xss-protection": "1; mode=block"
+    },
+    "content_type": "application/json",
+    "response_body_json": {
+      "fusion": {
+        "facet.field": [
+          "Color.Name",
+          "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+          "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+          "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+          "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+          "ColorFinish_s",
+          "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+          "{!ex=\"BathingProductType_s\"}BathingProductType_s",
+          "{!ex=\"BathingProductOverallLengthDecimalRangeCm_s\"}BathingProductOverallLengthDecimalRangeCm_s",
+          "{!ex=\"BathingProductOverallHeightDecimalRangeCm_s\"}BathingProductOverallHeightDecimalRangeCm_s",
+          "{!ex=\"ProductBrandNameDisplay_s\"}ProductBrandNameDisplay_s",
+          "{!ex=\"ProductMaterial_s\"}ProductMaterial_s",
+          "{!ex=\"ATTR_SPEC_DrainLocation_s\"}ATTR_SPEC_DrainLocation_s",
+          "{!ex=\"ATTR_SPEC_Hydrotherapy_ss\"}ATTR_SPEC_Hydrotherapy_ss",
+          "{!ex=\"ProductShape_s\"}ProductShape_s",
+          "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+          "{!ex=\"Water_Depth_s\"}Water_Depth_s",
+          "ATTR_SPEC_IncludesChromatherapy_s",
+          "Available_Now_s",
+          "InstallationCost_s"
+        ],
+        "color_swatch_labels": {
+          "White": "swatch_0"
+        },
+        "facet_labels": {
+          "priceList.ANY.finalPrice_d": "Price Range",
+          "priceList.CTR.finalPrice_d": "Price Range",
+          "priceList.GST.finalPrice_d": "Price Range",
+          "priceList.KEMP.finalPrice_d": "Price Range",
+          "ColorFinish_s": "Color/Finish",
+          "ProductInstallationType_ss": "Installation Type",
+          "BathingProductType_s": "Product Type",
+          "BathingProductOverallLengthDecimalRangeCm_s": "Length",
+          "BathingProductOverallHeightDecimalRangeCm_s": "Height",
+          "ProductBrandNameDisplay_s": "Collections",
+          "ProductMaterial_s": "Material",
+          "ATTR_SPEC_DrainLocation_s": "Drain Location",
+          "ATTR_SPEC_Hydrotherapy_ss": "Hydrotherapy",
+          "ProductShape_s": "Shape",
+          "ProductStyle_ss": "Style",
+          "Water_Depth_s": "Water Depth",
+          "ATTR_SPEC_IncludesChromatherapy_s": "Chromatherapy",
+          "Available_Now_s": "Availability",
+          "InstallationCost_s": "Installation"
+        }
+      },
+      "spellcheck": {
+        "suggestions": [
+          "lucene",
+          {
+            "numFound": 2,
+            "startOffset": 3,
+            "endOffset": 9,
+            "suggestion": [
+              "lumens",
+              "license"
+            ]
+          },
+          "lucene",
+          {
+            "numFound": 2,
+            "startOffset": 39,
+            "endOffset": 45,
+            "suggestion": [
+              "lumens",
+              "license"
+            ]
+          },
+          "orig_q",
+          {
+            "numFound": 1,
+            "startOffset": 80,
+            "endOffset": 86,
+            "suggestion": [
+              "origin"
+            ]
+          }
+        ],
+        "collations": []
+      },
+      "response": {
+        "docs": [
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|18343T-0|false|false|K-18343T-0"
+            ],
+            "ProductBrandName_s": "Evok™",
+            "masterSKU_s": "18343T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "18343T-0",
+            "productImages.labelWithUrl_ss": [
+              "18343T-0|aad35207_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+            ],
+            "priceList.GST.price_d": 193299.0,
+            "priceList.GST.finalPrice_d": 193299.0,
+            "ProductDescriptionProductShort_s": "167.5 cm x 76.2 cm freestanding bath",
+            "productName_s": "Evok™ 167.5 cm x 76.2 cm freestanding bath",
+            "ctId_s": "ef6fb7bb-19ba-4308-a522-9c72981c7558",
+            "Color.GST.Details_ss": [
+              "18343T-0|White|203479.0|193299.0||https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "18343T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+            ],
+            "priceList.ANY.price_d": 203479.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "18343T-0",
+            "ProductBrandNameDisplay_s": "Evok™",
+            "variantList.sku_ss": [
+              "18343T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 193299.0,
+            "displayPriceStartingAt_s": "₹193,299.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "evok-1-6m-rectangular-freestanding-acrylic-bath-18343t",
+            "priceStartingAt.GST_d": 193299.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "ef6fb7bb-19ba-4308-a522-9c72981c7558|18343T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|8331T-0|false|false|K-8331T-0"
+            ],
+            "ProductBrandName_s": "Veil™",
+            "masterSKU_s": "8331T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "8331T-0",
+            "productImages.labelWithUrl_ss": [
+              "8331T-0|zac15126_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+            ],
+            "priceList.GST.price_d": 825000.0,
+            "priceList.GST.finalPrice_d": 825000.0,
+            "ProductDescriptionProductShort_s": "164.9 cm x 95.4 cm freestanding bath",
+            "productName_s": "Veil™ 164.9 cm x 95.4 cm freestanding bath",
+            "ctId_s": "48fb0c35-ebd9-4a0e-9ec9-f08b7f0345ad",
+            "Color.GST.Details_ss": [
+              "8331T-0|White|825000.0|825000.0||https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "8331T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+            ],
+            "priceList.ANY.price_d": 825000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "8331T-0",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "variantList.sku_ss": [
+              "8331T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 825000.0,
+            "displayPriceStartingAt_s": "₹825,000.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "veil-freestanding-lithocast-bath-8331t",
+            "priceStartingAt.GST_d": 825000.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "48fb0c35-ebd9-4a0e-9ec9-f08b7f0345ad|8331T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|20249T-0|false|false|K-20249T-0"
+            ],
+            "ProductBrandName_s": "Karing™",
+            "masterSKU_s": "20249T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "20249T-0",
+            "productImages.labelWithUrl_ss": [
+              "20249T-0|aad75463_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+            ],
+            "priceList.GST.price_d": 574749.0,
+            "priceList.GST.finalPrice_d": 574749.0,
+            "ProductDescriptionProductShort_s": "180 cm x 80 cm freestanding bath",
+            "productName_s": "Karing™ 180 cm x 80 cm freestanding bath",
+            "ctId_s": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94",
+            "Color.GST.Details_ss": [
+              "20249T-0|White|605000.0|574749.0||https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "20249T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+            ],
+            "priceList.ANY.price_d": 605000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "20249T-0",
+            "ProductBrandNameDisplay_s": "Karing™",
+            "variantList.sku_ss": [
+              "20249T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 574749.0,
+            "displayPriceStartingAt_s": "₹574,749.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "karing-1-8m-oval-lithocast-bath-20249t",
+            "priceStartingAt.GST_d": 574749.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94|20249T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|11195T-0|false|false|K-11195T-0"
+            ],
+            "ProductBrandName_s": "Cleo™",
+            "masterSKU_s": "11195T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "11195T-0",
+            "productImages.labelWithUrl_ss": [
+              "11195T-0|aae01045_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+            ],
+            "priceList.GST.price_d": 420000.0,
+            "priceList.GST.finalPrice_d": 420000.0,
+            "ProductDescriptionProductShort_s": "175 cm x 80 cm freestanding bath",
+            "productName_s": "Cleo™ 175 cm x 80 cm freestanding bath",
+            "ctId_s": "d22ff1dc-5ba2-44f8-b24a-ca339d5504e1",
+            "Color.GST.Details_ss": [
+              "11195T-0|White|420000.0|420000.0||https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "11195T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+            ],
+            "priceList.ANY.price_d": 420000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "11195T-0",
+            "ProductBrandNameDisplay_s": "Cleo™",
+            "variantList.sku_ss": [
+              "11195T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 420000.0,
+            "displayPriceStartingAt_s": "₹420,000.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "cleo-1-7m-freestanding-cast-iron-bath-11195t",
+            "priceStartingAt.GST_d": 420000.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "d22ff1dc-5ba2-44f8-b24a-ca339d5504e1|11195T-0"
+          },
+          {
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1800T-0|false|false|K-1800T-0"
+            ],
+            "ProductBrandName_s": "Abrazo™",
+            "masterSKU_s": "1800T-0",
+            "SKUColorSwatchFilename_ss": [
+              "swatch_0"
+            ],
+            "sourceId_s": "1800T-0",
+            "productImages.labelWithUrl_ss": [
+              "1800T-0|zac73165_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+            ],
+            "priceList.GST.price_d": 1150000.0,
+            "priceList.GST.finalPrice_d": 1150000.0,
+            "ProductDescriptionProductShort_s": "167.6 cm x 80 cm freestanding bath",
+            "productName_s": "Abrazo™ 167.6 cm x 80 cm freestanding bath",
+            "ctId_s": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692",
+            "Color.GST.Details_ss": [
+              "1800T-0|White|1150000.0|1150000.0||https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+            ],
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "InstallationAvailable_s": "No",
+            "ProductProductNo_s": "1800T",
+            "productImages.url_ss": [
+              "https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+            ],
+            "priceList.ANY.price_d": 1150000.0,
+            "Product_Category": "Bathing",
+            "preferenceSku_s": "1800T-0",
+            "ProductBrandNameDisplay_s": "Abrazo™",
+            "variantList.sku_ss": [
+              "1800T-0"
+            ],
+            "discountedPriceStartingAt.GST_d": 1150000.0,
+            "displayPriceStartingAt_s": "₹1,150,000.00",
+            "SKUColorFinishName_ss": [
+              "White"
+            ],
+            "slug_s": "abrazo-1-6m-freestanding-lithocast-bath-1800t",
+            "priceStartingAt.GST_d": 1150000.0,
+            "priceList.GST.discountedPrice_d": 0.0,
+            "id": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692|1800T-0"
+          }
+        ],
+        "numFound": 5,
+        "start": 0,
+        "numFoundExact": true
+      },
+      "facet_counts": {
+        "facet_queries": {
+          "BathingProductOverallLengthDecimalRangeCm_s:\"<25cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"25cm to 50cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"50cm to 75cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"75cm to 100cm\"": 0,
+          "BathingProductOverallLengthDecimalRangeCm_s:\"100cm to 125cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"<25cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"25cm to 50cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"50cm to 75cm\"": 5,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"75cm to 100cm\"": 0,
+          "BathingProductOverallHeightDecimalRangeCm_s:\"100cm to 125cm\"": 0,
+          "Available_Now_s:\"Yes\"": 0
+        },
+        "facet_fields": {
+          "ColorFinish_s": [
+            "White",
+            5
+          ],
+          "ProductInstallationType_ss": [
+            "Drop-in",
+            14,
+            "Freestanding",
+            5
+          ],
+          "BathingProductType_s": [
+            "Hydrotherapy",
+            1,
+            "Plain",
+            4
+          ],
+          "BathingProductOverallLengthDecimalRangeCm_s": [
+            "150cm to 175cm",
+            4,
+            "175cm to 200cm",
+            1
+          ],
+          "BathingProductOverallHeightDecimalRangeCm_s": [
+            "50cm to 75cm",
+            5
+          ],
+          "ProductBrandNameDisplay_s": [
+            "Abrazo™",
+            1,
+            "Cleo™",
+            1,
+            "Evok™",
+            1,
+            "Karing™",
+            1,
+            "Veil™",
+            1
+          ],
+          "ProductMaterial_s": [
+            "Acrylic",
+            1,
+            "Cast Iron",
+            1,
+            "Lithocast",
+            3
+          ],
+          "ATTR_SPEC_DrainLocation_s": [
+            "Center",
+            4,
+            "Right",
+            1
+          ],
+          "ATTR_SPEC_Hydrotherapy_ss": [
+            "Non-Hydrotherapies",
+            5
+          ],
+          "ProductShape_s": [
+            "Oval",
+            4,
+            "Rectangle",
+            1
+          ],
+          "ProductStyle_ss": [
+            "Contemporary",
+            4,
+            "Traditional",
+            1
+          ],
+          "ATTR_SPEC_IncludesChromatherapy_s": [
+            "No",
+            5
+          ],
+          "Available_Now_s": [
+            "No",
+            5
+          ],
+          "InstallationCost_s": [
+            "Not Applicable",
+            5
+          ]
+        },
+        "facet_ranges": {
+          "priceList.ANY.finalPrice_d": {
+            "counts": [
+              "200000",
+              1,
+              "400000",
+              1,
+              "600000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          },
+          "priceList.CTR.finalPrice_d": {
+            "counts": [
+              "200000",
+              1,
+              "400000",
+              1,
+              "600000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          },
+          "priceList.GST.finalPrice_d": {
+            "counts": [
+              "100000",
+              1,
+              "400000",
+              1,
+              "500000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          },
+          "priceList.KEMP.finalPrice_d": {
+            "counts": [
+              "200000",
+              1,
+              "400000",
+              1,
+              "600000",
+              1,
+              "800000",
+              1,
+              "1100000",
+              1
+            ],
+            "start": 0.0,
+            "end": 1200000.0,
+            "gap": 100000.0
+          }
+        },
+        "facet_intervals": {},
+        "facet_heatmaps": {}
+      }
+    },
+    "response_body_text": null
+  }
+]

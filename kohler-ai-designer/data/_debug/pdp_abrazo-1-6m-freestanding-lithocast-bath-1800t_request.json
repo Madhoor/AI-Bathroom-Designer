@@ -1,0 +1,163 @@
+{
+  "product_url": "https://www.kohler.co.in/p/abrazo-1-6m-freestanding-lithocast-bath-1800t?skuId=1800T-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/abrazo-1-6m-freestanding-lithocast-bath-1800t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/abrazo-1-6m-freestanding-lithocast-bath-1800t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/abrazo-1-6m-freestanding-lithocast-bath-1800t?skuId=1800T-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "82VX2Eb33M",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=269, origin; dur=732, ak_p; desc=\"1789414559887_400553039_332596820_100067_11587_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 19:36:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1448",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800tfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Freestanding"
+            ],
+            "ProductOverallWidthInches_s": "32\"",
+            "ProductNarrativeDescription_s": "With an organic oval shape inspired by clay pottery, the Abrazo™ bath makes a striking focal point for your contemporary bathroom. An integral slotted overflow allows for the deepest possible water level. KOHLER® Lithocast™ cast resin has the attractive finish of smooth stone, but feels warm to the touch and is easy to clean.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1800T-0|false|false|K-1800T-0"
+            ],
+            "ProductBrandName_s": "Abrazo™",
+            "ProductPackageContents_s": "Bathtub, Installation Manual, Warranty Document",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800T.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1800t.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1800T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1800T-0|zac73165_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 1150000.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 1150000.0,
+            "ProductOverallLengthInches_s": "66\"",
+            "ProductDescriptionProductShort_s": "167.6 cm x 80 cm freestanding bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800tsde.dxf"
+            ],
+            "productName_s": "Abrazo™ 167.6 cm x 80 cm freestanding bath",
+            "ctId_s": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692",
+            "ProductWebFeatures_ss": [
+              "Unique shape and freestanding design offer contemporary style",
+              "66 inch (167.6 cm) x 31.5 inch (80 cm) x 28.5 inch (72.5 cm)",
+              "18 inch (45.7 cm) depth offers a deep soaking experience",
+              "Integral lumbar support",
+              "Slotted overflow allows for deep soaking",
+              "Easy to clean and maintain",
+              "Center toe-tap drain with KOHLER® Lithocast™ cover"
+            ],
+            "priceList.ANY.finalPrice_d": 1150000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800tsde.dwg"
+            ],
+            "sku_s": "1800T-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Freestanding-KOHLER-ABRAZO-K-1800T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800T.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.960",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1800T",
+            "productInRiverId_s": "inRiver_1336308",
+            "priceList.CTR.finalPrice_d": 1150000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-1800T-0",
+            "ProductBrandNameDisplay_s": "Abrazo™",
+            "variantList.sku_ss": [
+              "1800T-0"
+            ],
+            "SKUShippingHeight_s": "0.930",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "1.810",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "KOHLER Lithocast® cast resin"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1800T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "28-1/2\"",
+            "id": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692|1800T-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "product_url": "https://www.kohler.co.in/p/veil-wall-hung-toilet-with-quiet-close-seat-75708in-2ss?skuId=75708IN-2SS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/veil-wall-hung-toilet-with-quiet-close-seat-75708in-2ss",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/veil-wall-hung-toilet-with-quiet-close-seat-75708in-2ss",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4890>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/veil-wall-hung-toilet-with-quiet-close-seat-75708in-2ss?skuId=75708IN-2SS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "z0zLUB7R3s",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=253, origin; dur=713, ak_p; desc=\"1789416455522_400553039_332770847_96569_11014_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:07:36 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1239",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductNarrativeDescription_s": "The sculpted form and modern style combine for a sleek and seamless look with a fully skirted and rimless design.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|75708IN-2SS-0|false|false|K-75708IN-2SS-0"
+            ],
+            "ProductBrandName_s": "Veil™",
+            "ProductPackageContents_s": "1 TOILET BOWL;\n1 TOILET SEAT",
+            "RegionSoldOnline_b": true,
+            "productImages.labelWithUrl_ss": [
+              "75708IN-2SS-0|aae15814_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae15814_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 31199.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 39000.0,
+            "ProductDescriptionProductShort_s": "VEIL™ WH TOILET WITH QC PP SEAT",
+            "productName_s": "Veil™ Wall-hung Toilet with Quiet-Close Seat",
+            "ctId_s": "02dfe9bb-e88a-42ec-9db8-871e8eb3c398",
+            "ProductWebFeatures_ss": [
+              "Compact elongated bowl offers added comfort while occupying the same space as a round-front bowl",
+              "Quiet-Close™ seat and lid close slowly and quietly without slamming.",
+              "Fully Skirted Design",
+              "Eco Flush, a cutting-edge flushing technology that delivers best in-class results @ 4L full flush /2L half flush.",
+              "Germ Shield™ Technology, Anti-Microbial Glaze & Seat, Long lasting protection against harmful bacteria (Under standard test conditions(JISZ2801))",
+              "Mounting hardware is completely concealed, giving veil™ a sleek, seamless look that is easy to clean",
+              "Rimless bowl has no hidden traps for unmatched hygiene.",
+              "An anti-splash ledge that provides total bowl wash and avoids splatter."
+            ],
+            "priceList.ANY.finalPrice_d": 39000.0,
+            "sku_s": "75708IN-2SS-0",
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "75708IN-2SS",
+            "productInRiverId_s": "inRiver_2491275",
+            "priceList.CTR.finalPrice_d": 39000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-75708IN-2SS-0",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "variantList.sku_ss": [
+              "75708IN-2SS-0"
+            ],
+            "SKUShippingHeight_s": "0.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "0.000",
+            "SKUIsProjectPack_s": "No",
+            "id": "02dfe9bb-e88a-42ec-9db8-871e8eb3c398|75708IN-2SS-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

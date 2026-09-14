@@ -1,0 +1,124 @@
+{
+  "product_url": "https://www.kohler.co.in/p/brive-2pc-tank-only-1855in?skuId=1855IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/brive-2pc-tank-only-1855in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/brive-2pc-tank-only-1855in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4726>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/brive-2pc-tank-only-1855in?skuId=1855IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "nojihlSCqR",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=280, origin; dur=774, ak_p; desc=\"1789416607402_400553039_332782266_105486_10333_15_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:10:08 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1363",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "redirectUrl_s": "https://shopkohler.in/products/brive-2pc-tank-only",
+            "ProductWebInstallation_ss": [
+              "Supply line sold separately"
+            ],
+            "ProductOverallWidthInches_s": "14-1/8\"",
+            "ProductNarrativeDescription_s": "You can experience a new world of ergonomic comfort and class with the Brive+™ collection. Fitted with a top-mount polished chrome dual-flush button, this contemporary toilet tank provides a consistent and reliable flush every time, helping you conserve water. Pair your new tank with a coordinating Brive Plus bowl and seat for a complete toilet system (sold separately).",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1855IN-0|true|false|K-1855IN-0"
+            ],
+            "ProductBrandName_s": "Brive Plus",
+            "ProductPackageContents_s": "1 2PC TANK;\n1 GASKET; 1 HARDWARE PACK;\n1 PUSH BUTTON ASSEMBLY;\n1 FIXING KIT; 1 INSTL. INSTR;\n1 WARRANTY CARD",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553093"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1855IN_spec_IN_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1855IN-0|aad35929_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad35929_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5269.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 6200.0,
+            "ProductOverallLengthInches_s": "6-1/4\"",
+            "ProductDescriptionProductShort_s": "Toilet tank, dual-flush",
+            "productName_s": "Brive Plus Toilet tank, dual-flush",
+            "ctId_s": "fa2ce275-f19e-425f-aa06-8006c0eec1e1",
+            "ProductWebFeatures_ss": [
+              "Minimal noise as water fills in",
+              "Washdown flushing system",
+              "Dual-flush technology allows you to choose between a full or partial flush",
+              "Top-mount Polished Chrome dual-flush button offers a choice of 0.7 or 1.1 gpf (2.6 or 4.0 lpf)",
+              "Tank only; requires bowl and seat (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 6200.0,
+            "sku_s": "1855IN-0",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "20.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1855IN",
+            "productInRiverId_s": "inRiver_1336335",
+            "priceList.CTR.finalPrice_d": 6200.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-1855IN-0",
+            "ProductBrandNameDisplay_s": "Brive Plus",
+            "variantList.sku_ss": [
+              "1855IN-0"
+            ],
+            "SKUShippingHeight_s": "42.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "41.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductOverallHeightInches_s": "13-3/8\"",
+            "id": "fa2ce275-f19e-425f-aa06-8006c0eec1e1|1855IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

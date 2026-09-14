@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.kohler.co.in/api/globalconfig?path=/en/p/bathtubs/shop-freestanding-bathtubs&caConfig=true",
+    "status": 200
+  },
+  {
+    "url": "https://www.affirm.com/api/v2/cookie_sent",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/api/globalconfig?path=/content/dam/kohler-india-static-content/in/en/pdp-url-mapping-json/updated-KI-PDP-URL-Mapping-new1.json",
+    "status": 200
+  },
+  {
+    "url": "https://www.affirm.com/api/v2/cookie_sent",
+    "status": 200
+  },
+  {
+    "url": "https://www.affirm.com/api/v2/session/touch_track",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/api/globalconfig?path=%2Fcontent%2Fdam%2Fkohler-india-static-content%2Fin%2Fen%2Fproduct-range-mapping-json%2Fupdated-KI-ProductRange-Mapping.json",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/api/globalconfig?path=%2Fcontent%2Fdam%2Fkohler-india-static-content%2Fin%2Fen%2Fproduct-range-mapping-json%2Fupdated-KI-ProductRange-Mapping.json",
+    "status": 200
+  },
+  {
+    "url": "https://www.googleadservices.com/pagead/conversion/10932045904/?random=1789399585426&cv=11&fst=1789399585426&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6992v896399627z8899238819za200zd896399627xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=1000&url=https%3A%2F%2Fwww.kohler.co.in%2Fp%2Fbathtubs%2Fshop-freestanding-bathtubs&rcb=7&label=r7AACOeyjP8ZENCQ59wo&capi=1&frm=0&tiba=Freestanding%20Bathtubs%20-%20Shop%20Freestanding%20Bathroom%20Bathtubs%20Online%20in%20India%20%7C%20Kohler%20India&did=dYWJhMj&gdid=dYWJhMj&bttype=purchase&value=0&currency_code=INR&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1718797925.1789399585&uaa=x86&uab=64&uafvl=Chromium%3B151.0.7922.34%7CNot%253DA%253FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&ec_mode=a&oid=583778075.1789399585&oidsrc=3&ecsid2=1280210168.1789399585&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+    "status": 200
+  },
+  {
+    "url": "https://c.go-mpulse.net/api/config.json?key=SLV8V-BSCD6-S8XTN-YEDVG-WCA38&d=www.kohler.co.in&t=5964665&v=1.720.0&sl=0&si=7a691b0e-b9c1-47ca-bd18-2754903b6f74-tld1k0&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1056583",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/oauth/token?scope=guest&channel=india",
+    "status": 200
+  },
+  {
+    "url": "https://auth.kohler.co.in/api/v1/sessions/me",
+    "status": 404
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/search/plp?fq=%7B!tag%3D%22ProductInstallationType_ss%22%7DProductInstallationType_ss%3A(%22Freestanding%22)&rows=30&start=0&fl=masterSKU_s,sourceId_s,preferenceSku_s,SKUColorSwatchFilename_ss,ProductDescriptionProductShort_s,ProductBrandName_s,metaTitle_s,productName_s,id,productImages.url_ss,slug_s,Product_Category,displayPriceStartingAt_s,priceList.GST.price_d,priceList.GST.finalPrice_d,priceList.GST.discountedPrice_d,priceList.GST.saleOffer_s,priceStartingAt.GST_d,discountedPriceStartingAt.GST_d,variantList.sku_ss,SKUColorFinishName_ss,Color.SKU.Details_ss,Color.GST.Details_ss,ProductExclusive_s,RegionReleaseforShipment_dt,productImages.labelWithUrl_ss,productImageVariantImages.labelWithUrl_ss,ProductBrandNameDisplay_s,ctId_s,ProductProductNo_s,ProductServices_s,InstallationAvailable_s,priceList.ANY.price_d,RegionSupplyChain_ss,BundleList_ss,bundleNameSlugDetails_ss&persona=GST&profilename=profile_kohler-india_PLP_Bathtub&collections=kohler-india&q=*:*",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/search/plp?fq=%7B!tag%3D%22ProductInstallationType_ss%22%7DProductInstallationType_ss%3A(%22Freestanding%22)&rows=30&start=0&fl=masterSKU_s,sourceId_s,preferenceSku_s,SKUColorSwatchFilename_ss,ProductDescriptionProductShort_s,ProductBrandName_s,metaTitle_s,productName_s,id,productImages.url_ss,slug_s,Product_Category,displayPriceStartingAt_s,priceList.GST.price_d,priceList.GST.finalPrice_d,priceList.GST.discountedPrice_d,priceList.GST.saleOffer_s,priceStartingAt.GST_d,discountedPriceStartingAt.GST_d,variantList.sku_ss,SKUColorFinishName_ss,Color.SKU.Details_ss,Color.GST.Details_ss,ProductExclusive_s,RegionReleaseforShipment_dt,productImages.labelWithUrl_ss,productImageVariantImages.labelWithUrl_ss,ProductBrandNameDisplay_s,ctId_s,ProductProductNo_s,ProductServices_s,InstallationAvailable_s,priceList.ANY.price_d,RegionSupplyChain_ss,BundleList_ss,bundleNameSlugDetails_ss&persona=GST&profilename=profile_kohler-india_PLP_Bathtub&collections=kohler-india&q=*:*",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/maps/geocoding/reverse?$format=json&brand=india&lat=18.53&long=73.87",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/cart/active?expand=calculation",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/cart/create",
+    "status": 200
+  },
+  {
+    "url": "https://www.kohler.co.in/apirequest/cart/items?cartId=64255a4a-54f3-4cea-9e3f-fd152be4f79e",
+    "status": 200
+  },
+  {
+    "url": "https://analytics-fe.digital-cloud-west.medallia.com/api/web/events",
+    "status": 200
+  }
+]

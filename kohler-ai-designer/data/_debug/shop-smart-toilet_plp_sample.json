@@ -1,0 +1,397 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ToiletsProductConfiguration_ss\"}ToiletsProductConfiguration_ss",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "{!ex=\"ATTR_SPEC_LitersPerFlush_s\"}ATTR_SPEC_LitersPerFlush_s",
+      "{!ex=\"ATTR_SPEC_BowlShape_s\"}ATTR_SPEC_BowlShape_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "ATTR_SPEC_RimType_s",
+      "ATTR_SPEC_WaterSaving_s",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ToiletsProductConfiguration_ss": "Product Type",
+      "ProductStyle_ss": "Style",
+      "ATTR_SPEC_LitersPerFlush_s": "Liters per flush",
+      "ATTR_SPEC_BowlShape_s": "Shape",
+      "ProductInstallationType_ss": "Installation Type",
+      "ATTR_SPEC_RimType_s": "Rim Type",
+      "ATTR_SPEC_WaterSaving_s": "Water Saving",
+      "SpecialFeatureList_ss": "Special Feature",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|29777IN-0|false|false|K-29777IN-0"
+        ],
+        "ProductBrandName_s": "Innate™",
+        "masterSKU_s": "29777IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "29777IN-0",
+        "productImages.labelWithUrl_ss": [
+          "29777IN-0|aae73186_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae73186_rgb",
+          "29777IN-0|aaj84625_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj84625_rgb",
+          "29777IN-0|aaj84624_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84624_rgb",
+          "29777IN-0|aaj84623_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84623_rgb",
+          "29777IN-0|aaj84622_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84622_rgb",
+          "29777IN-0|aaj84621_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84621_rgb",
+          "29777IN-0|aaj84620_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84620_rgb",
+          "29777IN-0|aaj84619_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84619_rgb",
+          "29777IN-0|aaj84616_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84616_rgb",
+          "29777IN-0|aaj84618_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84618_rgb",
+          "29777IN-0|aaj84617_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84617_rgb"
+        ],
+        "priceList.GST.price_d": 379999.0,
+        "priceList.GST.finalPrice_d": 379999.0,
+        "ProductDescriptionProductShort_s": "One-piece elongated smart toilet, dual-flush",
+        "productName_s": "Innate™ One-piece elongated smart toilet, dual-flush",
+        "ctId_s": "d90f3cf6-9376-4f20-80b8-ba19976f7014",
+        "Color.GST.Details_ss": [
+          "29777IN-0|White|400000.0|379999.0||https://kohler.scene7.com/is/image/PAWEB/aae73186_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "29777IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae73186_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84625_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84624_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84623_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84622_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84621_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84620_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84619_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84616_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84618_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj84617_rgb"
+        ],
+        "priceList.ANY.price_d": 400000.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "29777IN-0",
+        "ProductBrandNameDisplay_s": "Innate™",
+        "variantList.sku_ss": [
+          "29777IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 379999.0,
+        "displayPriceStartingAt_s": "₹379,999.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "innate-one-piece-elongated-smart-toilet-dual-flush-29777in",
+        "priceStartingAt.GST_d": 379999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d90f3cf6-9376-4f20-80b8-ba19976f7014|29777IN-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|5401IN-0|false|false|K-5401IN-0"
+        ],
+        "ProductBrandName_s": "Veil™",
+        "masterSKU_s": "5401IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "5401IN-0",
+        "productImages.labelWithUrl_ss": [
+          "5401IN-0|zab85873_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab85873_rgb",
+          "5401IN-0|zac84168_rgb|IMGGROUP||products grouped in image|https://kohler.scene7.com/is/image/PAWEB/zac84168_rgb"
+        ],
+        "priceList.GST.price_d": 679999.0,
+        "priceList.GST.finalPrice_d": 679999.0,
+        "ProductDescriptionProductShort_s": "Smart One-piece Toilet",
+        "productName_s": "Veil™ Smart One-piece Toilet",
+        "ctId_s": "efcb876e-df3b-4737-923e-ce5f80284fda",
+        "Color.GST.Details_ss": [
+          "5401IN-0|White|850000.0|679999.0||https://kohler.scene7.com/is/image/PAWEB/zab85873_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "5401IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab85873_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zac84168_rgb"
+        ],
+        "priceList.ANY.price_d": 850000.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "5401IN-0",
+        "ProductBrandNameDisplay_s": "Veil™",
+        "variantList.sku_ss": [
+          "5401IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 679999.0,
+        "displayPriceStartingAt_s": "₹679,999.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "veil-smart-one-piece-toilet-5401in",
+        "priceStartingAt.GST_d": 679999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "efcb876e-df3b-4737-923e-ce5f80284fda|5401IN-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|28529IN-0|true|false|K-28529IN-0"
+        ],
+        "ProductBrandName_s": "Leap™",
+        "masterSKU_s": "28529IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "28529IN-0",
+        "productImages.labelWithUrl_ss": [
+          "28529IN-0|aaf22800_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf22800_rgb",
+          "28529IN-0|aaf74851_en-US|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf74851_en-US",
+          "28529IN-0|aai95781_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aai95781_rgb",
+          "28529IN-0|aai95775_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aai95775_rgb",
+          "28529IN-0|aai95784_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aai95784_rgb",
+          "28529IN-0|aai95785_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aai95785_rgb",
+          "28529IN-0|aai95782_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aai95782_rgb",
+          "28529IN-0|aai95783_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aai95783_rgb",
+          "28529IN-0|aai95776_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aai95776_rgb",
+          "28529IN-0|SKU_TOILETS_FEATURECOMBO_Deodor-UVLight_en-US_SquareWithText|IMGITEMFEATUREComboSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_TOILETS_FEATURECOMBO_Deodor-UVLight_SquareWithText_en-US",
+          "28529IN-0|28529-0_TOP_d2c0020414_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/28529-0_TOP_d2c0020414_rgb"
+        ],
+        "priceList.GST.price_d": 446499.0,
+        "priceList.GST.finalPrice_d": 446499.0,
+        "ProductDescriptionProductShort_s": "One-piece round-front smart toilet, dual-flush",
+        "productName_s": "Leap™ One-piece round-front smart toilet, dual-flush",
+        "ctId_s": "339b5945-888f-4e09-881b-d06708915a54",
+        "Color.GST.Details_ss": [
+          "28529IN-0|White|470000.0|446499.0||https://kohler.scene7.com/is/image/PAWEB/aaf22800_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "28529IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf22800_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf74851_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95781_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95775_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95784_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95785_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95782_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95783_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95776_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_TOILETS_FEATURECOMBO_Deodor-UVLight_SquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/28529-0_TOP_d2c0020414_rgb"
+        ],
+        "priceList.ANY.price_d": 470000.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "28529IN-0",
+        "ProductBrandNameDisplay_s": "Leap™",
+        "variantList.sku_ss": [
+          "28529IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 446499.0,
+        "displayPriceStartingAt_s": "₹446,499.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "leap-one-piece-round-front-smart-toilet-dual-flush-28529in",
+        "priceStartingAt.GST_d": 446499.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "339b5945-888f-4e09-881b-d06708915a54|28529IN-0"
+      }
+    ],
+    "numFound": 3,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "ToiletsProductConfiguration_ss:\"Smart Toilet\"": 3,
+      "ToiletsProductConfiguration_ss:\"One Piece\"": 2,
+      "ToiletsProductConfiguration_ss:\"Two Piece\"": 0,
+      "ToiletsProductConfiguration_ss:\"Wall Hung\"": 0,
+      "ToiletsProductConfiguration_ss:\"Wall Hung With Exposed Tank\"": 0,
+      "Available_Now_s:\"Yes\"": 1
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        3
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Innate™",
+        1,
+        "Leap™",
+        1,
+        "Veil™",
+        1
+      ],
+      "ToiletsProductConfiguration_ss": [
+        "Smart Toilet",
+        3,
+        "One Piece",
+        8,
+        "Two Piece",
+        5,
+        "Wall Hung",
+        52,
+        "Wall Hung With Exposed Tank",
+        3
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        3
+      ],
+      "ATTR_SPEC_LitersPerFlush_s": [
+        "3.0 or 6.0",
+        1,
+        "3.3 or 5.0",
+        1,
+        "3.5",
+        1
+      ],
+      "ATTR_SPEC_BowlShape_s": [
+        "Elongated",
+        2,
+        "Round-front",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Floor-mount",
+        3
+      ],
+      "ATTR_SPEC_WaterSaving_s": [
+        "Yes",
+        2
+      ],
+      "SpecialFeatureList_ss": [
+        "Continuous Clean",
+        1,
+        "Eco Flush",
+        2
+      ],
+      "Available_Now_s": [
+        "Yes",
+        1,
+        "No",
+        2
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        2,
+        "Paid",
+        1
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "400000",
+          1,
+          "470000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "400000",
+          1,
+          "470000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "370000",
+          1,
+          "440000",
+          1,
+          "670000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "400000",
+          1,
+          "470000",
+          1
+        ],
+        "start": 0.0,
+        "end": 800000.0,
+        "gap": 10000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

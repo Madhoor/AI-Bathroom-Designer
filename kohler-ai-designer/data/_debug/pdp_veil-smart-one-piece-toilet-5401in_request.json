@@ -1,0 +1,169 @@
+{
+  "product_url": "https://www.kohler.co.in/p/veil-smart-one-piece-toilet-5401in?skuId=5401IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/veil-smart-one-piece-toilet-5401in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/veil-smart-one-piece-toilet-5401in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4890>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/veil-smart-one-piece-toilet-5401in?skuId=5401IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "2taJwvUQ3J",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=243, origin; dur=705, ak_p; desc=\"1789416438340_400553039_332769741_94867_11039_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:07:19 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1929",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/veil-intelligent-one-piece-toilet-in-white",
+            "ProductNarrativeDescription_s": "With its flowing and immaculately balanced curves, the Veil one-piece toilet with integrated cleansing functionality epitomizes minimalist and ergonomic design. Its sculpted core provides a suite of precision features finely tuned to offer optimum hygiene and ultimate individual comfort, from personal cleansing to an LED nightlight to hands-free opening and closing. All of the features are easy to control on a touchscreen LCD remote control.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|5401IN-0|false|false|K-5401IN-0"
+            ],
+            "ProductBrandName_s": "Veil™",
+            "ProductPackageContents_s": "1 TOILET;\n1 FLOOR FIXING KIT;\n1 INSTALLTION INSTRUCTIONS; 1 COMPLIANCE CERTIFICATION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553093"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1373184-IN01_A1.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1112833-8_p01.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "5401IN-0|zab85873_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab85873_rgb",
+              "5401IN-0|zac84168_rgb|IMGGROUP||products grouped in image|https://kohler.scene7.com/is/image/PAWEB/zac84168_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 679999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 850000.0,
+            "ProductDescriptionProductShort_s": "Smart One-piece Toilet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401insde.dxf"
+            ],
+            "productName_s": "Veil™ Smart One-piece Toilet",
+            "ctId_s": "efcb876e-df3b-4737-923e-ce5f80284fda",
+            "ProductWebFeatures_ss": [
+              "Compact, streamlined one-piece Smart Toilet with integrated personal cleansing.",
+              "Elongated bowl offers added room and comfort.",
+              "Tankless design with direct water supply.",
+              "Dual flush offers a choice of 0.8 or 1.28 gpf (3.0 or 4.9 lpf).",
+              "Front and rear wash modes provide warm water for cleansing.",
+              "Self-cleaning function uses UV light and electrolyzed water systems to sanitize the wand surfaces.",
+              "Warm-air drying system with adjustable temperature settings.",
+              "Automatic deodorization system.",
+              "Heated seat with adjustable temperature settings.",
+              "Motion-activated, hands-free opening/closing of seat and cover.",
+              "Quiet-Close™ elongated seat allows seat to close quietly.",
+              "LED lighting illuminates the bowl to serve as a nightlight.",
+              "Integrated bidet functionality featuring a single bidet wand made of stainless steel.",
+              "Adjustable spray shape, position, water pressure, water temperature, pulsate, and oscillate functions for the bidet wand.",
+              "Touchscreen LCD remote.",
+              "Emergency back-up flush feature for power outages."
+            ],
+            "priceList.ANY.finalPrice_d": 850000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401insde.dwg"
+            ],
+            "sku_s": "5401IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Toilet-Floor_Mount-KOHLER-VEIL-K-5401IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "21.750",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "5401IN",
+            "productInRiverId_s": "inRiver_1428838",
+            "priceList.CTR.finalPrice_d": 850000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-5401IN-0",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "variantList.sku_ss": [
+              "5401IN-0"
+            ],
+            "SKUShippingHeight_s": "24.724",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "31.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401inpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5401IN.dwg"
+            ],
+            "id": "efcb876e-df3b-4737-923e-ce5f80284fda|5401IN-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "product_url": "https://www.kohler.co.in/p/ove-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-17629t-ns?skuId=17629T-NS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/ove-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-17629t-ns",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/ove-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-17629t-ns",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4890>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/ove-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-17629t-ns?skuId=17629T-NS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "4GSrI6e8xa",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=262, origin; dur=715, ak_p; desc=\"1789416446728_400553039_332770299_97734_11604_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:07:27 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1791",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629T-NS.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629t_nsfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/ove-1-pc-toilet-w-o-seat",
+            "ProductWebInstallation_ss": [
+              "185 mm (7-1/4 inch) P-trap rough-in"
+            ],
+            "ProductOverallWidthInches_s": "14-1/2\"",
+            "ProductNarrativeDescription_s": "Designed with soft, classic lines, this Ove™ one-piece toilet combines minimalistic charm with reliabile functionality. Integrated dual-flush capabilities allow you to choose between a full or partial flush, helping to conserve water. With a round-front bowl and fully skirted trapway, this toilet ensures optimal comfort and a sleek look that can blend into any bathroom.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|17629T-NS-0|true|false|K-17629T-NS-0"
+            ],
+            "ProductBrandName_s": "Ove™",
+            "ProductPackageContents_s": "1 TOILET BOWL, 1 FLOOR MOUNTING KIT ASSEMBLY, 1 S-TRAP, 1 INSTALLATION INST",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629T-NS.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553093"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "http://techpubs.kohlerco.com/pdf/1089093-T2_B2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-17629T-NS_spec_CN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-17629T-NS_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629T-NS.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "17629T-NS-0|aaf10241_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10241_rgb",
+              "17629T-NS-0|aaf10240_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10240_rgb",
+              "17629T-NS-0|aaf10239_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10239_rgb",
+              "17629T-NS-0|aaf10242_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10242_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 14719.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 19900.0,
+            "ProductOverallLengthInches_s": "28-11/16\"",
+            "ProductDescriptionProductShort_s": "One-piece round-front toilet with skirted trapway, dual-flush",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629t_nspln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629t_nssde.dxf"
+            ],
+            "productName_s": "Ove™ One-piece round-front toilet with skirted trapway, dual-flush",
+            "ctId_s": "596ada75-4921-458b-8f4f-c7db0d17ae5e",
+            "ProductWebFeatures_ss": [
+              "One-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Rim-to-floor height: 39 cm (15-3/8 inches)",
+              "Top-mount Polished Chrome dual-flush button offers a choice of 0.8 or 1.6 gpf (3.0 or 6.0 lpf)",
+              "58 mm (2-5/16 inch) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Coordinates with other products in the Ove™ collection",
+              "Compatible with C3™ toilet seats and the Ove™ Quiet-Close toilet seat and lid (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 19900.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629t_nssde.dwg"
+            ],
+            "sku_s": "17629T-NS-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Toilet-Floor_Mount-KOHLER-OVE-K-17629T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629T-NS.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "44.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "17629T-NS",
+            "productInRiverId_s": "inRiver_608465",
+            "priceList.CTR.finalPrice_d": 19900.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-17629T-NS-0",
+            "ProductBrandNameDisplay_s": "Ove™",
+            "variantList.sku_ss": [
+              "17629T-NS-0"
+            ],
+            "SKUShippingHeight_s": "72.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "80.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629t_nspln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629t_nsfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/17629T-NS.dwg"
+            ],
+            "ProductOverallHeightInches_s": "27-1/2\"",
+            "id": "596ada75-4921-458b-8f4f-c7db0d17ae5e|17629T-NS-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

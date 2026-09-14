@@ -1,0 +1,160 @@
+{
+  "product_url": "https://www.kohler.co.in/p/karing-1-8m-oval-lithocast-bath-20249t?skuId=20249T-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/karing-1-8m-oval-lithocast-bath-20249t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/karing-1-8m-oval-lithocast-bath-20249t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/karing-1-8m-oval-lithocast-bath-20249t?skuId=20249T-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "3pETkdGNGU",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=263, origin; dur=752, ak_p; desc=\"1789414568564_400553039_332597995_101567_15096_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 19:36:09 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1418",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249tfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Freestanding"
+            ],
+            "ProductOverallWidthInches_s": "31-15/16\"",
+            "ProductNarrativeDescription_s": "The flowing curves of Karing™ evoke a sculpted simplicity in tune with contemporary style. This Karing™ freestanding bath offers a luxuriously bathing experience with supportive contours that cradle your body. KOHLER® Lithocast™ Gloss cast resin is lightweight and easy to clean, with a high-gloss finish.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|20249T-0|false|false|K-20249T-0"
+            ],
+            "ProductBrandName_s": "Karing™",
+            "ProductPackageContents_s": "Bathtub, Installation Manual, Warranty Document",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249T.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-20249T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "20249T-0|aad75463_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 574749.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 605000.0,
+            "ProductOverallLengthInches_s": "70-13/16\"",
+            "ProductDescriptionProductShort_s": "180 cm x 80 cm freestanding bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249tsde.dxf"
+            ],
+            "productName_s": "Karing™ 180 cm x 80 cm freestanding bath",
+            "ctId_s": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94",
+            "ProductWebFeatures_ss": [
+              "Freestanding design creates a striking focal point in your bathing area",
+              "Oval basin creates a spacious bathing experience",
+              "71 inch (180 cm) x 31 inch (80 cm) x 23.82 inch (60.5 cm)",
+              "Overflow channel for deep soak",
+              "Center toe-tap drain with KOHLER® Lithocast™ cover",
+              "14 inch (35.5 cm) soaking depth",
+              "Integral lumbar support"
+            ],
+            "priceList.ANY.finalPrice_d": 605000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249tsde.dwg"
+            ],
+            "sku_s": "20249T-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Freestanding-KOHLER-KARING-K-20249T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249T.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "1.040",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "20249T",
+            "productInRiverId_s": "inRiver_563725",
+            "priceList.CTR.finalPrice_d": 605000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-20249T-0",
+            "ProductBrandNameDisplay_s": "Karing™",
+            "variantList.sku_ss": [
+              "20249T-0"
+            ],
+            "SKUShippingHeight_s": "0.950",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "1.915",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "KOHLER® Lithocast™ Gloss cast resin"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20249T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "23-13/16\"",
+            "id": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94|20249T-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

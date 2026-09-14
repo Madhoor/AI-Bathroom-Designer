@@ -1,0 +1,168 @@
+{
+  "product_url": "https://www.kohler.co.in/p/ove-1-pc-complete-toilet-bundle-in-white-1?skuId=17629IN-SM-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/ove-1-pc-complete-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/ove-1-pc-complete-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4890>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/ove-1-pc-complete-toilet-bundle-in-white-1?skuId=17629IN-SM-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "t3KV11HpSW",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=256, origin; dur=731, ak_p; desc=\"1789416406504_400553039_332767452_98816_10498_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:06:47 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1780",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 69.9,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|17629T-NS-0|true|false|K-17629T-NS-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET BOWL, 1 FLOOR MOUNTING KIT ASSEMBLY, 1 S-TRAP, 1 INSTALLATION INST",
+            "productImages.labelWithUrl_ss": [
+              "17629T-NS-0|aaf10241_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10241_rgb",
+              "17629T-NS-0|aaf10240_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10240_rgb",
+              "17629T-NS-0|aaf10239_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10239_rgb",
+              "17629T-NS-0|aaf10242_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaf10242_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "One-piece round-front toilet with skirted trapway, dual-flush",
+            "ColorFinish_s": "White",
+            "productName_s": "Ove™ One-piece round-front toilet with skirted trapway, dual-flush",
+            "ctId_s": "596ada75-4921-458b-8f4f-c7db0d17ae5e",
+            "ProductWebFeatures_ss": [
+              "One-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Rim-to-floor height: 39 cm (15-3/8 inches)",
+              "Top-mount Polished Chrome dual-flush button offers a choice of 0.8 or 1.6 gpf (3.0 or 6.0 lpf)",
+              "58 mm (2-5/16 inch) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Coordinates with other products in the Ove™ collection",
+              "Compatible with C3™ toilet seats and the Ove™ Quiet-Close toilet seat and lid (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.8,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "17629T-NS-0",
+            "SKUShippingWidth_s": "44.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Ove™",
+            "SKUShippingHeight_s": "72.000",
+            "SKUShippingLength_s": "80.000",
+            "slug_s": "ove-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-17629t-ns",
+            "ProductOverallLengthCm_d": 72.9
+          },
+          {
+            "ProductOverallHeightCm_d": 5.6,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|17660T-M-0|true|false|K-17660T-M-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT; 1 SEAT INSTALLATION KIT; 1 INSTALLATION INSTRUCTION; 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "17660T-M-0|aad74722_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad74722_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ elongated toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Ove™ Quiet-Close™ elongated toilet seat",
+            "ctId_s": "e75f0ca6-3b6e-45c4-a002-b126bd4fe9d1",
+            "ProductWebFeatures_ss": [
+              "Elongated closed-front seat with lid",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "ReadyLatch™ hinge provides a positive lock/unlock latch to securely hold seat in position, yet seat easily removes for cleaning or adjusting fit",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Grip-Tight bumpers hold seat firmly in place"
+            ],
+            "ProductOverallWidthCm_d": 37.6,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "17660T-M-0",
+            "SKUShippingWidth_s": "39.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Ove™",
+            "SKUShippingHeight_s": "7.000",
+            "SKUShippingLength_s": "52.000",
+            "slug_s": "ove-quiet-close-elongated-toilet-seat-17660t-m",
+            "ProductOverallLengthCm_d": 46.1
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Ove 1Pc complete toilet bundle in White",
+            "ctId_s": "83c0d697-63f5-4e42-9990-d2a5f360b149",
+            "priceList.ANY.finalPrice_d": 26000.0,
+            "sku_s": "17629IN-SM-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 26000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-17629IN-SM-0",
+            "variantList.sku_ss": [
+              "17629IN-SM-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "17629IN-SM-0|aag85498_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag85498_rgb",
+              "17629IN-SM-0|aag71195_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag71195_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 19239.0,
+            "priceList.KEMP.finalPrice_d": 26000.0,
+            "id": "83c0d697-63f5-4e42-9990-d2a5f360b149|17629IN-SM-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

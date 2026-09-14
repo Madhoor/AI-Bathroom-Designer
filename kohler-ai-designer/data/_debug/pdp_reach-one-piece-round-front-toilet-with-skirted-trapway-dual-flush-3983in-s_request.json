@@ -1,0 +1,180 @@
+{
+  "product_url": "https://www.kohler.co.in/p/reach-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-3983in-s?skuId=3983IN-S-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/reach-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-3983in-s",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/reach-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-3983in-s",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4155>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/reach-one-piece-round-front-toilet-with-skirted-trapway-dual-flush-3983in-s?skuId=3983IN-S-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "aVX6RYjhDe",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=246, origin; dur=727, ak_p; desc=\"1789416397806_400553039_332766804_97574_9063_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:06:38 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2016",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983IN-S.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983in_sfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/reach-one-piece-toilet-with-quite-close-seat-cover-in-white-colour",
+            "ProductWebInstallation_ss": [
+              "Standard 12 inch (305 mm) rough-in",
+              "Supply line sold separately"
+            ],
+            "ProductOverallWidthInches_s": "14-3/8\"",
+            "ProductNarrativeDescription_s": "A perfect union of practicality and simple aesthetics, the Reach™ one-piece toilet is undeniably modern with beautiful lines that complement a variety of bathroom styles. Thoughtfully equipped with Class Five™ dual-flush technology for a more powerful and eco-friendly flush, the skirted trapway and round-front design ensure added comfort and a clean aesthetic. This toilet comes complete with a Quiet-Close seat and lid for a peaceful finish.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|3983IN-S-0|true|false|K-3983IN-S-0"
+            ],
+            "ProductBrandName_s": "Reach™",
+            "ProductPackageContents_s": "Packaging content- 1Toilet Bowl; 1 Toilet Seat; 1 installation Template; 1 warranty card",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983IN-S.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553093"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "http://techpubs.kohlerco.com/pdf/1203790-T2_A1.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-3983IN-S_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983IN-S.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "3983IN-S-0|zab72507_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab72507_rgb",
+              "3983IN-S-0|aah12189_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah12189_rgb",
+              "3983IN-S-0|aah12191_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah12191_rgb",
+              "3983IN-S-0|aah12192_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah12192_rgb",
+              "3983IN-S-0|aah12190_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aah12190_rgb",
+              "3983IN-S-0|aah13511_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah13511_rgb",
+              "3983IN-S-0|aah13510_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah13510_rgb",
+              "3983IN-S-0|aah13512_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah13512_rgb",
+              "3983IN-S-0|aah13515_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah13515_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 16829.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 25500.0,
+            "ProductOverallLengthInches_s": "28-1/2\"",
+            "ProductDescriptionProductShort_s": "One-piece round-front toilet with skirted trapway, dual-flush",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983in_spln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983in_ssde.dxf"
+            ],
+            "productName_s": "Reach™ One-piece round-front toilet with skirted trapway, dual-flush",
+            "ctId_s": "292fdb9c-5609-4d44-a149-0e1d3b77f590",
+            "ProductWebFeatures_ss": [
+              "One-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Rim-to-floor height: 15.39 inches (39.1 cm)",
+              "Top-mount polished chrome dual-flush button offers a choice of 1.0 or 1.28 gpf (3.3 or 4.8 lpf)",
+              "Class Five™ flushing technology provides powerful flushing performance and best-in-class bowl cleanliness",
+              "2.44 inch (62 mm) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Round-front seat with lid",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Coordinates with other products in the Reach™ collection"
+            ],
+            "priceList.ANY.finalPrice_d": 25500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983in_ssde.dwg"
+            ],
+            "sku_s": "3983IN-S-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Toilet-Floor_Mount-KOHLER-Reach-K-3983IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983IN-S.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "44.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "3983IN-S",
+            "productInRiverId_s": "inRiver_880161",
+            "priceList.CTR.finalPrice_d": 25500.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-3983IN-S-0",
+            "ProductBrandNameDisplay_s": "Reach™",
+            "variantList.sku_ss": [
+              "3983IN-S-0"
+            ],
+            "SKUShippingHeight_s": "70.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "78.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983in_spln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Plastic seat"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983in_sfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/3983IN-S.dwg"
+            ],
+            "ProductOverallHeightInches_s": "28-7/16\"",
+            "id": "292fdb9c-5609-4d44-a149-0e1d3b77f590|3983IN-S-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

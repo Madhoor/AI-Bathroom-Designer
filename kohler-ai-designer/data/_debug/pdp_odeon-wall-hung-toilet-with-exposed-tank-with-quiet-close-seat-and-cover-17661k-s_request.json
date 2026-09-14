@@ -1,0 +1,110 @@
+{
+  "product_url": "https://www.kohler.co.in/p/odeon-wall-hung-toilet-with-exposed-tank-with-quiet-close-seat-and-cover-17661k-s?skuId=17661K-S-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/odeon-wall-hung-toilet-with-exposed-tank-with-quiet-close-seat-and-cover-17661k-s",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/odeon-wall-hung-toilet-with-exposed-tank-with-quiet-close-seat-and-cover-17661k-s",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4726>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/odeon-wall-hung-toilet-with-exposed-tank-with-quiet-close-seat-and-cover-17661k-s?skuId=17661K-S-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "184Ti7c0qe",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=258, origin; dur=735, ak_p; desc=\"1789416624454_400553039_332783463_99328_10911_12_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:10:25 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "942",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|17661K-S-0|false|false|K-17661K-S-0"
+            ],
+            "ProductBrandName_s": "Odeon",
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 TANK; 1 WARRANTY;\n1 TANK COVER; 1 PLATE GASKET RUBBER;\n1 HARDWARE PACK; 1 INSTRUCTION;\n1 PUSH BUTTON ASSEMBLY,1 WALLHUNG BOWL;\n1 WARRANTY CARD,1 TOILET SEAT;\n1 ACCESSORIES PACK; 1 INSTALLATION\nMANUAL & 1 WARRANTY CARD",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553093"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "17661K-S-0|K-17661K-S-0|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/K-17661K-S-0"
+            ],
+            "priceList.GST.finalPrice_d": 23459.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 27600.0,
+            "ProductDescriptionProductShort_s": "wall-hung toilet with exposed tank  with Quiet-Close seat and cover",
+            "productName_s": "Odeon wall-hung toilet with exposed tank  with Quiet-Close seat and cover",
+            "ctId_s": "f93b593c-e22e-4ce3-9480-0177f873e36f",
+            "ProductWebFeatures_ss": [
+              "69x40x75.4 cm",
+              "Installation component: 1046327 Plastic outlet connector",
+              "P-trap 22 cm"
+            ],
+            "priceList.ANY.finalPrice_d": 27600.0,
+            "sku_s": "17661K-S-0",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "0.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "17661K-S",
+            "productInRiverId_s": "inRiver_559694",
+            "priceList.CTR.finalPrice_d": 27600.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-17661K-S-0",
+            "ProductBrandNameDisplay_s": "Odeon",
+            "variantList.sku_ss": [
+              "17661K-S-0"
+            ],
+            "SKUShippingHeight_s": "0.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "0.000",
+            "SKUIsProjectPack_s": "No",
+            "id": "f93b593c-e22e-4ce3-9480-0177f873e36f|17661K-S-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

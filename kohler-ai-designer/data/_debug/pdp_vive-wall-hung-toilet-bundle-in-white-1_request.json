@@ -1,0 +1,220 @@
+{
+  "product_url": "https://www.kohler.co.in/p/vive-wall-hung-toilet-bundle-in-white-1?skuId=26998IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/vive-wall-hung-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/vive-wall-hung-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4190>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/vive-wall-hung-toilet-bundle-in-white-1?skuId=26998IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "exq7u8YD9u",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=277, origin; dur=914, ak_p; desc=\"1789416277243_400553039_332757833_119506_9368_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:04:38 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2216",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 35.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|28780IN-0|true|false|K-28780IN-0",
+              "Cashmere|swatch_K4|28780IN-K4|true|false|K-28780IN-K4",
+              "Black Black|swatch_7|28780IN-7|true|false|K-28780IN-7",
+              "Indigo|swatch_DGS|28780IN-DGS|true|false|K-28780IN-DGS",
+              "Teak Berry|KO_swatch_TKB|28780IN-TKB|true|false|K-28780IN-TKB"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG TOILET, 1 HARDWARE KIT, 1 WARRANTY CARD, 1 INSTALLATION GUIDE, 1 FLOW RESTRICTOR, 1 CLEAN & CARE GUIDE",
+            "productImages.labelWithUrl_ss": [
+              "28780IN-7|aae18304_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae18304_rgb",
+              "28780IN-7|aaj84596_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj84596_rgb",
+              "28780IN-7|aaj84595_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84595_rgb",
+              "28780IN-7|aaj84594_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84594_rgb",
+              "28780IN-7|aaj84593_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84593_rgb",
+              "28780IN-7|aaj84592_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84592_rgb",
+              "28780IN-7|aaj84591_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84591_rgb",
+              "28780IN-7|aaj84590_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84590_rgb",
+              "28780IN-7|aaj84607_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84607_rgb",
+              "28780IN-DGS|aae63078_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae63078_rgb",
+              "28780IN-DGS|aaf66447_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66447_rgb",
+              "28780IN-DGS|aaf66448_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66448_rgb",
+              "28780IN-DGS|aaf66449_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66449_rgb",
+              "28780IN-0|aae18305_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae18305_rgb",
+              "28780IN-0|aaf66443_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66443_rgb",
+              "28780IN-0|aaf66442_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66442_rgb",
+              "28780IN-0|aaf66444_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66444_rgb",
+              "28780IN-K4|aaf49717_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf49717_rgb",
+              "28780IN-TKB|aah30825_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah30825_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet with skirted trapway, dual-flush",
+            "ColorFinish_s": "White",
+            "productName_s": "KOHLER VIVE® Wall-hung round-front toilet with skirted trapway, dual-flush",
+            "ctId_s": "8af0a639-d654-453c-8fc8-f932dea60c86",
+            "ProductWebFeatures_ss": [
+              "Wall-hung toilet bowl",
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Rim-to-floor height: 15-3/4\" (40 cm)",
+              "Dual-flush offers a choice of .53 or 1.06 gpf (2.0 or 4.0 lpf)",
+              "2-9/16\" (65 mm) fully glazed trapway",
+              "Skirted trapway and rimless design simplify cleaning",
+              "Requires in-wall tank and carrier system, and flush actuator plate (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.4,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "28780IN-0",
+            "SKUShippingWidth_s": "15.313",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+            "SKUShippingHeight_s": "15.688",
+            "SKUShippingLength_s": "22.813",
+            "slug_s": "vive-wall-hung-round-front-toilet-with-skirted-trapway-dual-flush-28780in",
+            "ProductOverallLengthCm_d": 55.7
+          },
+          {
+            "ProductOverallHeightCm_d": 5.9,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|28781IN-0|true|false|K-28781IN-0",
+              "Black Black|swatch_7|28781IN-7|true|false|K-28781IN-7",
+              "Indigo|swatch_DGS|28781IN-DGS|false|false|K-28781IN-DGS",
+              "Teak Berry|KO_swatch_TKB|28781IN-TKB|true|false|K-28781IN-TKB"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1 INSTALLATION KIT, 1 INSTALLATION GUIDE, 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "28781IN-0|aae16248_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae16248_rgb",
+              "28781IN-DGS|aae63080_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae63080_rgb",
+              "28781IN-7|aae16252_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae16252_rgb",
+              "28781IN-TKB|aah30827_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah30827_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ round-front toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "KOHLER VIVE® Quiet-Close™ round-front toilet seat",
+            "ctId_s": "75d7454d-eee5-4069-909f-9b13a699ac7b",
+            "ProductWebFeatures_ss": [
+              "Round-front seat with lid",
+              "Slim seat design creates a sleek look",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "For use with KOHLER VIVE round-front toilets (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 37.1,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "28781IN-0",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+            "SKUShippingHeight_s": "9.000",
+            "SKUShippingLength_s": "53.000",
+            "slug_s": "vive-quiet-close-round-front-toilet-seat-28781in",
+            "ProductOverallLengthCm_d": 49.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Vive wall hung toilet bundle in White",
+            "ctId_s": "60239246-59de-434f-8960-0eb26663fa95",
+            "priceList.ANY.finalPrice_d": 29000.0,
+            "redirectUrl_s": "https://shopkohler.in/products/vive-wall-hung-toilet-in-white",
+            "sku_s": "26998IN-0",
+            "InstallationAvailable_s": "Yes",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|26998IN-0|false|false|K-26998IN-0",
+              "Black|swatch_7|26998IN-7|false|false|K-26998IN-7",
+              "Indigo|swatch_DGS|26998IN-DGS|false|false|K-26998IN-DGS"
+            ],
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 29000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-26998IN-0",
+            "variantList.sku_ss": [
+              "26998IN-0",
+              "26998IN-DGS",
+              "26998IN-7"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "26998IN-0|aai18020_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18020_rgb",
+              "26998IN-0|aai18018_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18018_rgb",
+              "26998IN-0|aai18019_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18019_rgb",
+              "26998IN-0|aai18022_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18022_rgb",
+              "26998IN-0|aai18017_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18017_rgb",
+              "26998IN-0|aai18021_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18021_rgb",
+              "26998IN-0|aai18023_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18023_rgb",
+              "26998IN-0|aai18016_rgb||||https://kohler.scene7.com/is/image/PAWEB/aai18016_rgb",
+              "26998IN-DGS|aaf87031_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87031_rgb",
+              "26998IN-DGS|aaf87036_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87036_rgb",
+              "26998IN-DGS|aaf87038_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87038_rgb",
+              "26998IN-DGS|aaf87034_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87034_rgb",
+              "26998IN-DGS|aaf87035_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87035_rgb",
+              "26998IN-DGS|aaf87039_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87039_rgb",
+              "26998IN-7|aaf87240_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87240_rgb",
+              "26998IN-7|aaf87238_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87238_rgb",
+              "26998IN-7|aaf87241_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87241_rgb",
+              "26998IN-7|aaf73535_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf73535_rgb",
+              "26998IN-7|aaf73532_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf73532_rgb",
+              "26998IN-7|aaf87239_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf87239_rgb",
+              "26998IN-7|aae16249_rgb||||https://kohler.scene7.com/is/image/PAWEB/aae16249_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 23779.0,
+            "priceList.KEMP.finalPrice_d": 29000.0,
+            "id": "60239246-59de-434f-8960-0eb26663fa95|26998IN-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

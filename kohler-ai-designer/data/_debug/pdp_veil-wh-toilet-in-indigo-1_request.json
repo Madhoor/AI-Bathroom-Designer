@@ -1,0 +1,170 @@
+{
+  "product_url": "https://www.kohler.co.in/p/veil-wh-toilet-in-indigo-1?skuId=75708IN-DGS",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/veil-wh-toilet-in-indigo-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/veil-wh-toilet-in-indigo-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4925>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/veil-wh-toilet-in-indigo-1?skuId=75708IN-DGS",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "EfZbxPTOV5",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=269, origin; dur=814, ak_p; desc=\"1789416344364_400553039_332763114_108301_12231_36_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:05:45 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1662",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 5.7,
+            "Color.SKU.Details_ss": [
+              "Black Black|swatch_7|77471IN-7|true|false|K-77471IN-7",
+              "Indigo|swatch_DGS|77471IN-DGS|true|false|K-77471IN-DGS"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT;\n1 SEAT INSTALLATION KIT;\n1 INSTALLATION INSTRUCTIONS;\n1 WARRANTY CARD\n",
+            "productImages.labelWithUrl_ss": [
+              "77471IN-DGS|aae47131_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae47131_rgb",
+              "77471IN-7|aae67327_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae67327_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ elongated toilet seat",
+            "ColorFinish_s": "Indigo",
+            "productName_s": "Veil™ Quiet-Close™ elongated toilet seat",
+            "ctId_s": "830d8581-cecc-473d-ad42-0396ac358129",
+            "ProductWebFeatures_ss": [
+              "Elongated seat design to fit elongated bowls",
+              "Sleek and contemporary design",
+              "Quiet-Close™ elongated lid and seat prevents slamming",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Color-matched plastic hinges"
+            ],
+            "ProductOverallWidthCm_d": 37.3,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "77471IN-DGS",
+            "SKUShippingWidth_s": "41.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "SKUShippingHeight_s": "7.000",
+            "SKUShippingLength_s": "52.000",
+            "slug_s": "veil-quiet-close-elongated-toilet-seat-77471in",
+            "ProductOverallLengthCm_d": 48.5
+          },
+          {
+            "ProductOverallHeightCm_d": 33.3,
+            "Color.SKU.Details_ss": [
+              "Black Black|swatch_7|31539IN-7|true|false|K-31539IN-7",
+              "Indigo|swatch_DGS|31539IN-DGS|true|false|K-31539IN-DGS"
+            ],
+            "ProductPackageContents_s": "1 BOWL; 1 INSTALLATION\nINSTRUCTION; 1 WARRANTY CARD\nFIXATION KIT-OW",
+            "productImages.labelWithUrl_ss": [
+              "31539IN-DGS|aae47132_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae47132_rgb",
+              "31539IN-7|aae67330_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae67330_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung elongated toilet with skirted trapway",
+            "ColorFinish_s": "Indigo",
+            "productName_s": "Veil™ Wall-hung elongated toilet with skirted trapway",
+            "ctId_s": "c243fc25-ad6c-478b-a32a-7f63c293bfd0",
+            "ProductWebFeatures_ss": [
+              "Coordinates with other products in the Veil collection",
+              "Compact elongated bowl offers added comfort while occupying the same space as a round-front bowl",
+              "Rimless design makes toilet bowl more hygienic and easier to clean",
+              "2-1/8\" (54 mm) fully glazed trapway",
+              "Skirted trapway",
+              "Washdown flushing system",
+              "Bowl only; requires Kohler® in-wall tank and carrier system, dual-flush actuator, and seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 38.4,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "31539IN-DGS",
+            "SKUShippingWidth_s": "41.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "SKUShippingHeight_s": "59.000",
+            "SKUShippingLength_s": "43.000",
+            "slug_s": "veil-wall-hung-elongated-toilet-with-skirted-trapway-31539in",
+            "ProductOverallLengthCm_d": 55.4
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Veil wall hung toilet bundle in Indigo",
+            "ctId_s": "a110ac42-2287-4a36-8f74-82b46eaaa7df",
+            "priceList.ANY.finalPrice_d": 50000.0,
+            "sku_s": "75708IN-DGS",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 50000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-75708IN-DGS",
+            "variantList.sku_ss": [
+              "75708IN-DGS"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "75708IN-DGS|aaf86909_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf86909_rgb",
+              "75708IN-DGS|aaf86901_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf86901_rgb",
+              "75708IN-DGS|aaf74962_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf74962_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 39999.0,
+            "priceList.KEMP.finalPrice_d": 50000.0,
+            "id": "a110ac42-2287-4a36-8f74-82b46eaaa7df|75708IN-DGS"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

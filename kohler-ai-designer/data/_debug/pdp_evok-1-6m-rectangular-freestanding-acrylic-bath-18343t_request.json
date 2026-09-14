@@ -1,0 +1,162 @@
+{
+  "product_url": "https://www.kohler.co.in/p/evok-1-6m-rectangular-freestanding-acrylic-bath-18343t?skuId=18343T-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/evok-1-6m-rectangular-freestanding-acrylic-bath-18343t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/evok-1-6m-rectangular-freestanding-acrylic-bath-18343t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/evok-1-6m-rectangular-freestanding-acrylic-bath-18343t?skuId=18343T-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "nWcJ2ALE4h",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=263, origin; dur=745, ak_p; desc=\"1789414531703_400553039_332593446_101364_10842_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 19:35:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1424",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343tfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Freestanding"
+            ],
+            "ProductOverallWidthInches_s": "30\"",
+            "ProductNarrativeDescription_s": "Clean, elegant, and contained, the Evok™ bath expresses contemporary warmth and simplicity. This Evok™ rectangular freestanding bath lets you indulge in a deep, immersive soak as you relax against the sloped lumbar support. The sleek, one-piece seamless acrylic construction offers exceptional durability and location versatility.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|18343T-0|false|false|K-18343T-0"
+            ],
+            "ProductBrandName_s": "Evok™",
+            "ProductPackageContents_s": "Bathtub, Installation Manual, Warranty Document",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343T.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/18343t_18347t_18353t.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://files.kohler.com.cn/pdfs/18343T_r.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-18343T_spec_CN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-18343T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "18343T-0|aad35207_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 193299.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 203479.0,
+            "ProductOverallLengthInches_s": "65-15/16\"",
+            "ProductDescriptionProductShort_s": "167.5 cm x 76.2 cm freestanding bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343tsde.dxf"
+            ],
+            "productName_s": "Evok™ 167.5 cm x 76.2 cm freestanding bath",
+            "ctId_s": "ef6fb7bb-19ba-4308-a522-9c72981c7558",
+            "ProductWebFeatures_ss": [
+              "Freestanding design creates a striking focal point in your bathing area",
+              "66 inch (167.5 cm) x 30 inch (76.2 cm) x 24 inch (61 cm)",
+              "17 inch (43.2 cm) depth offers a deep soaking experience",
+              "Integral lumbar support"
+            ],
+            "priceList.ANY.finalPrice_d": 203479.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343tsde.dwg"
+            ],
+            "sku_s": "18343T-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Freestanding-KOHLER-EVOK-K-18343T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343T.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.830",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "18343T",
+            "productInRiverId_s": "inRiver_1336313",
+            "priceList.CTR.finalPrice_d": 203479.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-18343T-0",
+            "ProductBrandNameDisplay_s": "Evok™",
+            "variantList.sku_ss": [
+              "18343T-0"
+            ],
+            "SKUShippingHeight_s": "0.660",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "1.765",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18343T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "24\"",
+            "id": "ef6fb7bb-19ba-4308-a522-9c72981c7558|18343T-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}
