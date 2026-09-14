@@ -1,0 +1,151 @@
+{
+  "product_url": "https://www.kohler.co.in/p/taut-pilar-tap-74028in-4?skuId=74028IN-4-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/taut-pilar-tap-74028in-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/taut-pilar-tap-74028in-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4953>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/taut-pilar-tap-74028in-4?skuId=74028IN-4-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "tYe0Y7XQ9W",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=244, origin; dur=736, ak_p; desc=\"1789417041143_400553039_332813318_98101_10838_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:17:22 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1445",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028IN-4.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028in_4frt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/taut-pillar-tap",
+            "ProductNarrativeDescription_s": "Melding thoughtful design with reliable performance, TAUT faucet collection brings elegant functionality to your bathroom. Combine with showering components and transform your bathroom.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|74028IN-4-CP|false|false|K-74028IN-4-CP"
+            ],
+            "ProductBrandName_s": "Taut™",
+            "ProductPackageContents_s": "1 PILLAR TAP; 1 MOUNTING KIT; 1 ESCUTCHEON; 1 WARRANTY CARD; 1 INSTALLATION INSTRUCTION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028IN-4.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028IN-4.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "74028IN-4-CP|aad76388_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad76388_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2429.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 2860.0,
+            "ProductDescriptionProductShort_s": "Pilar tap",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028in_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028in_4sde.dxf"
+            ],
+            "productName_s": "Taut™ Pilar tap",
+            "ctId_s": "ce9cfba9-4f07-4462-84e7-928f7bd72c7d",
+            "ProductWebFeatures_ss": [
+              "Versatile modern design with unique shape complements a variety of décors",
+              "Easy-to-change threaded aerator can be changed with a coin",
+              "Complete design on faucets and bath spouts pair nicely with showering components, letting you create a cohesive look",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance.",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times"
+            ],
+            "priceList.ANY.finalPrice_d": 2860.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028in_4sde.dwg"
+            ],
+            "sku_s": "74028IN-4-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-TAUT-K-74028IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028IN-4.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "16.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "74028IN-4",
+            "productInRiverId_s": "inRiver_1482607",
+            "priceList.CTR.finalPrice_d": 2860.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-74028IN-4-CP",
+            "ProductBrandNameDisplay_s": "Taut™",
+            "variantList.sku_ss": [
+              "74028IN-4-CP"
+            ],
+            "SKUShippingHeight_s": "11.500",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "24.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028in_4pln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028in_4frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/74028IN-4.dwg"
+            ],
+            "id": "ce9cfba9-4f07-4462-84e7-928f7bd72c7d|74028IN-4-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

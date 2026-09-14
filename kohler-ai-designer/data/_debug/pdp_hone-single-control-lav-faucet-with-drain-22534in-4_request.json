@@ -1,0 +1,159 @@
+{
+  "product_url": "https://www.kohler.co.in/p/hone-single-control-lav-faucet-with-drain-22534in-4?skuId=22534IN-4-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/hone-single-control-lav-faucet-with-drain-22534in-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/hone-single-control-lav-faucet-with-drain-22534in-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4953>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/hone-single-control-lav-faucet-with-drain-22534in-4?skuId=22534IN-4-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "9U1EQYZYvd",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=257, origin; dur=731, ak_p; desc=\"1789417017202_400553039_332811300_98870_10167_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:16:58 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1813",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534IN-4.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534in_4frt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/hone-short-basin-mixer-with-drain-in-polished-chrome-finish",
+            "ProductNarrativeDescription_s": "Timeless and deliberate, the Hone collection embodies the beautifully understated elements of minimalist design. By eliminating unnecessary details, the collection is designed to elicit an emotional response with its stark, refined beauty.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|22534IN-4-CP|false|false|K-22534IN-4-CP"
+            ],
+            "ProductBrandName_s": "Hone",
+            "ProductPackageContents_s": "1-LAV FAUCET; 1 DRAIN; 1 INSTALLATION INSTRUCTION; 1 WARRANTY",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534IN-4.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534IN-4.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "22534IN-4-CP|aad40422_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad40422_rgb",
+              "22534IN-4-CP|22534IN-4-CP_CloseRoomViewProductDetail_d2c0007842_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_CloseRoomViewProductDetail_d2c0007842_rgb",
+              "22534IN-4-CP|22534IN-4-CP_FRONT_d2c0007763_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_FRONT_d2c0007763_rgb",
+              "22534IN-4-CP|22534IN-4-CP_CloseRoomViewInUse_d2c0007970_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_CloseRoomViewInUse_d2c0007970_rgb",
+              "22534IN-4-CP|22534IN-4-CP_ISOBackground_d2c0008095_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_ISOBackground_d2c0008095_rgb",
+              "22534IN-4-CP|22534IN-4-CP_CloseRoomView_d2c0008331_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_CloseRoomView_d2c0008331_rgb",
+              "22534IN-4-CP|22534IN-4-CP_OverheadRoomView_d2c0007893_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_OverheadRoomView_d2c0007893_rgb",
+              "22534IN-4-CP|22534IN-4-CP_PartialRoomView_d2c0007725_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_PartialRoomView_d2c0007725_rgb",
+              "22534IN-4-CP|22534IN-4-CP_SIDE_d2c0007961_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/22534IN-4-CP_SIDE_d2c0007961_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 8569.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 10450.0,
+            "ProductDescriptionProductShort_s": "Single control lav faucet with drain",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534in_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534in_4sde.dxf"
+            ],
+            "productName_s": "Hone Single control lav faucet with drain",
+            "ctId_s": "025c6c7c-d784-4eb3-9b1a-6210d88b1cd0",
+            "ProductWebFeatures_ss": [
+              "Featuring clean lines and square features, the contemporary Hone faucet range draws inspiration from modern European design",
+              "Excellent height and reach suitable for installation with wide range of KOHLER basins",
+              "KOHLER ceramic disc valves exceed twice the industry longevity standards for a lifetime of durable performance",
+              "KOHLER finishes last twice the industry standards for lasting shine and easy maintenance",
+              "Coordinates with Hone showering components to complete your bathroom"
+            ],
+            "priceList.ANY.finalPrice_d": 10450.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534in_4sde.dwg"
+            ],
+            "sku_s": "22534IN-4-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Hone-K-22534IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534IN-4.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "0.190",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "22534IN-4",
+            "productInRiverId_s": "inRiver_880222",
+            "priceList.CTR.finalPrice_d": 10450.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-22534IN-4-CP",
+            "ProductBrandNameDisplay_s": "Hone",
+            "variantList.sku_ss": [
+              "22534IN-4-CP"
+            ],
+            "SKUShippingHeight_s": "0.900",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "0.378",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534in_4pln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534in_4frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22534IN-4.dwg"
+            ],
+            "id": "025c6c7c-d784-4eb3-9b1a-6210d88b1cd0|22534IN-4-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

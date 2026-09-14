@@ -1,0 +1,161 @@
+{
+  "product_url": "https://www.kohler.co.in/p/apt-wall-mount-bath-spout-with-diverter-33996in?skuId=33996IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/apt-wall-mount-bath-spout-with-diverter-33996in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/apt-wall-mount-bath-spout-with-diverter-33996in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/apt-wall-mount-bath-spout-with-diverter-33996in?skuId=33996IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "u17aqQoKAj",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=287, origin; dur=765, ak_p; desc=\"1789417140701_400553039_332819936_105176_10825_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:19:01 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1522",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "160\"",
+            "ProductNarrativeDescription_s": "Essential for a soothing, high-quality bathing experience, the APT™ wall-mount bath spout proves that outstanding performance and aesthetics can flawlessly intersect. Fitted with a sleek diverter knob, this modern spout allows you to switch between the bath faucet and showerhead with ease. Pair this bath spout with other products and accessories in the APT™ collection for a unified design.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|33996IN-CP|true|false|K-33996IN-CP"
+            ],
+            "ProductBrandName_s": "APT™",
+            "ProductPackageContents_s": "1 BATH SPOUT; 1 WARRANTY; 1 INSTALLATION MANUAL;",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1587906-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-33996IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "33996IN-CP|aaf89625_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf89625_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2359.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 2780.0,
+            "ProductOverallLengthInches_s": "72\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996insde.dxf"
+            ],
+            "productName_s": "APT™ Wall-mount bath spout with diverter",
+            "ctId_s": "4069823d-0f6f-4b43-be18-2975fdf70211",
+            "ProductWebFeatures_ss": [
+              "A geometric, straight-line design with a simple, modern, and stylish touch",
+              "5.78 inch (14.7 cm) diverter bath spout with G 1/2 (13 mm) connection",
+              "Diverter easily switches water flow between bath spout and showerhead",
+              "Coordinates with other products in the APT™ collection"
+            ],
+            "priceList.ANY.finalPrice_d": 2780.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996insde.dwg"
+            ],
+            "sku_s": "33996IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-APT-K-33996IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "8.800",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "33996IN",
+            "productInRiverId_s": "inRiver_3069857",
+            "priceList.CTR.finalPrice_d": 2780.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-33996IN-CP",
+            "ProductBrandNameDisplay_s": "APT™",
+            "variantList.sku_ss": [
+              "33996IN-CP"
+            ],
+            "SKUShippingHeight_s": "5.900",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "25.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33996IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "55\"",
+            "id": "4069823d-0f6f-4b43-be18-2975fdf70211|33996IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

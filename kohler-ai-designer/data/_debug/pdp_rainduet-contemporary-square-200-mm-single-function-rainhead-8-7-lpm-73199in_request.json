@@ -1,0 +1,189 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rainduet-contemporary-square-200-mm-single-function-rainhead-8-7-lpm-73199in?skuId=73199IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rainduet-contemporary-square-200-mm-single-function-rainhead-8-7-lpm-73199in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rainduet-contemporary-square-200-mm-single-function-rainhead-8-7-lpm-73199in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5363>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rainduet-contemporary-square-200-mm-single-function-rainhead-8-7-lpm-73199in?skuId=73199IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "EhW60czaXs",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=257, origin; dur=828, ak_p; desc=\"1789417400734_400553039_332838316_108546_14232_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:23:21 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2104",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/rain-shower-square",
+            "ProductWebInstallation_ss": [
+              "G 1/2 (13 mm) inlet connection",
+              "Ceiling- or wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-1/2\"",
+            "ProductNarrativeDescription_s": "This Rainduet® contemporary square single-function rainhead is the perfect blend of simple design and powerful efficiency. Enjoy a shower that simulates the soaking deluge of a warm summer downpour. This rainhead features Katalyst™ air-induction technology, which efficiently mixes air and water to produce large water droplets and deliver a powerful, thoroughly drenching overhead shower experience. Its clean good looks and durable finish coordinate with many other KOHLER® faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|73199IN-CP|true|false|K-73199IN-CP"
+            ],
+            "ProductBrandName_s": "Rainduet™",
+            "ProductPackageContents_s": "1 DOUBLE ROBE HOOK;1 SHOWERHEAD; 1 FLOW REGULATOR;1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-73199IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73199IN-CP|aaf67694_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf67694_rgb",
+              "73199IN-CP|aah42099_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42099_rgb",
+              "73199IN-CP|aaf67695_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67695_rgb",
+              "73199IN-CP|aah42102_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/aah42102_rgb",
+              "73199IN-CP|aaf67692_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67692_rgb",
+              "73199IN-CP|aah42098_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42098_rgb",
+              "73199IN-CP|aaf67693_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67693_rgb",
+              "73199IN-CP|aah42104_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42104_rgb",
+              "73199IN-CP|aaf67696_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf67696_rgb",
+              "73199IN-CP|aad84288_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad84288_rgb",
+              "73199IN-CP|aah42105_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aah42105_rgb",
+              "73199IN-CP|aah42103_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42103_rgb",
+              "73199IN-CP|aah42100_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42100_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5889.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 8300.0,
+            "ProductOverallLengthInches_s": "7-7/8\"",
+            "ProductDescriptionProductShort_s": "Contemporary square 20 cm single-function rainhead, 8.7 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199insde.dxf"
+            ],
+            "productName_s": "Rainduet® Contemporary square 20 cm single-function rainhead, 8.7 lpm",
+            "ctId_s": "acf4bbdc-085a-45e0-96b2-027a57be9d1f",
+            "ProductWebFeatures_ss": [
+              "Unique square 7.87 inch (20 cm) single-function rainhead creates a modern look",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "8.7 lpm (2.3 gpm) maximum flow rate at 3.0 bar (43.5 psi)"
+            ],
+            "priceList.ANY.finalPrice_d": 8300.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2",
+              "Option 3"
+            ],
+            "sku_s": "73199IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Katalyst-K-73199IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "22.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73199IN",
+            "productInRiverId_s": "inRiver_558332",
+            "priceList.CTR.finalPrice_d": 8300.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-73199IN-CP",
+            "ProductBrandNameDisplay_s": "Rainduet™",
+            "variantList.sku_ss": [
+              "73199IN-CP"
+            ],
+            "SKUShippingHeight_s": "11.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "23.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_559628",
+              "inRiver_558250",
+              "inRiver_559635"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73199IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-7/8\"",
+            "id": "acf4bbdc-085a-45e0-96b2-027a57be9d1f|73199IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

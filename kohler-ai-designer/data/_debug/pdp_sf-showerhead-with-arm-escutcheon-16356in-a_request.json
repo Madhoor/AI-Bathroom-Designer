@@ -1,0 +1,177 @@
+{
+  "product_url": "https://www.kohler.co.in/p/sf-showerhead-with-arm-escutcheon-16356in-a?skuId=16356IN-A-AF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/sf-showerhead-with-arm-escutcheon-16356in-a",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/sf-showerhead-with-arm-escutcheon-16356in-a",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5359>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/sf-showerhead-with-arm-escutcheon-16356in-a?skuId=16356IN-A-AF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "s0VxPGfW8h",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=264, origin; dur=747, ak_p; desc=\"1789417450155_400553039_332841671_101176_10510_11_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:24:11 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2078",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356IN-A.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356in_afrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/complementary-single-spray-shower-in-french-gold-finish",
+            "ProductWebInstallation_ss": [
+              "G 1/2 connection",
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "3-13/16\"",
+            "ProductNarrativeDescription_s": "A luxurious shower experience is right at your fingertips with the KOHLER® Complementary single-function 97 mm round showerhead. Sleek and impeccably designed, this showerhead transforms ordinary moments into a rejuvenating ritual. The innovative racetrack waterway ensures consistent water flow and even dispersal, allowing the revitalizing spray to envelop you in full, soothing coverage. Thoughtfully crafted to balance functionality and elegance, this showerhead combines precision engineering with timeless design. At Kohler, we believe in creating products that enhance your daily routines, seamlessly blending comfort, performance, and style. Indulge in the perfect harmony of modern innovation and unmatched reliability, turning your bathroom into a personal sanctuary where relaxation and invigoration meet.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|16356IN-A-CP|true|false|K-16356IN-A-CP",
+              "Vibrant French Gold|swatch_AF|16356IN-A-AF|true|false|K-16356IN-A-AF",
+              "Vibrant Brushed Nickel|swatch_BN|16356IN-A-BN|false|false|K-16356IN-A-BN"
+            ],
+            "ProductBrandName_s": "Complementary™",
+            "ProductPackageContents_s": "1 - WARRANTY CARD;\n1 - INSTALLATION GUIDE;\n1 - HEADSHOWER; 1 - ESCUTCHEON; 1 - ARM",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356IN-A.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-16356IN-A_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356IN-A.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "16356IN-A-CP|aae32586_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae32586_rgb",
+              "16356IN-A-CP|aag39004_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag39004_rgb",
+              "16356IN-A-AF|aae32584_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae32584_rgb",
+              "16356IN-A-BN|aaf84682_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf84682_rgb",
+              "16356IN-A-BN|aaf84681_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf84681_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2899.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3420.0,
+            "ProductOverallLengthInches_s": "7\"",
+            "ProductDescriptionProductShort_s": "Single-function showerhead, 23.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356in_apln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356in_asde.dxf"
+            ],
+            "productName_s": "Complementary™ Single-function showerhead, 23.0 lpm",
+            "ctId_s": "6c912218-9c1d-4453-889c-4d74564aa99d",
+            "ProductWebFeatures_ss": [
+              "Versatile, contemporary design",
+              "Single-function showerhead",
+              "Full coverage spray produces an encompassing spray ideal for everyday use",
+              "Racetrack waterway ensures performance, delivering a consistent and dependable spray",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "97 mm (3.8 inch) diameter sprayface",
+              "23.0 lpm (6.1 gpm) maximum flow rate at 3.0 bar (43.5 psi)"
+            ],
+            "priceList.ANY.finalPrice_d": 3420.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356in_asde.dwg"
+            ],
+            "ProductResource.EnvironProdDecl.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1667467-24.pdf"
+            ],
+            "sku_s": "16356IN-A-AF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead_Kit-KOHLER-K-16356IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356IN-A.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "16.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "16356IN-A",
+            "productInRiverId_s": "inRiver_558905",
+            "priceList.CTR.finalPrice_d": 3420.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-16356IN-A-AF",
+            "ProductBrandNameDisplay_s": "Complementary™",
+            "variantList.sku_ss": [
+              "16356IN-A-AF",
+              "16356IN-A-CP",
+              "16356IN-A-BN"
+            ],
+            "SKUShippingHeight_s": "12.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "24.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356in_apln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356in_afrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/16356IN-A.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-3/4\"",
+            "id": "6c912218-9c1d-4453-889c-4d74564aa99d|16356IN-A-AF"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

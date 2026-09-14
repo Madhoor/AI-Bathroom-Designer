@@ -1,0 +1,163 @@
+{
+  "product_url": "https://www.kohler.co.in/p/july-bath-spout-without-diverter-in-polished-chrome-99060in?skuId=99060IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/july-bath-spout-without-diverter-in-polished-chrome-99060in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/july-bath-spout-without-diverter-in-polished-chrome-99060in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/july-bath-spout-without-diverter-in-polished-chrome-99060in?skuId=99060IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "iqIeP1u5JA",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=282, origin; dur=1318, ak_p; desc=\"1789417173699_400553039_332822471_160059_10790_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:19:35 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1891",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/kohler-july-bath-spout-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-3/4\"",
+            "ProductNarrativeDescription_s": "With its contemporary curves and sleek, simple lines, the KOHLER® July™ faucet collection effortlessly introduces refined European styling into your bathroom, merging elegance with an approachable price point. Meticulously crafted, each piece is designed to harmonize functionality with sophistication, offering a seamless blend of beauty and practicality for modern living. The July™ wall-mount bath spout without diverter stands as a testament to this philosophy, presenting a perfect marriage of performance and style. Constructed with a durable brass body, it promises long-lasting reliability and enduring quality, making it a timeless addition to your space. Whether you’re refreshing a small corner or undertaking a full remodel, the clean, minimalist aesthetic of July™ naturally complements any decor. Its understated yet luxurious presence transforms your bathroom into a serene retreat, where style meets purpose in every detail.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|99060IN-CP|true|false|K-99060IN-CP"
+            ],
+            "ProductBrandName_s": "July™",
+            "ProductPackageContents_s": "1 SPOUT; 1 CONNECTOR; 1 ESCUTCHEON; 1 SCREW; 1 WARRANTY CARD; 1 INSTALLATION INSTRUCTION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-99060IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "99060IN-CP|aad76913_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad76913_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2039.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 2880.0,
+            "ProductOverallLengthInches_s": "6-5/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060insde.dxf"
+            ],
+            "productName_s": "July™ Wall-mount bath spout",
+            "ctId_s": "dc334b09-6e2e-4a4f-a52c-01273bceec2d",
+            "ProductWebFeatures_ss": [
+              "Nondiverter spout",
+              "15.9 cm (6.25 inch) spout reach",
+              "37.8 lpm (9.98 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Aerated flow"
+            ],
+            "priceList.ANY.finalPrice_d": 2880.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060insde.dwg"
+            ],
+            "sku_s": "99060IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-July-K-99060IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "9.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "99060IN",
+            "productInRiverId_s": "inRiver_559280",
+            "priceList.CTR.finalPrice_d": 2880.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-99060IN-CP",
+            "ProductBrandNameDisplay_s": "July™",
+            "variantList.sku_ss": [
+              "99060IN-CP"
+            ],
+            "SKUShippingHeight_s": "6.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "25.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium brass construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99060IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/4\"",
+            "id": "dc334b09-6e2e-4a4f-a52c-01273bceec2d|99060IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

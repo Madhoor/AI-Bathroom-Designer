@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/parallel-square-127-mm-single-function-showerhead-9-0-lpm-22645in?skuId=22645IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/parallel-square-127-mm-single-function-showerhead-9-0-lpm-22645in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/parallel-square-127-mm-single-function-showerhead-9-0-lpm-22645in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5359>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/parallel-square-127-mm-single-function-showerhead-9-0-lpm-22645in?skuId=22645IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "vN9uQW7fh2",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=291, origin; dur=726, ak_p; desc=\"1789417442366_400553039_332841172_101739_10389_10_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:24:03 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1835",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/parallel-square-showerhead-with-shower-arm-in-polished-chrome",
+            "ProductWebInstallation_ss": [
+              "G 1/2 connection",
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "5\"",
+            "ProductNarrativeDescription_s": "The Parallel™ collection is the epitome of understated chic. By combining circular shapes within the square design, the balanced versatility of this collection allows it to blend in or stand out depending on your surrounding decor. This square 12.7 cm single-function showerhead delivers contemporary style engineered for everyday reliability. Includes coordinating shower arm and flange.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|22645IN-CP|true|false|K-22645IN-CP",
+              "Vibrant French Gold|swatch_AF|22645IN-AF|true|false|K-22645IN-AF"
+            ],
+            "ProductBrandName_s": "Parallel™",
+            "ProductPackageContents_s": "1 SHOWER HEAD;1 ESCUTCHEON; 1 SHOWER ARM;1 INSTALLATION INSTRUCTION;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-22645IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "22645IN-AF|aad98762_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad98762_rgb",
+              "22645IN-CP|aad83179_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad83179_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3599.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 4400.0,
+            "ProductOverallLengthInches_s": "8-1/2\"",
+            "ProductDescriptionProductShort_s": "Square 12.7 cm single-function showerhead, 9.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645insde.dxf"
+            ],
+            "productName_s": "Parallel™ Square 12.7 cm single-function showerhead, 9.0 lpm",
+            "ctId_s": "a6db1ca9-5e8c-455f-8578-baf5c12399fa",
+            "ProductWebFeatures_ss": [
+              "Single-function showerhead",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "Adjustable swivel ball joint allows for precise spray adjustment",
+              "Includes shower arm and flange",
+              "9.0 lpm (2.38 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Coordinates with other products in the Parallel collection"
+            ],
+            "priceList.ANY.finalPrice_d": 4400.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645insde.dwg"
+            ],
+            "sku_s": "22645IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-LOURE-K-28577T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "17.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "22645IN",
+            "productInRiverId_s": "inRiver_1429960",
+            "priceList.CTR.finalPrice_d": 4400.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-22645IN-CP",
+            "ProductBrandNameDisplay_s": "Parallel",
+            "variantList.sku_ss": [
+              "22645IN-CP",
+              "22645IN-AF"
+            ],
+            "SKUShippingHeight_s": "12.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "25.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22645IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "8-3/16\"",
+            "id": "a6db1ca9-5e8c-455f-8578-baf5c12399fa|22645IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

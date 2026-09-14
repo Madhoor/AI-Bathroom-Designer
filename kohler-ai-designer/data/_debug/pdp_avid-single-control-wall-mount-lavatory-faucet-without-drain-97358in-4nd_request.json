@@ -1,0 +1,154 @@
+{
+  "product_url": "https://www.kohler.co.in/p/avid-single-control-wall-mount-lavatory-faucet-without-drain-97358in-4nd?skuId=97358IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/avid-single-control-wall-mount-lavatory-faucet-without-drain-97358in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/avid-single-control-wall-mount-lavatory-faucet-without-drain-97358in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4953>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/avid-single-control-wall-mount-lavatory-faucet-without-drain-97358in-4nd?skuId=97358IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "CxQN36NjxT",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=253, origin; dur=801, ak_p; desc=\"1789417008000_400553039_332810587_105448_10975_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:16:49 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1481",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358in_4ndfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/avid-wall-mount-basin-mixer-in-chrome-finish",
+            "ProductNarrativeDescription_s": "Avid is the quintessential expression of today’s modern aesthetic movement. The contrast between fluid blends and sharp lines exudes sophistication and refinement.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|97358IN-4ND-CP|true|false|K-97358IN-4ND-CP"
+            ],
+            "ProductBrandName_s": "Avid",
+            "ProductPackageContents_s": "2 ESCUTCHEON, 1 SPOUT, 1 SLEEVE, 1 HANDLE, 1 INSTALLATION GUIDE & 1 WARRANTY.",
+            "Recommended_Accessories_ss": [
+              "inRiver_2312070"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "97358IN-4ND-CP|zab78580_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab78580_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 57759.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 72200.0,
+            "ProductDescriptionProductShort_s": "Sc wm lav faucet without drain",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358in_4ndsde.dxf"
+            ],
+            "productName_s": "Avid Single Control Wall mount Lavatory Faucet without Drain",
+            "ctId_s": "05e74e7e-abf0-4298-aa19-d9d06561881f",
+            "ProductWebFeatures_ss": [
+              "Complements the Avid(R) collection",
+              "Wall Mount Installation for a superior and cleaner lavatory area",
+              "Premium metal construction for durability and reliability",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance.",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times"
+            ],
+            "priceList.ANY.finalPrice_d": 72200.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358in_4ndsde.dwg"
+            ],
+            "sku_s": "97358IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Avid-K-97358IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "19.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "97358IN-4ND",
+            "productInRiverId_s": "inRiver_558478",
+            "priceList.CTR.finalPrice_d": 72200.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-97358IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Avid",
+            "variantList.sku_ss": [
+              "97358IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "13.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "38.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358in_4ndpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97358IN-4ND.dwg"
+            ],
+            "id": "05e74e7e-abf0-4298-aa19-d9d06561881f|97358IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

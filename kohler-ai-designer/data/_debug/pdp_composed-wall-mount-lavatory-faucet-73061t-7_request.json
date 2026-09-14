@@ -1,0 +1,174 @@
+{
+  "product_url": "https://www.kohler.co.in/p/composed-wall-mount-lavatory-faucet-73061t-7?skuId=73061T-7-BV",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/composed-wall-mount-lavatory-faucet-73061t-7",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/composed-wall-mount-lavatory-faucet-73061t-7",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4953>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/composed-wall-mount-lavatory-faucet-73061t-7?skuId=73061T-7-BV",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "btDj9hkDuJ",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=256, origin; dur=709, ak_p; desc=\"1789417033170_400553039_332812664_96515_11121_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:17:14 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1713",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061T-7.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061t_7frt.dxf"
+            ],
+            "ProductOverallWidthInches_s": "9-1/16\"",
+            "ProductNarrativeDescription_s": "Composed™ is characterized by simplicity, balance and purity of form. At its core it references a classic, authentic design language, which is then expressed with the fewest elements needed to create a lasting effect. This wall-mount single-handle bathroom sink faucet with knob handle is simple, minimal and timeless. The Composed™ faucet line is equally comfortable in both modern and traditional environments.",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|73061T-7-AF|true|false|K-73061T-7-AF",
+              "Vibrant Rose Gold|swatch_RGD|73061T-7-RGD|true|false|K-73061T-7-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|73061T-7-BV|true|false|K-73061T-7-BV"
+            ],
+            "ProductBrandName_s": "Composed™",
+            "ProductPackageContents_s": "1 VALVE, 1 TRIM, 1 SPOUT, 1 HANDLE, 1 HARDWARE KIT,& 1 INSTALLATION GUIDE",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208982",
+              "inRiver_3208985"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061T-7.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1247070-2A_A1.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-73061T-7_spec_TH_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-73061T-7_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061T-7.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73061T-7-RGD|aad28700_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad28700_rgb",
+              "73061T-7-BV|aad40440_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad40440_rgb",
+              "73061T-7-AF|aad28713_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad28713_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 50799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 63500.0,
+            "ProductOverallLengthInches_s": "7-7/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount lavatory faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061t_7pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061t_7sde.dxf"
+            ],
+            "productName_s": "Composed™ Wall-mount lavatory faucet",
+            "ctId_s": "ed50d290-ab6f-4984-ba55-87d568507f57",
+            "ProductWebFeatures_ss": [
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance",
+              "Lift and turn handle",
+              "Spout reach 17 cm",
+              "Includes drain",
+              "Directionally adjustable, laminar-flow aerator",
+              "Includes in-wall brass valve"
+            ],
+            "priceList.ANY.finalPrice_d": 63500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061t_7sde.dwg"
+            ],
+            "sku_s": "73061T-7-BV",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-COMPOSED-K-73061T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061T-7.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "20.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73061T-7",
+            "productInRiverId_s": "inRiver_1338372",
+            "priceList.CTR.finalPrice_d": 63500.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-73061T-7-BV",
+            "ProductBrandNameDisplay_s": "Composed™",
+            "variantList.sku_ss": [
+              "73061T-7-AF",
+              "73061T-7-BV",
+              "73061T-7-RGD"
+            ],
+            "SKUShippingHeight_s": "14.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "39.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061t_7pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Brass",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061t_7frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061T-7.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-5/16\"",
+            "id": "ed50d290-ab6f-4984-ba55-87d568507f57|73061T-7-BV"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

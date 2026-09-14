@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/composed-single-control-side-mount-tall-lavatory-faucet-with-drain-73159in-7?skuId=73159IN-7-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/composed-single-control-side-mount-tall-lavatory-faucet-with-drain-73159in-7",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/composed-single-control-side-mount-tall-lavatory-faucet-with-drain-73159in-7",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4953>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/composed-single-control-side-mount-tall-lavatory-faucet-with-drain-73159in-7?skuId=73159IN-7-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "23gg3rXyrP",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=245, origin; dur=743, ak_p; desc=\"1789416991997_400553039_332809396_98849_10060_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:16:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1815",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159IN-7.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159in_7frt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/composed-tall-basin-mixer-in-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Deck-mount",
+              "Single-hole mounting",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductOverallWidthInches_s": "3-1/2\"",
+            "ProductNarrativeDescription_s": "Timeless and deliberate, the Composed™ collection embodies the beautifully understated elements of minimalist design. By eliminating unnecessary details, the collection is designed to elicit an emotional response with its stark, refined beauty. This tall bathroom sink faucet with Cylindrical handle is a striking complement to any vessel-style sink.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|73159IN-7-CP|true|false|K-73159IN-7-CP",
+              "Vibrant Brushed Rose Gold|swatch_BRD|73159IN-7-BRD|true|false|K-73159IN-7-BRD"
+            ],
+            "ProductBrandName_s": "Composed™",
+            "ProductPackageContents_s": "1 SPOUT ASSY, 1 DRAIN, 1 HARDWARE KIT, 1 INSTALLATION GUIDE & 1 WARRANTY CARD.",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159IN-7.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-73159IN-7_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159IN-7.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73159IN-7-CP|aag70622_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag70622_rgb",
+              "73159IN-7-BRD|aag81708_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag81708_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 46239.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 57800.0,
+            "ProductOverallLengthInches_s": "8-3/4\"",
+            "ProductDescriptionProductShort_s": "Tall single-handle bathroom sink faucet with Cylindrical handle, 8.3 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159in_7pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159in_7sde.dxf"
+            ],
+            "productName_s": "Composed™ Tall single-handle bathroom sink faucet with Cylindrical handle, 8.3 lpm",
+            "ctId_s": "9b6ac3d5-8f83-43fe-9348-5cbbf1e3ec12",
+            "ProductWebFeatures_ss": [
+              "Sleek, minimalist design",
+              "Tall height is ideal for vessel-style sinks",
+              "Single Cylindrical handle allows for both volume and temperature control",
+              "8 inch (20.3 cm) spout height",
+              "7.13 inch (18.1 cm) spout reach",
+              "Laminar flow",
+              "2.2 gpm (8.3 lpm) maximum flow rate at 45 psi (3.1 bar)",
+              "Includes pop-up drain",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 57800.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159in_7sde.dwg"
+            ],
+            "sku_s": "73159IN-7-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Composed-K-73159IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159IN-7.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "27.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73159IN-7",
+            "productInRiverId_s": "inRiver_558472",
+            "priceList.CTR.finalPrice_d": 57800.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-73159IN-7-CP",
+            "ProductBrandNameDisplay_s": "Composed™",
+            "variantList.sku_ss": [
+              "73159IN-7-CP",
+              "73159IN-7-BRD"
+            ],
+            "SKUShippingHeight_s": "11.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "38.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159in_7pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159in_7frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73159IN-7.dwg"
+            ],
+            "ProductOverallHeightInches_s": "8-3/4\"",
+            "id": "9b6ac3d5-8f83-43fe-9348-5cbbf1e3ec12|73159IN-7-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

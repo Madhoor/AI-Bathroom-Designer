@@ -1,0 +1,208 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rain-max-square-254-mm-single-function-rainhead-22-lpm-26855in?skuId=26855IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rain-max-square-254-mm-single-function-rainhead-22-lpm-26855in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rain-max-square-254-mm-single-function-rainhead-22-lpm-26855in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5351>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rain-max-square-254-mm-single-function-rainhead-22-lpm-26855in?skuId=26855IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "UK7byGL3BV",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=278, origin; dur=759, ak_p; desc=\"1789417392007_400553039_332837600_103782_10607_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:23:13 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2227",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/rain-max-256mm-square-rainhead-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Ceiling- or wall-mount",
+              "Requires rainhead arm and flange (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "255\"",
+            "ProductNarrativeDescription_s": "The Rain Max square rainhead carries you away to indulge in the escape of a refreshing garden downpour from the comfort of your own shower. Using dual core technology with a unique synchronized flow of deep core and rain converge sprays, you can experience a visually stunning lattice design and intense drenching simultaneously. A MasterClean™ sprayface with removable center makes cleaning simple. Available in a range of dazzling finishes, this rainhead can be mounted on the ceiling or wall depending on the rainhead arm pairing.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|26855IN-CP|true|false|K-26855IN-CP",
+              "Vibrant French Gold|swatch_AF|26855IN-AF|true|false|K-26855IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|26855IN-RGD|true|false|K-26855IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|26855IN-BV|true|false|K-26855IN-BV",
+              "Matte Black|swatch_BL|26855IN-BL|true|false|K-26855IN-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|26855IN-BRD|true|false|K-26855IN-BRD"
+            ],
+            "ProductBrandName_s": "Rain Max",
+            "ProductPackageContents_s": "1 SHOWERHEAD; 1 FLOW REGULATOR; 1 KEY; 1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1508929-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-26855IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "26855IN-BL|aaf06938_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06938_rgb",
+              "26855IN-BL|aaf67687_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67687_rgb",
+              "26855IN-AF|aaf06951_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06951_rgb",
+              "26855IN-BV|aaf06931_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06931_rgb",
+              "26855IN-BV|aaf67686_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67686_rgb",
+              "26855IN-RGD|aaf06946_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06946_rgb",
+              "26855IN-CP|aaf06958_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06958_rgb",
+              "26855IN-CP|aaf67682_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67682_rgb",
+              "26855IN-CP|aaf67683_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67683_rgb",
+              "26855IN-CP|aaf67681_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67681_rgb",
+              "26855IN-CP|aaf67684_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67684_rgb",
+              "26855IN-CP|aaf67685_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67685_rgb",
+              "26855IN-BRD|aag61356_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61356_rgb",
+              "26855IN-BRD|aag64157_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag64157_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 15699.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 19150.0,
+            "ProductOverallLengthInches_s": "255\"",
+            "ProductDescriptionProductShort_s": "Square 25.4 cm single-function rainhead, 22 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855insde.dxf"
+            ],
+            "productName_s": "Rain Max Square 25.4 cm single-function rainhead, 22 lpm",
+            "ctId_s": "5a0a3d75-d764-41d2-a9d0-24562da27e3b",
+            "ProductWebFeatures_ss": [
+              "Single-function rainhead",
+              "Dual core technology showcases unique synchronized flow of deep core and rain converge spray experiences",
+              "Inner deep core spray creates deluge of intense drenching",
+              "Outer rain converge spray features visually stunning lattice pattern",
+              "Includes key to help remove inner sprayface for easy routine cleaning",
+              "Outer sprayface features MasterClean™, an easy-to-clean surface that withstands mineral buildup",
+              "22.0 lpm (5.5 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Available in a range of dazzling finishes"
+            ],
+            "priceList.ANY.finalPrice_d": 19150.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2",
+              "Option 3",
+              "Option 4",
+              "Option 5"
+            ],
+            "sku_s": "26855IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Dual_Core-K-26855IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "29.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "26855IN",
+            "productInRiverId_s": "inRiver_2739744",
+            "priceList.CTR.finalPrice_d": 19150.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-26855IN-CP",
+            "ProductBrandNameDisplay_s": "Rain Max",
+            "variantList.sku_ss": [
+              "26855IN-AF",
+              "26855IN-BL",
+              "26855IN-BV",
+              "26855IN-CP",
+              "26855IN-RGD",
+              "26855IN-BRD"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "31.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_559635",
+              "inRiver_559628",
+              "inRiver_2492049",
+              "inRiver_2371559",
+              "inRiver_877874"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26855IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "52-1/8\"",
+            "id": "5a0a3d75-d764-41d2-a9d0-24562da27e3b|26855IN-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

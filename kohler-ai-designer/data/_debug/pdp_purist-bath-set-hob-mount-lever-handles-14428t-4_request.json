@@ -1,0 +1,156 @@
+{
+  "product_url": "https://www.kohler.co.in/p/purist-bath-set-hob-mount-lever-handles-14428t-4?skuId=14428T-4-RGD",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/purist-bath-set-hob-mount-lever-handles-14428t-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/purist-bath-set-hob-mount-lever-handles-14428t-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/purist-bath-set-hob-mount-lever-handles-14428t-4?skuId=14428T-4-RGD",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "w90UPfYkkH",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=269, origin; dur=738, ak_p; desc=\"1789417128695_400553039_332819077_100735_11244_10_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:18:49 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1462",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428T-4.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428t_4frt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/purist-d-mount-bath-faucet-lever-handle",
+            "ProductNarrativeDescription_s": "Purist faucets and accessories combine simple, architectural forms with sensual design lines. Featuring this modern, minimalist style, this Purist bath faucet trim includes a spout and ergonomic lever handles that add sophistication to your bath.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Rose Gold|swatch_RGD|14428T-4-RGD|false|false|K-14428T-4-RGD"
+            ],
+            "ProductBrandName_s": "Purist™",
+            "ProductPackageContents_s": "1 SPOUT ASSEMBLY; 2 HANDLE ASSEMBLY; 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428T-4.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1535707372560_14428T.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1380095934_K-14428T(SS).pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428T-4.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "14428T-4-RGD|zac19681_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac19681_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 41829.0,
+            "SKUCountryofOrigin_s": "ID",
+            "priceList.KEMP.finalPrice_d": 52290.0,
+            "ProductDescriptionProductShort_s": "Bath set hob mount lever handles",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428t_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428t_4sde.dxf"
+            ],
+            "productName_s": "Purist™ Bath set hob mount lever handles",
+            "ctId_s": "da6884db-4383-4c52-a486-41a340af3ed4",
+            "ProductWebFeatures_ss": [
+              "Solid Metal Construction for Durability and Reliability",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards over two times",
+              "Handles pre-assembled on valves to simplify installation"
+            ],
+            "priceList.ANY.finalPrice_d": 52290.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428t_4sde.dwg"
+            ],
+            "sku_s": "14428T-4-RGD",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Deck_Mount-Bath-KOHLER-PURIST-K-14428T.zip",
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Deck_Mount_Bath-KOHLER-PURIST-K-14428T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428T-4.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "37.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "14428T-4",
+            "productInRiverId_s": "inRiver_1336229",
+            "priceList.CTR.finalPrice_d": 52290.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-14428T-4-RGD",
+            "ProductBrandNameDisplay_s": "Purist™",
+            "variantList.sku_ss": [
+              "14428T-4-RGD"
+            ],
+            "SKUShippingHeight_s": "10.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "54.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428t_4pln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428t_4frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14428T-4.dwg"
+            ],
+            "id": "da6884db-4383-4c52-a486-41a340af3ed4|14428T-4-RGD"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

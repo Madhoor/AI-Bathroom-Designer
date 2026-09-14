@@ -1,0 +1,2107 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "ColorFinish_s",
+      "{!ex=\"ProductBrandNameDisplay_s\"}ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "Matte Black": "swatch_BL",
+      "Not Applicable": "swatch_NA",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant Brushed Bronze": "swatch_BV",
+      "Vibrant Brushed Moderne Brass": "swatch_2MB",
+      "Vibrant Brushed Rose Gold": "swatch_BRD",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD",
+      "Vibrant Titanium": "swatch_TT"
+    },
+    "facet_labels": {
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "ProductStyle_ss": "Style",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|10385IN-CP|true|false|K-10385IN-CP",
+          "Vibrant French Gold|swatch_AF|10385IN-AF|true|false|K-10385IN-AF",
+          "Vibrant Brushed Bronze|swatch_BV|10385IN-BV|true|false|K-10385IN-BV",
+          "Vibrant Brushed Rose Gold|swatch_BRD|10385IN-BRD|true|false|K-10385IN-BRD"
+        ],
+        "ProductBrandName_s": "Complementary™",
+        "masterSKU_s": "10385IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BV",
+          "swatch_AF",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "10385IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "10385IN-BV|aae79591_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae79591_rgb",
+          "10385IN-AF|zab06578_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab06578_rgb",
+          "10385IN-CP|aaf80573_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf80573_rgb",
+          "10385IN-BRD|aag61409_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61409_rgb"
+        ],
+        "priceList.GST.price_d": 2779.0,
+        "priceList.GST.finalPrice_d": 2779.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Complementary™ Wall-mount bath spout",
+        "ctId_s": "3f752a4c-b652-4850-8690-64df10f0f7bf",
+        "Color.GST.Details_ss": [
+          "10385IN-CP|Polished Chrome|3280.0|2779.0||https://kohler.scene7.com/is/image/PAWEB/aaf80573_rgb",
+          "10385IN-BV|Vibrant Brushed Bronze|4910.0|4169.0||https://kohler.scene7.com/is/image/PAWEB/aae79591_rgb",
+          "10385IN-AF|Vibrant French Gold|4100.0|3479.0||https://kohler.scene7.com/is/image/PAWEB/zab06578_rgb",
+          "10385IN-BRD|Vibrant Brushed Rose Gold|4910.0|4169.0||https://kohler.scene7.com/is/image/PAWEB/aag61409_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "10385IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae79591_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zab06578_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf80573_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61409_rgb"
+        ],
+        "priceList.ANY.price_d": 3280.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "10385IN-AF",
+        "ProductBrandNameDisplay_s": "Complementary™",
+        "variantList.sku_ss": [
+          "10385IN-CP",
+          "10385IN-BV",
+          "10385IN-AF",
+          "10385IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 2779.0,
+        "displayPriceStartingAt_s": "₹2,779.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Bronze",
+          "Vibrant French Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "complementary-bath-spout-without-diverter-flat-face-160mm-10385in",
+        "priceStartingAt.GST_d": 2779.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "3f752a4c-b652-4850-8690-64df10f0f7bf|10385IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|23973IN-AA-CP|true|false|K-23973IN-AA-CP",
+          "Vibrant French Gold|swatch_AF|23973IN-AA-AF|true|false|K-23973IN-AA-AF",
+          "Vibrant Rose Gold|swatch_RGD|23973IN-AA-RGD|true|false|K-23973IN-AA-RGD",
+          "Matte Black|swatch_BL|23973IN-AA-BL|true|false|K-23973IN-AA-BL"
+        ],
+        "ProductBrandName_s": "KOHLER VIVE®",
+        "masterSKU_s": "23973IN-AA-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_RGD",
+          "swatch_AF",
+          "swatch_BL"
+        ],
+        "sourceId_s": "23973IN-AA-CP",
+        "productImages.labelWithUrl_ss": [
+          "23973IN-AA-CP|aae78173_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae78173_rgb",
+          "23973IN-AA-RGD|aaf78611_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78611_rgb",
+          "23973IN-AA-AF|aaf78613_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78613_rgb",
+          "23973IN-AA-BL|aaf07525_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf07525_rgb"
+        ],
+        "priceList.GST.price_d": 4259.0,
+        "priceList.GST.finalPrice_d": 4259.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "KOHLER VIVE® Wall-mount bath spout",
+        "ctId_s": "37f2f84d-0e0a-405d-804e-53be5a1ea9aa",
+        "Color.GST.Details_ss": [
+          "23973IN-AA-CP|Polished Chrome|5200.0|4259.0||https://kohler.scene7.com/is/image/PAWEB/aae78173_rgb",
+          "23973IN-AA-RGD|Vibrant Rose Gold|7400.0|6059.0||https://kohler.scene7.com/is/image/PAWEB/aaf78611_rgb",
+          "23973IN-AA-AF|Vibrant French Gold|6550.0|5369.0||https://kohler.scene7.com/is/image/PAWEB/aaf78613_rgb",
+          "23973IN-AA-BL|Matte Black|7400.0|6059.0||https://kohler.scene7.com/is/image/PAWEB/aaf07525_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "23973IN-AA",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae78173_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78611_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78613_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf07525_rgb"
+        ],
+        "priceList.ANY.price_d": 5200.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "23973IN-AA-AF",
+        "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+        "variantList.sku_ss": [
+          "23973IN-AA-CP",
+          "23973IN-AA-RGD",
+          "23973IN-AA-AF",
+          "23973IN-AA-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 4259.0,
+        "displayPriceStartingAt_s": "₹4,259.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Rose Gold",
+          "Vibrant French Gold",
+          "Matte Black"
+        ],
+        "slug_s": "bath-spout-without-diverter-in-rose-gold-23973in-aa",
+        "priceStartingAt.GST_d": 4259.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "37f2f84d-0e0a-405d-804e-53be5a1ea9aa|23973IN-AA-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|99460IN-4-CP|false|false|K-99460IN-4-CP"
+        ],
+        "ProductBrandName_s": "Kumin®",
+        "masterSKU_s": "99460IN-4-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "99460IN-4-CP",
+        "productImages.labelWithUrl_ss": [
+          "99460IN-4-CP|zab60350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab60350_rgb"
+        ],
+        "priceList.GST.price_d": 15639.0,
+        "priceList.GST.finalPrice_d": 15639.0,
+        "ProductDescriptionProductShort_s": "Exposed sc b/s faucet",
+        "productName_s": "Kumin®  Exposed sc b/s faucet",
+        "ctId_s": "e3b97517-a9da-4030-a636-3d2dd61a716c",
+        "Color.GST.Details_ss": [
+          "99460IN-4-CP|Polished Chrome|18400.0|15639.0||https://kohler.scene7.com/is/image/PAWEB/zab60350_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "99460IN-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab60350_rgb"
+        ],
+        "priceList.ANY.price_d": 18400.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "99460IN-4-CP",
+        "ProductBrandNameDisplay_s": "Kumin®",
+        "variantList.sku_ss": [
+          "99460IN-4-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 15639.0,
+        "displayPriceStartingAt_s": "₹15,639.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "kumin-exposed-sc-b-s-faucet-99460in-4",
+        "priceStartingAt.GST_d": 15639.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e3b97517-a9da-4030-a636-3d2dd61a716c|99460IN-4-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27493IN-CP|true|false|K-27493IN-CP",
+          "Vibrant French Gold|swatch_AF|27493IN-AF|true|false|K-27493IN-AF"
+        ],
+        "ProductBrandName_s": "Fore™",
+        "masterSKU_s": "27493IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "27493IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "27493IN-CP|aaf87252_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf87252_rgb",
+          "27493IN-AF|aaf87254_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf87254_rgb"
+        ],
+        "priceList.GST.price_d": 3399.0,
+        "priceList.GST.finalPrice_d": 3399.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+        "productName_s": "Fore™ Wall-mount bath spout with diverter",
+        "ctId_s": "f605e795-ebbb-4530-bc40-37317313604e",
+        "Color.GST.Details_ss": [
+          "27493IN-CP|Polished Chrome|4010.0|3399.0||https://kohler.scene7.com/is/image/PAWEB/aaf87252_rgb",
+          "27493IN-AF|Vibrant French Gold|5010.0|4249.0||https://kohler.scene7.com/is/image/PAWEB/aaf87254_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "27493IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf87252_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf87254_rgb"
+        ],
+        "priceList.ANY.price_d": 4010.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "27493IN-AF",
+        "ProductBrandNameDisplay_s": "Fore™",
+        "variantList.sku_ss": [
+          "27493IN-CP",
+          "27493IN-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 3399.0,
+        "displayPriceStartingAt_s": "₹3,399.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "fore-bath-spout-with-diverter-27493in",
+        "priceStartingAt.GST_d": 3399.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f605e795-ebbb-4530-bc40-37317313604e|27493IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Rose Gold|swatch_RGD|14428T-4-RGD|false|false|K-14428T-4-RGD"
+        ],
+        "ProductBrandName_s": "Purist™",
+        "masterSKU_s": "14428T-4-RGD",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_RGD"
+        ],
+        "sourceId_s": "14428T-4-RGD",
+        "productImages.labelWithUrl_ss": [
+          "14428T-4-RGD|zac19681_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac19681_rgb"
+        ],
+        "priceList.GST.price_d": 41829.0,
+        "priceList.GST.finalPrice_d": 41829.0,
+        "ProductDescriptionProductShort_s": "Bath set hob mount lever handles",
+        "productName_s": "Purist™ Bath set hob mount lever handles",
+        "ctId_s": "da6884db-4383-4c52-a486-41a340af3ed4",
+        "Color.GST.Details_ss": [
+          "14428T-4-RGD|Vibrant Rose Gold|52290.0|41829.0||https://kohler.scene7.com/is/image/PAWEB/zac19681_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "14428T-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zac19681_rgb"
+        ],
+        "priceList.ANY.price_d": 52290.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "14428T-4-RGD",
+        "ProductBrandNameDisplay_s": "Purist™",
+        "variantList.sku_ss": [
+          "14428T-4-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 41829.0,
+        "displayPriceStartingAt_s": "₹41,829.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "purist-bath-set-hob-mount-lever-handles-14428t-4",
+        "priceStartingAt.GST_d": 41829.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "da6884db-4383-4c52-a486-41a340af3ed4|14428T-4-RGD"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|33996IN-CP|true|false|K-33996IN-CP"
+        ],
+        "ProductBrandName_s": "APT™",
+        "masterSKU_s": "33996IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "33996IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "33996IN-CP|aaf89625_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf89625_rgb"
+        ],
+        "priceList.GST.price_d": 2359.0,
+        "priceList.GST.finalPrice_d": 2359.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+        "productName_s": "APT™ Wall-mount bath spout with diverter",
+        "ctId_s": "4069823d-0f6f-4b43-be18-2975fdf70211",
+        "Color.GST.Details_ss": [
+          "33996IN-CP|Polished Chrome|2780.0|2359.0||https://kohler.scene7.com/is/image/PAWEB/aaf89625_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "33996IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf89625_rgb"
+        ],
+        "priceList.ANY.price_d": 2780.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "33996IN-CP",
+        "ProductBrandNameDisplay_s": "APT™",
+        "variantList.sku_ss": [
+          "33996IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 2359.0,
+        "displayPriceStartingAt_s": "₹2,359.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "apt-wall-mount-bath-spout-with-diverter-33996in",
+        "priceStartingAt.GST_d": 2359.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "4069823d-0f6f-4b43-be18-2975fdf70211|33996IN-CP"
+      },
+      {
+        "ProductBrandName_s": "Purist™",
+        "masterSKU_s": "14426-2MB",
+        "sourceId_s": "14426-2MB",
+        "priceList.GST.price_d": 31100.0,
+        "priceList.GST.finalPrice_d": 31100.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Purist® Wall-mount bath spout",
+        "ctId_s": "3979eba9-89b1-4725-9805-e390c1076fde",
+        "Color.GST.Details_ss": [
+          "14426-2MB|Vibrant Brushed Moderne Brass|31100.0|31100.0||https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewProductDetailSquare_d2c0015626_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "14426",
+        "ProductBrandNameDisplay_s": "Purist",
+        "displayPriceStartingAt_s": "₹31,100.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Moderne Brass"
+        ],
+        "slug_s": "purist-wall-mount-non-diverter-bath-spout-35-degrees-14426",
+        "priceStartingAt.GST_d": 31100.0,
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Moderne Brass|swatch_2MB|14426-2MB|false|false|K-14426-2MB"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2MB"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "14426-2MB|14426-2MB_CloseRoomViewProductDetailSquare_d2c0015626_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewProductDetailSquare_d2c0015626_rgb",
+          "14426-2MB|14426-2MB_DIMENSIONALSquareWithText_d2c0015639_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_DIMENSIONALSquareWithText_d2c0015639_en-US",
+          "14426-2MB|14426-2MB_FRONTSquare_d2c0015650_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_FRONTSquare_d2c0015650_rgb",
+          "14426-2MB|14426-2MB_PartialRoomViewSquareWithText_d2c0015633_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_PartialRoomViewSquareWithText_d2c0015633_en-US",
+          "14426-2MB|14426-2MB_ISOSquare_d2c0015645_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_ISOSquare_d2c0015645_rgb",
+          "14426-2MB|14426-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0015632_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0015632_en-US",
+          "14426-2MB|14426-2MB_CloseRoomViewInUseSquareWithText_d2c0015616_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewInUseSquareWithText_d2c0015616_en-US",
+          "14426-2MB|14426-2MB_SIDESquare_d2c0015642_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_SIDESquare_d2c0015642_rgb",
+          "14426-2MB|14426-2MB_PartialRoomViewInUseSquareWithText_d2c0015605_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_PartialRoomViewInUseSquareWithText_d2c0015605_en-US",
+          "14426-2MB|14426-2MB_ISO_d2c0015645_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_ISO_d2c0015645_rgb",
+          "14426-2MB|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewProductDetailSquare_d2c0015626_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_DIMENSIONALSquareWithText_d2c0015639_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_FRONTSquare_d2c0015650_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_PartialRoomViewSquareWithText_d2c0015633_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_ISOSquare_d2c0015645_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0015632_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewInUseSquareWithText_d2c0015616_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_SIDESquare_d2c0015642_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_PartialRoomViewInUseSquareWithText_d2c0015605_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/14426-2MB_ISO_d2c0015645_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "priceList.ANY.price_d": 31100.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "14426-2MB",
+        "variantList.sku_ss": [
+          "14426-2MB"
+        ],
+        "discountedPriceStartingAt.GST_d": 31100.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "3979eba9-89b1-4725-9805-e390c1076fde|14426-2MB"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|25764IN-CP|true|false|K-25764IN-CP",
+          "Vibrant French Gold|swatch_AF|25764IN-AF|true|false|K-25764IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|25764IN-RGD|true|false|K-25764IN-RGD",
+          "Matte Black|swatch_BL|25764IN-BL|true|false|K-25764IN-BL"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "metaTitle_s": "Wall-Mount Bath Spout With Diverter | K-25764IN | KOHLER",
+        "masterSKU_s": "25764IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_RGD",
+          "swatch_CP"
+        ],
+        "sourceId_s": "25764IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "25764IN-AF|aae24727_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae24727_rgb",
+          "25764IN-CP|aae24732_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae24732_rgb",
+          "25764IN-BL|aae24733_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae24733_rgb",
+          "25764IN-RGD|aae24726_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae24726_rgb"
+        ],
+        "priceList.GST.price_d": 8799.0,
+        "priceList.GST.finalPrice_d": 8799.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+        "productName_s": "ModernLife Edge™ Wall-mount bath spout with diverter",
+        "ctId_s": "245193a6-d5cc-4848-997f-b1cc1b9b9774",
+        "Color.GST.Details_ss": [
+          "25764IN-AF|Vibrant French Gold|13800.0|11039.0||https://kohler.scene7.com/is/image/PAWEB/aae24727_rgb",
+          "25764IN-BL|Matte Black|15400.0|12319.0||https://kohler.scene7.com/is/image/PAWEB/aae24733_rgb",
+          "25764IN-RGD|Vibrant Rose Gold|15400.0|12319.0||https://kohler.scene7.com/is/image/PAWEB/aae24726_rgb",
+          "25764IN-CP|Polished Chrome|11000.0|8799.0||https://kohler.scene7.com/is/image/PAWEB/aae24732_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "25764IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae24727_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae24732_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae24733_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae24726_rgb"
+        ],
+        "priceList.ANY.price_d": 11000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "25764IN-AF",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "25764IN-AF",
+          "25764IN-BL",
+          "25764IN-RGD",
+          "25764IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 8799.0,
+        "displayPriceStartingAt_s": "₹8,799.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Rose Gold",
+          "Polished Chrome"
+        ],
+        "slug_s": "modernlife-edge-wall-mount-bath-spout-with-diverter-25764in",
+        "priceStartingAt.GST_d": 8799.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "245193a6-d5cc-4848-997f-b1cc1b9b9774|25764IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Not Applicable|swatch_NA|97904T-NA|true|false|K-97904T-NA"
+        ],
+        "ProductBrandName_s": "Avid™",
+        "masterSKU_s": "97904T-NA",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_NA"
+        ],
+        "sourceId_s": "97904T-NA",
+        "productImages.labelWithUrl_ss": [
+          "97904T-NA|aae11933_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae11933_rgb"
+        ],
+        "priceList.GST.price_d": 17599.0,
+        "priceList.GST.finalPrice_d": 17599.0,
+        "ProductDescriptionProductShort_s": "Free-Standing Bath Filler Mounting Base",
+        "productName_s": "Avid™ Free-Standing Bath Filler Mounting Base",
+        "ctId_s": "468690a7-fd12-4d0f-a296-076b165ee28a",
+        "Color.GST.Details_ss": [
+          "97904T-NA|Not Applicable|22000.0|17599.0||https://kohler.scene7.com/is/image/PAWEB/aae11933_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "97904T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae11933_rgb"
+        ],
+        "priceList.ANY.price_d": 22000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "97904T-NA",
+        "variantList.sku_ss": [
+          "97904T-NA"
+        ],
+        "discountedPriceStartingAt.GST_d": 17599.0,
+        "displayPriceStartingAt_s": "₹17,599.00",
+        "SKUColorFinishName_ss": [
+          "Not Applicable"
+        ],
+        "slug_s": "floormount-bath-shower-fau-mounting-base-97904t",
+        "priceStartingAt.GST_d": 17599.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "468690a7-fd12-4d0f-a296-076b165ee28a|97904T-NA"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|99060IN-CP|true|false|K-99060IN-CP"
+        ],
+        "ProductBrandName_s": "July™",
+        "masterSKU_s": "99060IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "99060IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "99060IN-CP|aad76913_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad76913_rgb"
+        ],
+        "priceList.GST.price_d": 2039.0,
+        "priceList.GST.finalPrice_d": 2039.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "July™ Wall-mount bath spout",
+        "ctId_s": "dc334b09-6e2e-4a4f-a52c-01273bceec2d",
+        "Color.GST.Details_ss": [
+          "99060IN-CP|Polished Chrome|2880.0|2039.0||https://kohler.scene7.com/is/image/PAWEB/aad76913_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "99060IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad76913_rgb"
+        ],
+        "priceList.ANY.price_d": 2880.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "99060IN-CP",
+        "ProductBrandNameDisplay_s": "July™",
+        "variantList.sku_ss": [
+          "99060IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 2039.0,
+        "displayPriceStartingAt_s": "₹2,039.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "july-bath-spout-without-diverter-in-polished-chrome-99060in",
+        "priceStartingAt.GST_d": 2039.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "dc334b09-6e2e-4a4f-a52c-01273bceec2d|99060IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Not Applicable|swatch_NA|97905T-NA|true|false|K-97905T-NA"
+        ],
+        "ProductBrandName_s": "Kohler™",
+        "masterSKU_s": "97905T-NA",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_NA"
+        ],
+        "sourceId_s": "97905T-NA",
+        "productImages.labelWithUrl_ss": [
+          "97905T-NA|aae11938_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae11938_rgb"
+        ],
+        "priceList.GST.price_d": 19199.0,
+        "priceList.GST.finalPrice_d": 19199.0,
+        "ProductDescriptionProductShort_s": "Mounting block",
+        "productName_s": "Mounting block",
+        "ctId_s": "494df5bb-54a9-4f4f-8d1c-e57eb6f29d78",
+        "Color.GST.Details_ss": [
+          "97905T-NA|Not Applicable|24000.0|19199.0||https://kohler.scene7.com/is/image/PAWEB/aae11938_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "97905T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae11938_rgb"
+        ],
+        "priceList.ANY.price_d": 24000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "97905T-NA",
+        "ProductBrandNameDisplay_s": "Parallel",
+        "variantList.sku_ss": [
+          "97905T-NA"
+        ],
+        "discountedPriceStartingAt.GST_d": 19199.0,
+        "displayPriceStartingAt_s": "₹19,199.00",
+        "SKUColorFinishName_ss": [
+          "Not Applicable"
+        ],
+        "slug_s": "mounting-block-97905t",
+        "priceStartingAt.GST_d": 19199.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "494df5bb-54a9-4f4f-8d1c-e57eb6f29d78|97905T-NA"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|14426IN-CP|false|false|K-14426IN-CP"
+        ],
+        "ProductBrandName_s": "Purist™",
+        "masterSKU_s": "14426IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "14426IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "14426IN-CP|zaa67867_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa67867_rgb"
+        ],
+        "priceList.GST.price_d": 9599.0,
+        "priceList.GST.finalPrice_d": 9599.0,
+        "ProductDescriptionProductShort_s": "Wall-mount non-diverter bath spout, 35-degrees",
+        "productName_s": "Purist Bath spout without diverter",
+        "ctId_s": "05cb20d7-c0c4-433c-b9b7-8f0463cb1b6d",
+        "Color.GST.Details_ss": [
+          "14426IN-CP|Polished Chrome|12000.0|9599.0||https://kohler.scene7.com/is/image/PAWEB/zaa67867_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "14426IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa67867_rgb"
+        ],
+        "priceList.ANY.price_d": 12000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "14426IN-CP",
+        "ProductBrandNameDisplay_s": "Purist™",
+        "variantList.sku_ss": [
+          "14426IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 9599.0,
+        "displayPriceStartingAt_s": "₹9,599.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "purist-bath-spout-without-diverter-14426in",
+        "priceStartingAt.GST_d": 9599.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "05cb20d7-c0c4-433c-b9b7-8f0463cb1b6d|14426IN-CP"
+      },
+      {
+        "ProductBrandName_s": "Artifacts™",
+        "metaTitle_s": "KOHLER | K-T98071-4 | Artifacts Deck-Mount Bath Lever Handle Trim",
+        "masterSKU_s": "T98071-4-BV",
+        "sourceId_s": "T98071-4-BV",
+        "priceList.GST.price_d": 51600.0,
+        "priceList.GST.finalPrice_d": 51600.0,
+        "ProductDescriptionProductShort_s": "Deck-mount bath faucet handle trim with Lever design",
+        "productName_s": "Artifacts® Deck-mount bath faucet handle trim with Lever design",
+        "ctId_s": "84660d8f-931b-4847-a6ce-308bcce91859",
+        "Color.GST.Details_ss": [
+          "T98071-4-BV|Vibrant Brushed Bronze|51600.0|51600.0||https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_PartialRoomViewInUseSquareWithText_d2c0014190_en-US"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "T98071-4",
+        "ProductBrandNameDisplay_s": "Artifacts",
+        "displayPriceStartingAt_s": "₹51,600.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "artifacts-deck-mount-bath-lever-handle-trim-t98071-4",
+        "priceStartingAt.GST_d": 51600.0,
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Bronze|swatch_BV|T98071-4-BV|false|false|K-T98071-4-BV"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BV"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "T98071-4-BV|T98071-4-BV_PartialRoomViewInUseSquareWithText_d2c0014190_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_PartialRoomViewInUseSquareWithText_d2c0014190_en-US",
+          "T98071-4-BV|T98071-4-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0014377_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0014377_en-US",
+          "T98071-4-BV|T98071-4-BV_SIDESquare_d2c0014781_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_SIDESquare_d2c0014781_rgb",
+          "T98071-4-BV|T98071-4-BV_ISO_d2c0015445_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_ISO_d2c0015445_rgb",
+          "T98071-4-BV|T98071-4-BV_PartialRoomViewSquareWithText_d2c0014292_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_PartialRoomViewSquareWithText_d2c0014292_en-US",
+          "T98071-4-BV|T98071-4-BV_CloseRoomViewInUseSquareWithText_d2c0014585_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_CloseRoomViewInUseSquareWithText_d2c0014585_en-US",
+          "T98071-4-BV|T98071-4-BV_CloseRoomViewProductDetailSquare_d2c0014100_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_CloseRoomViewProductDetailSquare_d2c0014100_rgb",
+          "T98071-4-BV|T98071-4-BV_ISOSquare_d2c0014998_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_ISOSquare_d2c0014998_rgb",
+          "T98071-4-BV|T98071-4-BV_FRONTSquare_d2c0014433_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_FRONTSquare_d2c0014433_rgb",
+          "T98071-4-BV|T98071-4-BV_DIMENSIONALSquareWithText_d2c0020366_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_DIMENSIONALSquareWithText_d2c0020366_en-US",
+          "T98071-4-BV|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_PartialRoomViewInUseSquareWithText_d2c0014190_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0014377_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_SIDESquare_d2c0014781_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_ISO_d2c0015445_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_PartialRoomViewSquareWithText_d2c0014292_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_CloseRoomViewInUseSquareWithText_d2c0014585_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_CloseRoomViewProductDetailSquare_d2c0014100_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_ISOSquare_d2c0014998_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_FRONTSquare_d2c0014433_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/T98071-4-BV_DIMENSIONALSquareWithText_d2c0020366_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "priceList.ANY.price_d": 51600.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "T98071-4-BV",
+        "variantList.sku_ss": [
+          "T98071-4-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 51600.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "84660d8f-931b-4847-a6ce-308bcce91859|T98071-4-BV"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27492IN-CP|true|false|K-27492IN-CP",
+          "Vibrant French Gold|swatch_AF|27492IN-AF|true|false|K-27492IN-AF"
+        ],
+        "ProductBrandName_s": "Fore Arc™",
+        "masterSKU_s": "27492IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "27492IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "27492IN-CP|aae35779_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae35779_rgb",
+          "27492IN-AF|aaf75555_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf75555_rgb"
+        ],
+        "priceList.GST.price_d": 2359.0,
+        "priceList.GST.finalPrice_d": 2359.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Fore Arc® Wall-mount bath spout",
+        "ctId_s": "e80b5c2e-094f-4d34-ac5e-1fd3a0f78a48",
+        "Color.GST.Details_ss": [
+          "27492IN-CP|Polished Chrome|2780.0|2359.0||https://kohler.scene7.com/is/image/PAWEB/aae35779_rgb",
+          "27492IN-AF|Vibrant French Gold|3480.0|2949.0||https://kohler.scene7.com/is/image/PAWEB/aaf75555_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "27492IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae35779_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf75555_rgb"
+        ],
+        "priceList.ANY.price_d": 2780.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "27492IN-AF",
+        "ProductBrandNameDisplay_s": "Fore Arc™",
+        "variantList.sku_ss": [
+          "27492IN-CP",
+          "27492IN-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 2359.0,
+        "displayPriceStartingAt_s": "₹2,359.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "fore-arc-bath-spout-without-diverter-27492in",
+        "priceStartingAt.GST_d": 2359.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e80b5c2e-094f-4d34-ac5e-1fd3a0f78a48|27492IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|33074IN-CP|true|false|K-33074IN-CP",
+          "Vibrant French Gold|swatch_AF|33074IN-AF|true|false|K-33074IN-AF"
+        ],
+        "ProductBrandName_s": "Accliv™",
+        "metaTitle_s": "Accliv Bath Spout Without Diverter | K-33074IN | KOHLER",
+        "masterSKU_s": "33074IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "33074IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "33074IN-CP|aad99194_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99194_rgb",
+          "33074IN-AF|aad99198_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99198_rgb"
+        ],
+        "priceList.GST.price_d": 2599.0,
+        "priceList.GST.finalPrice_d": 2599.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Accliv™ Wall-mount bath spout",
+        "ctId_s": "7480485e-dab8-4f36-a71a-ec7ac6676d96",
+        "Color.GST.Details_ss": [
+          "33074IN-CP|Polished Chrome|3060.0|2599.0||https://kohler.scene7.com/is/image/PAWEB/aad99194_rgb",
+          "33074IN-AF|Vibrant French Gold|3820.0|3239.0||https://kohler.scene7.com/is/image/PAWEB/aad99198_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "33074IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad99194_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad99198_rgb"
+        ],
+        "priceList.ANY.price_d": 3060.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "33074IN-AF",
+        "ProductBrandNameDisplay_s": "Accliv™",
+        "variantList.sku_ss": [
+          "33074IN-CP",
+          "33074IN-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 2599.0,
+        "displayPriceStartingAt_s": "₹2,599.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "accliv-wall-mount-bath-spout-without-diverter-33074in",
+        "priceStartingAt.GST_d": 2599.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "7480485e-dab8-4f36-a71a-ec7ac6676d96|33074IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|25765IN-CP|true|false|K-25765IN-CP",
+          "Vibrant French Gold|swatch_AF|25765IN-AF|true|false|K-25765IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|25765IN-RGD|true|false|K-25765IN-RGD",
+          "Matte Black|swatch_BL|25765IN-BL|true|false|K-25765IN-BL"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "metaTitle_s": "Wall-Mount Bath Spout | K-25765IN | KOHLER",
+        "masterSKU_s": "25765IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_RGD",
+          "swatch_CP"
+        ],
+        "sourceId_s": "25765IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "25765IN-CP|aae31085_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31085_rgb",
+          "25765IN-AF|aae31081_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31081_rgb",
+          "25765IN-BL|aae31083_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31083_rgb",
+          "25765IN-RGD|aae31082_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31082_rgb"
+        ],
+        "priceList.GST.price_d": 7599.0,
+        "priceList.GST.finalPrice_d": 7599.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "ModernLife Edge™ Wall-mount bath spout",
+        "ctId_s": "bc363ca3-d52d-4f96-bb1b-a2cd0cd2e54b",
+        "Color.GST.Details_ss": [
+          "25765IN-AF|Vibrant French Gold|11800.0|9439.0||https://kohler.scene7.com/is/image/PAWEB/aae31081_rgb",
+          "25765IN-BL|Matte Black|13200.0|10559.0||https://kohler.scene7.com/is/image/PAWEB/aae31083_rgb",
+          "25765IN-RGD|Vibrant Rose Gold|13200.0|10559.0||https://kohler.scene7.com/is/image/PAWEB/aae31082_rgb",
+          "25765IN-CP|Polished Chrome|9500.0|7599.0||https://kohler.scene7.com/is/image/PAWEB/aae31085_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "25765IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae31085_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae31081_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae31083_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae31082_rgb"
+        ],
+        "priceList.ANY.price_d": 9500.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "25765IN-AF",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "25765IN-AF",
+          "25765IN-BL",
+          "25765IN-RGD",
+          "25765IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 7599.0,
+        "displayPriceStartingAt_s": "₹7,599.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Rose Gold",
+          "Polished Chrome"
+        ],
+        "slug_s": "modernlife-edge-wall-mount-bath-spout-25765in",
+        "priceStartingAt.GST_d": 7599.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "bc363ca3-d52d-4f96-bb1b-a2cd0cd2e54b|25765IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|23512IN-CP|true|false|K-23512IN-CP",
+          "Vibrant French Gold|swatch_AF|23512IN-AF|true|false|K-23512IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|23512IN-RGD|true|false|K-23512IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|23512IN-BV|true|false|K-23512IN-BV",
+          "Matte Black|swatch_BL|23512IN-BL|true|false|K-23512IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|23512IN-BRD|true|false|K-23512IN-BRD"
+        ],
+        "ProductBrandName_s": "Parallel™",
+        "masterSKU_s": "23512IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "23512IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "23512IN-RGD|aae40953_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae40953_rgb",
+          "23512IN-CP|aad39124_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad39124_rgb",
+          "23512IN-AF|aae01657_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01657_rgb",
+          "23512IN-BV|aaf63269_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63269_rgb",
+          "23512IN-BL|aae74489_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae74489_rgb",
+          "23512IN-BRD|aag61363_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61363_rgb"
+        ],
+        "priceList.GST.price_d": 6309.0,
+        "priceList.GST.finalPrice_d": 6309.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Parallel™ Wall-mount bath spout",
+        "ctId_s": "9b01dd0f-603d-4998-9056-041ca764a9f9",
+        "Color.GST.Details_ss": [
+          "23512IN-BV|Vibrant Brushed Bronze|11450.0|9389.0||https://kohler.scene7.com/is/image/PAWEB/aaf63269_rgb",
+          "23512IN-RGD|Vibrant Rose Gold|10700.0|8769.0||https://kohler.scene7.com/is/image/PAWEB/aae40953_rgb",
+          "23512IN-CP|Polished Chrome|7700.0|6309.0||https://kohler.scene7.com/is/image/PAWEB/aad39124_rgb",
+          "23512IN-AF|Vibrant French Gold|9550.0|7829.0||https://kohler.scene7.com/is/image/PAWEB/aae01657_rgb",
+          "23512IN-BL|Matte Black|10700.0|8769.0||https://kohler.scene7.com/is/image/PAWEB/aae74489_rgb",
+          "23512IN-BRD|Vibrant Brushed Rose Gold|11450.0|9389.0||https://kohler.scene7.com/is/image/PAWEB/aag61363_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "23512IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae40953_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad39124_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae01657_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf63269_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae74489_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61363_rgb"
+        ],
+        "priceList.ANY.price_d": 7700.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "23512IN-AF",
+        "ProductBrandNameDisplay_s": "Parallel™",
+        "variantList.sku_ss": [
+          "23512IN-BV",
+          "23512IN-RGD",
+          "23512IN-CP",
+          "23512IN-AF",
+          "23512IN-BL",
+          "23512IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 6309.0,
+        "displayPriceStartingAt_s": "₹6,309.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "parallel-bath-spout-without-diverter-23512in",
+        "priceStartingAt.GST_d": 6309.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "9b01dd0f-603d-4998-9056-041ca764a9f9|23512IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|33995IN-CP|true|false|K-33995IN-CP"
+        ],
+        "ProductBrandName_s": "APT™",
+        "masterSKU_s": "33995IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "33995IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "33995IN-CP|aaf88217_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88217_rgb"
+        ],
+        "priceList.GST.price_d": 1529.0,
+        "priceList.GST.finalPrice_d": 1529.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "APT™ Wall-mount bath spout",
+        "ctId_s": "c9531ccf-a6d0-4ca2-8d37-aa9172bea7ca",
+        "Color.GST.Details_ss": [
+          "33995IN-CP|Polished Chrome|1800.0|1529.0||https://kohler.scene7.com/is/image/PAWEB/aaf88217_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "33995IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88217_rgb"
+        ],
+        "priceList.ANY.price_d": 1800.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "33995IN-CP",
+        "ProductBrandNameDisplay_s": "APT™",
+        "variantList.sku_ss": [
+          "33995IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 1529.0,
+        "displayPriceStartingAt_s": "₹1,529.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "apt-wall-mount-bath-spout-33995in",
+        "priceStartingAt.GST_d": 1529.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "c9531ccf-a6d0-4ca2-8d37-aa9172bea7ca|33995IN-CP"
+      },
+      {
+        "ProductBrandName_s": "",
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|T9540-4-CP|false|false|K-T9540-4-CP"
+        ],
+        "masterSKU_s": "T9540-4-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "T9540-4-CP",
+        "productImages.labelWithUrl_ss": [
+          "T9540-4-CP|zaa75443_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa75443_rgb"
+        ],
+        "priceList.GST.price_d": 64000.0,
+        "priceList.GST.finalPrice_d": 64000.0,
+        "ProductDescriptionProductShort_s": "Deck-mount trim for transfer valve/vacuum breaker with lever handle, valve not included",
+        "productName_s": "Deck-mount trim for transfer valve/vacuum breaker with lever handle, valve not included",
+        "ctId_s": "187ba61d-22dd-4e6d-8968-ac6062e14573",
+        "Color.GST.Details_ss": [
+          "T9540-4-CP|Polished Chrome|64000.0|64000.0||https://kohler.scene7.com/is/image/PAWEB/zaa75443_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "T9540-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa75443_rgb"
+        ],
+        "priceList.ANY.price_d": 64000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "T9540-4-CP",
+        "variantList.sku_ss": [
+          "T9540-4-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 64000.0,
+        "displayPriceStartingAt_s": "₹64,000.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "deck-mount-trim-for-transfer-valve-vacuum-breaker-with-lever-handle-valve-not-included-t9540-4",
+        "priceStartingAt.GST_d": 64000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "187ba61d-22dd-4e6d-8968-ac6062e14573|T9540-4-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26046IN-CP|true|false|K-26046IN-CP"
+        ],
+        "ProductBrandName_s": "Beam™",
+        "masterSKU_s": "26046IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "26046IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "26046IN-CP|aae78181_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae78181_rgb"
+        ],
+        "priceList.GST.price_d": 2189.0,
+        "priceList.GST.finalPrice_d": 2189.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Beam™ Wall-mount bath spout",
+        "ctId_s": "34a8bd0b-caeb-4bbe-b574-4c94454f81b7",
+        "Color.GST.Details_ss": [
+          "26046IN-CP|Polished Chrome|2580.0|2189.0||https://kohler.scene7.com/is/image/PAWEB/aae78181_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26046IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae78181_rgb"
+        ],
+        "priceList.ANY.price_d": 2580.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "26046IN-CP",
+        "ProductBrandNameDisplay_s": "Beam™",
+        "variantList.sku_ss": [
+          "26046IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 2189.0,
+        "displayPriceStartingAt_s": "₹2,189.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "beam-bath-spout-wo-diverter-26046in",
+        "priceStartingAt.GST_d": 2189.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "34a8bd0b-caeb-4bbe-b574-4c94454f81b7|26046IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|23511IN-CP|true|false|K-23511IN-CP",
+          "Vibrant French Gold|swatch_AF|23511IN-AF|true|false|K-23511IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|23511IN-RGD|true|false|K-23511IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|23511IN-BV|true|false|K-23511IN-BV",
+          "Matte Black|swatch_BL|23511IN-BL|true|false|K-23511IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|23511IN-BRD|true|false|K-23511IN-BRD"
+        ],
+        "ProductBrandName_s": "Parallel™",
+        "masterSKU_s": "23511IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BV",
+          "swatch_AF",
+          "swatch_RGD",
+          "swatch_CP",
+          "swatch_BL",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "23511IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "23511IN-RGD|aae40952_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae40952_rgb",
+          "23511IN-BV|aaf63270_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63270_rgb",
+          "23511IN-AF|aad15686_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad15686_rgb",
+          "23511IN-CP|aad15690_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad15690_rgb",
+          "23511IN-BL|aae62319_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae62319_rgb",
+          "23511IN-BRD|aag61365_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61365_rgb"
+        ],
+        "priceList.GST.price_d": 7249.0,
+        "priceList.GST.finalPrice_d": 7249.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+        "productName_s": "Parallel™ Wall-mount bath spout with diverter",
+        "ctId_s": "37fe2989-f2dc-43bf-8f80-3ab5b5d22978",
+        "Color.GST.Details_ss": [
+          "23511IN-BV|Vibrant Brushed Bronze|13200.0|10819.0||https://kohler.scene7.com/is/image/PAWEB/aaf63270_rgb",
+          "23511IN-AF|Vibrant French Gold|11000.0|9019.0||https://kohler.scene7.com/is/image/PAWEB/aad15686_rgb",
+          "23511IN-RGD|Vibrant Rose Gold|12250.0|10039.0||https://kohler.scene7.com/is/image/PAWEB/aae40952_rgb",
+          "23511IN-CP|Polished Chrome|8850.0|7249.0||https://kohler.scene7.com/is/image/PAWEB/aad15690_rgb",
+          "23511IN-BL|Matte Black|12250.0|10039.0||https://kohler.scene7.com/is/image/PAWEB/aae62319_rgb",
+          "23511IN-BRD|Vibrant Brushed Rose Gold|13200.0|10819.0||https://kohler.scene7.com/is/image/PAWEB/aag61365_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "23511IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae40952_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf63270_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad15686_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad15690_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae62319_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61365_rgb"
+        ],
+        "priceList.ANY.price_d": 8850.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "23511IN-AF",
+        "ProductBrandNameDisplay_s": "Parallel™",
+        "variantList.sku_ss": [
+          "23511IN-BV",
+          "23511IN-AF",
+          "23511IN-RGD",
+          "23511IN-CP",
+          "23511IN-BL",
+          "23511IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 7249.0,
+        "displayPriceStartingAt_s": "₹7,249.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Bronze",
+          "Vibrant French Gold",
+          "Vibrant Rose Gold",
+          "Polished Chrome",
+          "Matte Black",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "parallel-bath-spout-with-diverter-23511in",
+        "priceStartingAt.GST_d": 7249.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "37fe2989-f2dc-43bf-8f80-3ab5b5d22978|23511IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|74046IN-A1-CP|true|false|K-74046IN-A1-CP"
+        ],
+        "ProductBrandName_s": "Taut™",
+        "masterSKU_s": "74046IN-A1-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "74046IN-A1-CP",
+        "productImages.labelWithUrl_ss": [
+          "74046IN-A1-CP|zab94674_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab94674_rgb"
+        ],
+        "priceList.GST.price_d": 1969.0,
+        "priceList.GST.finalPrice_d": 1969.0,
+        "ProductDescriptionProductShort_s": "Wall mount bath spout without diverter",
+        "productName_s": "Taut™ Wall mount bath spout without diverter",
+        "ctId_s": "4e0bd0b8-85c7-4abf-8585-b97d8f70ef1d",
+        "Color.GST.Details_ss": [
+          "74046IN-A1-CP|Polished Chrome|2320.0|1969.0||https://kohler.scene7.com/is/image/PAWEB/zab94674_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "74046IN-A1",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab94674_rgb"
+        ],
+        "priceList.ANY.price_d": 2320.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "74046IN-A1-CP",
+        "ProductBrandNameDisplay_s": "Taut™",
+        "variantList.sku_ss": [
+          "74046IN-A1-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 1969.0,
+        "displayPriceStartingAt_s": "₹1,969.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "taut-wall-mount-bath-spout-without-diverter-74046in-a1",
+        "priceStartingAt.GST_d": 1969.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "4e0bd0b8-85c7-4abf-8585-b97d8f70ef1d|74046IN-A1-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|38895IN-4ND-CP|true|false|K-38895IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|38895IN-4ND-AF|true|false|K-38895IN-4ND-AF",
+          "Vibrant Rose Gold|swatch_RGD|38895IN-4ND-RGD|true|false|K-38895IN-4ND-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|38895IN-4ND-BV|true|false|K-38895IN-4ND-BV",
+          "Matte Black|swatch_BL|38895IN-4ND-BL|true|false|K-38895IN-4ND-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|38895IN-4ND-BRD|true|false|K-38895IN-4ND-BRD"
+        ],
+        "ProductBrandName_s": "Fluence+™",
+        "masterSKU_s": "38895IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "38895IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "38895IN-4ND-BV|aag25411_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag25411_rgb",
+          "38895IN-4ND-BV|aaj06028_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06028_rgb",
+          "38895IN-4ND-BV|aaj06029_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06029_rgb",
+          "38895IN-4ND-BV|aaj06031_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06031_rgb",
+          "38895IN-4ND-BV|aaj06030_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06030_rgb",
+          "38895IN-4ND-BV|aaj10444_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj10444_rgb",
+          "38895IN-4ND-BV|aaj05876_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05876_rgb",
+          "38895IN-4ND-BV|aaj05875_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05875_rgb",
+          "38895IN-4ND-BV|aaj05877_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05877_rgb",
+          "38895IN-4ND-BV|aaj05878_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05878_rgb",
+          "38895IN-4ND-BL|aag25407_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag25407_rgb",
+          "38895IN-4ND-AF|aaf88265_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88265_rgb",
+          "38895IN-4ND-BRD|aag85984_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag85984_rgb",
+          "38895IN-4ND-RGD|aaf88266_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88266_rgb",
+          "38895IN-4ND-CP|aaf88270_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88270_rgb"
+        ],
+        "priceList.GST.price_d": 13199.0,
+        "priceList.GST.finalPrice_d": 13199.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath faucet",
+        "productName_s": "Fluence+™ Wall-mount bath faucet",
+        "ctId_s": "8a3e831d-94da-42b3-b0bd-0e166b46bfad",
+        "Color.GST.Details_ss": [
+          "38895IN-4ND-CP|Polished Chrome|16100.0|13199.0||https://kohler.scene7.com/is/image/PAWEB/aaf88270_rgb",
+          "38895IN-4ND-AF|Vibrant French Gold|20100.0|16479.0||https://kohler.scene7.com/is/image/PAWEB/aaf88265_rgb",
+          "38895IN-4ND-BL|Matte Black|22500.0|18449.0||https://kohler.scene7.com/is/image/PAWEB/aag25407_rgb",
+          "38895IN-4ND-BV|Vibrant Brushed Bronze|22500.0|18449.0||https://kohler.scene7.com/is/image/PAWEB/aag25411_rgb",
+          "38895IN-4ND-RGD|Vibrant Rose Gold|22500.0|18449.0||https://kohler.scene7.com/is/image/PAWEB/aaf88266_rgb",
+          "38895IN-4ND-BRD|Vibrant Brushed Rose Gold|22500.0|18449.0||https://kohler.scene7.com/is/image/PAWEB/aag85984_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "38895IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag25411_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06028_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06029_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06031_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06030_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj10444_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05876_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05875_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05877_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05878_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag25407_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88265_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag85984_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88266_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88270_rgb"
+        ],
+        "priceList.ANY.price_d": 16100.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "38895IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Fluence+™",
+        "variantList.sku_ss": [
+          "38895IN-4ND-CP",
+          "38895IN-4ND-AF",
+          "38895IN-4ND-BL",
+          "38895IN-4ND-BV",
+          "38895IN-4ND-RGD",
+          "38895IN-4ND-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 13199.0,
+        "displayPriceStartingAt_s": "₹13,199.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "fluence-wall-mount-bath-faucet-38895in-4nd",
+        "priceStartingAt.GST_d": 13199.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "8a3e831d-94da-42b3-b0bd-0e166b46bfad|38895IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|22543IN-N-CP|true|false|K-22543IN-N-CP",
+          "Vibrant French Gold|swatch_AF|22543IN-N-AF|true|false|K-22543IN-N-AF"
+        ],
+        "ProductBrandName_s": "Hone™",
+        "masterSKU_s": "22543IN-N-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "22543IN-N-CP",
+        "productImages.labelWithUrl_ss": [
+          "22543IN-N-AF|aai00750_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai00750_rgb",
+          "22543IN-N-AF|aaj06059_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaj06059_rgb",
+          "22543IN-N-AF|aaj06057_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06057_rgb",
+          "22543IN-N-AF|aaj06058_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06058_rgb",
+          "22543IN-N-AF|aaj06052_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06052_rgb",
+          "22543IN-N-CP|aai00745_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai00745_rgb"
+        ],
+        "priceList.GST.price_d": 3519.0,
+        "priceList.GST.finalPrice_d": 3519.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Hone® Wall-mount bath spout",
+        "ctId_s": "975a86d7-3bcc-4d8e-b4f4-1f5ea879f889",
+        "Color.GST.Details_ss": [
+          "22543IN-N-CP|Polished Chrome|4300.0|3519.0||https://kohler.scene7.com/is/image/PAWEB/aai00745_rgb",
+          "22543IN-N-AF|Vibrant French Gold|5380.0|4409.0||https://kohler.scene7.com/is/image/PAWEB/aai00750_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "22543IN-N",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aai00750_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06059_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06057_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06058_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06052_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai00745_rgb"
+        ],
+        "priceList.ANY.price_d": 4300.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "22543IN-N-AF",
+        "ProductBrandNameDisplay_s": "Hone™",
+        "variantList.sku_ss": [
+          "22543IN-N-CP",
+          "22543IN-N-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 3519.0,
+        "displayPriceStartingAt_s": "₹3,519.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "hone-wall-mount-bath-spout-22543in-n",
+        "priceStartingAt.GST_d": 3519.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "975a86d7-3bcc-4d8e-b4f4-1f5ea879f889|22543IN-N-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|38892IN-CP|true|false|K-38892IN-CP",
+          "Vibrant French Gold|swatch_AF|38892IN-AF|true|false|K-38892IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|38892IN-RGD|true|false|K-38892IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|38892IN-BV|true|false|K-38892IN-BV",
+          "Matte Black|swatch_BL|38892IN-BL|true|false|K-38892IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|38892IN-BRD|true|false|K-38892IN-BRD"
+        ],
+        "ProductBrandName_s": "Fluence™",
+        "masterSKU_s": "38892IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "38892IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "38892IN-RGD|aaf79697_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79697_rgb",
+          "38892IN-CP|aaf79698_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79698_rgb",
+          "38892IN-BV|aaf79699_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79699_rgb",
+          "38892IN-BV|aaj05856_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05856_rgb",
+          "38892IN-BV|aaj05857_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05857_rgb",
+          "38892IN-BV|aaj05859_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05859_rgb",
+          "38892IN-BV|aaj05858_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05858_rgb",
+          "38892IN-BV|aaj10280_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj10280_rgb",
+          "38892IN-BV|aaj05842_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05842_rgb",
+          "38892IN-BL|aaf79700_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79700_rgb",
+          "38892IN-AF|aaf79701_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79701_rgb",
+          "38892IN-BRD|aag85986_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag85986_rgb"
+        ],
+        "priceList.GST.price_d": 3169.0,
+        "priceList.GST.finalPrice_d": 3169.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Fluence™ Wall-mount bath spout",
+        "ctId_s": "07576c22-b8f9-4ac1-9367-87f12673b5ac",
+        "Color.GST.Details_ss": [
+          "38892IN-CP|Polished Chrome|3870.0|3169.0||https://kohler.scene7.com/is/image/PAWEB/aaf79698_rgb",
+          "38892IN-AF|Vibrant French Gold|4840.0|3959.0||https://kohler.scene7.com/is/image/PAWEB/aaf79701_rgb",
+          "38892IN-BL|Matte Black|5420.0|4439.0||https://kohler.scene7.com/is/image/PAWEB/aaf79700_rgb",
+          "38892IN-BV|Vibrant Brushed Bronze|5420.0|4439.0||https://kohler.scene7.com/is/image/PAWEB/aaf79699_rgb",
+          "38892IN-RGD|Vibrant Rose Gold|5420.0|4439.0||https://kohler.scene7.com/is/image/PAWEB/aaf79697_rgb",
+          "38892IN-BRD|Vibrant Brushed Rose Gold|5420.0|4439.0||https://kohler.scene7.com/is/image/PAWEB/aag85986_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "38892IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf79697_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf79698_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf79699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05856_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05857_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05859_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05858_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj10280_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj05842_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf79700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf79701_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag85986_rgb"
+        ],
+        "priceList.ANY.price_d": 3870.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "38892IN-AF",
+        "ProductBrandNameDisplay_s": "Fluence™",
+        "variantList.sku_ss": [
+          "38892IN-CP",
+          "38892IN-AF",
+          "38892IN-BL",
+          "38892IN-BV",
+          "38892IN-RGD",
+          "38892IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 3169.0,
+        "displayPriceStartingAt_s": "₹3,169.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "fluence-wall-mount-bath-spout-38892in",
+        "priceStartingAt.GST_d": 3169.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "07576c22-b8f9-4ac1-9367-87f12673b5ac|38892IN-CP"
+      },
+      {
+        "ProductBrandName_s": "Composed™",
+        "masterSKU_s": "73120-2MB",
+        "sourceId_s": "73120-2MB",
+        "priceList.GST.price_d": 37000.0,
+        "priceList.GST.finalPrice_d": 37000.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+        "productName_s": "Composed® Wall-mount bath spout",
+        "ctId_s": "3352b5bd-f1fe-4489-a816-63106190c440",
+        "Color.GST.Details_ss": [
+          "73120-2MB|Vibrant Brushed Moderne Brass|37000.0|37000.0||https://kohler.scene7.com/is/image/PAWEB/73120-2MB_ISOSquare_d2c0016152_rgb",
+          "73120-TT|Vibrant Titanium|67900.0|67900.0||https://kohler.scene7.com/is/image/PAWEB/73120-TT_ISO_d2c0016270_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "73120",
+        "ProductBrandNameDisplay_s": "Composed",
+        "displayPriceStartingAt_s": "₹37,000.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Moderne Brass",
+          "Vibrant Titanium"
+        ],
+        "slug_s": "composed-wall-mount-bath-spout-73120",
+        "priceStartingAt.GST_d": 37000.0,
+        "Color.SKU.Details_ss": [
+          "Vibrant Titanium|swatch_TT|73120-TT|false|false|K-73120-TT",
+          "Vibrant Brushed Moderne Brass|swatch_2MB|73120-2MB|false|false|K-73120-2MB"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2MB",
+          "swatch_TT"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "73120-TT|73120-TT_ISO_d2c0016270_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_ISO_d2c0016270_rgb",
+          "73120-TT|73120-TT_ISOSquare_d2c0016270_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_ISOSquare_d2c0016270_rgb",
+          "73120-TT|73120-TT_FRONTSquare_d2c0016256_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_FRONTSquare_d2c0016256_rgb",
+          "73120-TT|73120-TT_CloseRoomViewInUseSquareWithText_d2c0016202_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewInUseSquareWithText_d2c0016202_en-US",
+          "73120-TT|73120-TT_CloseRoomViewProductDetailSquare_d2c0016227_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewProductDetailSquare_d2c0016227_rgb",
+          "73120-TT|73120-TT_CloseRoomViewProductDetailInUseSquareWithText_d2c0016267_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewProductDetailInUseSquareWithText_d2c0016267_en-US",
+          "73120-TT|73120-TT_DIMENSIONALSquareWithText_d2c0016254_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/73120-TT_DIMENSIONALSquareWithText_d2c0016254_en-US",
+          "73120-TT|73120-TT_SIDESquare_d2c0016269_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_SIDESquare_d2c0016269_rgb",
+          "73120-TT|73120-TT_PartialRoomViewInUseSquareWithText_d2c0016240_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/73120-TT_PartialRoomViewInUseSquareWithText_d2c0016240_en-US",
+          "73120-TT|73120-TT_PartialRoomViewSquareWithText_d2c0016280_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/73120-TT_PartialRoomViewSquareWithText_d2c0016280_en-US",
+          "73120-TT|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "73120-2MB|73120-2MB_ISOSquare_d2c0016152_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_ISOSquare_d2c0016152_rgb",
+          "73120-2MB|73120-2MB_SIDESquare_d2c0016146_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_SIDESquare_d2c0016146_rgb",
+          "73120-2MB|73120-2MB_PartialRoomViewSquareWithText_d2c0016118_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_PartialRoomViewSquareWithText_d2c0016118_en-US",
+          "73120-2MB|73120-2MB_ISO_d2c0016152_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_ISO_d2c0016152_rgb",
+          "73120-2MB|73120-2MB_PartialRoomViewInUseSquareWithText_d2c0016187_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_PartialRoomViewInUseSquareWithText_d2c0016187_en-US",
+          "73120-2MB|73120-2MB_DIMENSIONALSquareWithText_d2c0016115_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_DIMENSIONALSquareWithText_d2c0016115_en-US",
+          "73120-2MB|73120-2MB_CloseRoomViewInUseSquareWithText_d2c0016108_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewInUseSquareWithText_d2c0016108_en-US",
+          "73120-2MB|73120-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0016109_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0016109_en-US",
+          "73120-2MB|73120-2MB_CloseRoomViewProductDetailSquare_d2c0016130_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewProductDetailSquare_d2c0016130_rgb",
+          "73120-2MB|73120-2MB_FRONTSquare_d2c0016157_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_FRONTSquare_d2c0016157_rgb",
+          "73120-2MB|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_ISO_d2c0016270_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_ISOSquare_d2c0016270_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_FRONTSquare_d2c0016256_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewInUseSquareWithText_d2c0016202_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewProductDetailSquare_d2c0016227_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewProductDetailInUseSquareWithText_d2c0016267_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_DIMENSIONALSquareWithText_d2c0016254_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_SIDESquare_d2c0016269_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_PartialRoomViewInUseSquareWithText_d2c0016240_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-TT_PartialRoomViewSquareWithText_d2c0016280_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_ISOSquare_d2c0016152_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_SIDESquare_d2c0016146_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_PartialRoomViewSquareWithText_d2c0016118_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_ISO_d2c0016152_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_PartialRoomViewInUseSquareWithText_d2c0016187_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_DIMENSIONALSquareWithText_d2c0016115_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewInUseSquareWithText_d2c0016108_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0016109_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewProductDetailSquare_d2c0016130_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/73120-2MB_FRONTSquare_d2c0016157_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "priceList.ANY.price_d": 37000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "73120-2MB",
+        "variantList.sku_ss": [
+          "73120-2MB",
+          "73120-TT"
+        ],
+        "discountedPriceStartingAt.GST_d": 37000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "3352b5bd-f1fe-4489-a816-63106190c440|73120-2MB"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|99467IN-B-CP|false|false|K-99467IN-B-CP"
+        ],
+        "ProductBrandName_s": "Kumin®",
+        "masterSKU_s": "99467IN-B-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "99467IN-B-CP",
+        "productImages.labelWithUrl_ss": [
+          "99467IN-B-CP|99467IN-B-CP|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/99467IN-B-CP"
+        ],
+        "priceList.GST.price_d": 1769.0,
+        "priceList.GST.finalPrice_d": 1769.0,
+        "ProductDescriptionProductShort_s": "Bath Spout Without Diverter",
+        "productName_s": "Kumin® Bath Spout Without Diverter",
+        "ctId_s": "68e91d81-4f4a-4ec2-8a47-596485f0bb4c",
+        "Color.GST.Details_ss": [
+          "99467IN-B-CP|Polished Chrome|2090.0|1769.0||https://s7g10.scene7.com/is/image/kohlerindia/99467IN-B-CP"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "99467IN-B",
+        "productImages.url_ss": [
+          "https://s7g10.scene7.com/is/image/kohlerindia/99467IN-B-CP"
+        ],
+        "priceList.ANY.price_d": 2090.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "99467IN-B-CP",
+        "ProductBrandNameDisplay_s": "Kumin®",
+        "variantList.sku_ss": [
+          "99467IN-B-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 1769.0,
+        "displayPriceStartingAt_s": "₹1,769.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "kumin-bath-spout-without-diverter-99467in-b",
+        "priceStartingAt.GST_d": 1769.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "68e91d81-4f4a-4ec2-8a47-596485f0bb4c|99467IN-B-CP",
+        "RegionReleaseforShipment_dt": "2019-04-22T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|97367T-B4-CP|true|false|K-97367T-B4-CP"
+        ],
+        "ProductBrandName_s": "Avid™",
+        "masterSKU_s": "97367T-B4-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "97367T-B4-CP",
+        "productImages.labelWithUrl_ss": [
+          "97367T-B4-CP|aad35212_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad35212_rgb"
+        ],
+        "priceList.GST.price_d": 107999.0,
+        "priceList.GST.finalPrice_d": 107999.0,
+        "ProductDescriptionProductShort_s": "Floor-mount bath filler with handshower",
+        "productName_s": "Avid™ Floor-mount bath filler with handshower",
+        "ctId_s": "d70ccd16-d3c2-4cc3-89f3-ac08f38f2275",
+        "Color.GST.Details_ss": [
+          "97367T-B4-CP|Polished Chrome|135000.0|107999.0||https://kohler.scene7.com/is/image/PAWEB/aad35212_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "97367T-B4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad35212_rgb"
+        ],
+        "priceList.ANY.price_d": 135000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "97367T-B4-CP",
+        "ProductBrandNameDisplay_s": "Avid™",
+        "variantList.sku_ss": [
+          "97367T-B4-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 107999.0,
+        "displayPriceStartingAt_s": "₹107,999.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "avid-floor-mount-bath-filler-with-handshower-97367t-b4",
+        "priceStartingAt.GST_d": 107999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d70ccd16-d3c2-4cc3-89f3-ac08f38f2275|97367T-B4-CP"
+      },
+      {
+        "ProductBrandName_s": "Artifacts™",
+        "metaTitle_s": "Artifacts Wall-Mount Bath Spout With Flare Design | K-72791| KOHLER",
+        "masterSKU_s": "72791-CP",
+        "sourceId_s": "72791-CP",
+        "priceList.GST.price_d": 22300.0,
+        "priceList.GST.finalPrice_d": 22300.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout with flare design",
+        "productName_s": "Artifacts® Wall-mount bath spout with flare design",
+        "ctId_s": "14623f3f-12e0-457e-82e9-36b58fbce8c3",
+        "Color.GST.Details_ss": [
+          "72791-BV|Vibrant Brushed Bronze|31200.0|31200.0||https://kohler.scene7.com/is/image/PAWEB/72791-BV_PartialRoomViewSquareWithText_d2c0016034_en-US",
+          "72791-CP|Polished Chrome|22300.0|22300.0||https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0016023_en-US"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "72791",
+        "ProductBrandNameDisplay_s": "Artifacts",
+        "displayPriceStartingAt_s": "₹22,300.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Bronze",
+          "Polished Chrome"
+        ],
+        "slug_s": "artifacts-wall-mount-bath-spout-with-flare-design-72791",
+        "priceStartingAt.GST_d": 22300.0,
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|72791-CP|false|false|K-72791-CP",
+          "Vibrant Brushed Bronze|swatch_BV|72791-BV|true|false|K-72791-BV"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BV",
+          "swatch_CP"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "72791-CP|72791-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0016023_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0016023_en-US",
+          "72791-CP|72791-CP_CloseRoomViewProductDetailSquare_d2c0016035_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewProductDetailSquare_d2c0016035_rgb",
+          "72791-CP|72791-CP_PartialRoomViewInUseSquareWithText_d2c0015997_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/72791-CP_PartialRoomViewInUseSquareWithText_d2c0015997_en-US",
+          "72791-CP|72791-CP_ISO_d2c0016025_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_ISO_d2c0016025_rgb",
+          "72791-CP|72791-CP_SIDESquare_d2c0015993_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_SIDESquare_d2c0015993_rgb",
+          "72791-CP|72791-CP_ISOSquare_d2c0016025_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_ISOSquare_d2c0016025_rgb",
+          "72791-CP|72791-CP_FRONTSquare_d2c0016012_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_FRONTSquare_d2c0016012_rgb",
+          "72791-CP|72791-CP_PartialRoomViewSquareWithText_d2c0016014_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/72791-CP_PartialRoomViewSquareWithText_d2c0016014_en-US",
+          "72791-CP|72791-CP_CloseRoomViewInUseSquareWithText_d2c0016008_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewInUseSquareWithText_d2c0016008_en-US",
+          "72791-CP|72791-CP_DIMENSIONALSquareWithText_d2c0016030_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/72791-CP_DIMENSIONALSquareWithText_d2c0016030_en-US",
+          "72791-CP|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "72791-BV|72791-BV_PartialRoomViewSquareWithText_d2c0016034_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/72791-BV_PartialRoomViewSquareWithText_d2c0016034_en-US",
+          "72791-BV|72791-BV_PartialRoomViewInUseSquareWithText_d2c0016064_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/72791-BV_PartialRoomViewInUseSquareWithText_d2c0016064_en-US",
+          "72791-BV|72791-BV_FRONTSquare_d2c0016021_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_FRONTSquare_d2c0016021_rgb",
+          "72791-BV|72791-BV_ISO_d2c0016070_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_ISO_d2c0016070_rgb",
+          "72791-BV|72791-BV_DIMENSIONALSquareWithText_d2c0016017_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/72791-BV_DIMENSIONALSquareWithText_d2c0016017_en-US",
+          "72791-BV|72791-BV_SIDESquare_d2c0016024_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_SIDESquare_d2c0016024_rgb",
+          "72791-BV|72791-BV_ISOSquare_d2c0016060_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_ISOSquare_d2c0016060_rgb",
+          "72791-BV|72791-BV_CloseRoomViewProductDetailSquare_d2c0016006_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewProductDetailSquare_d2c0016006_rgb",
+          "72791-BV|72791-BV_CloseRoomViewInUseSquareWithText_d2c0016042_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewInUseSquareWithText_d2c0016042_en-US",
+          "72791-BV|72791-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016033_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016033_en-US",
+          "72791-BV|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0016023_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewProductDetailSquare_d2c0016035_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_PartialRoomViewInUseSquareWithText_d2c0015997_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_ISO_d2c0016025_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_SIDESquare_d2c0015993_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_ISOSquare_d2c0016025_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_FRONTSquare_d2c0016012_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_PartialRoomViewSquareWithText_d2c0016014_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewInUseSquareWithText_d2c0016008_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-CP_DIMENSIONALSquareWithText_d2c0016030_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_PartialRoomViewSquareWithText_d2c0016034_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_PartialRoomViewInUseSquareWithText_d2c0016064_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_FRONTSquare_d2c0016021_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_ISO_d2c0016070_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_DIMENSIONALSquareWithText_d2c0016017_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_SIDESquare_d2c0016024_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_ISOSquare_d2c0016060_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewProductDetailSquare_d2c0016006_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewInUseSquareWithText_d2c0016042_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016033_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "priceList.ANY.price_d": 22300.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "72791-BV",
+        "variantList.sku_ss": [
+          "72791-BV",
+          "72791-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 22300.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "14623f3f-12e0-457e-82e9-36b58fbce8c3|72791-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|38471IN-CP|true|false|K-38471IN-CP",
+          "Vibrant French Gold|swatch_AF|38471IN-AF|true|false|K-38471IN-AF"
+        ],
+        "ProductBrandName_s": "Engage™",
+        "masterSKU_s": "38471IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "38471IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "38471IN-CP|aah06254_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah06254_rgb",
+          "38471IN-AF|aah06252_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah06252_rgb"
+        ],
+        "priceList.GST.price_d": 3279.0,
+        "priceList.GST.finalPrice_d": 3279.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+        "productName_s": "Engage™ Wall-mount bath spout with diverter",
+        "ctId_s": "af30e7fb-9134-4eb9-a4a2-17f9d26673b6",
+        "Color.GST.Details_ss": [
+          "38471IN-CP|Polished Chrome|4000.0|3279.0||https://kohler.scene7.com/is/image/PAWEB/aah06254_rgb",
+          "38471IN-AF|Vibrant French Gold|5000.0|4099.0||https://kohler.scene7.com/is/image/PAWEB/aah06252_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "38471IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aah06254_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah06252_rgb"
+        ],
+        "priceList.ANY.price_d": 4000.0,
+        "Product_Category": "Bathtub Faucets",
+        "preferenceSku_s": "38471IN-AF",
+        "ProductBrandNameDisplay_s": "Engage™",
+        "variantList.sku_ss": [
+          "38471IN-CP",
+          "38471IN-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 3279.0,
+        "displayPriceStartingAt_s": "₹3,279.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "engage-wall-mount-bath-spout-with-diverter-38471in",
+        "priceStartingAt.GST_d": 3279.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "af30e7fb-9134-4eb9-a4a2-17f9d26673b6|38471IN-CP",
+        "RegionReleaseforShipment_dt": "2024-09-08T12:00:00Z"
+      }
+    ],
+    "numFound": 48,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "Available_Now_s:\"Yes\"": 36
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        41,
+        "Vibrant Titanium",
+        2,
+        "Vibrant French Gold",
+        26,
+        "Vibrant Brushed Moderne Brass",
+        2,
+        "Vibrant Rose Gold",
+        12,
+        "Vibrant Brushed Bronze",
+        11,
+        "Matte Black",
+        12,
+        "Not Applicable",
+        2,
+        "Vibrant Brushed Rose Gold",
+        10
+      ],
+      "ProductBrandNameDisplay_s": [
+        "APT™",
+        2,
+        "Accliv™",
+        1,
+        "Aleo™",
+        2,
+        "Artifacts",
+        2,
+        "Avid™",
+        2,
+        "Beam™",
+        2,
+        "Complementary™",
+        2,
+        "Composed",
+        2,
+        "Composed™",
+        3,
+        "Cuff™",
+        1,
+        "Engage™",
+        2,
+        "Fluence+™",
+        1,
+        "Fluence™",
+        3,
+        "Fore Arc™",
+        2,
+        "Fore Tri™",
+        1,
+        "Fore™",
+        1,
+        "Hone™",
+        2,
+        "July™",
+        1,
+        "KOHLER VIVE®",
+        2,
+        "Kumin®",
+        2,
+        "ModernLife Edge™",
+        2,
+        "Parallel",
+        1,
+        "Parallel™",
+        2,
+        "Purist",
+        1,
+        "Purist™",
+        3,
+        "Taut™",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Deck-mount",
+        7,
+        "Floor-mount",
+        3,
+        "Freestanding",
+        2,
+        "Wall-mount",
+        25
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        42,
+        "Transitional",
+        4
+      ],
+      "Available_Now_s": [
+        "Yes",
+        37,
+        "No",
+        13
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        22,
+        "Paid",
+        26
+      ]
+    },
+    "facet_ranges": {
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          30,
+          "15000",
+          7,
+          "30000",
+          4,
+          "45000",
+          3,
+          "60000",
+          3,
+          "75000",
+          1,
+          "90000",
+          3,
+          "105000",
+          2,
+          "120000",
+          1,
+          "135000",
+          2,
+          "240000",
+          1,
+          "255000",
+          1
+        ],
+        "start": 0.0,
+        "end": 500000.0,
+        "gap": 15000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          31,
+          "15000",
+          7,
+          "30000",
+          4,
+          "45000",
+          2,
+          "60000",
+          2,
+          "75000",
+          4,
+          "90000",
+          2,
+          "105000",
+          2,
+          "135000",
+          1,
+          "240000",
+          1,
+          "255000",
+          1
+        ],
+        "start": 0.0,
+        "end": 500000.0,
+        "gap": 15000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          30,
+          "15000",
+          7,
+          "30000",
+          4,
+          "45000",
+          3,
+          "60000",
+          3,
+          "75000",
+          1,
+          "90000",
+          3,
+          "105000",
+          2,
+          "120000",
+          1,
+          "135000",
+          2,
+          "240000",
+          1,
+          "255000",
+          1
+        ],
+        "start": 0.0,
+        "end": 500000.0,
+        "gap": 15000.0
+      },
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          30,
+          "15000",
+          7,
+          "30000",
+          4,
+          "45000",
+          3,
+          "60000",
+          3,
+          "75000",
+          1,
+          "90000",
+          3,
+          "105000",
+          2,
+          "120000",
+          1,
+          "135000",
+          2,
+          "240000",
+          1,
+          "255000",
+          1
+        ],
+        "start": 0.0,
+        "end": 500000.0,
+        "gap": 15000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "product_url": "https://www.kohler.co.in/p/fore-tri-single-control-lav-faucet-without-drain-27477in-4nd?skuId=27477IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/fore-tri-single-control-lav-faucet-without-drain-27477in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/fore-tri-single-control-lav-faucet-without-drain-27477in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4953>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/fore-tri-single-control-lav-faucet-without-drain-27477in-4nd?skuId=27477IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "LUnWsNsn6m",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=258, origin; dur=893, ak_p; desc=\"1789416975601_400553039_332808148_115062_10815_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:16:16 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1829",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477in_4ndfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/fore-tri-basin-mixer-faucet-in-polished-chrome",
+            "ProductWebInstallation_ss": [
+              "Deck-mount",
+              "For single-hole installation",
+              "Includes mounting hardware"
+            ],
+            "ProductOverallWidthInches_s": "1-7/8\"",
+            "ProductNarrativeDescription_s": "Bold in stature with neo-modern expression, the Fore Tri® bathroom sink faucet brings sleek sophistication to your bathroom. This futuristic-looking faucet with hidden aerator features a thin Lever handle for easy-to-grip, effortless control of the water temperature and volume. With a clean silhouette and durable construction, this faucet blends design with remarkable performance for the ultimate user experience.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|27477IN-4ND-CP|true|false|K-27477IN-4ND-CP"
+            ],
+            "ProductBrandName_s": "Fore Tri™",
+            "ProductPackageContents_s": "1-LAV FAUCET; 1 INSTALLATION INSTRUCTION; 1 WARRANTY, 1 MOUNTING KIT",
+            "Recommended_Accessories_ss": [
+              "inRiver_3048707",
+              "inRiver_3048704"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1460609-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1112833-8_p01.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-27477IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27477IN-4ND-CP|aaf55440_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf55440_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5429.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 6390.0,
+            "ProductOverallLengthInches_s": "3-7/8\"",
+            "ProductDescriptionProductShort_s": "Single-handle bathroom sink faucet, 19.2 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477in_4ndsde.dxf"
+            ],
+            "productName_s": "Fore Tri® Single-handle bathroom sink faucet, 19.2 lpm",
+            "ctId_s": "745fe54f-e881-4286-a6b5-159ff4693cf0",
+            "ProductWebFeatures_ss": [
+              "Sleek and contemporary design",
+              "Single handle provides on/off activation, volume, and temperature control",
+              "Red/blue indexing on handle",
+              "3.94 inch (100 mm) spout reach",
+              "5.81 inch (14.8 cm) spout height",
+              "Aerated flow",
+              "5.08 gpm (19.2 lpm) maximum flow rate at 80 psi (5.5 bar)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 6390.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477in_4ndsde.dwg"
+            ],
+            "sku_s": "27477IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Fore-K-27477IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "15.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27477IN-4ND",
+            "productInRiverId_s": "inRiver_2491477",
+            "priceList.CTR.finalPrice_d": 6390.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-27477IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Fore Tri™",
+            "variantList.sku_ss": [
+              "27477IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "35.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27477IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "5-13/16\"",
+            "id": "745fe54f-e881-4286-a6b5-159ff4693cf0|27477IN-4ND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

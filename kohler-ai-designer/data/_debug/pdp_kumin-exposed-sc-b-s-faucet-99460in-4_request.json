@@ -1,0 +1,149 @@
+{
+  "product_url": "https://www.kohler.co.in/p/kumin-exposed-sc-b-s-faucet-99460in-4?skuId=99460IN-4-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/kumin-exposed-sc-b-s-faucet-99460in-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/kumin-exposed-sc-b-s-faucet-99460in-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/kumin-exposed-sc-b-s-faucet-99460in-4?skuId=99460IN-4-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "rNP15qgbus",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=254, origin; dur=805, ak_p; desc=\"1789417112925_400553039_332818231_105889_11837_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:18:33 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1380",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460IN-4.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460in_4frt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/kumin-mixer-bath-and-shower-faucet-in-polished-chrome-finish",
+            "ProductNarrativeDescription_s": "Kumin brings easy function and sleek style into any bathroom, combining single-handle control with modern design to create an eye-catching faucet.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|99460IN-4-CP|false|false|K-99460IN-4-CP"
+            ],
+            "ProductBrandName_s": "Kumin®",
+            "ProductPackageContents_s": "1 BODY ASSEMBLY, 2 CONNECTOR ASSEMBLY, 1 HARDWARE KIT, \n1 WARRANTY CARD, & 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460IN-4.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460IN-4.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "99460IN-4-CP|zab60350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab60350_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 15639.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 18400.0,
+            "ProductDescriptionProductShort_s": "Exposed sc b/s faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460in_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460in_4sde.dxf"
+            ],
+            "productName_s": "Kumin®  Exposed sc b/s faucet",
+            "ctId_s": "e3b97517-a9da-4030-a636-3d2dd61a716c",
+            "ProductWebFeatures_ss": [
+              "A purposeful design to the minimalist space by delivering a clean, pure form",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards over two times",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 18400.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460in_4sde.dwg"
+            ],
+            "sku_s": "99460IN-4-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower_Kit-KOHLER-KUMIN-K-99460IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460IN-4.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "19.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "99460IN-4",
+            "productInRiverId_s": "inRiver_589707",
+            "priceList.CTR.finalPrice_d": 18400.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-99460IN-4-CP",
+            "ProductBrandNameDisplay_s": "Kumin®",
+            "variantList.sku_ss": [
+              "99460IN-4-CP"
+            ],
+            "SKUShippingHeight_s": "15.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "23.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460in_4pln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460in_4frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99460IN-4.dwg"
+            ],
+            "id": "e3b97517-a9da-4030-a636-3d2dd61a716c|99460IN-4-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

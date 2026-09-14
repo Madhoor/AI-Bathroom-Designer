@@ -1,0 +1,176 @@
+{
+  "product_url": "https://www.kohler.co.in/p/complementary-bath-spout-without-diverter-flat-face-160mm-10385in?skuId=10385IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/complementary-bath-spout-without-diverter-flat-face-160mm-10385in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/complementary-bath-spout-without-diverter-flat-face-160mm-10385in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/complementary-bath-spout-without-diverter-flat-face-160mm-10385in?skuId=10385IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "yzK6x2QUzW",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=267, origin; dur=790, ak_p; desc=\"1789417097159_400553039_332817141_105962_9288_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:18:18 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1978",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/flat-face-complementary-bath-spout-without-diverter-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-3/4\"",
+            "ProductNarrativeDescription_s": "With clean lines, a streamlined silhouette and square features, the KOHLER® Complementary™ collection offers a refined touch to any bathroom, balancing timeless style with elevated functionality. This KOHLER® Complementary™ bath spout has an elegant form that seamlessly blends functionality with aesthetic appeal Its minimalist yet sophisticated aesthetic effortlessly complements an array of modern and traditional interiors, making a quiet, elegant statement that endures through time. Each detail has been meticulously considered, ensuring this bath spout is more than just utilitarian—it is a piece that redefines everyday essentials. Combining subtle charm with enduring performance, the Complementary™ collection invites you to elevate both the form and function of your space with impeccable style and thoughtful design.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|10385IN-CP|true|false|K-10385IN-CP",
+              "Vibrant French Gold|swatch_AF|10385IN-AF|true|false|K-10385IN-AF",
+              "Vibrant Brushed Bronze|swatch_BV|10385IN-BV|true|false|K-10385IN-BV",
+              "Vibrant Brushed Rose Gold|swatch_BRD|10385IN-BRD|true|false|K-10385IN-BRD"
+            ],
+            "ProductBrandName_s": "Complementary™",
+            "ProductPackageContents_s": "1 BATH SPOUT;1 WARRANTY CARD; 1 INSTALLATION INSTRUCTION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1617746-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1073960-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-10385IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "10385IN-BV|aae79591_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae79591_rgb",
+              "10385IN-AF|zab06578_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab06578_rgb",
+              "10385IN-CP|aaf80573_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf80573_rgb",
+              "10385IN-BRD|aag61409_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61409_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2779.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3280.0,
+            "ProductOverallLengthInches_s": "7-7/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385insde.dxf"
+            ],
+            "productName_s": "Complementary™ Wall-mount bath spout",
+            "ctId_s": "3f752a4c-b652-4850-8690-64df10f0f7bf",
+            "ProductWebFeatures_ss": [
+              "Nondiverter bath spout",
+              "7.9 gpm (30.0 lpm) maximum bath faucet flow rate at 43.5 psi (3.0 bar)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 3280.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385insde.dwg"
+            ],
+            "sku_s": "10385IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Complementary-K-10385IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "3.438",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "10385IN",
+            "productInRiverId_s": "inRiver_558345",
+            "priceList.CTR.finalPrice_d": 3280.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-10385IN-CP",
+            "ProductBrandNameDisplay_s": "Complementary™",
+            "variantList.sku_ss": [
+              "10385IN-CP",
+              "10385IN-BV",
+              "10385IN-AF",
+              "10385IN-BRD"
+            ],
+            "SKUShippingHeight_s": "2.313",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "9.750",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/10385IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "1-3/4\"",
+            "id": "3f752a4c-b652-4850-8690-64df10f0f7bf|10385IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

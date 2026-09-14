@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/bath-spout-without-diverter-in-rose-gold-23973in-aa?skuId=23973IN-AA-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/bath-spout-without-diverter-in-rose-gold-23973in-aa",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/bath-spout-without-diverter-in-rose-gold-23973in-aa",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/bath-spout-without-diverter-in-rose-gold-23973in-aa?skuId=23973IN-AA-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "MpgRGIClaZ",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=256, origin; dur=742, ak_p; desc=\"1789417105114_400553039_332817655_99891_10423_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:18:26 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1615",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973IN-AA.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973in_aafrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/vive-bathspout-in-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-11/16\"",
+            "ProductNarrativeDescription_s": "The KOHLER VIVE® wall-mount bath spout is both playful and ergonomic in nature. With a gently narrowing design, this spout is a captivating fusion of form and function, transforming water flow into an elegant dance. Experience a graceful expression of style with captivating brass craftsmanship and a smooth laminar flow.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|23973IN-AA-CP|true|false|K-23973IN-AA-CP",
+              "Vibrant French Gold|swatch_AF|23973IN-AA-AF|true|false|K-23973IN-AA-AF",
+              "Vibrant Rose Gold|swatch_RGD|23973IN-AA-RGD|true|false|K-23973IN-AA-RGD",
+              "Matte Black|swatch_BL|23973IN-AA-BL|true|false|K-23973IN-AA-BL"
+            ],
+            "ProductBrandName_s": "KOHLER VIVE®",
+            "ProductPackageContents_s": "1-BATH SPOUT W/O DIV; 1 INSTALLATION INSTRUCTION; 1 WARRANTY;  1 AERATOR KEY",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973IN-AA.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1482706-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-23973IN-AA_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973IN-AA.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "23973IN-AA-CP|aae78173_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae78173_rgb",
+              "23973IN-AA-RGD|aaf78611_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78611_rgb",
+              "23973IN-AA-AF|aaf78613_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78613_rgb",
+              "23973IN-AA-BL|aaf07525_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf07525_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 4259.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 5200.0,
+            "ProductOverallLengthInches_s": "3-11/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973in_aapln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973in_aasde.dxf"
+            ],
+            "productName_s": "KOHLER VIVE® Wall-mount bath spout",
+            "ctId_s": "37f2f84d-0e0a-405d-804e-53be5a1ea9aa",
+            "ProductWebFeatures_ss": [
+              "3-11/16\" (93 mm) nondiverter bath spout with G 1/2 connection",
+              "Laminar flow",
+              "1-13/32\" (36 mm) max hole diameter"
+            ],
+            "priceList.ANY.finalPrice_d": 5200.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973in_aasde.dwg"
+            ],
+            "sku_s": "23973IN-AA-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Vive-K-23973IN.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973IN-AA.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "9.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "23973IN-AA",
+            "productInRiverId_s": "inRiver_2491785",
+            "priceList.CTR.finalPrice_d": 5200.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-23973IN-AA-CP",
+            "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+            "variantList.sku_ss": [
+              "23973IN-AA-CP",
+              "23973IN-AA-RGD",
+              "23973IN-AA-AF",
+              "23973IN-AA-BL"
+            ],
+            "SKUShippingHeight_s": "6.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "25.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973in_aapln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Brass construction ensures durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973in_aafrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23973IN-AA.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-3/8\"",
+            "id": "37f2f84d-0e0a-405d-804e-53be5a1ea9aa|23973IN-AA-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

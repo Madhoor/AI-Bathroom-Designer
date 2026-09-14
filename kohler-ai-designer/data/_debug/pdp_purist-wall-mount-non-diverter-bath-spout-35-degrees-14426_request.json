@@ -1,0 +1,186 @@
+{
+  "product_url": "https://www.kohler.co.in/p/purist-wall-mount-non-diverter-bath-spout-35-degrees-14426?skuId=14426-2MB",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/purist-wall-mount-non-diverter-bath-spout-35-degrees-14426",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/purist-wall-mount-non-diverter-bath-spout-35-degrees-14426",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/purist-wall-mount-non-diverter-bath-spout-35-degrees-14426?skuId=14426-2MB",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "8XNNdLj7JQ",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=270, origin; dur=740, ak_p; desc=\"1789417148708_400553039_332820540_100996_10938_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:19:09 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2001",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductYoutubeID_s": "6MGS3Sfo1-0",
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductBrandName_s": "Purist™",
+            "ProductPackageContents_s": " 1 INSTALLATION GUIDE,1.Spout Kit,1 - ESCUTCHEON",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426.skp"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1204915-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 31100.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 31100.0,
+            "ProductOverallLengthInches_s": "8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426pln.dxf"
+            ],
+            "productName_s": "Purist® Wall-mount bath spout",
+            "ctId_s": "3979eba9-89b1-4725-9805-e390c1076fde",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Purist-K-14426.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "4.750",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "14426",
+            "priceList.CTR.finalPrice_d": 31100.0,
+            "ProductBrandNameDisplay_s": "Purist",
+            "SKUShippingHeight_s": "4.130",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.HomeownersGuide.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1204908-5.pdf"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426.obj"
+            ],
+            "ProductOverallWidthInches_s": "4\"",
+            "ProductNarrativeDescription_s": "Combining architectural forms with sensual design bathroom faucet lines, KOHLER® Purist faucets and accessories bring a touch of modern elegance to your bathroom. This wall-mount bath spout exemplifies the Purist collection's understated style with its rounded silhouette and gentle, 35° arc. Choose a KOHLER faucet and count on a lifetime of practical beauty.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Brushed Moderne Brass|swatch_2MB|14426-2MB|false|false|K-14426-2MB"
+            ],
+            "Recommended_Accessories_ss": [
+              "inRiver_262365",
+              "inRiver_262347",
+              "inRiver_271583",
+              "inRiver_270306"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-14426_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-14426_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-14426_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-14426_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "14426-2MB|14426-2MB_CloseRoomViewProductDetailSquare_d2c0015626_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewProductDetailSquare_d2c0015626_rgb",
+              "14426-2MB|14426-2MB_DIMENSIONALSquareWithText_d2c0015639_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_DIMENSIONALSquareWithText_d2c0015639_en-US",
+              "14426-2MB|14426-2MB_FRONTSquare_d2c0015650_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_FRONTSquare_d2c0015650_rgb",
+              "14426-2MB|14426-2MB_PartialRoomViewSquareWithText_d2c0015633_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_PartialRoomViewSquareWithText_d2c0015633_en-US",
+              "14426-2MB|14426-2MB_ISOSquare_d2c0015645_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_ISOSquare_d2c0015645_rgb",
+              "14426-2MB|14426-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0015632_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0015632_en-US",
+              "14426-2MB|14426-2MB_CloseRoomViewInUseSquareWithText_d2c0015616_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_CloseRoomViewInUseSquareWithText_d2c0015616_en-US",
+              "14426-2MB|14426-2MB_SIDESquare_d2c0015642_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_SIDESquare_d2c0015642_rgb",
+              "14426-2MB|14426-2MB_PartialRoomViewInUseSquareWithText_d2c0015605_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_PartialRoomViewInUseSquareWithText_d2c0015605_en-US",
+              "14426-2MB|14426-2MB_ISO_d2c0015645_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/14426-2MB_ISO_d2c0015645_rgb",
+              "14426-2MB|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Full-flow design provides unrestricted water delivery for optimal bath-filling performance"
+            ],
+            "priceList.ANY.finalPrice_d": 31100.0,
+            "ProductCaliforniaProp65WarningDisclaimer_s": "",
+            "sku_s": "14426-2MB",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_273541",
+            "Product_Category": "Bathtub Faucets",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1034787_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-14426-2MB",
+            "variantList.sku_ss": [
+              "14426-2MB"
+            ],
+            "SKUShippingLength_s": "9.750",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "KOHLER finishes resist corrosion and tarnishing",
+              "Brass"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426.dwg"
+            ],
+            "id": "3979eba9-89b1-4725-9805-e390c1076fde|14426-2MB"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

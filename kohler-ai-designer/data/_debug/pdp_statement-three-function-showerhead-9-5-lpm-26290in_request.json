@@ -1,0 +1,217 @@
+{
+  "product_url": "https://www.kohler.co.in/p/statement-three-function-showerhead-9-5-lpm-26290in?skuId=26290IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/statement-three-function-showerhead-9-5-lpm-26290in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/statement-three-function-showerhead-9-5-lpm-26290in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5423>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/statement-three-function-showerhead-9-5-lpm-26290in?skuId=26290IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "6UuUJ1t6uY",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=260, origin; dur=779, ak_p; desc=\"1789417383230_400553039_332837035_103896_10494_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:23:04 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2601",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/statement™-multi-flow-overhead-shower-in-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "G 1/2 inlet connection",
+              "Wall-mount",
+              "Shower arm and flange sold separately"
+            ],
+            "ProductOverallWidthInches_s": "8-1/16\"",
+            "ProductNarrativeDescription_s": "Relax in a shower that fully soaks, restores, and targets sore muscles — all at the touch of a button. The oblong KOHLER Statement™ multifunction showerhead lets you choose from three spray experiences. Full Coverage with Katalyst air-induction technology for a drenching spray experience, a super-fine luxuriously soft Cloud spray experience, or more-focused, Deep Massage kinetic cross-streams, angled to relieve sore muscles. The multifunction showerhead features intuitive mode selector buttons and comes attached to an offset ball joint for 180-degree rotation, adjusting to any body height. Its sleek, minimalist design complements many other KOHLER faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|26290IN-CP|true|false|K-26290IN-CP",
+              "Vibrant French Gold|swatch_AF|26290IN-AF|true|false|K-26290IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|26290IN-RGD|true|false|K-26290IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|26290IN-BV|true|false|K-26290IN-BV",
+              "Matte Black|swatch_BL|26290IN-BL|true|false|K-26290IN-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|26290IN-BRD|true|false|K-26290IN-BRD"
+            ],
+            "ProductBrandName_s": "Statement™",
+            "ProductPackageContents_s": "1 SHOWERHEAD;1 FLOW REGULATOR;1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1430509-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-26290IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst® air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "26290IN-BL|aad03603_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad03603_rgb",
+              "26290IN-BL|aag42128_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag42128_rgb",
+              "26290IN-BL|aaf73434_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf73434_rgb",
+              "26290IN-BL|aag49145_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag49145_rgb",
+              "26290IN-CP|aad89097_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad89097_rgb",
+              "26290IN-CP|aaf67698_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67698_rgb",
+              "26290IN-CP|aaf67701_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67701_rgb",
+              "26290IN-CP|aaf67697_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67697_rgb",
+              "26290IN-CP|aaf67699_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67699_rgb",
+              "26290IN-CP|aaf67700_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67700_rgb",
+              "26290IN-CP|aaf71632_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71632_rgb",
+              "26290IN-CP|aaf71628_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71628_rgb",
+              "26290IN-CP|aag42726_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aag42726_rgb",
+              "26290IN-CP|aag42725_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag42725_rgb",
+              "26290IN-CP|aag42741_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag42741_rgb",
+              "26290IN-CP|aag49147_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag49147_rgb",
+              "26290IN-AF|aad46732_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad46732_rgb",
+              "26290IN-AF|aag49144_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag49144_rgb",
+              "26290IN-RGD|aad46729_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad46729_rgb",
+              "26290IN-RGD|aag49148_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag49148_rgb",
+              "26290IN-BV|aad46730_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad46730_rgb",
+              "26290IN-BV|aag49146_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag49146_rgb",
+              "26290IN-BRD|aaj90130_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj90130_rgb",
+              "26290IN-BRD|aaj90132_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj90132_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 6799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 8300.0,
+            "ProductOverallLengthInches_s": "5-1/2\"",
+            "ProductDescriptionProductShort_s": "Oblong three-function 20.2 cm showerhead, 9.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290insde.dxf"
+            ],
+            "productName_s": "Statement™ Oblong three-function 20.2 cm showerhead, 9.5 lpm",
+            "ctId_s": "0934214a-6df7-4db3-80d4-a5e7a0d65830",
+            "ProductWebFeatures_ss": [
+              "Multifunction showerhead with advanced spray engine provides three spray experiences: Full Coverage with Katalyst technology, Deep Massage, and Cloud",
+              "Full Coverage with Katalyst technology delivers a drenching spray experience, ideal for rinsing shampoo from hair; oblong shape targets shoulders",
+              "Deep Massage streams twist and swirl, targeting sore muscles to ease away aches and pains",
+              "Cloud spray experience restores with a thick cloud of silky, super-fine water droplets",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "2.5 gpm (9.5 lpm) maximum flow rate at 45 psi (3.1 bar)"
+            ],
+            "priceList.ANY.finalPrice_d": 8300.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2",
+              "Option 3"
+            ],
+            "sku_s": "26290IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-K-26290IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "16.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "26290IN",
+            "productInRiverId_s": "inRiver_885711",
+            "priceList.CTR.finalPrice_d": 8300.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-26290IN-CP",
+            "ProductBrandNameDisplay_s": "Statement™",
+            "variantList.sku_ss": [
+              "26290IN-AF",
+              "26290IN-BL",
+              "26290IN-BV",
+              "26290IN-CP",
+              "26290IN-RGD",
+              "26290IN-BRD"
+            ],
+            "SKUShippingHeight_s": "13.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "24.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_559461",
+              "inRiver_1482720",
+              "inRiver_1337905"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26290IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-3/4\"",
+            "id": "0934214a-6df7-4db3-80d4-a5e7a0d65830|26290IN-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

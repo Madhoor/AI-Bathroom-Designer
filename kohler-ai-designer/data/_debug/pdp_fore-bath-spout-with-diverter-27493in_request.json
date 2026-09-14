@@ -1,0 +1,163 @@
+{
+  "product_url": "https://www.kohler.co.in/p/fore-bath-spout-with-diverter-27493in?skuId=27493IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/fore-bath-spout-with-diverter-27493in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/fore-bath-spout-with-diverter-27493in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4904>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/fore-bath-spout-with-diverter-27493in?skuId=27493IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "1MeOssv5HD",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=246, origin; dur=743, ak_p; desc=\"1789417120688_400553039_332818613_98970_11501_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:18:41 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1529",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/fore-bath-spout-w-diverter",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductNarrativeDescription_s": "At Kohler, we design our products to give you the right mix of functionality and style to bring comfort to your daily routines. Bold in stature with neo-modern expression, the Fore™ wall-mount bath spout brings sleek sophistication to your bathing space. This futuristic-looking spout features a sleek square escutcheon and pin diverter for transferring water to the handshower outlet.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|27493IN-CP|true|false|K-27493IN-CP",
+              "Vibrant French Gold|swatch_AF|27493IN-AF|true|false|K-27493IN-AF"
+            ],
+            "ProductBrandName_s": "Fore™",
+            "ProductPackageContents_s": "1-BATH SPOUT W DIV, 1 INSTALLATION INSTRUCTION; 1 WARRANTY, 1 ESCUTCHEON",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-27493IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27493IN-CP|aaf87252_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf87252_rgb",
+              "27493IN-AF|aaf87254_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf87254_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3399.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 4010.0,
+            "ProductOverallLengthInches_s": "5-3/4\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493insde.dxf"
+            ],
+            "productName_s": "Fore™ Wall-mount bath spout with diverter",
+            "ctId_s": "f605e795-ebbb-4530-bc40-37317313604e",
+            "ProductWebFeatures_ss": [
+              "Versatile modern design",
+              "Diverter spout with G 1/2 connection",
+              "14.6 cm (5.73 inch) spout reach"
+            ],
+            "priceList.ANY.finalPrice_d": 4010.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493insde.dwg"
+            ],
+            "sku_s": "27493IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Fore-K-27493IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "8.800",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27493IN",
+            "productInRiverId_s": "inRiver_2491474",
+            "priceList.CTR.finalPrice_d": 4010.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-27493IN-CP",
+            "ProductBrandNameDisplay_s": "Fore™",
+            "variantList.sku_ss": [
+              "27493IN-CP",
+              "27493IN-AF"
+            ],
+            "SKUShippingHeight_s": "6.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "24.800",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27493IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-7/8\"",
+            "id": "f605e795-ebbb-4530-bc40-37317313604e|27493IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

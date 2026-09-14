@@ -1,0 +1,206 @@
+{
+  "product_url": "https://www.kohler.co.in/p/components-bathroom-sink-rocker-handle-77963-8a?skuId=77963-8A-BL",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/components-bathroom-sink-rocker-handle-77963-8a",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/components-bathroom-sink-rocker-handle-77963-8a",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4953>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/components-bathroom-sink-rocker-handle-77963-8a?skuId=77963-8A-BL",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "hgrPG85Xkx",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=261, origin; dur=800, ak_p; desc=\"1789416983625_400553039_332808774_106157_9966_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 20:16:24 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2444",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963_8afrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Single-hole mounting",
+              "Remote valve installation allows flexibility for placement",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductBrandName_s": "Components™",
+            "ProductPackageContents_s": "1 HANDLE;\n1 INSTALLATION GUIDE;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963-8A.skp"
+            ],
+            "ProductServices_ss": [
+              "3-INSTALL-SERVICE"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1394850-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963-8A.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 35999.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 45000.0,
+            "ProductOverallLengthInches_s": "2-3/8\"",
+            "ProductDescriptionProductShort_s": "Rocker bathroom sink faucet handle",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963_8apln.dxf"
+            ],
+            "productName_s": "Components® Rocker bathroom sink faucet handle",
+            "ctId_s": "534b2e26-3de7-443e-95aa-c07504961637",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963_8asde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Handle-KOHLER-Components-K-77963.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Handle-KOHLER-Components-K-77963.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963-8A.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "5.500",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "77963-8A",
+            "priceList.CTR.finalPrice_d": 45000.0,
+            "ProductBrandNameDisplay_s": "Components",
+            "SKUShippingHeight_s": "5.500",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963_8afrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "1-3/16\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963-8A.obj"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "Modern form meets modern function: the KOHLER� Components collection is defined by controlled forms and stark precision in every line and angle. With Components, you design your custom bath. Choose a spout, handles, and finish to build your own signature modern look. This rocker faucet single-handle features a unique back-and-forth movement with smooth control. Pair it with your choice of Components sink spout.",
+            "Color.SKU.Details_ss": [
+              "Matte Black|swatch_BL|77963-8A-BL|false|false|K-77963-8A-BL"
+            ],
+            "Recommended_Accessories_ss": [
+              "inRiver_2196320"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-77963-8A_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-77963-8A_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-77963-8A_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-77963-8A_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "77963-8A-BL|aag34197_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/aag34197_rgb",
+              "77963-8A-BL|aag34198_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/aag34198_en-US",
+              "77963-8A-BL|aag34200_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag34200_rgb",
+              "77963-8A-BL|aag33100_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag33100_rgb",
+              "77963-8A-BL|aag34201_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/aag34201_rgb",
+              "77963-8A-BL|aag34203_en-US|IMGITEMCLOSEROOMVIEWSquareWithText||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aag34203_en-US",
+              "77963-8A-BL|aag34204_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/aag34204_rgb",
+              "77963-8A-BL|aag34199_en-US|IMGITEMOVERHEADROOMVIEWSquareWithText||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/aag34199_en-US",
+              "77963-8A-BL|aag33099_rgb|IMGITEMISOBackground||3/4 view of product with background|https://kohler.scene7.com/is/image/PAWEB/aag33099_rgb",
+              "77963-8A-BL|aag34202_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/aag34202_en-US",
+              "77963-8A-BL|SKU_FAUCETS_FEATUREVALVE_CeramicSquareWithText_en-US|IMGITEMFEATUREValveSquareWithText||Detail image of a product valve feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREVALVE_CeramicSquareWithText_en-US",
+              "77963-8A-BL|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "77963-8A-BL|SKU_BFAUCETS_MIXMATCH_ComponentsWideSpreadSquareWithText_en-US|IMGITEMFEATUREMixMatchSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_BFAUCETS_MIXMATCH_ComponentsWideSpreadSquareWithText_en-US",
+              "77963-8A-BL|77963-8A-BL_CloseRoomViewProductDetailInUseSquareWithText_aag34205_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/77963-8A-BL_CloseRoomViewProductDetailInUseSquareWithText_aag34205_en-US",
+              "77963-8A-BL|77963-8A-BL_InTheBoxSquareWithText_d2c0075261_en-US|IMGITEMINTHEBOXSquareWithText||Infographic of included pieces|https://kohler.scene7.com/is/image/PAWEB/77963-8A-BL_InTheBoxSquareWithText_d2c0075261_en-US"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963_8asde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Single Rocker handle allows for both volume and temperature control",
+              "For use with Components K-77967, K-77965, K-77968, K-77966, or K-77969 spout (sold separately)",
+              "Coordinates with Components faucets, accessories, and showering components to complete your bathroom",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 45000.0,
+            "ProductCaliforniaProp65WarningDisclaimer_s": "",
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2",
+              "Option 3",
+              "Option 4",
+              "Option 5"
+            ],
+            "sku_s": "77963-8A-BL",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_233846",
+            "Product_Category": "Bathroom Sink Faucets",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1304583_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-77963-8A-BL",
+            "variantList.sku_ss": [
+              "77963-8A-BL"
+            ],
+            "SKUShippingLength_s": "14.380",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963_8apln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_258692",
+              "inRiver_258700",
+              "inRiver_258708",
+              "inRiver_258716",
+              "inRiver_258734"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77963-8A.dwg"
+            ],
+            "id": "534b2e26-3de7-443e-95aa-c07504961637|77963-8A-BL"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}
