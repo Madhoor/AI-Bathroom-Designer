@@ -1,0 +1,188 @@
+{
+  "product_url": "https://www.kohler.co.in/p/avid-tall-single-handle-bathroom-sink-faucet-97347-4?skuId=97347-4-BL",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/avid-tall-single-handle-bathroom-sink-faucet-97347-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/avid-tall-single-handle-bathroom-sink-faucet-97347-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5541>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/avid-tall-single-handle-bathroom-sink-faucet-97347-4?skuId=97347-4-BL",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "252fT8IG4j",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=259, origin; dur=747, ak_p; desc=\"1789421656592_400553039_333224558_100658_11457_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:34:17 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2378",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347_4frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Single hole",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductBrandName_s": "Avid™",
+            "ProductPackageContents_s": "1 FAUCET ASSY; 1 HARDWARE KIT; 1 DRAIN; 1 ESCUTCHEON; 1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347-4.skp"
+            ],
+            "ProductServices_ss": [
+              "3-INSTALL-SERVICE"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1318988-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347-4.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 63519.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 79400.0,
+            "ProductOverallLengthInches_s": "7-13/16\"",
+            "ProductDescriptionProductShort_s": "Tall single-handle bathroom sink faucet, 1.2 gpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347_4pln.dxf"
+            ],
+            "productName_s": "Avid® Tall single-handle bathroom sink faucet, 1.2 gpm",
+            "ctId_s": "7a8647fe-917e-4110-96e6-20a81db63eef",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347_4sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Avid-K-97347.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347-4.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "9.803",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "97347-4",
+            "priceList.CTR.finalPrice_d": 79400.0,
+            "ProductBrandNameDisplay_s": "Avid",
+            "SKUShippingHeight_s": "4.134",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347_4frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "9-15/16\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347-4.obj"
+            ],
+            "ProductOverallWidthInches_s": "2\"",
+            "ProductNarrativeDescription_s": "KOHLER® Avid is the quintessential expression of today’s modern aesthetic movement. The contrast between fluid blends and sharp lines exudes sophistication and refinement. This single-handle bathroom sink faucet's subtle and sensual curves invite touch, while its precise geometry gives a sense of control and precision. Avid provides warmth and magnetism to any modern contemporary bathroom. True to its origins in design minimalism, Avid revives a pure way to connect with the eye and the hand.",
+            "Color.SKU.Details_ss": [
+              "Matte Black|swatch_BL|97347-4-BL|true|false|K-97347-4-BL"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-97347-4_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-97347-4_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-97347-4_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-97347-4_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "97347-4-BL|aag25167_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag25167_rgb",
+              "97347-4-BL|aag25305_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/aag25305_rgb",
+              "97347-4-BL|aag25302_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/aag25302_rgb",
+              "97347-4-BL|aag25303-en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/aag25303-en-US",
+              "97347-4-BL|aag25304-en-US|IMGITEMCLOSEROOMVIEWSquareWithText||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aag25304-en-US",
+              "97347-4-BL|aag25301_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag25301_rgb",
+              "97347-4-BL|aag25299-en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/aag25299-en-US",
+              "97347-4-BL|aag25300-en-US|IMGITEMOVERHEADROOMVIEWSquareWithText||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/aag25300-en-US",
+              "97347-4-BL|aag25298_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/aag25298_rgb",
+              "97347-4-BL|aag25166_rgb|IMGITEMISOBackground||3/4 view of product with background|https://kohler.scene7.com/is/image/PAWEB/aag25166_rgb",
+              "97347-4-BL|SKU_FAUCETS_FEATUREVALVE_CeramicSquareWithText_en-US|IMGITEMFEATUREValveSquareWithText||Detail image of a product valve feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREVALVE_CeramicSquareWithText_en-US",
+              "97347-4-BL|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "97347-4-BL|97347-4-BL_CloseRoomViewProductDetailInUseSquareWithText_aag25306_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/97347-4-BL_CloseRoomViewProductDetailInUseSquareWithText_aag25306_en-US",
+              "97347-4-BL|97347-4-BL_InTheBoxSquareWithText_d2c0075400_en-US|IMGITEMINTHEBOXSquareWithText||Infographic of included pieces|https://kohler.scene7.com/is/image/PAWEB/97347-4-BL_InTheBoxSquareWithText_d2c0075400_en-US"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347_4sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "A single handle controls both on/off activation and temperature setting",
+              "8\" (20.3 cm) spout height",
+              "1.2 gpm (4.5 lpm) maximum flow rate at 60 psi (4.14 bar)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance",
+              "Metal touch-activated drain with 1-1/4\" tailpiece",
+              "Ideal for vessel sink applications",
+              "Coordinates with other products in the Avid collection"
+            ],
+            "priceList.ANY.finalPrice_d": 79400.0,
+            "sku_s": "97347-4-BL",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_266216",
+            "Product_Category": "Bathroom Sink Faucets",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1588200-8.svg"
+            ],
+            "CustomerFacingSKU_s": "K-97347-4-BL",
+            "variantList.sku_ss": [
+              "97347-4-BL"
+            ],
+            "SKUShippingLength_s": "19.252",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347_4pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97347-4.dwg"
+            ],
+            "id": "7a8647fe-917e-4110-96e6-20a81db63eef|97347-4-BL"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

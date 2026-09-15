@@ -1,0 +1,175 @@
+{
+  "product_url": "https://www.kohler.co.in/p/components-single-handle-bathroom-sink-faucet-with-row-spout-and-oyl-handle-8-3-lpm-ex28093in-8?skuId=EX28093IN-8-AF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/components-single-handle-bathroom-sink-faucet-with-row-spout-and-oyl-handle-8-3-lpm-ex28093in-8",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/components-single-handle-bathroom-sink-faucet-with-row-spout-and-oyl-handle-8-3-lpm-ex28093in-8",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5541>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/components-single-handle-bathroom-sink-faucet-with-row-spout-and-oyl-handle-8-3-lpm-ex28093in-8?skuId=EX28093IN-8-AF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "LDWyVn22n2",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=251, origin; dur=729, ak_p; desc=\"1789421673991_400553039_333225430_99700_12700_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:34:34 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1885",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX28093IN-8.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex28093in_8frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "For single-hole installation",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductOverallWidthInches_s": "1-7/8\"",
+            "ProductNarrativeDescription_s": "Modern form meets modern function: the KOHLER® Components™ collection is defined by controlled forms and stark precision in every line and angle. With Components™, you design your custom minimalist bathroom. This single-handle bathroom sink faucet features monumental yet playful angularity in its Row spout topped with a rounded Oyl handle. Coordinate this sink faucet with Components™ shower and bath faucets and accessories to create a personalized design.",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|EX28093IN-8-AF|true|false|K-EX28093IN-8-AF",
+              "Vibrant Rose Gold|swatch_RGD|EX28093IN-8-RGD|true|false|K-EX28093IN-8-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|EX28093IN-8-BV|true|false|K-EX28093IN-8-BV",
+              "Matte Black|swatch_BL|EX28093IN-8-BL|true|false|K-EX28093IN-8-BL"
+            ],
+            "ProductBrandName_s": "Components™",
+            "ProductPackageContents_s": "1 LAV FAUCET; 1 CABLE DRAIN; 1 HARDWARE KIT; 1 INSTALLATION MANUAL; 1WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX28093IN-8.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1557546-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-EX28093IN-8_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX28093IN-8.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "EX28093IN-8-BV|aae23745_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23745_rgb",
+              "EX28093IN-8-BL|aae23753_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23753_rgb",
+              "EX28093IN-8-AF|aae23754_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23754_rgb",
+              "EX28093IN-8-RGD|aae23756_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23756_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 31599.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 39500.0,
+            "ProductOverallLengthInches_s": "5-5/16\"",
+            "ProductDescriptionProductShort_s": "Single-handle bathroom sink faucet with Row spout and Oyl handle, 8.3 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex28093in_8pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex28093in_8sde.dxf"
+            ],
+            "productName_s": "Components™ Single-handle bathroom sink faucet with Row spout and Oyl handle, 8.3 lpm",
+            "ctId_s": "7aacbed7-0425-4839-8c4a-4ba3cd4fbd5b",
+            "ProductWebFeatures_ss": [
+              "Contemporary design",
+              "Single Oyl handle actuation allows for both temperature and volume control",
+              "Red/blue indexing on handle",
+              "5.31 inch (13.5 cm) spout reach",
+              "4.5 inch (11.4 cm) spout height",
+              "2.2 gpm (8.3 lpm) maximum flow rate at 60 psi (4.14 bar)",
+              "Includes cable pop-up drain with 1.25 inch (32 mm) tailpiece",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 39500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex28093in_8sde.dwg"
+            ],
+            "sku_s": "EX28093IN-8-AF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Components-K-EX28093IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX28093IN-8.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "26.500",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "EX28093IN-8",
+            "productInRiverId_s": "inRiver_2945140",
+            "priceList.CTR.finalPrice_d": 39500.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-EX28093IN-8-AF",
+            "ProductBrandNameDisplay_s": "Components™",
+            "variantList.sku_ss": [
+              "EX28093IN-8-AF",
+              "EX28093IN-8-BL",
+              "EX28093IN-8-BV",
+              "EX28093IN-8-RGD"
+            ],
+            "SKUShippingHeight_s": "9.500",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "43.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex28093in_8pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex28093in_8frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX28093IN-8.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-5/8\"",
+            "id": "7aacbed7-0425-4839-8c4a-4ba3cd4fbd5b|EX28093IN-8-AF"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

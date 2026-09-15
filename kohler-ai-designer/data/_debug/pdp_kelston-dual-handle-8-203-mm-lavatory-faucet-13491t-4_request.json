@@ -1,0 +1,150 @@
+{
+  "product_url": "https://www.kohler.co.in/p/kelston-dual-handle-8-203-mm-lavatory-faucet-13491t-4?skuId=13491T-4-RGD",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/kelston-dual-handle-8-203-mm-lavatory-faucet-13491t-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/kelston-dual-handle-8-203-mm-lavatory-faucet-13491t-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4946>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/kelston-dual-handle-8-203-mm-lavatory-faucet-13491t-4?skuId=13491T-4-RGD",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Gl9unpuCam",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=264, origin; dur=723, ak_p; desc=\"1789422258922_400553039_333249157_98687_9948_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:44:19 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1396",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491T-4.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491t_4frt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "Gracious and inviting, Kelston evokes the grandeur of traditional design while delivering outstanding performance in the bathroom. Water flows smoothly from the curved spout of this Kelston bathroom sink faucet, while two lever handles allow you to precisely control and maintain water pressure and temperature.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Rose Gold|swatch_RGD|13491T-4-RGD|false|false|K-13491T-4-RGD"
+            ],
+            "ProductBrandName_s": "Kelston™",
+            "ProductPackageContents_s": "KELSTON DUAL HANDLE 8\" LAV FAUCET, 3 INSTALLATION INSTRUCTION, 1 CERTIFICATE OF MAINTENANCE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491T-4.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/k_13491t_4.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1398147858_ri_13491t_4.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491T-4.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "13491T-4-RGD|aad04452_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad04452_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 84600.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 84600.0,
+            "ProductDescriptionProductShort_s": "Dual Handle 8\" (20.3 cm) Lavatory Faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491t_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491t_4sde.dxf"
+            ],
+            "productName_s": "Kelston Dual Handle 8\" (20.3 cm) Lavatory Faucet",
+            "ctId_s": "195ac832-623f-4949-9391-ac72e51c6fd7",
+            "ProductWebFeatures_ss": [
+              "American classic design, classical and elegant, showcasing eternal glamour",
+              "Solid brass construction, ceramic spool, never leaking or dripping",
+              "A comprehensive range of products, offering a complete bathroom solution"
+            ],
+            "priceList.ANY.finalPrice_d": 84600.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491t_4sde.dwg"
+            ],
+            "sku_s": "13491T-4-RGD",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-KELSTON-K-13491T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491T-4.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "10.338",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "13491T-4",
+            "productInRiverId_s": "inRiver_1336186",
+            "priceList.CTR.finalPrice_d": 84600.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-13491T-4-RGD",
+            "ProductBrandNameDisplay_s": "Kelston™",
+            "variantList.sku_ss": [
+              "13491T-4-RGD"
+            ],
+            "SKUShippingHeight_s": "3.885",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "23.962",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491t_4pln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491t_4frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13491T-4.dwg"
+            ],
+            "id": "195ac832-623f-4949-9391-ac72e51c6fd7|13491T-4-RGD"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

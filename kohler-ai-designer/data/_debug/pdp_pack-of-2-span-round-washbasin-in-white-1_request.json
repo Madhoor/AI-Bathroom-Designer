@@ -1,0 +1,138 @@
+{
+  "product_url": "https://www.kohler.co.in/p/pack-of-2-span-round-washbasin-in-white-1?skuId=C60",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/pack-of-2-span-round-washbasin-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/pack-of-2-span-round-washbasin-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/pack-of-2-span-round-washbasin-in-white-1?skuId=C60",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "LwcGW1eNZn",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=249, origin; dur=828, ak_p; desc=\"1789420804503_400553078_266596844_107705_10771_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:20:05 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1315",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 14.4,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|25318IN-0|true|false|K-25318IN-0"
+            ],
+            "ProductPackageContents_s": "1 VESSEL;1 INSTALLATION\nTEMPLATE AND 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "25318IN-0|aae91053_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae91053_rgb",
+              "25318IN-0|aah42069_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42069_rgb",
+              "25318IN-0|aaf69976_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69976_rgb",
+              "25318IN-0|aaf69974_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69974_rgb",
+              "25318IN-0|aah42071_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42071_rgb",
+              "25318IN-0|aah42070_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42070_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "47.1 cm oval vessel bathroom sink with glazed underside, no overflow",
+            "ColorFinish_s": "White",
+            "productName_s": "Span™ 47.1 cm oval vessel bathroom sink with glazed underside, no overflow",
+            "ctId_s": "47ce52c6-a134-4c82-b8e3-3a0783b237f3",
+            "ProductWebFeatures_ss": [
+              "Minimalist design with thin, rounded edges",
+              "Oval basin",
+              "An integrated faucet deck provides additional water containment",
+              "Single faucet hole at deck center",
+              "Without overflow",
+              "Glazed underside offers beauty from all angles"
+            ],
+            "ProductOverallWidthCm_d": 36.0,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "25318IN-0",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Bathroom Sinks",
+            "ProductBrandNameDisplay_s": "Span™",
+            "SKUShippingHeight_s": "19.000",
+            "SKUShippingLength_s": "53.000",
+            "slug_s": "span-471-mm-oval-vessel-bathroom-sink-with-glazed-underside-no-overflow-25318in",
+            "ProductOverallLengthCm_d": 47.2
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Pack of 2 Span Round Washbasin in White",
+            "ctId_s": "eb6f999d-cee2-491a-be9b-110381a732af",
+            "priceList.ANY.finalPrice_d": 12000.0,
+            "redirectUrl_s": "https://shopkohler.in/products/pack-of-2-span-round-washbasin-in-white",
+            "sku_s": "C60",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 12000.0,
+            "Product_Category": "Grooming Area Combos",
+            "CustomerFacingSKU_s": "K-C60",
+            "variantList.sku_ss": [
+              "C60"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "C60|aaf68102_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68102_rgb",
+              "C60|aaf68103_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68103_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 10198.0,
+            "priceList.KEMP.finalPrice_d": 12000.0,
+            "id": "eb6f999d-cee2-491a-be9b-110381a732af|C60"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "product_url": "https://www.kohler.co.in/p/components-touchless-wall-mount-195-mm-lavatory-faucet-with-kinesis-sensor-technology-1-9-lpm-39560in-nd?skuId=39560IN-ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/components-touchless-wall-mount-195-mm-lavatory-faucet-with-kinesis-sensor-technology-1-9-lpm-39560in-nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/components-touchless-wall-mount-195-mm-lavatory-faucet-with-kinesis-sensor-technology-1-9-lpm-39560in-nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/components-touchless-wall-mount-195-mm-lavatory-faucet-with-kinesis-sensor-technology-1-9-lpm-39560in-nd?skuId=39560IN-ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "ULKiNK6wIA",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=254, origin; dur=727, ak_p; desc=\"1789422124582_400553039_333244101_98112_9702_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:42:05 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1897",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560IN-ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560in_ndfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "With its sleek tube-like design, the 1.9 lpm Components™ cold-only touchless wall-mount 19.5 cm lavatory faucet is the future of convenience. With advanced Kinesis™ sensor technology, this faucet outperforms other touchless models with traditional infrared sensors. Enjoy water savings with an aerated flow that reduces splashing. Crafted durably and reliably, the brass spout is both stylish and resistant to scratches and corrosion.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|39560IN-ND-CP|true|false|K-39560IN-ND-CP"
+            ],
+            "ProductBrandName_s": "Components™",
+            "ProductPackageContents_s": "1 SENSOR FAUCET; 1 VALVE ASSY; 1 INLET PIPE; 1 TOOL KIT; 1 BATTERY BOX; 4 BATTERY; 1 INSTALLATION INSTRUCTION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560IN-ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-39560IN-ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560IN-ND.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Kinesis™ sensor technology offers on-demand detection for maximum water savings"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "39560IN-ND-CP|aaf22496_rgb|IMGTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aaf22496_rgb",
+              "39560IN-ND-CP|aaf22495_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf22495_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 26849.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 32750.0,
+            "ProductDescriptionProductShort_s": "Touchless wall-mount 19.5 cm lavatory faucet with Kinesis™ sensor technology, 1.9 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560in_ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560in_ndsde.dxf"
+            ],
+            "productName_s": "Components™ Touchless wall-mount 19.5 cm lavatory faucet with Kinesis™ sensor technology, 1.9 lpm",
+            "ctId_s": "22523abc-290d-46b8-8574-b9bc3ff56bac",
+            "ProductWebFeatures_ss": [
+              "Kinesis™ technology with concealed sensor allows for a clean aesthetic and provides extraordinarily accurate and reliable actuation in varying installation environments",
+              "On-demand usage with 60-second max. continual run cycle to prevent vandalism and save water",
+              "Design-forward aesthetic for commercial bathroom spaces",
+              "Vandal-resistant aerator",
+              "7-11/16\" (19.5 cm) spout reach",
+              "13-3/8\" (34 cm) stainless steel supply tube",
+              "Aerated flow",
+              "For use with cold water line only",
+              "0.5 gpm (1.9 lpm) maximum flow rate",
+              "Below-counter valving reduces the faucet footprint and provides easier service",
+              "Includes spout assembly, control box assembly, supply tube, aerator key, and standard installation hardware",
+              "DC battery-operated",
+              "AA battery-powered; up to four-year battery life (approx. 105,000 cycles)",
+              "Includes four AA batteries",
+              "Concealed mechanical mixer sold separately",
+              "Wall-mount installation"
+            ],
+            "priceList.ANY.finalPrice_d": 32750.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560in_ndsde.dwg"
+            ],
+            "sku_s": "39560IN-ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Touchless-Wall_Mount-Lavatory-KOHLER-Components-K-39560IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560IN-ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "14.188",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "39560IN-ND",
+            "productInRiverId_s": "inRiver_2852964",
+            "priceList.CTR.finalPrice_d": 32750.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-39560IN-ND-CP",
+            "ProductBrandNameDisplay_s": "Components™",
+            "variantList.sku_ss": [
+              "39560IN-ND-CP"
+            ],
+            "SKUShippingHeight_s": "3.813",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "21.438",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560in_ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Brass spout",
+              "Durable plastic valve with brass connection"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560in_ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39560IN-ND.dwg"
+            ],
+            "id": "22523abc-290d-46b8-8574-b9bc3ff56bac|39560IN-ND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

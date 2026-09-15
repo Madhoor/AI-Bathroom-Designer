@@ -1,0 +1,169 @@
+{
+  "product_url": "https://www.kohler.co.in/p/accliv-wall-mount-bath-spout-without-diverter-33074in?skuId=33074IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/accliv-wall-mount-bath-spout-without-diverter-33074in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/accliv-wall-mount-bath-spout-without-diverter-33074in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/accliv-wall-mount-bath-spout-without-diverter-33074in?skuId=33074IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "W77hHEuZkk",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=245, origin; dur=694, ak_p; desc=\"1789446518135_400553039_335216893_98660_11181_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:28:39 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1819",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "G 1/2 inlet connection"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "With contemporary curves and sleek, tapered lines, the KOHLER® Accliv™ bathroom faucet collection infuses your space with sophisticated, modern styling that transforms any bathroom into a serene retreat. A variety of faucet sizes and configurations allows you to create a unique, tailored space, while the thoughtfully engineered spout designs are crafted to provide precise water angles, ensuring a delightful and functional experience throughout the collection. This Accliv™ 16.7 cm wall-mount bath spout is designed with both style and practicality in mind, offering durable materials and a streamlined silhouette that effortlessly balances form and function. Does not include diverter.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|33074IN-CP|true|false|K-33074IN-CP",
+              "Vibrant French Gold|swatch_AF|33074IN-AF|true|false|K-33074IN-AF"
+            ],
+            "ProductBrandName_s": "Accliv™",
+            "ProductPackageContents_s": "ACCLIV\nBATH SPOUT W/O DIVERTER\nPACKAGE CONTENT: 1 SPOUT; 1 ESCUTCHEON\n1 WARRANTY CARD; 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1472380-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-33074IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "33074IN-CP|aad99194_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99194_rgb",
+              "33074IN-AF|aad99198_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99198_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2599.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3060.0,
+            "ProductOverallLengthInches_s": "6-5/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074insde.dxf"
+            ],
+            "productName_s": "Accliv™ Wall-mount bath spout",
+            "ctId_s": "7480485e-dab8-4f36-a71a-ec7ac6676d96",
+            "ProductWebFeatures_ss": [
+              "Nondiverter bath spout",
+              "38 mm (1.5 inch) max hole diameter",
+              "Trim only, requires valve to complete installation",
+              "Part of the Accliv bathroom faucet and showering collection"
+            ],
+            "priceList.ANY.finalPrice_d": 3060.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074insde.dwg"
+            ],
+            "sku_s": "33074IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-ACCLIV-K-33074IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "3.438",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "33074IN",
+            "productInRiverId_s": "inRiver_2011614",
+            "priceList.CTR.finalPrice_d": 3060.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-33074IN-CP",
+            "ProductBrandNameDisplay_s": "Accliv™",
+            "variantList.sku_ss": [
+              "33074IN-CP",
+              "33074IN-AF"
+            ],
+            "SKUShippingHeight_s": "2.313",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "9.750",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33074IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/8\"",
+            "id": "7480485e-dab8-4f36-a71a-ec7ac6676d96|33074IN-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

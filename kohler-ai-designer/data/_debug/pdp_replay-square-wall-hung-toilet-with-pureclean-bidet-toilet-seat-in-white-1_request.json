@@ -1,0 +1,171 @@
+{
+  "product_url": "https://www.kohler.co.in/p/replay-square-wall-hung-toilet-with-pureclean-bidet-toilet-seat-in-white-1?skuId=99992IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/replay-square-wall-hung-toilet-with-pureclean-bidet-toilet-seat-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/replay-square-wall-hung-toilet-with-pureclean-bidet-toilet-seat-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/replay-square-wall-hung-toilet-with-pureclean-bidet-toilet-seat-in-white-1?skuId=99992IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "NYx7LtePxf",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=772, ak_p; desc=\"1789450141718_400553078_274637944_103778_12938_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:29:02 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1931",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 10.7,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|8196IN-0|true|false|K-8196IN-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1 ACCESSORIES PACK, 1 INSTALLATION MANUAL,\n1 FIXATION KIT & 1 WARRANTY CARD.",
+            "productImages.labelWithUrl_ss": [
+              "8196IN-0|aae39334_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae39334_rgb",
+              "8196IN-0|aaf68476_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf68476_rgb",
+              "8196IN-0|aaf68472_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68472_rgb",
+              "8196IN-0|aaf68473_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68473_rgb",
+              "8196IN-0|aaf68474_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68474_rgb",
+              "8196IN-0|aaf68475_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68475_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ square-front bidet toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Pureclean™ Quiet-Close™ square-front bidet toilet seat",
+            "ctId_s": "7094ebb0-297e-4c8e-889a-ddbe1be384d1",
+            "ProductWebFeatures_ss": [
+              "Square-front seat with lid",
+              "Bidet functionality",
+              "Dual-function wand provides ambient water for front and rear cleansing",
+              "Adjust water spray position and pressure using the convenient side handle",
+              "Self-cleaning wand automatically rinses after each use",
+              "Manually operated handle requires no batteries or electrical power",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "ReadyLatch™ hinge provides a positive lock/unlock latch to securely hold seat in position, yet seat easily removes for cleaning or adjusting fit"
+            ],
+            "ProductOverallWidthCm_d": 43.2,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "8196IN-0",
+            "SKUShippingWidth_s": "49.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Pureclean™",
+            "SKUShippingHeight_s": "15.000",
+            "SKUShippingLength_s": "52.000",
+            "slug_s": "pureclean-manual-bidet-seat-square-8196in",
+            "ProductOverallLengthCm_d": 34.5
+          },
+          {
+            "ProductOverallHeightCm_d": 35.5,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|6088IN-0|true|false|K-6088IN-0",
+              "Cashmere|swatch_K4|6088IN-K4|true|false|K-6088IN-K4"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG BOWL; 1 WARRANTY CARD; 1 INSTALLATION INSTR.; 1 INSTALLATION KIT",
+            "productImages.labelWithUrl_ss": [
+              "6088IN-0|aad81624_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad81624_rgb",
+              "6088IN-K4|aad81627_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad81627_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung square-front toilet bowl with skirted trapway",
+            "ColorFinish_s": "White",
+            "productName_s": "Replay™ Wall-hung square-front toilet bowl with skirted trapway",
+            "ctId_s": "f268b43f-58f4-46f9-b159-67567fdcfdfb",
+            "ProductWebFeatures_ss": [
+              "Square-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Wall-hung design allows bowl to be set at preferred height",
+              "65 mm (2-1/2 inch) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Coordinates with other products in the Replay™ collection",
+              "Bowl only; requires KOHLER® in-wall tank and carrier system, faceplate, and seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.7,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "6088IN-0",
+            "SKUShippingWidth_s": "15.313",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Replay™",
+            "SKUShippingHeight_s": "15.688",
+            "SKUShippingLength_s": "22.813",
+            "slug_s": "replay-wall-hung-square-front-toilet-bowl-with-skirted-trapway-6088in",
+            "ProductOverallLengthCm_d": 53.4
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Replay square wall hung toilet with Pureclean bidet toilet seat in White",
+            "ctId_s": "cf7f34be-c1de-4260-90bc-83a8f07fa0e9",
+            "priceList.ANY.finalPrice_d": 23000.0,
+            "sku_s": "99992IN-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 23000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-99992IN-0",
+            "variantList.sku_ss": [
+              "99992IN-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "priceList.GST.finalPrice_d": 18858.9,
+            "priceList.KEMP.finalPrice_d": 23000.0,
+            "id": "cf7f34be-c1de-4260-90bc-83a8f07fa0e9|99992IN-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

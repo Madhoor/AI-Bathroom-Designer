@@ -1,0 +1,182 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rainduet-edge-round-254-mm-rainhead-9-4-lpm-73039in-cl?skuId=73039IN-CL-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rainduet-edge-round-254-mm-rainhead-9-4-lpm-73039in-cl",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rainduet-edge-round-254-mm-rainhead-9-4-lpm-73039in-cl",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4883>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rainduet-edge-round-254-mm-rainhead-9-4-lpm-73039in-cl?skuId=73039IN-CL-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "3JAaJl5B1s",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=255, origin; dur=1167, ak_p; desc=\"1789448841517_400553039_335794321_142286_10950_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:07:22 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1959",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039IN-CL.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039in_clfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/rainduet-edge-round-254mm-rain-showerhead-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "G 1/2 connection",
+              "Ceiling-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-5/16\"",
+            "ProductNarrativeDescription_s": "Enjoy a shower that simulates the soaking deluge of a warm summer downpour. This contemporary Rainduet Edge rainhead features innovative Katalyst™ air-induction technology, which efficiently mixes air and water to produce large water droplets and deliver a powerful, thoroughly drenching overhead shower experience. Its clean good looks and durable finish coordinate with many other KOHLER® faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|73039IN-CL-CP|true|false|K-73039IN-CL-CP",
+              "Vibrant French Gold|swatch_AF|73039IN-CL-AF|true|false|K-73039IN-CL-AF",
+              "Vibrant Rose Gold|swatch_RGD|73039IN-CL-RGD|false|false|K-73039IN-CL-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|73039IN-CL-BV|false|false|K-73039IN-CL-BV",
+              "Matte Black|swatch_BL|73039IN-CL-BL|true|false|K-73039IN-CL-BL"
+            ],
+            "ProductBrandName_s": "Rainduet™ Edge",
+            "ProductPackageContents_s": "1 RAINDUET EDGE ROUND 254MM RAINHEAD, 2 INSERT, 1 INSTALLATION INSTRUCTIONS, 1 WARRANTY SHEET, INDIA",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039IN-CL.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-73039IN-CL_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039IN-CL.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73039IN-CL-CP|aaf88595_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88595_rgb",
+              "73039IN-CL-CP|aaf88549_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88549_rgb",
+              "73039IN-CL-AF|aaf95048_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95048_rgb",
+              "73039IN-CL-AF|aaf95046_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95046_rgb",
+              "73039IN-CL-BL|aag74299_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74299_rgb",
+              "73039IN-CL-RGD|aaf95045_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95045_rgb",
+              "73039IN-CL-RGD|aaf95044_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95044_rgb",
+              "73039IN-CL-BV|aag74295_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74295_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 11519.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 14050.0,
+            "ProductOverallLengthInches_s": "10\"",
+            "ProductDescriptionProductShort_s": "Round 25.4 cm rainhead, 9.4 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039in_clpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039in_clsde.dxf"
+            ],
+            "productName_s": "Rainduet® Edge Round 25.4 cm rainhead, 9.4 lpm",
+            "ctId_s": "49940f7b-0ef0-4de9-ae59-a380c0c17ecb",
+            "ProductWebFeatures_ss": [
+              "Single-function rainhead",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "2.5 gpm (9.4 lpm) maximum flow rate at 80 psi (5.5 bar)",
+              "Requires ceiling-mount rainhead arm and flange (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 14050.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039in_clsde.dwg"
+            ],
+            "sku_s": "73039IN-CL-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Rainduet-K-73039IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039IN-CL.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "28.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73039IN-CL",
+            "productInRiverId_s": "inRiver_2492129",
+            "priceList.CTR.finalPrice_d": 14050.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-73039IN-CL-CP",
+            "ProductBrandNameDisplay_s": "Rainduet™ Edge",
+            "variantList.sku_ss": [
+              "73039IN-CL-CP",
+              "73039IN-CL-AF",
+              "73039IN-CL-BL",
+              "73039IN-CL-BV",
+              "73039IN-CL-RGD"
+            ],
+            "SKUShippingHeight_s": "16.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "28.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039in_clpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039in_clfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73039IN-CL.dwg"
+            ],
+            "ProductOverallHeightInches_s": "10\"",
+            "id": "49940f7b-0ef0-4de9-ae59-a380c0c17ecb|73039IN-CL-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "product_url": "https://www.kohler.co.in/p/artifacts-swing-lever-handles-98068t-9m?skuId=98068T-9M-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/artifacts-swing-lever-handles-98068t-9m",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/artifacts-swing-lever-handles-98068t-9m",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4946>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/artifacts-swing-lever-handles-98068t-9m?skuId=98068T-9M-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "H8ipZDEm0f",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=252, origin; dur=753, ak_p; desc=\"1789422289645_400553039_333250417_100588_10455_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:44:50 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1501",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068T-9M.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068t_9mfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "Create a look all your own with the Artifacts collection. Timeless and classic in its inspiration, Artifacts allows you to coordinate faucets, accessories, showering, and finishes to express your personal style.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|98068T-9M-CP|false|false|K-98068T-9M-CP"
+            ],
+            "ProductBrandName_s": "Artifacts™",
+            "ProductPackageContents_s": "1.LH Handle Assy, 1 RH Handle Assy., 2 Valve body Assy., 2 Hardware kit, 1 Installation guide",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068T-9M.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1558668801604_72758_72758_72760_72777_72778_98068.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1470631241_1282373-X4-A_ARTIFACTS_98068T-9M.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068T-9M.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "98068T-9M-CP|zab31048_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31048_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 43999.0,
+            "SKUCountryofOrigin_s": "ID",
+            "priceList.KEMP.finalPrice_d": 55000.0,
+            "ProductDescriptionProductShort_s": "Swing lever handles",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068t_9mpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068t_9msde.dxf"
+            ],
+            "productName_s": "Artifacts™ Swing lever handles",
+            "ctId_s": "beb7aeb3-cb3d-4a62-9353-33c94865ef61",
+            "ProductWebFeatures_ss": [
+              "Vintage design with American style enrich your bathroom with timeless décor",
+              "Mix and match concept uncovering the freestyle of bathroom by creating your own preference",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards over two times",
+              "Lever handles",
+              "Coordinate with your choice of Artifacts spout  for a personalized design (Spout sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 55000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068t_9msde.dwg"
+            ],
+            "sku_s": "98068T-9M-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Handle-KOHLER-ARTIFACTS-K-98068T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068T-9M.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "23.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "98068T-9M",
+            "productInRiverId_s": "inRiver_1337824",
+            "priceList.CTR.finalPrice_d": 55000.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-98068T-9M-CP",
+            "ProductBrandNameDisplay_s": "Artifacts™",
+            "variantList.sku_ss": [
+              "98068T-9M-CP"
+            ],
+            "SKUShippingHeight_s": "8.500",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "28.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068t_9mpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068t_9mfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98068T-9M.dwg"
+            ],
+            "id": "beb7aeb3-cb3d-4a62-9353-33c94865ef61|98068T-9M-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

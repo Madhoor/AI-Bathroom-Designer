@@ -1,0 +1,163 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-edge-600-vessel-21226in-ss?skuId=21226IN-SS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-edge-600-vessel-21226in-ss",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-edge-600-vessel-21226in-ss",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-edge-600-vessel-21226in-ss?skuId=21226IN-SS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "RM2W0Fyfty",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=255, origin; dur=885, ak_p; desc=\"1789420620114_400553078_266579810_114091_10385_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:17:01 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1585",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN-SS.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226in_ssfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/modernlife-edge-tabletop-wash-basin-in-white",
+            "ProductNarrativeDescription_s": "World’s slimmest bathroom suite designed keeping in mind how a person’s bathroom is their sanctuary, a peaceful haven sets apart from the frenzied pace of today’s lifestyle.\nModern design with simplicity, clean lines and seamless curves. Superior blend of comfort and convenience. Ultimate hygiene with rimless bowl and easy-to-clean FDI coating.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|21226IN-SS-0|true|false|K-21226IN-SS-0"
+            ],
+            "ProductBrandName_s": "ModernLife® Edge",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 INSTALLATION TEMPLATE AND\n1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN-SS.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN-SS.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "21226IN-SS-0|aaf59668_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf59668_rgb",
+              "21226IN-SS-0|aaf66558_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66558_rgb",
+              "21226IN-SS-0|aaf66559_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66559_rgb",
+              "21226IN-SS-0|aaf66556_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66556_rgb",
+              "21226IN-SS-0|aaf66557_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66557_rgb",
+              "21226IN-SS-0|aaf66560_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66560_rgb",
+              "21226IN-SS-0|aaf66561_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66561_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 21599.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 27000.0,
+            "ProductDescriptionProductShort_s": "60 cm Edge Vessel Basin",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226in_sspln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226in_sssde.dxf"
+            ],
+            "productName_s": "ModernLife® 60 cm Edge Vessel Basin",
+            "ctId_s": "fe5bde8d-a4ca-40b0-9656-b68310082266",
+            "ProductWebFeatures_ss": [
+              "A new thin ModernLife Edge vessel, with a 40% thinner edge (6mm)",
+              "Only drain-cut required, no core cutting needed",
+              "Compatible with all Kohler tall faucets & wall-mount faucets",
+              "Without overflow channel"
+            ],
+            "priceList.ANY.finalPrice_d": 27000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226in_sssde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "21226IN-SS-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Modernlife-K-21226IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN-SS.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "45.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "21226IN-SS",
+            "productInRiverId_s": "inRiver_2492025",
+            "priceList.CTR.finalPrice_d": 27000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-21226IN-SS-0",
+            "ProductBrandNameDisplay_s": "ModernLife® Edge",
+            "variantList.sku_ss": [
+              "21226IN-SS-0"
+            ],
+            "SKUShippingHeight_s": "17.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "67.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226in_sspln.dwg"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226in_ssfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN-SS.dwg"
+            ],
+            "id": "fe5bde8d-a4ca-40b0-9656-b68310082266|21226IN-SS-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

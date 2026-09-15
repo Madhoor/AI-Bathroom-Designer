@@ -1,0 +1,163 @@
+{
+  "product_url": "https://www.kohler.co.in/p/loure-shower-panel-97167in?skuId=97167IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/loure-shower-panel-97167in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/loure-shower-panel-97167in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5463>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/loure-shower-panel-97167in?skuId=97167IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "sYvUtVe39p",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=248, origin; dur=750, ak_p; desc=\"1789448623152_400553078_273853529_99947_12024_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:03:44 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1459",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Ceiling-mount"
+            ],
+            "ProductNarrativeDescription_s": "Immerse yourself in water shaped by pure indulgence. This state of the art flush mount rainpanel is the ultimate in showering experience. Choose from a variety of spray experiences and transform your bathroom into a true SPA zone.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|97167IN-CP|true|false|K-97167IN-CP",
+              "Vibrant French Gold|swatch_AF|97167IN-AF|true|false|K-97167IN-AF",
+              "Matte Black|swatch_BL|97167IN-BL|true|false|K-97167IN-BL"
+            ],
+            "ProductBrandName_s": "Loure™",
+            "ProductPackageContents_s": "1 INSTALLATION MANUAL & 1 WARRANTY CARD,1-RAIN PANNEL",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600665"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-97167IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst® air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "97167IN-CP|aad08347_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad08347_rgb",
+              "97167IN-BL|aah01120_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah01120_rgb",
+              "97167IN-AF|aag24286_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24286_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 313359.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 391700.0,
+            "ProductDescriptionProductShort_s": "Shower panel",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167insde.dxf"
+            ],
+            "productName_s": "Loure™ Shower panel",
+            "ctId_s": "fb8a53c4-89d8-4283-a21e-794f634e6b45",
+            "ProductWebFeatures_ss": [
+              "Dimension = 50 cm x 50 cm",
+              "Waterfall spray function provides an exhilerating experience",
+              "Rain curtain spray function provides a drenching rain experience"
+            ],
+            "priceList.ANY.finalPrice_d": 391700.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167insde.dwg"
+            ],
+            "sku_s": "97167IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Rainhead-KOHLER-K-97167IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "63.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "97167IN",
+            "productInRiverId_s": "inRiver_558333",
+            "priceList.CTR.finalPrice_d": 391700.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-97167IN-CP",
+            "ProductBrandNameDisplay_s": "Loure™",
+            "variantList.sku_ss": [
+              "97167IN-BL",
+              "97167IN-AF",
+              "97167IN-CP"
+            ],
+            "SKUShippingHeight_s": "25.500",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "78.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167inpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97167IN.dwg"
+            ],
+            "id": "fb8a53c4-89d8-4283-a21e-794f634e6b45|97167IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

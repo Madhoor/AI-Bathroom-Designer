@@ -1,0 +1,200 @@
+{
+  "product_url": "https://www.kohler.co.in/p/conical-bell-413-mm-round-vessel-bathroom-sink-with-glazed-underside-no-overflow-2200in?skuId=2200IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/conical-bell-413-mm-round-vessel-bathroom-sink-with-glazed-underside-no-overflow-2200in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/conical-bell-413-mm-round-vessel-bathroom-sink-with-glazed-underside-no-overflow-2200in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/conical-bell-413-mm-round-vessel-bathroom-sink-with-glazed-underside-no-overflow-2200in?skuId=2200IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "l31MEGrk0H",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=273, origin; dur=1032, ak_p; desc=\"1789420637704_400553078_266582136_130469_10817_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:17:19 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2004",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/conical-bell-round-countertop-wash-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Semi-recessed vessel",
+              "Drops partially below vanity top; requires countertop cutout"
+            ],
+            "ProductOverallWidthInches_s": "16-1/4\"",
+            "ProductNarrativeDescription_s": "Inspired by washbasins of past eras, the Conical Bell™ 41.3 cm round vessel bathroom sink brings a classic design into the present. Its effortless, curved silhouette imparts simple, elegant grace to your bathroom. A glazed underside provides beauty from all angles, while no overflow keeps the interior surface smooth and symmetrical.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|2200IN-0|true|false|K-2200IN-0",
+              "Cashmere|swatch_K4|2200IN-K4|true|false|K-2200IN-K4",
+              "Black Black|swatch_7|2200IN-7|true|false|K-2200IN-7",
+              "Indigo|swatch_DGS|2200IN-DGS|false|false|K-2200IN-DGS"
+            ],
+            "ProductBrandName_s": "Conical Bell™",
+            "ProductPackageContents_s": "1 VESSEL; 1 INST.INSTR;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-2200IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "2200IN-7|zaa56130_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa56130_rgb",
+              "2200IN-7|zaa56130_rgb|IMGITEMARCHITECTTOPDOWN||angled overhead view, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/zaa56130_rgb",
+              "2200IN-0|zaa56127_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa56127_rgb",
+              "2200IN-0|aaf72347_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf72347_rgb",
+              "2200IN-0|aaf72348_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf72348_rgb",
+              "2200IN-0|aaf72350_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf72350_rgb",
+              "2200IN-0|aaf72349_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf72349_rgb",
+              "2200IN-0|zaa56127_rgb|IMGITEMARCHITECTTOPDOWN||angled overhead view, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/zaa56127_rgb",
+              "2200IN-0|aaf71475_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf71475_rgb",
+              "2200IN-0|aaf71421_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71421_rgb",
+              "2200IN-0|aaf71481_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71481_rgb",
+              "2200IN-0|aaf71434_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71434_rgb",
+              "2200IN-0|aaf71419_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71419_rgb",
+              "2200IN-0|aaf71420_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf71420_rgb",
+              "2200IN-0|aaf71476_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf71476_rgb",
+              "2200IN-0|aaf71435_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71435_rgb",
+              "2200IN-0|aaf71474_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf71474_rgb",
+              "2200IN-0|aaf71473_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf71473_rgb",
+              "2200IN-0|zaa56128_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/zaa56128_rgb",
+              "2200IN-K4|zaa56147_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa56147_rgb",
+              "2200IN-K4|zaa56147_rgb|IMGITEMARCHITECTTOPDOWN||angled overhead view, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/zaa56147_rgb",
+              "2200IN-DGS|aaf49715_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf49715_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 6799.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 8000.0,
+            "ProductOverallLengthInches_s": "16-1/4\"",
+            "ProductDescriptionProductShort_s": "41.3 cm round vessel bathroom sink with glazed underside, no overflow",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200insde.dxf"
+            ],
+            "productName_s": "Conical Bell™ 41.3 cm round vessel bathroom sink with glazed underside, no overflow",
+            "ctId_s": "83741cfe-09b9-4454-a26c-14500b304c14",
+            "ProductWebFeatures_ss": [
+              "Traditional design creates a classic look",
+              "Round basin",
+              "No faucet holes; requires wall- or tall deck-mount faucet",
+              "Center drain, no overflow",
+              "Glazed underside offers beauty from all angles"
+            ],
+            "priceList.ANY.finalPrice_d": 8000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "2200IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Conical-K-2200IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Conical_Bell-K-2200IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Conical_Bell-K-2200IN.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "45.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "2200IN",
+            "productInRiverId_s": "inRiver_1336392",
+            "priceList.CTR.finalPrice_d": 8000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-2200IN-0",
+            "ProductBrandNameDisplay_s": "Conical Bell™",
+            "variantList.sku_ss": [
+              "2200IN-0",
+              "2200IN-7",
+              "2200IN-K4",
+              "2200IN-DGS"
+            ],
+            "SKUShippingHeight_s": "20.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "45.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2200IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-3/8\"",
+            "id": "83741cfe-09b9-4454-a26c-14500b304c14|2200IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "product_url": "https://www.kohler.co.in/p/finial-r-8-203-mm-widespread-bathroom-sink-faucet-8670t-4m?skuId=8670T-4M-AF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/finial-r-8-203-mm-widespread-bathroom-sink-faucet-8670t-4m",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/finial-r-8-203-mm-widespread-bathroom-sink-faucet-8670t-4m",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4946>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/finial-r-8-203-mm-widespread-bathroom-sink-faucet-8670t-4m?skuId=8670T-4M-AF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "vZHlWSyixc",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=253, origin; dur=749, ak_p; desc=\"1789422297871_400553039_333250720_100226_10202_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:44:58 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1453",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670T-4M.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670t_4mfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "With their graceful curved lines and classical silhouettes, Finial Traditional faucets match an assortment of bathroom styles. This Finial bath sink faucet trim features a high-arch spout with an aerator to help conserve water and reduce splash.",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|8670T-4M-AF|false|false|K-8670T-4M-AF",
+              "French Gold with Blackened Bronze Handle|swatch_R2B|8670T-4M-R2B|false|false|K-8670T-4M-R2B"
+            ],
+            "ProductBrandName_s": "Finial™",
+            "ProductPackageContents_s": "1 FINIAL® TRADITIONAL LAV 8\" WIDESPREAD, 1 INSTALLATION INSTRUCTIONS, 1 CERTIFICATE OF MAINTENANCE, 1 INSERT,",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670T-4M.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1535706734110_8670T.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1303728390_K-8670T.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670T-4M.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "8670T-4M-AF|zaa53936_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa53936_rgb",
+              "8670T-4M-R2B|aae00899_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00899_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 71679.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 89600.0,
+            "ProductDescriptionProductShort_s": "8\" (20.3 cm) Widespread Bathroom Sink Faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670t_4mpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670t_4msde.dxf"
+            ],
+            "productName_s": "Finial(R) 8\" (20.3 cm) Widespread Bathroom Sink Faucet",
+            "ctId_s": "ff4ab56f-ce9c-4125-855e-512fe3f292d2",
+            "ProductWebFeatures_ss": [
+              "The stylish spout and classic handle are the perfect combination of modern and classic",
+              "Solid brass construction, durable",
+              "Ceramic spool, will never leak or drip",
+              "8&quot; luxurious design, especially when matched with KOHLER® luxury bathroom sinks"
+            ],
+            "priceList.ANY.finalPrice_d": 89600.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670t_4msde.dwg"
+            ],
+            "sku_s": "8670T-4M-AF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Finial_Traditional-K-8670T.rfa"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "13.819",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "8670T-4M",
+            "productInRiverId_s": "inRiver_1338280",
+            "priceList.CTR.finalPrice_d": 89600.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-8670T-4M-AF",
+            "ProductBrandNameDisplay_s": "Finial™",
+            "variantList.sku_ss": [
+              "8670T-4M-AF",
+              "8670T-4M-R2B"
+            ],
+            "SKUShippingHeight_s": "4.094",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "18.268",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670t_4mpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670t_4mfrt.dwg"
+            ],
+            "id": "ff4ab56f-ce9c-4125-855e-512fe3f292d2|8670T-4M-AF"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

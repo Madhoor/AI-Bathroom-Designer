@@ -1,0 +1,591 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ShowerDoorsProductProductType_s\"}ShowerDoorsProductProductType_s",
+      "{!ex=\"ShowerDoorsProductOverallHeightCm_s\"}ShowerDoorsProductOverallHeightCm_s",
+      "{!ex=\"ShowerDoorsProductOverallWidthCm_s\"}ShowerDoorsProductOverallWidthCm_s",
+      "ATTR_SPEC_FrameType_s",
+      "{!ex=\"ATTR_SPEC_GlassText_s\"}ATTR_SPEC_GlassText_s",
+      "{!ex=\"ATTR_SPEC_GlassThickness_s\"}ATTR_SPEC_GlassThickness_s",
+      "{!ex=\"ATTR_SPEC_DoorType_ss\"}ATTR_SPEC_DoorType_ss",
+      "{!ex=\"ATTR_SPEC_HandleStyle_ss\"}ATTR_SPEC_HandleStyle_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "Bright Polished Silver": "swatch_SHP",
+      "Matte Black": "swatch_BL",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ShowerDoorsProductProductType_s": "Configuration",
+      "ShowerDoorsProductOverallHeightCm_s": "Standard Height",
+      "ShowerDoorsProductOverallWidthCm_s": "Width",
+      "ATTR_SPEC_FrameType_s": "Frame Type",
+      "ATTR_SPEC_GlassText_s": "Glass Design",
+      "ATTR_SPEC_GlassThickness_s": "Glass Thickness",
+      "ATTR_SPEC_DoorType_ss": "Shower Door Type",
+      "ATTR_SPEC_HandleStyle_ss": "Handle Style",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|39059IN-SHP|false|false|K-39059IN-SHP"
+        ],
+        "ProductBrandName_s": "Elate™",
+        "masterSKU_s": "39059IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "39059IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "39059IN-SHP|aah37811_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah37811_rgb"
+        ],
+        "priceList.GST.price_d": 42399.0,
+        "priceList.GST.finalPrice_d": 42399.0,
+        "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+        "productName_s": "Elate™ 200 cm H sliding shower door with 8 mm-thick glass",
+        "ctId_s": "476fcba4-aa8b-475a-bfe7-c9d5db97c77f",
+        "Color.GST.Details_ss": [
+          "39059IN-SHP|Bright Polished Silver|53000.0|42399.0||https://kohler.scene7.com/is/image/PAWEB/aah37811_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "39059IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aah37811_rgb"
+        ],
+        "priceList.ANY.price_d": 53000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "39059IN-SHP",
+        "ProductBrandNameDisplay_s": "Elate™",
+        "variantList.sku_ss": [
+          "39059IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 42399.0,
+        "displayPriceStartingAt_s": "₹42,399.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "elate-2000-mm-h-sliding-shower-door-with-8-mm-thick-glass-39059in",
+        "priceStartingAt.GST_d": 42399.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "476fcba4-aa8b-475a-bfe7-c9d5db97c77f|39059IN-SHP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|709076IN-CP|false|false|K-709076IN-CP"
+        ],
+        "ProductBrandName_s": "New Levity™",
+        "masterSKU_s": "709076IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "709076IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "709076IN-CP|709076IN-CP|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/709076IN-CP"
+        ],
+        "priceList.GST.price_d": 42749.0,
+        "priceList.GST.finalPrice_d": 42749.0,
+        "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+        "productName_s": "New Levity™ 200 cm H sliding shower door with 8 mm-thick glass",
+        "ctId_s": "428bc10c-c455-4f5c-a2bd-3d3823201278",
+        "Color.GST.Details_ss": [
+          "709076IN-CP|Bright Polished Silver|45000.0|42749.0||https://s7g10.scene7.com/is/image/kohlerindia/709076IN-CP"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "709076IN",
+        "productImages.url_ss": [
+          "https://s7g10.scene7.com/is/image/kohlerindia/709076IN-CP"
+        ],
+        "priceList.ANY.price_d": 45000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "709076IN-CP",
+        "ProductBrandNameDisplay_s": "New Levity™",
+        "variantList.sku_ss": [
+          "709076IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 42749.0,
+        "displayPriceStartingAt_s": "₹42,749.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "big-w-knob-709076in",
+        "priceStartingAt.GST_d": 42749.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "428bc10c-c455-4f5c-a2bd-3d3823201278|709076IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|709075IN-CP|false|false|K-709075IN-CP"
+        ],
+        "ProductBrandName_s": "New Levity™",
+        "masterSKU_s": "709075IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "709075IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "709075IN-CP|709075IN-CP|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/709075IN-CP"
+        ],
+        "priceList.GST.price_d": 42749.0,
+        "priceList.GST.finalPrice_d": 42749.0,
+        "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+        "productName_s": "New Levity™ 200 cm H sliding shower door with 8 mm-thick glass",
+        "ctId_s": "d377e7ef-bfe6-4251-89b8-ff00b02ae240",
+        "Color.GST.Details_ss": [
+          "709075IN-CP|Polished Chrome|45000.0|42749.0||https://s7g10.scene7.com/is/image/kohlerindia/709075IN-CP"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "709075IN",
+        "productImages.url_ss": [
+          "https://s7g10.scene7.com/is/image/kohlerindia/709075IN-CP"
+        ],
+        "priceList.ANY.price_d": 45000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "709075IN-CP",
+        "ProductBrandNameDisplay_s": "New Levity™",
+        "variantList.sku_ss": [
+          "709075IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 42749.0,
+        "displayPriceStartingAt_s": "₹42,749.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "new-levity-small-w-knob-709075in",
+        "priceStartingAt.GST_d": 42749.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d377e7ef-bfe6-4251-89b8-ff00b02ae240|709075IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant French Gold|swatch_AF|702650IN-LH0-AF|false|false|K-702650IN-LH0-AF",
+          "Vibrant Rose Gold|swatch_RGD|702650IN-LH0-RGD|false|false|K-702650IN-LH0-RGD",
+          "Matte Black|swatch_BL|702650IN-LH0-BL|false|false|K-702650IN-LH0-BL"
+        ],
+        "ProductBrandName_s": "Brazn™",
+        "masterSKU_s": "702650IN-LH0-BL",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BL",
+          "swatch_RGD",
+          "swatch_AF"
+        ],
+        "sourceId_s": "702650IN-LH0-BL",
+        "productImages.labelWithUrl_ss": [
+          "702650IN-LH0-AF|aae27956_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27956_rgb",
+          "702650IN-LH0-AF|aaj06894_rgb|IMGFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj06894_rgb",
+          "702650IN-LH0-RGD|aae27957_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27957_rgb",
+          "702650IN-LH0-RGD|aaj06895_rgb|IMGFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj06895_rgb",
+          "702650IN-LH0-BL|aaj45457_rgb|IMGFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj45457_rgb"
+        ],
+        "priceList.GST.price_d": 137749.0,
+        "priceList.GST.finalPrice_d": 137749.0,
+        "ProductDescriptionProductShort_s": "220 cm H sliding shower door with 10 mm-thick glass",
+        "productName_s": "Brazn™ 220 cm H sliding shower door with 10 mm-thick glass",
+        "ctId_s": "966b6b9e-1735-4368-989e-c64988a6f073",
+        "Color.GST.Details_ss": [
+          "702650IN-LH0-BL|Matte Black|145000.0|137749.0||https://kohler.scene7.com/is/image/PAWEB/aaj45457_rgb",
+          "702650IN-LH0-RGD|Vibrant Rose Gold|150000.0|142499.0||https://kohler.scene7.com/is/image/PAWEB/aae27957_rgb",
+          "702650IN-LH0-AF|Vibrant French Gold|135000.0|128249.0||https://kohler.scene7.com/is/image/PAWEB/aae27956_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "702650IN-LH0",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae27956_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06894_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae27957_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj06895_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj45457_rgb"
+        ],
+        "priceList.ANY.price_d": 145000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "702650IN-LH0-BL",
+        "ProductBrandNameDisplay_s": "Brazn™",
+        "variantList.sku_ss": [
+          "702650IN-LH0-BL",
+          "702650IN-LH0-RGD",
+          "702650IN-LH0-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 128249.0,
+        "displayPriceStartingAt_s": "₹128,249.00",
+        "SKUColorFinishName_ss": [
+          "Matte Black",
+          "Vibrant Rose Gold",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "brazn-2200-mm-h-sliding-shower-door-with-10-mm-thick-glass-702650in-lh0",
+        "priceStartingAt.GST_d": 128249.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "966b6b9e-1735-4368-989e-c64988a6f073|702650IN-LH0-BL"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|39061IN-SHP|false|false|K-39061IN-SHP"
+        ],
+        "ProductBrandName_s": "Elate™",
+        "masterSKU_s": "39061IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "39061IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "39061IN-SHP|aah37814_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah37814_rgb"
+        ],
+        "priceList.GST.price_d": 42399.0,
+        "priceList.GST.finalPrice_d": 42399.0,
+        "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+        "productName_s": "Elate™ 200 cm H sliding shower door with 8 mm-thick glass",
+        "ctId_s": "9c4d0503-9432-4ea3-ae7e-23d8be7a87eb",
+        "Color.GST.Details_ss": [
+          "39061IN-SHP|Bright Polished Silver|53000.0|42399.0||https://kohler.scene7.com/is/image/PAWEB/aah37814_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "39061IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aah37814_rgb"
+        ],
+        "priceList.ANY.price_d": 53000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "39061IN-SHP",
+        "ProductBrandNameDisplay_s": "Elate™",
+        "variantList.sku_ss": [
+          "39061IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 42399.0,
+        "displayPriceStartingAt_s": "₹42,399.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "elate-2000-mm-h-sliding-shower-door-with-8-mm-thick-glass-39061in",
+        "priceStartingAt.GST_d": 42399.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "9c4d0503-9432-4ea3-ae7e-23d8be7a87eb|39061IN-SHP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|705116IN-SHP|false|false|K-705116IN-SHP"
+        ],
+        "ProductBrandName_s": "Contra",
+        "masterSKU_s": "705116IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "705116IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "705116IN-SHP|aag24413_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24413_rgb"
+        ],
+        "priceList.GST.price_d": 47499.0,
+        "priceList.GST.finalPrice_d": 47499.0,
+        "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+        "productName_s": "Contra 200 cm H sliding shower door with 8 mm-thick glass",
+        "ctId_s": "ee10b3a9-6bbd-4a75-b94f-ae2598c0e406",
+        "Color.GST.Details_ss": [
+          "705116IN-SHP|Bright Polished Silver|50000.0|47499.0||https://kohler.scene7.com/is/image/PAWEB/aag24413_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "705116IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag24413_rgb"
+        ],
+        "priceList.ANY.price_d": 50000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "705116IN-SHP",
+        "ProductBrandNameDisplay_s": "Contra",
+        "variantList.sku_ss": [
+          "705116IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 47499.0,
+        "displayPriceStartingAt_s": "₹47,499.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "contra-big-ht-2000mm-705116in",
+        "priceStartingAt.GST_d": 47499.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "ee10b3a9-6bbd-4a75-b94f-ae2598c0e406|705116IN-SHP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|39259IN-SHP|false|false|K-39259IN-SHP"
+        ],
+        "ProductBrandName_s": "Elate™",
+        "masterSKU_s": "39259IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "39259IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "39259IN-SHP|aah37813_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah37813_rgb"
+        ],
+        "priceList.GST.price_d": 42399.0,
+        "priceList.GST.finalPrice_d": 42399.0,
+        "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+        "productName_s": "Elate™ 200 cm H sliding shower door with 8 mm-thick glass",
+        "ctId_s": "75fbb71e-5470-4cda-a922-af5c5b1bbd30",
+        "Color.GST.Details_ss": [
+          "39259IN-SHP|Bright Polished Silver|53000.0|42399.0||https://kohler.scene7.com/is/image/PAWEB/aah37813_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "39259IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aah37813_rgb"
+        ],
+        "priceList.ANY.price_d": 53000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "39259IN-SHP",
+        "ProductBrandNameDisplay_s": "Elate™",
+        "variantList.sku_ss": [
+          "39259IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 42399.0,
+        "displayPriceStartingAt_s": "₹42,399.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "elate-2000-mm-h-sliding-shower-door-with-8-mm-thick-glass-39259in",
+        "priceStartingAt.GST_d": 42399.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "75fbb71e-5470-4cda-a922-af5c5b1bbd30|39259IN-SHP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|705115IN-SHP|false|false|K-705115IN-SHP"
+        ],
+        "ProductBrandName_s": "Contra",
+        "masterSKU_s": "705115IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "705115IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "705115IN-SHP|aag24414_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24414_rgb"
+        ],
+        "priceList.GST.price_d": 47499.0,
+        "priceList.GST.finalPrice_d": 47499.0,
+        "ProductDescriptionProductShort_s": "200 cm – 210 cm H sliding shower door with 8 mm-thick glass",
+        "productName_s": "Contra 200 cm – 210 cm H sliding shower door with 8 mm-thick glass",
+        "ctId_s": "977da359-9379-48d3-9e08-eb965e78dcb2",
+        "Color.GST.Details_ss": [
+          "705115IN-SHP|Bright Polished Silver|50000.0|47499.0||https://kohler.scene7.com/is/image/PAWEB/aag24414_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "705115IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag24414_rgb"
+        ],
+        "priceList.ANY.price_d": 50000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "705115IN-SHP",
+        "ProductBrandNameDisplay_s": "Contra",
+        "variantList.sku_ss": [
+          "705115IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 47499.0,
+        "displayPriceStartingAt_s": "₹47,499.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "contra-2000-mm-2100-mm-h-sliding-shower-door-with-8-mm-thick-glass-705115in",
+        "priceStartingAt.GST_d": 47499.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "977da359-9379-48d3-9e08-eb965e78dcb2|705115IN-SHP"
+      }
+    ],
+    "numFound": 8,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "ShowerDoorsProductOverallHeightCm_s:\"<200cm\"": 0,
+      "ShowerDoorsProductOverallHeightCm_s:\"200cm to 250cm\"": 8,
+      "ShowerDoorsProductOverallHeightCm_s:\"250cm to 275cm\"": 0,
+      "ShowerDoorsProductOverallHeightCm_s:\">275cm\"": 0,
+      "ShowerDoorsProductOverallWidthCm_s:\"<50cm\"": 4,
+      "ShowerDoorsProductOverallWidthCm_s:\"50cm to 100cm\"": 0,
+      "ShowerDoorsProductOverallWidthCm_s:\"100cm to 150cm\"": 0,
+      "ShowerDoorsProductOverallWidthCm_s:\"150cm to 200cm\"": 2,
+      "ShowerDoorsProductOverallWidthCm_s:\"200cm to 250cm\"": 1,
+      "Available_Now_s:\"Yes\"": 0
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        1,
+        "Vibrant French Gold",
+        1,
+        "Vibrant Rose Gold",
+        1,
+        "Bright Polished Silver",
+        6,
+        "Matte Black",
+        1
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Brazn™",
+        1,
+        "Contra",
+        2,
+        "Elate™",
+        3,
+        "New Levity™",
+        2
+      ],
+      "ShowerDoorsProductProductType_s": [
+        "1 Glass Door & 1 Fixed Glass Panel - Straight",
+        8
+      ],
+      "ShowerDoorsProductOverallHeightCm_s": [
+        "200cm to 250cm",
+        8
+      ],
+      "ShowerDoorsProductOverallWidthCm_s": [
+        "<50cm",
+        4,
+        "150cm to 200cm",
+        2,
+        "200cm to 250cm",
+        1
+      ],
+      "ATTR_SPEC_FrameType_s": [
+        "Framed",
+        1,
+        "Frameless",
+        7
+      ],
+      "ATTR_SPEC_GlassText_s": [
+        "Clear",
+        4
+      ],
+      "ATTR_SPEC_GlassThickness_s": [
+        "3/8",
+        1,
+        "5/16",
+        7
+      ],
+      "ATTR_SPEC_DoorType_ss": [
+        "Pivot Shower",
+        7,
+        "Shower Screen",
+        4,
+        "Sliding Bath",
+        1,
+        "Sliding Shower",
+        8
+      ],
+      "ATTR_SPEC_HandleStyle_ss": [
+        "Knob(outside & inside)",
+        2,
+        "Vertical handle(outside & inside)",
+        6
+      ],
+      "Available_Now_s": [
+        "No",
+        8
+      ],
+      "InstallationCost_s": [
+        "Paid",
+        8
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "40000",
+          7,
+          "120000",
+          1,
+          "140000",
+          1
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "40000",
+          7,
+          "120000",
+          1,
+          "140000",
+          1
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "40000",
+          7,
+          "120000",
+          1,
+          "140000",
+          1
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "40000",
+          7,
+          "120000",
+          1,
+          "140000",
+          1
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

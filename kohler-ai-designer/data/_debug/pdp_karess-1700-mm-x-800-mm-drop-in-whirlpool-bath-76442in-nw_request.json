@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/karess-1700-mm-x-800-mm-drop-in-whirlpool-bath-76442in-nw?skuId=76442IN-NW-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/karess-1700-mm-x-800-mm-drop-in-whirlpool-bath-76442in-nw",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/karess-1700-mm-x-800-mm-drop-in-whirlpool-bath-76442in-nw",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/karess-1700-mm-x-800-mm-drop-in-whirlpool-bath-76442in-nw?skuId=76442IN-NW-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Mv9s4KGhaN",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=263, origin; dur=751, ak_p; desc=\"1789420475107_400553039_333171047_101440_11304_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:14:36 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1750",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442IN-NW.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442in_nwfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in",
+              "Requires 240 V hard-wired electrical service"
+            ],
+            "ProductOverallWidthInches_s": "31-1/2\"",
+            "ProductNarrativeDescription_s": "Relax, rejuvenate, and renew—all with the power of water. Immerse yourself in this Karess™ whirlpool bath featuring a dual-action pillow that kneads away stress at your neck and a deep soaking depth that allows for a truly indulgent experience. Whirlpool jets recirculate the water for an indulgent massage: 10 jets target your neck, shoulders, back, and lumbar area, while two jets target your feet to help you relax away any stress you have. All 12 jets are fully adjustable allowing you to customize your massage experience every time. Enjoy peace of mind knowing that water will not overflow; the E-Drain opens when water reaches 44 cm, draining excess water automatically.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|76442IN-NW-0|false|false|K-76442IN-NW-0"
+            ],
+            "ProductBrandName_s": "Karess™",
+            "ProductPackageContents_s": "Bathtub, Installation Manual, Warranty Document",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442IN-NW.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-76442IN-NW_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442IN-NW.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Whirlpool jets recirculate water, providing targeted relief for the bather"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "76442IN-NW-0|aae00914_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00914_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 714000.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 714000.0,
+            "ProductOverallLengthInches_s": "66-15/16\"",
+            "ProductDescriptionProductShort_s": "170 cm x 80 cm drop-in whirlpool bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442in_nwpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442in_nwsde.dxf"
+            ],
+            "productName_s": "Karess™ 170 cm x 80 cm drop-in whirlpool bath",
+            "ctId_s": "122348d1-fd18-4ef2-9306-c61d094dc5da",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin creates a spacious bathing experience",
+              "Drop-in design creates a seamless bathroom aesthetic",
+              "67 inch (170 cm) x 31.5 inch (80 cm) x 24.61 inch (62.5 cm)",
+              "15.75 inch (40 cm) soaking depth",
+              "10 backjets target the lower back and shoulders to relieve tension and encourage deep breathing",
+              "Single-speed whirlpool offers performance and value with 12 fully adjustable jets",
+              "Integral lumbar support"
+            ],
+            "priceList.ANY.finalPrice_d": 714000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442in_nwsde.dwg"
+            ],
+            "sku_s": "76442IN-NW-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In-Whirlpool-KOHLER-Karess-K-76442IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442IN-NW.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.870",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "76442IN-NW",
+            "productInRiverId_s": "inRiver_3067525",
+            "priceList.CTR.finalPrice_d": 714000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-76442IN-NW-0",
+            "ProductBrandNameDisplay_s": "Karess™",
+            "variantList.sku_ss": [
+              "76442IN-NW-0"
+            ],
+            "SKUShippingHeight_s": "0.780",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "1.770",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442in_nwpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442in_nwfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76442IN-NW.dwg"
+            ],
+            "ProductOverallHeightInches_s": "25-1/16\"",
+            "id": "122348d1-fd18-4ef2-9306-c61d094dc5da|76442IN-NW-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

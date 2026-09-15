@@ -1,0 +1,191 @@
+{
+  "product_url": "https://www.kohler.co.in/p/basin-vitality-mirror-combo-with-modern-life-basin-in-peacock-1?skuId=C62",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/basin-vitality-mirror-combo-with-modern-life-basin-in-peacock-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/basin-vitality-mirror-combo-with-modern-life-basin-in-peacock-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/basin-vitality-mirror-combo-with-modern-life-basin-in-peacock-1?skuId=C62",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "N1RvKiPBzv",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=349, origin; dur=1018, ak_p; desc=\"1789421125241_400553078_266620304_136768_12118_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:25:26 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2212",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 76.0,
+            "Color.SKU.Details_ss": [
+              "Not Applicable|swatch_NA|22931IN-NA|true|false|K-22931IN-NA"
+            ],
+            "ProductPackageContents_s": "1 WALL MOUNT MIRROR, 1 HARDWARE KIT, 1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "22931IN-NA|aaf67773_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67773_rgb",
+              "22931IN-NA|aae33371_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae33371_rgb",
+              "22931IN-NA|aae33371_rgb|IMGITEMISOLightOn||3/4 view of product with light on|https://kohler.scene7.com/is/image/PAWEB/aae33371_rgb",
+              "22931IN-NA|aaf67767_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67767_rgb",
+              "22931IN-NA|aaf67768_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67768_rgb",
+              "22931IN-NA|aaf67769_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67769_rgb",
+              "22931IN-NA|aaf67770_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67770_rgb",
+              "22931IN-NA|aaf67771_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67771_rgb",
+              "22931IN-NA|aaf67772_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67772_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "76.2 cm round lighted mirror",
+            "ColorFinish_s": "Not Applicable",
+            "productName_s": "Vitality™ 76.2 cm round lighted mirror",
+            "ctId_s": "5d68e944-2f29-4036-aaac-97bf1b6bcea5",
+            "ProductWebFeatures_ss": [
+              "Internal LED light guide provides optimally bright bathroom vanity lighting for grooming tasks",
+              "Integrated LED bulbs have an estimated life expectancy of 30,000 hours",
+              "Brightness at 830 lumens ensures consistent bright lighting with no harsh shadows",
+              "Approx. 4000 Kelvin light appearance delivers a neutral light ideal for overall bathroom aesthetics as well as tasks",
+              "Minimum 90 CRI (color rendering index) lets you see yourself in the truest light for makeup application, grooming, and skin care",
+              "Touchless sensor-activated lighting",
+              "Built-in 9-7/8\" x 13-3/4\" (25 cm x 35 cm) electric defogger ensures reflection visibility—even in high humidity"
+            ],
+            "ProductOverallWidthCm_d": 76.0,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "22931IN-NA",
+            "SKUShippingWidth_s": "83.500",
+            "ProductLocalCategory_s": "Medicine Cabinets & Mirrors",
+            "ProductBrandNameDisplay_s": "Vitality™",
+            "SKUShippingHeight_s": "39.000",
+            "SKUShippingLength_s": "89.500",
+            "slug_s": "vitality-762-mm-round-lighted-mirror-22931in",
+            "ProductOverallLengthCm_d": 3.0
+          },
+          {
+            "ProductOverallHeightCm_d": 11.9,
+            "Color.SKU.Details_ss": [
+              "Honed Black|swatch_HB1|21226IN-HB1|true|false|K-21226IN-HB1",
+              "Peacock|swatch_HP1|21226IN-HP1|true|false|K-21226IN-HP1",
+              "Thunder Grey|swatch_HG1|21226IN-HG1|true|false|K-21226IN-HG1",
+              "Honed Lush|swatch_HL1|21226IN-HL1|true|false|K-21226IN-HL1"
+            ],
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 LAVATORY;1 INSTALLATION TEMPLATE AND 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "21226IN-HP1|aaf72440_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf72440_rgb",
+              "21226IN-HP1|aaf66536_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66536_rgb",
+              "21226IN-HP1|aaf66538_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66538_rgb",
+              "21226IN-HP1|aaf66540_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66540_rgb",
+              "21226IN-HP1|aaf66539_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66539_rgb",
+              "21226IN-HP1|aaf66537_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66537_rgb",
+              "21226IN-HP1|aaf66535_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66535_rgb",
+              "21226IN-HG1|aaf72439_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf72439_rgb",
+              "21226IN-HL1|aah61736_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah61736_rgb",
+              "21226IN-HB1|aag43532_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag43532_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "60 cm rectangular vessel bathroom sink, no overflow",
+            "ColorFinish_s": "Peacock",
+            "productName_s": "ModernLife Edge® 60 cm rectangular vessel bathroom sink, no overflow",
+            "ctId_s": "70d0e6dc-976a-4552-b2dc-efdf6529b765",
+            "ProductWebFeatures_ss": [
+              "Contemporary design makes a modern statement",
+              "Rectangular basin with rounded corners",
+              "No faucet holes; requires wall- or deck-mount faucet",
+              "Without overflow",
+              "Part of the ModernLife Edge collection",
+              "Faucet and drain sold separately"
+            ],
+            "ProductOverallWidthCm_d": 39.6,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "21226IN-HP1",
+            "SKUShippingWidth_s": "45.000",
+            "ProductLocalCategory_s": "Bathroom Sinks",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "SKUShippingHeight_s": "26.000",
+            "SKUShippingLength_s": "65.000",
+            "slug_s": "600mm-edge-vessel-basin-without-faucet-hole-in-thunder-grey-21226in",
+            "ProductOverallLengthCm_d": 60.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Basin Vitality mirror combo with Modern life  basin in peacock",
+            "ctId_s": "351d8ae5-28bf-49cb-af75-27b58f244cf4",
+            "priceList.ANY.finalPrice_d": 73700.0,
+            "redirectUrl_s": "https://shopkohler.in/products/vitality-mirror-with-modern-life-peacock-basin-combo",
+            "sku_s": "C62",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 73700.0,
+            "Product_Category": "Grooming Area Combos",
+            "CustomerFacingSKU_s": "K-C62",
+            "variantList.sku_ss": [
+              "C62"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "C62|aaf68104_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68104_rgb",
+              "C62|aaf68105_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68105_rgb",
+              "C62|aaf68106_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68106_rgb",
+              "C62|aaf68107_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68107_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 58958.0,
+            "priceList.KEMP.finalPrice_d": 73700.0,
+            "id": "351d8ae5-28bf-49cb-af75-27b58f244cf4|C62"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

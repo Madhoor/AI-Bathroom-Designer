@@ -1,0 +1,218 @@
+{
+  "product_url": "https://www.kohler.co.in/p/memoirs-72-x-42-drop-in-effervescence-whirlpool-with-spa-massage-package-1418-v?skuId=1418-V-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/memoirs-72-x-42-drop-in-effervescence-whirlpool-with-spa-massage-package-1418-v",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/memoirs-72-x-42-drop-in-effervescence-whirlpool-with-spa-massage-package-1418-v",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/memoirs-72-x-42-drop-in-effervescence-whirlpool-with-spa-massage-package-1418-v?skuId=1418-V-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "4oOGLNm2de",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=259, origin; dur=792, ak_p; desc=\"1789420435106_400553039_333169300_105180_10600_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:13:56 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2565",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in"
+            ],
+            "ProductBrandName_s": "Memoirs™",
+            "ProductPackageContents_s": "1 Bathtub, 1 Homespa WP Remote",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418.skp"
+            ],
+            "ProductServices_ss": [
+              "3-INSTALL-SERVICE"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1387900-2.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/1194657-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 1694000.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 1694000.0,
+            "ProductOverallLengthInches_s": "72\"",
+            "ProductDescriptionProductShort_s": "72\" x 42\" drop-in Effervescence whirlpool bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418pln.dxf"
+            ],
+            "productName_s": "Memoirs® 72\" x 42\" drop-in Effervescence whirlpool bath",
+            "ctId_s": "f7a658e4-9def-442a-9f58-9dc8d8b12c22",
+            "ProductWebHydrotherapy_ss": [
+              "8 effervescence ports deliver gentle, caressing bubbles",
+              "Whirlpool",
+              "Neckjets",
+              "Backjets",
+              "Chromatherapy"
+            ],
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In-Effervesence-Whirlpool-KOHLER-Memoirs-K-1418.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "44.380",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1418-V",
+            "priceList.CTR.finalPrice_d": 1694000.0,
+            "ProductBrandNameDisplay_s": "Memoirs",
+            "SKUShippingHeight_s": "25.250",
+            "ctProductType_s": "bathing",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.HomeownersGuide.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1023249-5.pdf"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "22\"",
+            "isCollapsedPDP_b": true,
+            "ProductFreightPolicyType_s": "4",
+            "ProductOverallWidthInches_s": "42\"",
+            "ProductNarrativeDescription_s": "With rich detailing reminiscent of crown molding, KOHLER® Memoirs® brings classic architectural style to your bathroom. This Spa/Massage Package 72\" x 42\" rectangular drop-in bath offers a choice of calming or invigorating water therapy to suit your mood. Its full package of hydromassage options including whirlpool jets, sequencing backjets, and a pillow with pulsating neckjets to envelop your entire body in relaxation. Effervescence ports release thousands of tiny champagne-like bubbles for a unique, revitalizing sensation, while Chromatherapy lights bathe you in the soothing glow of colors.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1418-V-0|false|false|K-1418-V-0"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1418-V_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-1418-V_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-1418-V_spec_US-CA_Kohler_fr-ca.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1418-V-0|1418-V-0_CloseRoomViewInUseSquare_d2c0108310_rgb|IMGITEMCLOSEROOMVIEWInUseSquare||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewInUseSquare_d2c0108310_rgb",
+              "1418-V-0|1418-V-0_OverheadRoomViewSquare_d2c0108555_rgb|IMGITEMOVERHEADROOMVIEWSquare||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_OverheadRoomViewSquare_d2c0108555_rgb",
+              "1418-V-0|1418-V-0_CloseRoomViewArchitectFrontSquareWithText_d2c0108155_en-US|IMGITEMCLOSEROOMVIEWArchitectFrontSquareWithText||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewArchitectFrontSquareWithText_d2c0108155_en-US",
+              "1418-V-0|1418-V-0_CloseRoomViewProductDetailInUseSquareWithText_d2c0108338_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewProductDetailInUseSquareWithText_d2c0108338_en-US",
+              "1418-V-0|1418-V-0_DIMENSIONALSquareWithText_d2c0108709_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_DIMENSIONALSquareWithText_d2c0108709_en-US",
+              "1418-V-0|1418-V-0_TechWhirlpoolControlSquareWithText_d2c0108164_en-US|IMGITEMFEATURETechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_TechWhirlpoolControlSquareWithText_d2c0108164_en-US",
+              "1418-V-0|SKU_BATHING_FEATUREWELLNESS_InlineHeaterSquareWithText_en-US|IMGITEMFEATUREWellnessSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_BATHING_FEATUREWELLNESS_InlineHeaterSquareWithText_en-US",
+              "1418-V-0|SKU_BATHING_FEATUREWELLNESS_ChromatherpySquareWithText_en-US|IMGITEMFEATUREWellnessSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_BATHING_FEATUREWELLNESS_ChromatherpySquareWithText_en-US",
+              "1418-V-0|1418-V-0_ISO_d2c0108325_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_ISO_d2c0108325_rgb",
+              "1418-V-0|1418-V-0_ISOSquare_d2c0108325_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_ISOSquare_d2c0108325_rgb"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "6 hydromassage jets can be individually adjusted for water flow and direction",
+              "Variable-speed pump for adjusting hydromassage intensity",
+              "Adjustable neckjet pillow with 2 jets provides a stimulating, stress-relieving neck massage",
+              "10 backjets target the lower back and shoulders to relieve tension and encourage deep breathing",
+              "Chromatherapy lighting allows you to select a preferred color scheme to suit your mood",
+              "Built-in heater",
+              "Remote control",
+              "Lighted keypad control",
+              "Generous length provides a spacious bathing area",
+              "Drilled for grab bars (required); sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 1694000.0,
+            "ProductCaliforniaProp65WarningDisclaimer_s": "WARNING: Cancer and Reproductive Harm – www.P65Warnings.ca.gov",
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 3",
+              "Option 4"
+            ],
+            "sku_s": "1418-V-0",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_199532",
+            "Product_Category": "Bathing",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1046776_8_p01.svg",
+              "1085676_8_p01.svg",
+              "1050537_8_p02.svg",
+              "1033313_8_p01.svg",
+              "1050538_8_p01.svg",
+              "1033312_8_p01.svg",
+              "1215478_8_p01.svg",
+              "1050537_8_p01.svg",
+              "1023264_8_p01.svg",
+              "1050540_8_p01.svg",
+              "1033316_8_p01.svg",
+              "1033314_8_p01.svg",
+              "1033311_8_p01.svg",
+              "1540357_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-1418-V-0",
+            "variantList.sku_ss": [
+              "1418-V-0"
+            ],
+            "SKUShippingLength_s": "74.380",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_242826",
+              "inRiver_213884",
+              "inRiver_213880",
+              "inRiver_241232",
+              "inRiver_1520238"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1418.dwg"
+            ],
+            "id": "f7a658e4-9def-442a-9f58-9dc8d8b12c22|1418-V-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

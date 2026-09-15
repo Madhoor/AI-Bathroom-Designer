@@ -1,0 +1,186 @@
+{
+  "product_url": "https://www.kohler.co.in/p/vive-547-mm-oval-vessel-bathroom-sink-no-overflow-28783in?skuId=28783IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/vive-547-mm-oval-vessel-bathroom-sink-no-overflow-28783in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/vive-547-mm-oval-vessel-bathroom-sink-no-overflow-28783in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/vive-547-mm-oval-vessel-bathroom-sink-no-overflow-28783in?skuId=28783IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "JvTa5fa2V6",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=246, origin; dur=773, ak_p; desc=\"1789420730307_400553078_266589837_101954_10152_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:18:51 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1854",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/kohler-vive-capsule-vessel-basin-without-faucet-hole-in-white",
+            "ProductWebInstallation_ss": [
+              "Semi-recessed vessel",
+              "Drops partially below vanity top; requires countertop cutout"
+            ],
+            "ProductOverallWidthInches_s": "15-5/8\"",
+            "ProductNarrativeDescription_s": "KOHLER VIVE® blends modernity and fluidity in design. The collection is inspired by the elegant and graceful steps of the ballet while celebrating the playful side of human expressions. The KOHLER VIVE® oval vessel bathroom sink, in a graceful capsule shape, delicately balances both structure and movement. A unique front slotted drain with a hidden connector creates a sleek look and maintains design continuity.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|28783IN-0|true|false|K-28783IN-0",
+              "Cashmere|swatch_K4|28783IN-K4|true|false|K-28783IN-K4",
+              "Black Black|swatch_7|28783IN-7|true|false|K-28783IN-7",
+              "Indigo|swatch_DGS|28783IN-DGS|true|false|K-28783IN-DGS",
+              "Teak Berry|KO_swatch_TKB|28783IN-TKB|true|false|K-28783IN-TKB"
+            ],
+            "ProductBrandName_s": "KOHLER VIVE®",
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 VESSEL;1 CUTOUT TEMPLATE;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-28783IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "28783IN-0|aae10466_rgb|IMGTOP||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae10466_rgb",
+              "28783IN-0|aae10470_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae10470_rgb",
+              "28783IN-0|aaf68501_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68501_rgb",
+              "28783IN-7|aae10463_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae10463_rgb",
+              "28783IN-DGS|aae54352_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae54352_rgb",
+              "28783IN-K4|aaf49718_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf49718_rgb",
+              "28783IN-TKB|aah30831_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah30831_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 12299.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 15000.0,
+            "ProductOverallLengthInches_s": "21-9/16\"",
+            "ProductDescriptionProductShort_s": "54.7 cm oval vessel bathroom sink, no overflow",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783insde.dxf"
+            ],
+            "productName_s": "KOHLER VIVE® 54.7 cm oval vessel bathroom sink, no overflow",
+            "ctId_s": "0b9a27de-3bb4-4589-b239-98dbc9a17279",
+            "ProductWebFeatures_ss": [
+              "Elongated oval basin",
+              "Sleek and contemporary design",
+              "Unique front slotted drain creates a sleek look",
+              "Hidden drain connector maintains design continuity",
+              "Without overflow",
+              "No faucet holes; requires wall- or tall counter-mount faucet"
+            ],
+            "priceList.ANY.finalPrice_d": 15000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "28783IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Vive-K-28783IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "51.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "28783IN",
+            "productInRiverId_s": "inRiver_2491846",
+            "priceList.CTR.finalPrice_d": 15000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-28783IN-0",
+            "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+            "variantList.sku_ss": [
+              "28783IN-0",
+              "28783IN-DGS",
+              "28783IN-7",
+              "28783IN-K4",
+              "28783IN-TKB"
+            ],
+            "SKUShippingHeight_s": "21.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "62.300",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1730109",
+              "inRiver_3086862"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/28783IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-13/16\"",
+            "id": "0b9a27de-3bb4-4589-b239-98dbc9a17279|28783IN-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

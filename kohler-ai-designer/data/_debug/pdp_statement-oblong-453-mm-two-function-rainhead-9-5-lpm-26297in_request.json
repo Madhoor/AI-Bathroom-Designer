@@ -1,0 +1,189 @@
+{
+  "product_url": "https://www.kohler.co.in/p/statement-oblong-453-mm-two-function-rainhead-9-5-lpm-26297in?skuId=26297IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/statement-oblong-453-mm-two-function-rainhead-9-5-lpm-26297in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/statement-oblong-453-mm-two-function-rainhead-9-5-lpm-26297in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/statement-oblong-453-mm-two-function-rainhead-9-5-lpm-26297in?skuId=26297IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "XxiIwW56iP",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=243, origin; dur=711, ak_p; desc=\"1789449219222_400553078_274153077_95509_12236_11_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:13:40 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2125",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/statement-2f-356mm-14-dpmsg-rainhead",
+            "ProductOverallWidthInches_s": "17-7/8\"",
+            "ProductNarrativeDescription_s": "Relax in a shower that simulates a warm summer rain and targets sore shoulders with swirling kinetic streams—two distinct experiences, each available separately within one rainhead. Choose from Full Coverage with Katalyst air-induction technology, mixing air and water to produce large water droplets for a powerful, consistent overhead shower spray experience, and more-focused Deep Massage kneading streams, angled to relieve sore muscles. The innovative two-function rainhead also boasts a contemporary, minimalist design that coordinates with many KOHLER faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|26297IN-CP|true|false|K-26297IN-CP",
+              "Vibrant French Gold|swatch_AF|26297IN-AF|true|false|K-26297IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|26297IN-RGD|true|false|K-26297IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|26297IN-BV|true|false|K-26297IN-BV",
+              "Matte Black|swatch_BL|26297IN-BL|true|false|K-26297IN-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|26297IN-BRD|true|false|K-26297IN-BRD"
+            ],
+            "ProductBrandName_s": "Statement™",
+            "ProductPackageContents_s": "1 RAINHEAD;2 FLOW REGULATOR;1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1430511-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-26297IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst® air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "26297IN-BL|aad06275_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06275_rgb",
+              "26297IN-CP|aad06262_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06262_rgb",
+              "26297IN-RGD|aad73343_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73343_rgb",
+              "26297IN-BV|aad73356_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73356_rgb",
+              "26297IN-AF|aad73345_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73345_rgb",
+              "26297IN-BRD|aaj47562_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj47562_rgb",
+              "26297IN-BRD|aaj47563_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj47563_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 60639.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 75800.0,
+            "ProductOverallLengthInches_s": "8-1/16\"",
+            "ProductDescriptionProductShort_s": "Oblong 45.3 cm two-function rainhead, 9.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297insde.dxf"
+            ],
+            "productName_s": "Statement™ Oblong 45.3 cm two-function rainhead, 9.5 lpm",
+            "ctId_s": "5d8a6a52-5658-4b1d-82b0-6e2c64c98e85",
+            "ProductWebFeatures_ss": [
+              "Dual-function oblong rainhead features Full Coverage with Katalyst technology, a drenching spray experience ideal for rinsing shampoo from hair",
+              "Deep Massage streams twist and swirl, targeting sore muscles to ease away aches and pains",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "2.5 gpm (9.5 lpm) maximum flow rate at 45 psi (3.1 bar)",
+              "Requires two-function rainhead arm and flange (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 75800.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "26297IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-K-26297IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "26.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "26297IN",
+            "productInRiverId_s": "inRiver_887219",
+            "priceList.CTR.finalPrice_d": 75800.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-26297IN-CP",
+            "ProductBrandNameDisplay_s": "Statement™",
+            "variantList.sku_ss": [
+              "26297IN-CP",
+              "26297IN-AF",
+              "26297IN-BL",
+              "26297IN-BV",
+              "26297IN-RGD",
+              "26297IN-BRD"
+            ],
+            "SKUShippingHeight_s": "14.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "53.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482276"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26297IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-1/2\"",
+            "id": "5d8a6a52-5658-4b1d-82b0-6e2c64c98e85|26297IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "product_url": "https://www.kohler.co.in/p/finial-traditional-140mm-single-function-showerhead-with-shower-arm-and-flange-16351in?skuId=16351IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/finial-traditional-140mm-single-function-showerhead-with-shower-arm-and-flange-16351in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/finial-traditional-140mm-single-function-showerhead-with-shower-arm-and-flange-16351in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/finial-traditional-140mm-single-function-showerhead-with-shower-arm-and-flange-16351in?skuId=16351IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "CsJLcW8Xqy",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=256, origin; dur=786, ak_p; desc=\"1789449161556_400553078_274118596_104311_11479_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:12:42 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1239",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductNarrativeDescription_s": "This single-function showerhead brings innovation to your bathroom with Katalyst, a cutting-edge technology that intensifies the flow of water for a completely indulgent showering experience. With a new nozzle pattern, internal waterway design, and air-induction system, this technology maximizes every water drop and creates a richer, more intense flow of water that heightens the shower's sensory experience.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|16351IN-CP|false|false|K-16351IN-CP"
+            ],
+            "ProductBrandName_s": "Finial Traditional",
+            "ProductPackageContents_s": "1 SHOWERHEAD;1 WARRANTY CARD",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "16351IN-CP|ccc21652|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/ccc21652"
+            ],
+            "priceList.GST.finalPrice_d": 4919.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 6000.0,
+            "ProductDescriptionProductShort_s": "14 cm single-function showerhead   (with shower arm and flange)",
+            "productName_s": "Finial Traditional 14 cm single-function showerhead   (with shower arm and flange)",
+            "ctId_s": "438f0eae-45d0-4797-91b5-27ba4c6c9f17",
+            "ProductWebFeatures_ss": [
+              "Katalyst air-induction technology maximizes every water drop by infusing air into the water stream for a fuller, more powerful spray",
+              "Features Racetrack Waterway that ensures equal distribution of water through the showerhead and delivers a revitalising spray with full coverage",
+              "Premium metal construction for durability and reliability",
+              "MasterClean(TM) sprayface is easy to clean.",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times"
+            ],
+            "priceList.ANY.finalPrice_d": 6000.0,
+            "sku_s": "16351IN-CP",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "17.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "16351IN",
+            "productInRiverId_s": "inRiver_558899",
+            "priceList.CTR.finalPrice_d": 6000.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-16351IN-CP",
+            "ProductBrandNameDisplay_s": "Finial Traditional",
+            "variantList.sku_ss": [
+              "16351IN-CP"
+            ],
+            "SKUShippingHeight_s": "12.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "24.500",
+            "SKUIsProjectPack_s": "No",
+            "id": "438f0eae-45d0-4797-91b5-27ba4c6c9f17|16351IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

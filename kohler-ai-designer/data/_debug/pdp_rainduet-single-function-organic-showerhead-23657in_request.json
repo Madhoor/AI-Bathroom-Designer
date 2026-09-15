@@ -1,0 +1,165 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rainduet-single-function-organic-showerhead-23657in?skuId=23657IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rainduet-single-function-organic-showerhead-23657in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rainduet-single-function-organic-showerhead-23657in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rainduet-single-function-organic-showerhead-23657in?skuId=23657IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "nGLRuq8HRF",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=275, origin; dur=713, ak_p; desc=\"1789449169788_400553078_274123105_98840_14534_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:12:50 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1631",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/rain-duet-organic-showerhead-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "G 1/2 (13 mm) inlet connection"
+            ],
+            "ProductOverallWidthInches_s": "4-13/16\"",
+            "ProductNarrativeDescription_s": "Enjoy an invigorating shower experience with the Rainduet® single-function showerhead. This shower component features a nature-inspired nozzle design, producing a full-coverage spray. Its clean good looks and durable finish coordinate with many other KOHLER® faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|23657IN-CP|true|false|K-23657IN-CP"
+            ],
+            "ProductBrandName_s": "Rainduet™",
+            "ProductPackageContents_s": "1 SHOWERHEAD; 1 ARM; 1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-23657IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "23657IN-CP|aag70002_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag70002_rgb",
+              "23657IN-CP|aag70000_rgb|IMGSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aag70000_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2679.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3160.0,
+            "ProductOverallLengthInches_s": "7-15/16\"",
+            "ProductDescriptionProductShort_s": "Single-function showerhead, 17.4 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657insde.dxf"
+            ],
+            "productName_s": "Rainduet® Single-function showerhead, 17.4 lpm",
+            "ctId_s": "fb9c8d27-39e0-45fd-9298-b1abfeeab4ec",
+            "ProductWebFeatures_ss": [
+              "Single-function showerhead delivers a full, consistent spray, regardless of water pressure",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Flexible spray nozzles are easy to clean",
+              "4.6 gpm (17.4 lpm) maximum flow rate at 43.5 psi (3.0 bar)",
+              "Includes shower arm and flange"
+            ],
+            "priceList.ANY.finalPrice_d": 3160.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657insde.dwg"
+            ],
+            "sku_s": "23657IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Rain_Duet-K-23657IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "16.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "23657IN",
+            "productInRiverId_s": "inRiver_2491920",
+            "priceList.CTR.finalPrice_d": 3160.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-23657IN-CP",
+            "ProductBrandNameDisplay_s": "Rainduet™",
+            "variantList.sku_ss": [
+              "23657IN-CP"
+            ],
+            "SKUShippingHeight_s": "12.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "25.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23657IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-1/4\"",
+            "id": "fb9c8d27-39e0-45fd-9298-b1abfeeab4ec|23657IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

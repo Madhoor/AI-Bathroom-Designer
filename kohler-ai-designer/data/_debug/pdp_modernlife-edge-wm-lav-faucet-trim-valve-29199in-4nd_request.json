@@ -1,0 +1,165 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-wm-lav-faucet-trim-valve-29199in-4nd?skuId=29199IN-4ND-RGD",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-wm-lav-faucet-trim-valve-29199in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-wm-lav-faucet-trim-valve-29199in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-wm-lav-faucet-trim-valve-29199in-4nd?skuId=29199IN-4ND-RGD",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Y1UnRx1Liz",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=347, origin; dur=1014, ak_p; desc=\"1789422049833_400553039_333240924_136141_10424_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:40:51 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1825",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Preattached flexible supply lines simplify installation",
+              "Drain sold separately"
+            ],
+            "ProductOverallWidthInches_s": "10-1/4\"",
+            "ProductNarrativeDescription_s": "The KOHLER® ModernLife Edge wall-mount bathroom sink faucet reimagines classic cubist design, offering a striking blend of slim lines and a bold, expressive presence. Every detail of this elegant faucet reflects precision machining and exceptional craftsmanship, ensuring durability that withstands the test of time. Constructed from premium materials and designed to deliver flawless performance, the ModernLife Edge faucet combines refined sophistication with reliable functionality. Its sleek silhouette and architectural form make it a statement piece, seamlessly blending practicality with artistry to elevate your bathroom space.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Rose Gold|swatch_RGD|29199IN-4ND-RGD|true|false|K-29199IN-4ND-RGD"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "1 MODERNLIFE EDGE WALL MOUNT LAV FAUCET TRIM+VALVE, 2 INSTALLATION INSTRUCTION MANUAL, 2 WARRANTY SHEET INDIA, 3 INSERT",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208982",
+              "inRiver_3208985"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556178"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-29199IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "29199IN-4ND-RGD|aaf86155_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86155_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 37039.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 46300.0,
+            "ProductOverallLengthInches_s": "19-13/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 7.6 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_4ndsde.dxf"
+            ],
+            "productName_s": "ModernLife Edge® Wall-mount bathroom sink faucet, 7.6 lpm",
+            "ctId_s": "1d25d14c-8c5a-4b16-af08-f7d67bd0a86a",
+            "ProductWebFeatures_ss": [
+              "Contemporary square design",
+              "Single Lever handle allows for both volume and temperature control",
+              "19.1 cm (7.5 inch) spout reach",
+              "7.6 lpm (2.0 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 46300.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_4ndsde.dwg"
+            ],
+            "sku_s": "29199IN-4ND-RGD",
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "25.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "29199IN-4ND",
+            "productInRiverId_s": "inRiver_3096432",
+            "priceList.CTR.finalPrice_d": 46300.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-29199IN-4ND-RGD",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "variantList.sku_ss": [
+              "29199IN-4ND-RGD"
+            ],
+            "SKUShippingHeight_s": "11.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "49.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "14\"",
+            "id": "1d25d14c-8c5a-4b16-af08-f7d67bd0a86a|29199IN-4ND-RGD"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

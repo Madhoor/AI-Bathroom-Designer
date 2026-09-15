@@ -1,0 +1,157 @@
+{
+  "product_url": "https://www.kohler.co.in/p/odeon-odeon-semi-recessed-basin-560mm-11160t-1?skuId=11160T-1-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/odeon-odeon-semi-recessed-basin-560mm-11160t-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/odeon-odeon-semi-recessed-basin-560mm-11160t-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4950>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/odeon-odeon-semi-recessed-basin-560mm-11160t-1?skuId=11160T-1-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "TI6rbrNiTx",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=285, origin; dur=839, ak_p; desc=\"1789421330570_400553078_266635995_112455_10592_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:28:51 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1324",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160T-1.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160t_1frt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "Odeon combines spheres and arcs for sleek, European styling. With a compact shape and overflow drain, this semi-recessed lavatory is ideal for small bathrooms.  Coordinates with other products in the ODEON collection.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|11160T-1-0|true|false|K-11160T-1-0"
+            ],
+            "ProductBrandName_s": "Odeon™",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 ACCESSORY PACK;\n1 INSTALLATION INSTRUCTIONS",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160T-1.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/11160t_1_4_8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/k_11160t.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160T-1.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "11160T-1-0|zaa73088_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa73088_rgb",
+              "11160T-1-0|zaa29300_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/zaa29300_rgb",
+              "11160T-1-0|zaa73089_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/zaa73089_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 13029.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 15900.0,
+            "ProductDescriptionProductShort_s": "Odeon semi-recessed basin, 56 cm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160t_1pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160t_1sde.dxf"
+            ],
+            "productName_s": "Odeon™ Odeon semi-recessed basin, 56 cm",
+            "ctId_s": "693d9a70-69ea-4eaa-b650-0ae374667528",
+            "ProductWebFeatures_ss": [
+              "Sleek lines",
+              "Recessed design, stylish and compact",
+              "Part of the Folio™ bathroom series",
+              "With overflow drain",
+              "Dimensions: 560*45.4 cm"
+            ],
+            "priceList.ANY.finalPrice_d": 15900.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160t_1sde.dwg"
+            ],
+            "sku_s": "11160T-1-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Drop_In-Lavatory-KOHLER-ODEON-K-11160T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160T-1.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "24.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "11160T-1",
+            "productInRiverId_s": "inRiver_1336101",
+            "priceList.CTR.finalPrice_d": 15900.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-11160T-1-0",
+            "ProductBrandNameDisplay_s": "Odeon™",
+            "variantList.sku_ss": [
+              "11160T-1-0"
+            ],
+            "SKUShippingHeight_s": "50.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "58.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160t_1pln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160t_1frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/11160T-1.dwg"
+            ],
+            "id": "693d9a70-69ea-4eaa-b650-0ae374667528|11160T-1-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

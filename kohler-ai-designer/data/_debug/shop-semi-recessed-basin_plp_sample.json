@@ -1,0 +1,396 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"BathroomSinksProductOverallLengthCm_s\"}BathroomSinksProductOverallLengthCm_s",
+      "{!ex=\"BathroomSinksProductOverallWidthCm_s\"}BathroomSinksProductOverallWidthCm_s",
+      "{!ex=\"ATTR_SPEC_BasinShape_s\"}ATTR_SPEC_BasinShape_s",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "BathroomSinksProductOverallLengthCm_s": "Length - Side to Side",
+      "BathroomSinksProductOverallWidthCm_s": "Width - Front to Back",
+      "ATTR_SPEC_BasinShape_s": "Shape",
+      "ProductStyle_ss": "Style",
+      "SpecialFeatureList_ss": "Special Feature",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|98930X-1-0|true|false|K-98930X-1-0"
+        ],
+        "ProductBrandName_s": "Forefront™",
+        "masterSKU_s": "98930X-1-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "98930X-1-0",
+        "productImages.labelWithUrl_ss": [
+          "98930X-1-0|aae00997_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00997_rgb"
+        ],
+        "priceList.GST.price_d": 11889.0,
+        "priceList.GST.finalPrice_d": 11889.0,
+        "ProductDescriptionProductShort_s": "Semi-recessed bathroom sink",
+        "productName_s": "Forefront™ Semi-recessed bathroom sink",
+        "ctId_s": "788137c2-4fc2-4bff-b765-4b634a75ece3",
+        "Color.GST.Details_ss": [
+          "98930X-1-0|White|14500.0|11889.0||https://kohler.scene7.com/is/image/PAWEB/aae00997_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "98930X-1",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae00997_rgb"
+        ],
+        "priceList.ANY.price_d": 14500.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "98930X-1-0",
+        "ProductBrandNameDisplay_s": "Forefront",
+        "variantList.sku_ss": [
+          "98930X-1-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 11889.0,
+        "displayPriceStartingAt_s": "₹11,889.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "forefront-semi-recessed-bathroom-sink-98930x-1",
+        "priceStartingAt.GST_d": 11889.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "788137c2-4fc2-4bff-b765-4b634a75ece3|98930X-1-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|11160T-1-0|true|false|K-11160T-1-0"
+        ],
+        "ProductBrandName_s": "Odeon™",
+        "masterSKU_s": "11160T-1-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "11160T-1-0",
+        "productImages.labelWithUrl_ss": [
+          "11160T-1-0|zaa73088_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa73088_rgb",
+          "11160T-1-0|zaa29300_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/zaa29300_rgb",
+          "11160T-1-0|zaa73089_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/zaa73089_rgb"
+        ],
+        "priceList.GST.price_d": 13029.0,
+        "priceList.GST.finalPrice_d": 13029.0,
+        "ProductDescriptionProductShort_s": "Odeon semi-recessed basin, 56 cm",
+        "productName_s": "Odeon™ Odeon semi-recessed basin, 56 cm",
+        "ctId_s": "693d9a70-69ea-4eaa-b650-0ae374667528",
+        "Color.GST.Details_ss": [
+          "11160T-1-0|White|15900.0|13029.0||https://kohler.scene7.com/is/image/PAWEB/zaa73088_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "11160T-1",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa73088_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zaa29300_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zaa73089_rgb"
+        ],
+        "priceList.ANY.price_d": 15900.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "11160T-1-0",
+        "ProductBrandNameDisplay_s": "Odeon™",
+        "variantList.sku_ss": [
+          "11160T-1-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 13029.0,
+        "displayPriceStartingAt_s": "₹13,029.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "odeon-odeon-semi-recessed-basin-560mm-11160t-1",
+        "priceStartingAt.GST_d": 13029.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "693d9a70-69ea-4eaa-b650-0ae374667528|11160T-1-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|72907K-1-0|false|false|K-72907K-1-0"
+        ],
+        "ProductBrandName_s": "Ladena™",
+        "masterSKU_s": "72907K-1-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "72907K-1-0",
+        "productImages.labelWithUrl_ss": [
+          "72907K-1-0|aad78584_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad78584_rgb"
+        ],
+        "priceList.GST.price_d": 12299.0,
+        "priceList.GST.finalPrice_d": 12299.0,
+        "ProductDescriptionProductShort_s": "Semi-recessed bathroom sink",
+        "productName_s": "Ladena™ Semi-recessed bathroom sink",
+        "ctId_s": "b2019043-7406-4877-a537-e1d27d2f33f0",
+        "Color.GST.Details_ss": [
+          "72907K-1-0|White|15000.0|12299.0||https://kohler.scene7.com/is/image/PAWEB/aad78584_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "72907K-1",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad78584_rgb"
+        ],
+        "priceList.ANY.price_d": 15000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "72907K-1-0",
+        "ProductBrandNameDisplay_s": "Ladena",
+        "variantList.sku_ss": [
+          "72907K-1-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 12299.0,
+        "displayPriceStartingAt_s": "₹12,299.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "ladena-semi-recessed-bathroom-sink-72907k-1",
+        "priceStartingAt.GST_d": 12299.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "b2019043-7406-4877-a537-e1d27d2f33f0|72907K-1-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|11479IN-VC1-0|true|false|K-11479IN-VC1-0"
+        ],
+        "ProductBrandName_s": "Forefront™",
+        "masterSKU_s": "11479IN-VC1-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "11479IN-VC1-0",
+        "productImages.labelWithUrl_ss": [
+          "11479IN-VC1-0|aad29402_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad29402_rgb"
+        ],
+        "priceList.GST.price_d": 17629.0,
+        "priceList.GST.finalPrice_d": 17629.0,
+        "ProductDescriptionProductShort_s": "58.1 cm rectangular semi-recessed bathroom sink with glazed underside",
+        "productName_s": "Forefront™ 58.1 cm rectangular semi-recessed bathroom sink with glazed underside",
+        "ctId_s": "f23d6f95-6284-42d7-849e-6a4be0196df6",
+        "Color.GST.Details_ss": [
+          "11479IN-VC1-0|White|21500.0|17629.0||https://kohler.scene7.com/is/image/PAWEB/aad29402_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "11479IN-VC1",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad29402_rgb"
+        ],
+        "priceList.ANY.price_d": 21500.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "11479IN-VC1-0",
+        "ProductBrandNameDisplay_s": "Forefront™",
+        "variantList.sku_ss": [
+          "11479IN-VC1-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 17629.0,
+        "displayPriceStartingAt_s": "₹17,629.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "forefront-semi-recessed-lavatory-with-single-faucet-hole-11479in-vc1",
+        "priceStartingAt.GST_d": 17629.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f23d6f95-6284-42d7-849e-6a4be0196df6|11479IN-VC1-0"
+      }
+    ],
+    "numFound": 4,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "BathroomSinksProductOverallLengthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallLengthCm_s:\"25cm to 50cm\"": 2,
+      "BathroomSinksProductOverallLengthCm_s:\"50cm to 75cm\"": 1,
+      "BathroomSinksProductOverallLengthCm_s:\">75cm\"": 1,
+      "BathroomSinksProductOverallWidthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"25cm to 50cm\"": 2,
+      "BathroomSinksProductOverallWidthCm_s:\"50cm to 75cm\"": 1,
+      "BathroomSinksProductOverallWidthCm_s:\">75cm\"": 1,
+      "Available_Now_s:\"Yes\"": 3
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        4
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Forefront",
+        1,
+        "Forefront™",
+        1,
+        "Ladena",
+        1,
+        "Odeon™",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Deck-mount",
+        2,
+        "Drop-in",
+        5,
+        "Pedestal",
+        4,
+        "Semi recessed",
+        4,
+        "Undercounter",
+        9,
+        "Vanity Top",
+        2,
+        "Vessel",
+        51,
+        "Wall-mount",
+        11
+      ],
+      "BathroomSinksProductOverallLengthCm_s": [
+        "25cm to 50cm",
+        2,
+        "50cm to 75cm",
+        1,
+        ">75cm",
+        1
+      ],
+      "BathroomSinksProductOverallWidthCm_s": [
+        "25cm to 50cm",
+        2,
+        "50cm to 75cm",
+        1,
+        ">75cm",
+        1
+      ],
+      "ATTR_SPEC_BasinShape_s": [
+        "Rectangular",
+        1,
+        "Square/Rectangle",
+        3
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        2,
+        "Transitional",
+        1
+      ],
+      "Available_Now_s": [
+        "Yes",
+        3,
+        "No",
+        1
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        2,
+        "Paid",
+        2
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          4
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          4
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          4
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          4
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

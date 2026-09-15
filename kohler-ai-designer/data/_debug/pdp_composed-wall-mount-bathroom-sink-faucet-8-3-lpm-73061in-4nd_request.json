@@ -1,0 +1,157 @@
+{
+  "product_url": "https://www.kohler.co.in/p/composed-wall-mount-bathroom-sink-faucet-8-3-lpm-73061in-4nd?skuId=73061IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/composed-wall-mount-bathroom-sink-faucet-8-3-lpm-73061in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/composed-wall-mount-bathroom-sink-faucet-8-3-lpm-73061in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/composed-wall-mount-bathroom-sink-faucet-8-3-lpm-73061in-4nd?skuId=73061IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "c2sztRMXZw",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=271, origin; dur=766, ak_p; desc=\"1789422010223_400553039_333239293_103644_12188_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:40:11 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1700",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061in_4ndfrt.dxf"
+            ],
+            "ProductOverallWidthInches_s": "6-5/8\"",
+            "ProductNarrativeDescription_s": "Composed™ is characterized by simplicity, balance, and purity of form. At its core, it references a classic, authentic design language, which is then expressed with the fewest elements needed to create a lasting effect. This wall-mount bathroom sink faucet with Knob handle is simple, minimal, and timeless. The Composed™ faucet line is equally comfortable in both modern and transitional environments.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|73061IN-4ND-CP|true|false|K-73061IN-4ND-CP"
+            ],
+            "ProductBrandName_s": "Composed™",
+            "ProductPackageContents_s": "1 TRIM; 1 HANDLE;1 SPOUT;1 BONNET;1 HARDWARE KIT;1 CONNECTOR;1 WARRANTY CARD;1 INSTALLATION GUIDE",
+            "Recommended_Accessories_ss": [
+              "inRiver_2312070"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-73061IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73061IN-4ND-CP|aad84292_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad84292_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 46239.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 57800.0,
+            "ProductOverallLengthInches_s": "9\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 8.3 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061in_4ndsde.dxf"
+            ],
+            "productName_s": "Composed™ Wall-mount bathroom sink faucet, 8.3 lpm",
+            "ctId_s": "175dbe8b-73f5-4c23-b327-29031cb7e6e3",
+            "ProductWebFeatures_ss": [
+              "Sleek contemporary design",
+              "Lift and turn knob handle",
+              "Single handle provides on/off activation, volume, and temperature control",
+              "6.7 inch (16.9 cm) spout reach",
+              "2.2 gpm (8.3 lpm) maximum flow rate at 45 psi (3.1 bar)",
+              "Laminar flow",
+              "Drain sold separately",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 57800.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061in_4ndsde.dwg"
+            ],
+            "sku_s": "73061IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Composed-K-73061IN.rfa"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "27.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73061IN-4ND",
+            "productInRiverId_s": "inRiver_558468",
+            "priceList.CTR.finalPrice_d": 57800.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-73061IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Composed™",
+            "variantList.sku_ss": [
+              "73061IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "11.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "38.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73061in_4ndfrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-1/4\"",
+            "id": "175dbe8b-73f5-4c23-b327-29031cb7e6e3|73061IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

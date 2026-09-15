@@ -1,0 +1,177 @@
+{
+  "product_url": "https://www.kohler.co.in/p/singulier-2000-mm-2100-mm-h-pivot-shower-door-with-8-mm-thick-glass-708067in?skuId=708067IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/singulier-2000-mm-2100-mm-h-pivot-shower-door-with-8-mm-thick-glass-708067in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/singulier-2000-mm-2100-mm-h-pivot-shower-door-with-8-mm-thick-glass-708067in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5555>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/singulier-2000-mm-2100-mm-h-pivot-shower-door-with-8-mm-thick-glass-708067in?skuId=708067IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "FLajkdB895",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=248, origin; dur=1403, ak_p; desc=\"1789449517786_400553078_274317571_165147_11836_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:18:39 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1987",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/singulier-1door-2panel-in-polished-chrome",
+            "ProductWebInstallation_ss": [
+              "Pivot shower door",
+              "Fits opening widths 31.50 – 70.87 inches (800 – 1800 mm)",
+              "78.74 – 82.68 inch (2000 – 2100 mm) adjustable height, with a lofty 78.15 – 82.09 inch (1985 – 2085 mm) minimum head clearance",
+              "Door can be installed to open to the left or right to suit your bathroom layout",
+              "Out-of-plumb adjustability simplifies installation",
+              "For corner installation"
+            ],
+            "ProductNarrativeDescription_s": "The Singulier™ collection combines elegant lines with graceful curves to create an understated look. This sleek frameless shower door design blends seamlessly into your bathroom while a unique internal and external handle offers easy opening and closing of the pivoting door. CleanCoat™ technology protects the door's tempered glass against dirt and grime for easier cleaning.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|708067IN-CP|false|false|K-708067IN-CP",
+              "Vibrant French Gold|swatch_AF|708067IN-AF|false|false|K-708067IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|708067IN-RGD|false|false|K-708067IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|708067IN-BV|false|false|K-708067IN-BV"
+            ],
+            "ProductBrandName_s": "Singulier™",
+            "ProductPackageContents_s": "1 HARDWARE KIT, 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556176"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-708067IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "708067IN-AF|aag35365_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35365_rgb",
+              "708067IN-BV|aag35364_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35364_rgb",
+              "708067IN-RGD|aag35363_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35363_rgb",
+              "708067IN-CP|aag35362_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35362_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 70389.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 74100.0,
+            "ProductDescriptionProductShort_s": "200 cm – 210 cm H pivot shower door with 8 mm-thick glass",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067insde.dxf"
+            ],
+            "productName_s": "Singulier™ 200 cm – 210 cm H pivot shower door with 8 mm-thick glass",
+            "ctId_s": "c0e5cd10-dd1d-430f-be10-fde0331fbd6d",
+            "ProductWebFeatures_ss": [
+              "Frameless 8 mm (.31 inch) thick tempered glass",
+              "Tempered glass ensures enhanced safety and durability",
+              "CleanCoat™ technology creates a protective barrier that repels water, prevents dirt and minerals from collecting, and makes it easier to remove hard water spots",
+              "External horizontal handle and internal vertical handle",
+              "Shower door configuration consists of one pivoting panel and two stationary panels",
+              "Unique L-shaped design works well in open bathroom layouts",
+              ".35 inch (9 mm) optional threshold",
+              "Full-length magnetic seal keeps door firmly closed, providing excellent water containment"
+            ],
+            "priceList.ANY.finalPrice_d": 74100.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067insde.dwg"
+            ],
+            "sku_s": "708067IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Shower_Door-KOHLER-Singulier-K-708067IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "20.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "708067IN",
+            "productInRiverId_s": "inRiver_2759224",
+            "priceList.CTR.finalPrice_d": 74100.0,
+            "Product_Category": "Shower Doors",
+            "CustomerFacingSKU_s": "K-708067IN-CP",
+            "ProductBrandNameDisplay_s": "Singulier™",
+            "variantList.sku_ss": [
+              "708067IN-CP",
+              "708067IN-AF",
+              "708067IN-BV",
+              "708067IN-RGD"
+            ],
+            "SKUShippingHeight_s": "19.000",
+            "ctProductType_s": "shower-doors",
+            "SKUShippingLength_s": "56.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/708067IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "94-1/2\"",
+            "id": "c0e5cd10-dd1d-430f-be10-fde0331fbd6d|708067IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

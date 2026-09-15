@@ -1,0 +1,195 @@
+{
+  "product_url": "https://www.kohler.co.in/p/forefront-580-mm-rectangular-vessel-bathroom-sink-5373in?skuId=5373IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/forefront-580-mm-rectangular-vessel-bathroom-sink-5373in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/forefront-580-mm-rectangular-vessel-bathroom-sink-5373in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/forefront-580-mm-rectangular-vessel-bathroom-sink-5373in?skuId=5373IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "OcJQzjVr0P",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=262, origin; dur=762, ak_p; desc=\"1789420646243_400553078_266582808_102358_10580_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:17:27 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1859",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/forefront-rect-w-o-faucet-deck",
+            "ProductWebInstallation_ss": [
+              "Semi-recessed vessel",
+              "Drops partially below vanity top; requires countertop cutout"
+            ],
+            "ProductOverallWidthInches_s": "16-1/8\"",
+            "ProductNarrativeDescription_s": "Sleek and contemporary, the Forefront™ rectangular vessel bathroom sink features a symmetrical, deep basin and rounded edges in true minimalist fashion. Countertop installation ensures this sink will stand out in your bathroom as a striking focal point. The included overflow cover allows users to fill the basin for even more versatility.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|5373IN-0|true|false|K-5373IN-0",
+              "Cashmere|swatch_96|5373IN-K4|true|false|K-5373IN-K4",
+              "Black Black|swatch_7|5373IN-7|true|false|K-5373IN-7",
+              "Thunder Grey|swatch_HG1|5373IN-HG1|false|false|K-5373IN-HG1",
+              "Peacock|swatch_HP1|5373IN-HP1|false|false|K-5373IN-HP1"
+            ],
+            "ProductBrandName_s": "Forefront™",
+            "ProductPackageContents_s": "1 VESSEL;1 INSTALLATION TEMPLATE AND 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1656582-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-5373IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "5373IN-HP1|aaf79803_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79803_rgb",
+              "5373IN-HG1|zab86806_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab86806_rgb",
+              "5373IN-0|zab86775_rgb|IMGFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/zab86775_rgb",
+              "5373IN-0|zab86805_rgb|IMGTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/zab86805_rgb",
+              "5373IN-0|zab86804_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab86804_rgb",
+              "5373IN-0|aaf68468_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68468_rgb",
+              "5373IN-0|aaf68471_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68471_rgb",
+              "5373IN-0|aaf68470_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68470_rgb",
+              "5373IN-0|aaf68469_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68469_rgb",
+              "5373IN-K4|zab86818_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab86818_rgb",
+              "5373IN-7|zab86814_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab86814_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 15579.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 19000.0,
+            "ProductOverallLengthInches_s": "22-5/8\"",
+            "ProductDescriptionProductShort_s": "58 cm rectangular vessel bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373insde.dxf"
+            ],
+            "productName_s": "Forefront™ 58 cm rectangular vessel bathroom sink",
+            "ctId_s": "c9343045-cef8-4bfd-bc7e-15e20bed83ba",
+            "ProductWebFeatures_ss": [
+              "Deep rectangular basin with a contemporary design minimizes splash",
+              "No faucet holes; requires wall- or deck-mount faucet",
+              "Center drain",
+              "With overflow and overflow cover"
+            ],
+            "priceList.ANY.finalPrice_d": 19000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373insde.dwg"
+            ],
+            "ProductResource.EnvironProdDecl.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1671956-24.pdf"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "5373IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-FOREFRONT-K-5373IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Forefront-K-5373IN.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "46.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "5373IN",
+            "productInRiverId_s": "inRiver_1338417",
+            "priceList.CTR.finalPrice_d": 19000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-5373IN-0",
+            "ProductBrandNameDisplay_s": "Forefront™",
+            "variantList.sku_ss": [
+              "5373IN-0",
+              "5373IN-HG1",
+              "5373IN-HP1",
+              "5373IN-K4",
+              "5373IN-7"
+            ],
+            "SKUShippingHeight_s": "23.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "62.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5373IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-7/8\"",
+            "id": "c9343045-cef8-4bfd-bc7e-15e20bed83ba|5373IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

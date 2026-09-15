@@ -1,0 +1,1517 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"ProductShape_s\"}ProductShape_s",
+      "{!ex=\"ProductProductType_s\"}ProductProductType_s",
+      "{!ex=\"Shower_SprayType_ss\"}Shower_SprayType_ss",
+      "{!ex=\"ShowerProductOverallLengthCm_s\"}ShowerProductOverallLengthCm_s",
+      "Available_Now_s",
+      "InstallationCost_s",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d"
+    ],
+    "color_swatch_labels": {
+      "Matte Black": "swatch_BL",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant Brushed Bronze": "swatch_BV",
+      "Vibrant Brushed Moderne Brass": "swatch_2MB",
+      "Vibrant Brushed Rose Gold": "swatch_BRD",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD",
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "ProductShape_s": "Shape",
+      "ProductProductType_s": "Product Type",
+      "Shower_SprayType_ss": "Spray Type",
+      "ShowerProductOverallLengthCm_s": "Shower Size",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26284IN-CP|true|false|K-26284IN-CP",
+          "Vibrant French Gold|swatch_AF|26284IN-AF|false|false|K-26284IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|26284IN-RGD|false|false|K-26284IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|26284IN-BV|false|false|K-26284IN-BV",
+          "Matte Black|swatch_BL|26284IN-BL|false|false|K-26284IN-BL"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "metaTitle_s": "Statement Oblong 3-Function Handshower | 26284IN | KOHLER",
+        "masterSKU_s": "26284IN-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_CP",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "26284IN-AF",
+        "productImages.labelWithUrl_ss": [
+          "26284IN-BL|aad06266_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06266_rgb",
+          "26284IN-CP|aad06270_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06270_rgb",
+          "26284IN-CP|aaf67084_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67084_rgb",
+          "26284IN-CP|aaf67085_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67085_rgb",
+          "26284IN-CP|aaf67086_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67086_rgb",
+          "26284IN-CP|aaf67087_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67087_rgb",
+          "26284IN-CP|aaf67088_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67088_rgb",
+          "26284IN-BV|aad48810_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad48810_rgb",
+          "26284IN-BV|aad48827_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aad48827_rgb",
+          "26284IN-BV|aad48810_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aad48810_rgb",
+          "26284IN-AF|aad06295_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06295_rgb",
+          "26284IN-AF|aad49098_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aad49098_rgb",
+          "26284IN-AF|aad49099_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aad49099_rgb",
+          "26284IN-RGD|aad48811_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad48811_rgb",
+          "26284IN-RGD|aad48811_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aad48811_rgb",
+          "26284IN-RGD|aad48826_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aad48826_rgb"
+        ],
+        "priceList.GST.price_d": 5649.0,
+        "priceList.GST.finalPrice_d": 5649.0,
+        "ProductDescriptionProductShort_s": "Oblong three-function handshower, 9.5 lpm",
+        "productName_s": "Statement™ Oblong three-function handshower, 9.5 lpm",
+        "ctId_s": "83f2b83c-80a4-43d1-860b-c95a2fd34d08",
+        "Color.GST.Details_ss": [
+          "26284IN-AF|Vibrant French Gold|8700.0|7129.0||https://kohler.scene7.com/is/image/PAWEB/aad06295_rgb",
+          "26284IN-BL|Matte Black|9700.0|7949.0||https://kohler.scene7.com/is/image/PAWEB/aad06266_rgb",
+          "26284IN-BV|Vibrant Brushed Bronze|10350.0|8479.0||https://kohler.scene7.com/is/image/PAWEB/aad48810_rgb",
+          "26284IN-CP|Polished Chrome|6900.0|5649.0||https://kohler.scene7.com/is/image/PAWEB/aad06270_rgb",
+          "26284IN-RGD|Vibrant Rose Gold|9700.0|7949.0||https://kohler.scene7.com/is/image/PAWEB/aad48811_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26284IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad06266_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad06270_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67084_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67085_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67086_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67087_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67088_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48810_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48827_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48810_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad06295_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad49098_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad49099_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48811_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48811_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48826_rgb"
+        ],
+        "priceList.ANY.price_d": 6900.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26284IN-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26284IN-AF",
+          "26284IN-BL",
+          "26284IN-BV",
+          "26284IN-CP",
+          "26284IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 5649.0,
+        "displayPriceStartingAt_s": "₹5,649.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Polished Chrome",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "statement-oblong-three-function-handshower-9-5-lpm-26284in",
+        "priceStartingAt.GST_d": 5649.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "83f2b83c-80a4-43d1-860b-c95a2fd34d08|26284IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|12861IN-ZZ-CP|true|false|K-12861IN-ZZ-CP"
+        ],
+        "ProductBrandName_s": "Citrus™",
+        "masterSKU_s": "12861IN-ZZ-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "12861IN-ZZ-CP",
+        "productImages.labelWithUrl_ss": [
+          "12861IN-ZZ-CP|aai21545_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aai21545_rgb",
+          "12861IN-ZZ-CP|aaf71552_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71552_rgb",
+          "12861IN-ZZ-CP|aaf71412_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71412_rgb",
+          "12861IN-ZZ-CP|aaf71554_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71554_rgb",
+          "12861IN-ZZ-CP|aaf71555_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71555_rgb",
+          "12861IN-ZZ-CP|aaf90751_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf90751_rgb"
+        ],
+        "priceList.GST.price_d": 1839.0,
+        "priceList.GST.finalPrice_d": 1839.0,
+        "ProductDescriptionProductShort_s": "Four-function handshower, 7.6 lpm",
+        "productName_s": "Citrus™ Four-function handshower, 7.6 lpm",
+        "ctId_s": "bb8f6800-d018-416a-b2ce-c67724d01c63",
+        "Color.GST.Details_ss": [
+          "12861IN-ZZ-CP|Polished Chrome|2600.0|1839.0||https://kohler.scene7.com/is/image/PAWEB/aai21545_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "12861IN-ZZ",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aai21545_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf71552_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf71412_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf71554_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf71555_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf90751_rgb"
+        ],
+        "priceList.ANY.price_d": 2600.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "12861IN-ZZ-CP",
+        "ProductBrandNameDisplay_s": "Citrus™",
+        "variantList.sku_ss": [
+          "12861IN-ZZ-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 1839.0,
+        "displayPriceStartingAt_s": "₹1,839.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "citrus-multi-function-handspray-w-hose-12861in-zz",
+        "priceStartingAt.GST_d": 1839.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "bb8f6800-d018-416a-b2ce-c67724d01c63|12861IN-ZZ-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|16359IN-A-CP|true|false|K-16359IN-A-CP"
+        ],
+        "ProductBrandName_s": "Complementary™",
+        "masterSKU_s": "16359IN-A-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "16359IN-A-CP",
+        "productImages.labelWithUrl_ss": [
+          "16359IN-A-CP|aaf68973_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf68973_rgb",
+          "16359IN-A-CP|aaf72324_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf72324_rgb",
+          "16359IN-A-CP|aaf72326_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf72326_rgb",
+          "16359IN-A-CP|aaf72323_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf72323_rgb",
+          "16359IN-A-CP|aaf72325_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf72325_rgb",
+          "16359IN-A-CP|aae02206_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae02206_rgb"
+        ],
+        "priceList.GST.price_d": 2339.0,
+        "priceList.GST.finalPrice_d": 2339.0,
+        "ProductDescriptionProductShort_s": "Single-function handshower, 10.0 lpm",
+        "productName_s": "Complementary™ Single-function handshower, 10.0 lpm",
+        "ctId_s": "e1dda509-81ee-4807-9fe4-d38496cf7fe6",
+        "Color.GST.Details_ss": [
+          "16359IN-A-CP|Polished Chrome|2760.0|2339.0||https://kohler.scene7.com/is/image/PAWEB/aaf68973_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "16359IN-A",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68973_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf72324_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf72326_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf72323_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf72325_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae02206_rgb"
+        ],
+        "priceList.ANY.price_d": 2760.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "16359IN-A-CP",
+        "ProductBrandNameDisplay_s": "Complementary™",
+        "variantList.sku_ss": [
+          "16359IN-A-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 2339.0,
+        "displayPriceStartingAt_s": "₹2,339.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "complementary-single-function-handshower-with-hose-16359in-a",
+        "priceStartingAt.GST_d": 2339.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e1dda509-81ee-4807-9fe4-d38496cf7fe6|16359IN-A-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|24717IN-CP|true|false|K-24717IN-CP",
+          "Vibrant French Gold|swatch_AF|24717IN-AF|true|false|K-24717IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|24717IN-RGD|true|false|K-24717IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|24717IN-BV|true|false|K-24717IN-BV",
+          "Vibrant Brushed Rose Gold|swatch_BRD|24717IN-BRD|true|false|K-24717IN-BRD"
+        ],
+        "ProductBrandName_s": "Rainduet™ 3.0",
+        "masterSKU_s": "24717IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_AF",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "24717IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "24717IN-CP|aae86620_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae86620_rgb",
+          "24717IN-CP|aae86616_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aae86616_rgb",
+          "24717IN-CP|aae86611_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE",
+          "24717IN-RGD|aae86623_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae86623_rgb",
+          "24717IN-BV|aae86614_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae86614_rgb",
+          "24717IN-AF|aae86617_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae86617_rgb",
+          "24717IN-BRD|aag61404_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61404_rgb"
+        ],
+        "priceList.GST.price_d": 7579.0,
+        "priceList.GST.finalPrice_d": 7579.0,
+        "ProductDescriptionProductShort_s": "Three-function handshower, 16.6 lpm",
+        "productName_s": "Rainduet® 3.0 Three-function handshower, 16.6 lpm",
+        "ctId_s": "3e9c78ea-8ec7-44c2-af0f-e90166ab371d",
+        "Color.GST.Details_ss": [
+          "24717IN-CP|Polished Chrome|9250.0|7579.0||https://kohler.scene7.com/is/image/PAWEB/aae86620_rgb",
+          "24717IN-BV|Vibrant Brushed Bronze|13950.0|11439.0||https://kohler.scene7.com/is/image/PAWEB/aae86614_rgb",
+          "24717IN-RGD|Vibrant Rose Gold|13950.0|11439.0||https://kohler.scene7.com/is/image/PAWEB/aae86623_rgb",
+          "24717IN-AF|Vibrant French Gold|11550.0|9469.0||https://kohler.scene7.com/is/image/PAWEB/aae86617_rgb",
+          "24717IN-BRD|Vibrant Brushed Rose Gold|13950.0|11439.0||https://kohler.scene7.com/is/image/PAWEB/aag61404_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "24717IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae86620_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae86616_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE",
+          "https://kohler.scene7.com/is/image/PAWEB/aae86623_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae86614_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae86617_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61404_rgb"
+        ],
+        "priceList.ANY.price_d": 9250.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "24717IN-AF",
+        "ProductBrandNameDisplay_s": "Rainduet™ 3.0",
+        "variantList.sku_ss": [
+          "24717IN-CP",
+          "24717IN-BV",
+          "24717IN-RGD",
+          "24717IN-AF",
+          "24717IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 7579.0,
+        "displayPriceStartingAt_s": "₹7,579.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant French Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "handshower-without-hose-24717in",
+        "priceStartingAt.GST_d": 7579.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "3e9c78ea-8ec7-44c2-af0f-e90166ab371d|24717IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|72421IN-CP|true|false|K-72421IN-CP"
+        ],
+        "ProductBrandName_s": "Awaken™ B110",
+        "masterSKU_s": "72421IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "72421IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "72421IN-CP|zab19827_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab19827_rgb",
+          "72421IN-CP|aaf70008_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf70008_rgb",
+          "72421IN-CP|aaf70003_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70003_rgb",
+          "72421IN-CP|aaf70004_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70004_rgb",
+          "72421IN-CP|aaf70002_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70002_rgb",
+          "72421IN-CP|aaf70001_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70001_rgb"
+        ],
+        "priceList.GST.price_d": 5329.0,
+        "priceList.GST.finalPrice_d": 5329.0,
+        "ProductDescriptionProductShort_s": "Three-function handshower, 17.0 lpm",
+        "productName_s": "Awaken® B110 Three-function handshower, 17.0 lpm",
+        "ctId_s": "f7b737ec-b052-4a38-bdd9-0aeac62a3741",
+        "Color.GST.Details_ss": [
+          "72421IN-CP|Polished Chrome|6500.0|5329.0||https://kohler.scene7.com/is/image/PAWEB/zab19827_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "72421IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab19827_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf70008_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf70003_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf70004_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf70002_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf70001_rgb"
+        ],
+        "priceList.ANY.price_d": 6500.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "72421IN-CP",
+        "ProductBrandNameDisplay_s": "Awaken™ B110",
+        "variantList.sku_ss": [
+          "72421IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 5329.0,
+        "displayPriceStartingAt_s": "₹5,329.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "awaken-organic-multi-mode-handshower-with-hose-72421in",
+        "priceStartingAt.GST_d": 5329.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f7b737ec-b052-4a38-bdd9-0aeac62a3741|72421IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|98445IN-CP|true|false|K-98445IN-CP",
+          "Vibrant French Gold|swatch_AF|98445IN-AF|true|false|K-98445IN-AF",
+          "Vibrant Brushed Bronze|swatch_BV|98445IN-BV|true|false|K-98445IN-BV",
+          "Matte Black|swatch_BL|98445IN-BL|true|false|K-98445IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|98445IN-BRD|true|false|K-98445IN-BRD"
+        ],
+        "ProductBrandName_s": "Spatula™",
+        "masterSKU_s": "98445IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BL",
+          "swatch_AF",
+          "swatch_BV",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "98445IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "98445IN-BL|aae34121_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae34121_rgb",
+          "98445IN-CP|aae01707_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01707_rgb",
+          "98445IN-AF|aaj81989_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj81989_rgb",
+          "98445IN-AF|aaf53857_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf53857_rgb",
+          "98445IN-AF|aaj81987_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81987_rgb",
+          "98445IN-AF|aaj81988_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81988_rgb",
+          "98445IN-AF|aaj81991_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81991_rgb",
+          "98445IN-AF|aaj81984_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81984_rgb",
+          "98445IN-BV|aae00873_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00873_rgb",
+          "98445IN-BRD|aag61394_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61394_rgb"
+        ],
+        "priceList.GST.price_d": 5409.0,
+        "priceList.GST.finalPrice_d": 5409.0,
+        "ProductDescriptionProductShort_s": "98 mm square single-function handshower, 13.0 lpm",
+        "productName_s": "Spatula® 98 mm square single-function handshower, 13.0 lpm",
+        "ctId_s": "3e23ebc9-ec95-4310-86ce-f3e815d24b38",
+        "Color.GST.Details_ss": [
+          "98445IN-CP|Polished Chrome|6600.0|5409.0||https://kohler.scene7.com/is/image/PAWEB/aae01707_rgb",
+          "98445IN-BL|Matte Black|9350.0|7659.0||https://kohler.scene7.com/is/image/PAWEB/aae34121_rgb",
+          "98445IN-AF|Vibrant French Gold|8350.0|6839.0||https://kohler.scene7.com/is/image/PAWEB/aaj81989_rgb",
+          "98445IN-BV|Vibrant Brushed Bronze|9700.0|7949.0||https://kohler.scene7.com/is/image/PAWEB/aae00873_rgb",
+          "98445IN-BRD|Vibrant Brushed Rose Gold|9750.0|7989.0||https://kohler.scene7.com/is/image/PAWEB/aag61394_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "98445IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae34121_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae01707_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81989_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf53857_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81987_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81988_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81991_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81984_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae00873_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61394_rgb"
+        ],
+        "priceList.ANY.price_d": 6600.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "98445IN-AF",
+        "ProductBrandNameDisplay_s": "Spatula™",
+        "variantList.sku_ss": [
+          "98445IN-CP",
+          "98445IN-BL",
+          "98445IN-AF",
+          "98445IN-BV",
+          "98445IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 5409.0,
+        "displayPriceStartingAt_s": "₹5,409.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Matte Black",
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "spatula-square-single-function-handshower-13-0-lpm-98445in",
+        "priceStartingAt.GST_d": 5409.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "3e23ebc9-ec95-4310-86ce-f3e815d24b38|98445IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|98444IN-CP|true|false|K-98444IN-CP"
+        ],
+        "ProductBrandName_s": "Spatula™",
+        "masterSKU_s": "98444IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "98444IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "98444IN-CP|aaj81999_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj81999_rgb",
+          "98444IN-CP|zac73581_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac73581_rgb",
+          "98444IN-CP|aaj81997_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81997_rgb",
+          "98444IN-CP|aaj81998_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81998_rgb",
+          "98444IN-CP|aaj81993_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81993_rgb",
+          "98444IN-CP|aaj81994_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81994_rgb"
+        ],
+        "priceList.GST.price_d": 4509.0,
+        "priceList.GST.finalPrice_d": 4509.0,
+        "ProductDescriptionProductShort_s": "57 mm square single-function handshower, 13.0 lpm",
+        "productName_s": "Spatula® 57 mm square single-function handshower, 13.0 lpm",
+        "ctId_s": "e22bdeb3-94b3-4456-b929-4721f8e32ef2",
+        "Color.GST.Details_ss": [
+          "98444IN-CP|Polished Chrome|5500.0|4509.0||https://kohler.scene7.com/is/image/PAWEB/aaj81999_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "98444IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81999_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zac73581_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81997_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81998_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81993_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj81994_rgb"
+        ],
+        "priceList.ANY.price_d": 5500.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "98444IN-CP",
+        "ProductBrandNameDisplay_s": "Spatula™",
+        "variantList.sku_ss": [
+          "98444IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 4509.0,
+        "displayPriceStartingAt_s": "₹4,509.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "eo-single-function-small-handshower-with-hose-98444in",
+        "priceStartingAt.GST_d": 4509.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e22bdeb3-94b3-4456-b929-4721f8e32ef2|98444IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|28695IN-CP|true|false|K-28695IN-CP",
+          "Vibrant French Gold|swatch_AF|28695IN-AF|true|false|K-28695IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|28695IN-RGD|true|false|K-28695IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|28695IN-BV|true|false|K-28695IN-BV",
+          "Matte Black|swatch_BL|28695IN-BL|true|false|K-28695IN-BL"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "28695IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BL",
+          "swatch_AF",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "28695IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "28695IN-CP|aae77131_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77131_rgb",
+          "28695IN-BL|aae77115_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77115_rgb",
+          "28695IN-AF|aae77129_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77129_rgb",
+          "28695IN-RGD|aae77119_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77119_rgb",
+          "28695IN-BV|aae77582_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77582_rgb"
+        ],
+        "priceList.GST.price_d": 8689.0,
+        "priceList.GST.finalPrice_d": 8689.0,
+        "ProductDescriptionProductShort_s": "Oblong three-function handshower, 9.5 lpm",
+        "productName_s": "Statement™ Oblong three-function handshower, 9.5 lpm",
+        "ctId_s": "8a34345a-df99-4f9a-81db-096566452504",
+        "Color.GST.Details_ss": [
+          "28695IN-CP|Polished Chrome|10600.0|8689.0||https://kohler.scene7.com/is/image/PAWEB/aae77131_rgb",
+          "28695IN-BL|Matte Black|14750.0|12089.0||https://kohler.scene7.com/is/image/PAWEB/aae77115_rgb",
+          "28695IN-AF|Vibrant French Gold|13200.0|10819.0||https://kohler.scene7.com/is/image/PAWEB/aae77129_rgb",
+          "28695IN-BV|Vibrant Brushed Bronze|15900.0|13029.0||https://kohler.scene7.com/is/image/PAWEB/aae77582_rgb",
+          "28695IN-RGD|Vibrant Rose Gold|14750.0|12089.0||https://kohler.scene7.com/is/image/PAWEB/aae77119_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "28695IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae77131_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae77115_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae77129_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae77119_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae77582_rgb"
+        ],
+        "priceList.ANY.price_d": 10600.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "28695IN-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "28695IN-CP",
+          "28695IN-BL",
+          "28695IN-AF",
+          "28695IN-BV",
+          "28695IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 8689.0,
+        "displayPriceStartingAt_s": "₹8,689.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Matte Black",
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "statement-oblong-three-function-handshower-9-5-lpm-28695in",
+        "priceStartingAt.GST_d": 8689.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "8a34345a-df99-4f9a-81db-096566452504|28695IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|28585IN-0|true|false|K-28585IN-0"
+        ],
+        "ProductBrandName_s": "Switch",
+        "masterSKU_s": "28585IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "28585IN-0",
+        "productImages.labelWithUrl_ss": [
+          "28585IN-0|aae34380_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae34380_rgb"
+        ],
+        "priceList.GST.price_d": 2659.0,
+        "priceList.GST.finalPrice_d": 2659.0,
+        "ProductDescriptionProductShort_s": "Round four-function handshower, 7.6 lpm",
+        "productName_s": "Switch Round four-function handshower, 7.6 lpm",
+        "ctId_s": "464582c8-6b4c-4db3-ba9b-40d24d885a71",
+        "Color.GST.Details_ss": [
+          "28585IN-0|White|3600.0|2659.0||https://kohler.scene7.com/is/image/PAWEB/aae34380_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "28585IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae34380_rgb"
+        ],
+        "priceList.ANY.price_d": 3600.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "28585IN-0",
+        "ProductBrandNameDisplay_s": "Switch",
+        "variantList.sku_ss": [
+          "28585IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 2659.0,
+        "displayPriceStartingAt_s": "₹2,659.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "switch-multimode-handshower-without-hose-white-28585in",
+        "priceStartingAt.GST_d": 2659.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "464582c8-6b4c-4db3-ba9b-40d24d885a71|28585IN-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|97009IN-CP|true|false|K-97009IN-CP",
+          "Vibrant Rose Gold|swatch_RGD|97009IN-RGD|true|false|K-97009IN-RGD"
+        ],
+        "ProductBrandName_s": "Rainduet™",
+        "masterSKU_s": "97009IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "97009IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "97009IN-RGD|aad26135_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad26135_rgb",
+          "97009IN-CP|aad26137_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad26137_rgb",
+          "97009IN-CP|aaf69929_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf69929_rgb",
+          "97009IN-CP|aaf69933_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69933_rgb",
+          "97009IN-CP|aaf69930_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69930_rgb",
+          "97009IN-CP|aaf69931_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69931_rgb",
+          "97009IN-CP|aaf69932_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69932_rgb"
+        ],
+        "priceList.GST.price_d": 8519.0,
+        "priceList.GST.finalPrice_d": 8519.0,
+        "ProductDescriptionProductShort_s": "Square three-function handshower, 7.5 lpm",
+        "productName_s": "Rainduet® Square three-function handshower, 7.5 lpm",
+        "ctId_s": "6f8ef990-7221-4246-a65f-6964000f1bd8",
+        "Color.GST.Details_ss": [
+          "97009IN-CP|Polished Chrome|10400.0|8519.0||https://kohler.scene7.com/is/image/PAWEB/aad26137_rgb",
+          "97009IN-RGD|Vibrant Rose Gold|15400.0|12619.0||https://kohler.scene7.com/is/image/PAWEB/aad26135_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "97009IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad26135_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad26137_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69929_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69933_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69930_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69931_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69932_rgb"
+        ],
+        "priceList.ANY.price_d": 10400.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "97009IN-RGD",
+        "ProductBrandNameDisplay_s": "Rainduet™",
+        "variantList.sku_ss": [
+          "97009IN-CP",
+          "97009IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 8519.0,
+        "displayPriceStartingAt_s": "₹8,519.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "rainduet-square-handshower-w-o-hose-97009in",
+        "priceStartingAt.GST_d": 8519.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "6f8ef990-7221-4246-a65f-6964000f1bd8|97009IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|28694IN-CP|true|false|K-28694IN-CP",
+          "Vibrant French Gold|swatch_AF|28694IN-AF|true|false|K-28694IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|28694IN-RGD|true|false|K-28694IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|28694IN-BV|true|false|K-28694IN-BV",
+          "Matte Black|swatch_BL|28694IN-BL|true|false|K-28694IN-BL"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "28694IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_RGD",
+          "swatch_BL",
+          "swatch_BV"
+        ],
+        "sourceId_s": "28694IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "28694IN-RGD|aae77124_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77124_rgb",
+          "28694IN-CP|aae77118_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77118_rgb",
+          "28694IN-BL|aae77127_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77127_rgb",
+          "28694IN-AF|aae77126_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae77126_rgb",
+          "28694IN-BV|aah24740_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah24740_rgb",
+          "28694IN-BV|aah24740_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah24740_rgb"
+        ],
+        "priceList.GST.price_d": 10569.0,
+        "priceList.GST.finalPrice_d": 10569.0,
+        "ProductDescriptionProductShort_s": "Round three-function handshower, 9.5 lpm",
+        "productName_s": "Statement™ Round three-function handshower, 9.5 lpm",
+        "ctId_s": "85a9604e-f135-4345-b05f-95e4571832c6",
+        "Color.GST.Details_ss": [
+          "28694IN-CP|Polished Chrome|12900.0|10569.0||https://kohler.scene7.com/is/image/PAWEB/aae77118_rgb",
+          "28694IN-AF|Vibrant French Gold|16100.0|13199.0||https://kohler.scene7.com/is/image/PAWEB/aae77126_rgb",
+          "28694IN-RGD|Vibrant Rose Gold|18000.0|14759.0||https://kohler.scene7.com/is/image/PAWEB/aae77124_rgb",
+          "28694IN-BL|Matte Black|18000.0|14759.0||https://kohler.scene7.com/is/image/PAWEB/aae77127_rgb",
+          "28694IN-BV|Vibrant Brushed Bronze|19350.0|15859.0||https://kohler.scene7.com/is/image/PAWEB/aah24740_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "28694IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae77124_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae77118_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae77127_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae77126_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah24740_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah24740_rgb"
+        ],
+        "priceList.ANY.price_d": 12900.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "28694IN-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "28694IN-CP",
+          "28694IN-AF",
+          "28694IN-RGD",
+          "28694IN-BL",
+          "28694IN-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 10569.0,
+        "displayPriceStartingAt_s": "₹10,569.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Vibrant Rose Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "statement-round-three-function-handshower-9-5-lpm-28694in",
+        "priceStartingAt.GST_d": 10569.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "85a9604e-f135-4345-b05f-95e4571832c6|28694IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26286IN-G-CP|false|false|K-26286IN-G-CP",
+          "Vibrant French Gold|swatch_AF|26286IN-G-AF|false|false|K-26286IN-G-AF",
+          "Vibrant Rose Gold|swatch_RGD|26286IN-G-RGD|true|false|K-26286IN-G-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|26286IN-G-BV|true|false|K-26286IN-G-BV",
+          "Matte Black|swatch_BL|26286IN-G-BL|false|false|K-26286IN-G-BL"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "metaTitle_s": "Statement Iconic Handshower 6.6 LPM| 26286IN-G| KOHLER",
+        "masterSKU_s": "26286IN-G-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_CP",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "26286IN-G-AF",
+        "productImages.labelWithUrl_ss": [
+          "26286IN-G-BL|aad42194_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42194_rgb",
+          "26286IN-G-CP|aad42182_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42182_rgb",
+          "26286IN-G-AF|aad42186_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42186_rgb",
+          "26286IN-G-AF|aad48702_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad48702_rgb",
+          "26286IN-G-BV|aae27313_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27313_rgb",
+          "26286IN-G-BV|aad48703_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad48703_rgb",
+          "26286IN-G-RGD|aad42188_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42188_rgb",
+          "26286IN-G-RGD|aad48699_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad48699_rgb",
+          "26286IN-G-RGD|aad48701_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE"
+        ],
+        "priceList.GST.price_d": 3849.0,
+        "priceList.GST.finalPrice_d": 3849.0,
+        "ProductDescriptionProductShort_s": "Iconic single-function handshower, 6.6 lpm",
+        "productName_s": "Statement™ Iconic single-function handshower, 6.6 lpm",
+        "ctId_s": "db8f4763-a69e-41c2-86a7-9b11cf15d453",
+        "Color.GST.Details_ss": [
+          "26286IN-G-AF|Vibrant French Gold|5950.0|4879.0||https://kohler.scene7.com/is/image/PAWEB/aad42186_rgb",
+          "26286IN-G-BL|Matte Black|6650.0|5449.0||https://kohler.scene7.com/is/image/PAWEB/aad42194_rgb",
+          "26286IN-G-BV|Vibrant Brushed Bronze|7050.0|5779.0||https://kohler.scene7.com/is/image/PAWEB/aae27313_rgb",
+          "26286IN-G-CP|Polished Chrome|4700.0|3849.0||https://kohler.scene7.com/is/image/PAWEB/aad42182_rgb",
+          "26286IN-G-RGD|Vibrant Rose Gold|6650.0|5449.0||https://kohler.scene7.com/is/image/PAWEB/aad42188_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26286IN-G",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad42194_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad42182_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad42186_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48702_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae27313_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48703_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad42188_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad48699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE"
+        ],
+        "priceList.ANY.price_d": 4700.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26286IN-G-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26286IN-G-AF",
+          "26286IN-G-BL",
+          "26286IN-G-BV",
+          "26286IN-G-CP",
+          "26286IN-G-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 3849.0,
+        "displayPriceStartingAt_s": "₹3,849.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Polished Chrome",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "statement-iconic-single-function-handshower-6-6-lpm-26286in-g",
+        "priceStartingAt.GST_d": 3849.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "db8f4763-a69e-41c2-86a7-9b11cf15d453|26286IN-G-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant French Gold|swatch_AF|97009T-AF|true|false|K-97009T-AF"
+        ],
+        "ProductBrandName_s": "Rain Duet",
+        "masterSKU_s": "97009T-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF"
+        ],
+        "sourceId_s": "97009T-AF",
+        "productImages.labelWithUrl_ss": [
+          "97009T-AF|aaf04405_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf04405_rgb"
+        ],
+        "priceList.GST.price_d": 10659.0,
+        "priceList.GST.finalPrice_d": 10659.0,
+        "ProductDescriptionProductShort_s": "Multi-function handshower-geo",
+        "productName_s": "Rain Duet Multi-function handshower-geo",
+        "ctId_s": "4b2e0a87-81a4-4412-a092-fb8fb0380024",
+        "Color.GST.Details_ss": [
+          "97009T-AF|Vibrant French Gold|13000.0|10659.0||https://kohler.scene7.com/is/image/PAWEB/aaf04405_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "97009T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf04405_rgb"
+        ],
+        "priceList.ANY.price_d": 13000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "97009T-AF",
+        "ProductBrandNameDisplay_s": "Rain Duet",
+        "variantList.sku_ss": [
+          "97009T-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 10659.0,
+        "displayPriceStartingAt_s": "₹10,659.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold"
+        ],
+        "slug_s": "rain-duet-multi-function-handshower-geo-97009t",
+        "priceStartingAt.GST_d": 10659.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "4b2e0a87-81a4-4412-a092-fb8fb0380024|97009T-AF"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Matte Black|swatch_BL|24717T-BL|true|false|K-24717T-BL"
+        ],
+        "ProductBrandName_s": "Rainduet™ 3.0",
+        "masterSKU_s": "24717T-BL",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BL"
+        ],
+        "sourceId_s": "24717T-BL",
+        "productImages.labelWithUrl_ss": [
+          "24717T-BL|aae48725_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae48725_rgb"
+        ],
+        "priceList.GST.price_d": 11439.0,
+        "priceList.GST.finalPrice_d": 11439.0,
+        "ProductDescriptionProductShort_s": "Three-function handshower, 6.6 lpm",
+        "productName_s": "Rainduet™ 3.0 Three-function handshower, 6.6 lpm",
+        "ctId_s": "d0fa8cf3-9e01-41e4-bcdd-34b7e441de74",
+        "Color.GST.Details_ss": [
+          "24717T-BL|Matte Black|13950.0|11439.0||https://kohler.scene7.com/is/image/PAWEB/aae48725_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "24717T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae48725_rgb"
+        ],
+        "priceList.ANY.price_d": 13950.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "24717T-BL",
+        "ProductBrandNameDisplay_s": "Rainduet™ 3.0",
+        "variantList.sku_ss": [
+          "24717T-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 11439.0,
+        "displayPriceStartingAt_s": "₹11,439.00",
+        "SKUColorFinishName_ss": [
+          "Matte Black"
+        ],
+        "slug_s": "three-function-handshower-6-6-lpm-24717t",
+        "priceStartingAt.GST_d": 11439.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d0fa8cf3-9e01-41e4-bcdd-34b7e441de74|24717T-BL"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Moderne Brass|swatch_2MB|26284T-2MB|false|false|K-26284T-2MB"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "26284T-2MB",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2MB"
+        ],
+        "sourceId_s": "26284T-2MB",
+        "productImages.labelWithUrl_ss": [
+          "26284T-2MB|aad06304_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06304_rgb"
+        ],
+        "priceList.GST.price_d": 11700.0,
+        "priceList.GST.finalPrice_d": 11700.0,
+        "ProductDescriptionProductShort_s": "Oblong three-function handshower, 9.5 lpm",
+        "productName_s": "Statement™ Oblong three-function handshower, 9.5 lpm",
+        "ctId_s": "62c07388-54ec-4f78-a500-f64db64c1cf5",
+        "Color.GST.Details_ss": [
+          "26284T-2MB|Vibrant Brushed Moderne Brass|11700.0|11700.0||https://kohler.scene7.com/is/image/PAWEB/aad06304_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "26284T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad06304_rgb"
+        ],
+        "priceList.ANY.price_d": 11700.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26284T-2MB",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26284T-2MB"
+        ],
+        "discountedPriceStartingAt.GST_d": 11700.0,
+        "displayPriceStartingAt_s": "₹11,700.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Moderne Brass"
+        ],
+        "slug_s": "statement-oblong-three-function-handshower-9-5-lpm-26284t",
+        "priceStartingAt.GST_d": 11700.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "62c07388-54ec-4f78-a500-f64db64c1cf5|26284T-2MB",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Matte Black|swatch_BL|R24717T-MU-BL|false|false|K-R24717T-MU-BL"
+        ],
+        "ProductBrandName_s": "Rain Duet",
+        "masterSKU_s": "R24717T-MU-BL",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BL"
+        ],
+        "sourceId_s": "R24717T-MU-BL",
+        "productImages.labelWithUrl_ss": [
+          "R24717T-MU-BL|K-R24717T-MU-BL|HIPPOIMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/kohlerchina/K-R24717T-MU-BL"
+        ],
+        "priceList.GST.price_d": 15999.0,
+        "priceList.GST.finalPrice_d": 15999.0,
+        "ProductDescriptionProductShort_s": "Multifunction handshower - bl finish with manchester united logo",
+        "productName_s": "Rain Duet Multifunction handshower - bl finish with manchester united logo",
+        "ctId_s": "b9c00506-9ec9-458e-837e-764e41e9f216",
+        "Color.GST.Details_ss": [
+          "R24717T-MU-BL|Matte Black|20000.0|15999.0||https://kohler.scene7.com/is/image/kohlerchina/K-R24717T-MU-BL"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "R24717T-MU",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/kohlerchina/K-R24717T-MU-BL"
+        ],
+        "priceList.ANY.price_d": 20000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "R24717T-MU-BL",
+        "ProductBrandNameDisplay_s": "Rain Duet",
+        "variantList.sku_ss": [
+          "R24717T-MU-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 15999.0,
+        "displayPriceStartingAt_s": "₹15,999.00",
+        "SKUColorFinishName_ss": [
+          "Matte Black"
+        ],
+        "slug_s": "rain-duet-multifunction-handshower-bl-finish-with-manchester-united-logo-r24717t-mu",
+        "priceStartingAt.GST_d": 15999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "b9c00506-9ec9-458e-837e-764e41e9f216|R24717T-MU-BL"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|39502IN-CP|true|false|K-39502IN-CP",
+          "Vibrant French Gold|swatch_AF|39502IN-AF|true|false|K-39502IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|39502IN-RGD|true|false|K-39502IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|39502IN-BV|true|false|K-39502IN-BV",
+          "Matte Black|swatch_BL|39502IN-BL|true|false|K-39502IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|39502IN-BRD|true|false|K-39502IN-BRD"
+        ],
+        "ProductBrandName_s": "Rainduet™",
+        "masterSKU_s": "39502IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BRD",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "39502IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "39502IN-AF|aai35585_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35585_rgb",
+          "39502IN-RGD|aai35593_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35593_rgb",
+          "39502IN-BRD|aai35595_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35595_rgb",
+          "39502IN-BV|aai35582_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35582_rgb",
+          "39502IN-CP|aai35583_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35583_rgb",
+          "39502IN-BL|aai35586_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35586_rgb"
+        ],
+        "priceList.GST.price_d": 6559.0,
+        "priceList.GST.finalPrice_d": 6559.0,
+        "ProductDescriptionProductShort_s": "Round three-function handshower, 9.0 lpm",
+        "productName_s": "Rainduet® Round three-function handshower, 9.0 lpm",
+        "ctId_s": "dd569e40-1247-4b2b-8bd9-e9e97b4548b3",
+        "Color.GST.Details_ss": [
+          "39502IN-CP|Polished Chrome|8000.0|6559.0||https://kohler.scene7.com/is/image/PAWEB/aai35583_rgb",
+          "39502IN-BRD|Vibrant Brushed Rose Gold|12000.0|9839.0||https://kohler.scene7.com/is/image/PAWEB/aai35595_rgb",
+          "39502IN-AF|Vibrant French Gold|10000.0|8199.0||https://kohler.scene7.com/is/image/PAWEB/aai35585_rgb",
+          "39502IN-BL|Matte Black|11200.0|9179.0||https://kohler.scene7.com/is/image/PAWEB/aai35586_rgb",
+          "39502IN-BV|Vibrant Brushed Bronze|12000.0|9839.0||https://kohler.scene7.com/is/image/PAWEB/aai35582_rgb",
+          "39502IN-RGD|Vibrant Rose Gold|11200.0|9179.0||https://kohler.scene7.com/is/image/PAWEB/aai35593_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "39502IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aai35585_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai35593_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai35595_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai35582_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai35583_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai35586_rgb"
+        ],
+        "priceList.ANY.price_d": 8000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "39502IN-AF",
+        "ProductBrandNameDisplay_s": "Rainduet™",
+        "variantList.sku_ss": [
+          "39502IN-CP",
+          "39502IN-BRD",
+          "39502IN-AF",
+          "39502IN-BL",
+          "39502IN-BV",
+          "39502IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 6559.0,
+        "displayPriceStartingAt_s": "₹6,559.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Rose Gold",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "rainduet-round-three-function-handshower-9-0-lpm-39502in",
+        "priceStartingAt.GST_d": 6559.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "dd569e40-1247-4b2b-8bd9-e9e97b4548b3|39502IN-CP"
+      },
+      {
+        "ProductBrandName_s": "Purist™",
+        "masterSKU_s": "22166-CP",
+        "sourceId_s": "22166-CP",
+        "priceList.GST.price_d": 17800.0,
+        "priceList.GST.finalPrice_d": 17800.0,
+        "ProductDescriptionProductShort_s": "Four-function handshower, 2.5 gpm",
+        "productName_s": "Purist® Four-function handshower, 2.5 gpm",
+        "ctId_s": "f7c98eed-0f08-4363-b010-94cbd625a7e7",
+        "Color.GST.Details_ss": [
+          "22166-CP|Polished Chrome|17800.0|17800.0||https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "22166-BV|Vibrant Brushed Bronze|24900.0|24900.0||https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "22166",
+        "ProductBrandNameDisplay_s": "Purist",
+        "displayPriceStartingAt_s": "₹17,800.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "purist-2-5-gpm-multifunction-handshower-with-katalyst-air-induction-technology-22166",
+        "priceStartingAt.GST_d": 17800.0,
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|22166-CP|false|false|K-22166-CP",
+          "Vibrant Brushed Bronze|swatch_BV|22166-BV|true|false|K-22166-BV"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BV"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "22166-BV|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "22166-BV|22166-G-BV_ISO_d2c0054346_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_ISO_d2c0054346_rgb",
+          "22166-BV|22166-G-BV_ISOSquare_d2c0054346_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_ISOSquare_d2c0054346_rgb",
+          "22166-BV|22166-G-BV_CloseRoomViewArchitectFrontSquare_d2c0054353_rgb|IMGITEMCLOSEROOMVIEWArchitectFrontSquare||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewArchitectFrontSquare_d2c0054353_rgb",
+          "22166-BV|22166-G-BV_CloseRoomViewProductDetailSquare_d2c0054333_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewProductDetailSquare_d2c0054333_rgb",
+          "22166-BV|22166-G-BV_FullRoomViewOnePointSquareWithText_d2c0054327_en-US|IMGITEMFULLROOMVIEWOnePointSquareWithText||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FullRoomViewOnePointSquareWithText_d2c0054327_en-US",
+          "22166-BV|22166-G-BV_FullRoomViewTwoPointSquareWithText_d2c0054359_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FullRoomViewTwoPointSquareWithText_d2c0054359_en-US",
+          "22166-BV|22166-G-BV_PartialRoomViewOnePointSquare_d2c0054330_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_PartialRoomViewOnePointSquare_d2c0054330_rgb",
+          "22166-BV|22166-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0054319_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0054319_en-US",
+          "22166-BV|22166-G-BV_FRONTSquare_d2c0054360_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FRONTSquare_d2c0054360_rgb",
+          "22166-BV|22166-G-BV_DIMENSIONALSquareWithText_d2c0054321_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_DIMENSIONALSquareWithText_d2c0054321_en-US",
+          "22166-BV|22166-G-BV_DETAILFunctionSquare-en-USWithText_d2c0054344_en-US|IMGITEMPRODUCTDETAILFunctionSquareWithText||close-up view of product detail function|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_DETAILFunctionSquare-en-USWithText_d2c0054344_en-US",
+          "22166-BV|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US",
+          "22166-CP|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "22166-CP|22166-G-CP_FullRoomViewTwoPointSquareWithText_d2c0054349_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FullRoomViewTwoPointSquareWithText_d2c0054349_en-US",
+          "22166-CP|22166-G-CP_CloseRoomViewProductDetailSquare_d2c0054348_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewProductDetailSquare_d2c0054348_rgb",
+          "22166-CP|22166-G-CP_FullRoomViewOnePointSquareWithText_d2c0054355_en-US|IMGITEMFULLROOMVIEWOnePointSquareWithText||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FullRoomViewOnePointSquareWithText_d2c0054355_en-US",
+          "22166-CP|22166-G-CP_DETAILFunctionSquare-en-USWithText_d2c0054322_en-US|IMGITEMPRODUCTDETAILFunctionSquareWithText||close-up view of product detail function|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_DETAILFunctionSquare-en-USWithText_d2c0054322_en-US",
+          "22166-CP|22166-G-CP_DIMENSIONALSquareWithText_d2c0054329_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_DIMENSIONALSquareWithText_d2c0054329_en-US",
+          "22166-CP|22166-G-CP_CloseRoomViewArchitectFrontSquare_d2c0054357_rgb|IMGITEMCLOSEROOMVIEWArchitectFrontSquare||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewArchitectFrontSquare_d2c0054357_rgb",
+          "22166-CP|22166-G-CP_ISOSquare_d2c0054334_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_ISOSquare_d2c0054334_rgb",
+          "22166-CP|22166-G-CP_PartialRoomViewOnePointSquare_d2c0054342_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_PartialRoomViewOnePointSquare_d2c0054342_rgb",
+          "22166-CP|22166-G-CP_ISO_d2c0054334_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_ISO_d2c0054334_rgb",
+          "22166-CP|22166-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0054323_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0054323_en-US",
+          "22166-CP|22166-G-CP_FRONTSquare_d2c0054318_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FRONTSquare_d2c0054318_rgb",
+          "22166-CP|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_ISO_d2c0054346_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_ISOSquare_d2c0054346_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewArchitectFrontSquare_d2c0054353_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewProductDetailSquare_d2c0054333_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FullRoomViewOnePointSquareWithText_d2c0054327_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FullRoomViewTwoPointSquareWithText_d2c0054359_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_PartialRoomViewOnePointSquare_d2c0054330_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0054319_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FRONTSquare_d2c0054360_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_DIMENSIONALSquareWithText_d2c0054321_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_DETAILFunctionSquare-en-USWithText_d2c0054344_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FullRoomViewTwoPointSquareWithText_d2c0054349_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewProductDetailSquare_d2c0054348_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FullRoomViewOnePointSquareWithText_d2c0054355_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_DETAILFunctionSquare-en-USWithText_d2c0054322_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_DIMENSIONALSquareWithText_d2c0054329_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewArchitectFrontSquare_d2c0054357_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_ISOSquare_d2c0054334_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_PartialRoomViewOnePointSquare_d2c0054342_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_ISO_d2c0054334_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0054323_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FRONTSquare_d2c0054318_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US"
+        ],
+        "priceList.ANY.price_d": 17800.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "22166-BV",
+        "variantList.sku_ss": [
+          "22166-CP",
+          "22166-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 17800.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f7c98eed-0f08-4363-b010-94cbd625a7e7|22166-CP"
+      }
+    ],
+    "numFound": 18,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "ShowerProductOverallLengthCm_s:\"<20cm\"": 10,
+      "ShowerProductOverallLengthCm_s:\"20cm to 40cm\"": 8,
+      "ShowerProductOverallLengthCm_s:\">40cm\"": 0,
+      "Available_Now_s:\"Yes\"": 14
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        1,
+        "Polished Chrome",
+        13,
+        "Vibrant French Gold",
+        8,
+        "Vibrant Brushed Moderne Brass",
+        1,
+        "Vibrant Rose Gold",
+        7,
+        "Vibrant Brushed Bronze",
+        8,
+        "Matte Black",
+        8,
+        "Vibrant Brushed Rose Gold",
+        3
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Awaken™ B110",
+        1,
+        "Citrus™",
+        1,
+        "Complementary™",
+        1,
+        "Purist",
+        1,
+        "Rain Duet",
+        2,
+        "Rainduet™",
+        2,
+        "Rainduet™ 3.0",
+        2,
+        "Spatula™",
+        2,
+        "Statement™",
+        5,
+        "Switch",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Exposed",
+        1,
+        "Wall-mount",
+        17
+      ],
+      "ProductShape_s": [
+        "Oblong",
+        3,
+        "Round",
+        11,
+        "Square",
+        4
+      ],
+      "ProductProductType_s": [
+        "Adapter Kits",
+        2,
+        "Bodysprays",
+        8,
+        "Control Kits",
+        2,
+        "Drain Pans",
+        2,
+        "Faucet Cleaner",
+        1,
+        "Handshowers",
+        18,
+        "Rainheads",
+        28,
+        "Rainpanels",
+        5,
+        "Showerheads",
+        29,
+        "Steam Generators",
+        7,
+        "Steamheads",
+        2
+      ],
+      "Shower_SprayType_ss": [
+        "Multi Spray",
+        7,
+        "Single Spray",
+        2
+      ],
+      "ShowerProductOverallLengthCm_s": [
+        "<20cm",
+        10,
+        "20cm to 40cm",
+        8
+      ],
+      "Available_Now_s": [
+        "Yes",
+        16,
+        "No",
+        5
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        5,
+        "Paid",
+        13
+      ]
+    },
+    "facet_ranges": {
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          1,
+          "2000",
+          3,
+          "4000",
+          5,
+          "6000",
+          4,
+          "8000",
+          5,
+          "10000",
+          6,
+          "12000",
+          3,
+          "14000",
+          2,
+          "16000",
+          1,
+          "24000",
+          1
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "2000",
+          3,
+          "4000",
+          2,
+          "6000",
+          4,
+          "8000",
+          4,
+          "10000",
+          6,
+          "12000",
+          6,
+          "14000",
+          2,
+          "16000",
+          2,
+          "18000",
+          1,
+          "20000",
+          1,
+          "24000",
+          1
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      },
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "2000",
+          3,
+          "4000",
+          2,
+          "6000",
+          4,
+          "8000",
+          4,
+          "10000",
+          6,
+          "12000",
+          6,
+          "14000",
+          2,
+          "16000",
+          2,
+          "18000",
+          1,
+          "20000",
+          1,
+          "24000",
+          1
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "2000",
+          3,
+          "4000",
+          2,
+          "6000",
+          4,
+          "8000",
+          4,
+          "10000",
+          6,
+          "12000",
+          6,
+          "14000",
+          2,
+          "16000",
+          2,
+          "18000",
+          1,
+          "20000",
+          1,
+          "24000",
+          1
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

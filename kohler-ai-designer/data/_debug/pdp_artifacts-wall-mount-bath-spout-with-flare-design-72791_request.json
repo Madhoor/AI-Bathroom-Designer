@@ -1,0 +1,191 @@
+{
+  "product_url": "https://www.kohler.co.in/p/artifacts-wall-mount-bath-spout-with-flare-design-72791?skuId=72791-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/artifacts-wall-mount-bath-spout-with-flare-design-72791",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/artifacts-wall-mount-bath-spout-with-flare-design-72791",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/artifacts-wall-mount-bath-spout-with-flare-design-72791?skuId=72791-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "kT1UwlKsZ8",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=241, origin; dur=677, ak_p; desc=\"1789446674265_400553039_335249472_91910_10592_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:31:15 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2140",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount installation with slip-fit connection and NPT threads"
+            ],
+            "ProductBrandName_s": "Artifacts™",
+            "ProductPackageContents_s": "1 SPOUT ASSY;\n1 INSTALLATION GUIDE;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791.skp"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1205264-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 22300.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 22300.0,
+            "ProductOverallLengthInches_s": "8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout with flare design",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791pln.dxf"
+            ],
+            "productName_s": "Artifacts® Wall-mount bath spout with flare design",
+            "ctId_s": "14623f3f-12e0-457e-82e9-36b58fbce8c3",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Artifacts-K-72791.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount_Bath_Spout-KOHLER-Artifacts-K-72791.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "4.750",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "72791",
+            "priceList.CTR.finalPrice_d": 22300.0,
+            "ProductBrandNameDisplay_s": "Artifacts",
+            "SKUShippingHeight_s": "4.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791.obj"
+            ],
+            "ProductOverallWidthInches_s": "3\"",
+            "ProductNarrativeDescription_s": "Create a look all your own with the KOHLER® Artifacts collection. Timeless and classic in its inspiration, Artifacts allows you to coordinate bathroom faucets, accessories, showering, and finishes to express your personal style. This Artifacts wall-mount bath spout combines quality craftsmanship with a vintage artisan design to lend character and authenticity to your bathing space.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|72791-CP|false|false|K-72791-CP",
+              "Vibrant Brushed Bronze|swatch_BV|72791-BV|true|false|K-72791-BV"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-72791_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-72791_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-72791_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-72791_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "72791-CP|72791-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0016023_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0016023_en-US",
+              "72791-CP|72791-CP_CloseRoomViewProductDetailSquare_d2c0016035_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewProductDetailSquare_d2c0016035_rgb",
+              "72791-CP|72791-CP_PartialRoomViewInUseSquareWithText_d2c0015997_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/72791-CP_PartialRoomViewInUseSquareWithText_d2c0015997_en-US",
+              "72791-CP|72791-CP_ISO_d2c0016025_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_ISO_d2c0016025_rgb",
+              "72791-CP|72791-CP_SIDESquare_d2c0015993_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_SIDESquare_d2c0015993_rgb",
+              "72791-CP|72791-CP_ISOSquare_d2c0016025_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_ISOSquare_d2c0016025_rgb",
+              "72791-CP|72791-CP_FRONTSquare_d2c0016012_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/72791-CP_FRONTSquare_d2c0016012_rgb",
+              "72791-CP|72791-CP_PartialRoomViewSquareWithText_d2c0016014_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/72791-CP_PartialRoomViewSquareWithText_d2c0016014_en-US",
+              "72791-CP|72791-CP_CloseRoomViewInUseSquareWithText_d2c0016008_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/72791-CP_CloseRoomViewInUseSquareWithText_d2c0016008_en-US",
+              "72791-CP|72791-CP_DIMENSIONALSquareWithText_d2c0016030_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/72791-CP_DIMENSIONALSquareWithText_d2c0016030_en-US",
+              "72791-CP|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "72791-BV|72791-BV_PartialRoomViewSquareWithText_d2c0016034_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/72791-BV_PartialRoomViewSquareWithText_d2c0016034_en-US",
+              "72791-BV|72791-BV_PartialRoomViewInUseSquareWithText_d2c0016064_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/72791-BV_PartialRoomViewInUseSquareWithText_d2c0016064_en-US",
+              "72791-BV|72791-BV_FRONTSquare_d2c0016021_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_FRONTSquare_d2c0016021_rgb",
+              "72791-BV|72791-BV_ISO_d2c0016070_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_ISO_d2c0016070_rgb",
+              "72791-BV|72791-BV_DIMENSIONALSquareWithText_d2c0016017_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/72791-BV_DIMENSIONALSquareWithText_d2c0016017_en-US",
+              "72791-BV|72791-BV_SIDESquare_d2c0016024_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_SIDESquare_d2c0016024_rgb",
+              "72791-BV|72791-BV_ISOSquare_d2c0016060_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/72791-BV_ISOSquare_d2c0016060_rgb",
+              "72791-BV|72791-BV_CloseRoomViewProductDetailSquare_d2c0016006_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewProductDetailSquare_d2c0016006_rgb",
+              "72791-BV|72791-BV_CloseRoomViewInUseSquareWithText_d2c0016042_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewInUseSquareWithText_d2c0016042_en-US",
+              "72791-BV|72791-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016033_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/72791-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016033_en-US",
+              "72791-BV|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Metal construction",
+              "Nondiverter spout",
+              "Coordinates with other products in the Artifacts collection"
+            ],
+            "priceList.ANY.finalPrice_d": 22300.0,
+            "sku_s": "72791-CP",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_253077",
+            "Product_Category": "Bathtub Faucets",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1205264_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-72791-CP",
+            "variantList.sku_ss": [
+              "72791-BV",
+              "72791-CP"
+            ],
+            "SKUShippingLength_s": "9.750",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "KOHLER finishes resist corrosion and tarnishing",
+              "Premium metal construction for durability and reliability"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72791.dwg"
+            ],
+            "id": "14623f3f-12e0-457e-82e9-36b58fbce8c3|72791-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

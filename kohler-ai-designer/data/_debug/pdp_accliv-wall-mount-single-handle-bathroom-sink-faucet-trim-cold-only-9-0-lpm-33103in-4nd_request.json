@@ -1,0 +1,172 @@
+{
+  "product_url": "https://www.kohler.co.in/p/accliv-wall-mount-single-handle-bathroom-sink-faucet-trim-cold-only-9-0-lpm-33103in-4nd?skuId=33103IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/accliv-wall-mount-single-handle-bathroom-sink-faucet-trim-cold-only-9-0-lpm-33103in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/accliv-wall-mount-single-handle-bathroom-sink-faucet-trim-cold-only-9-0-lpm-33103in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/accliv-wall-mount-single-handle-bathroom-sink-faucet-trim-cold-only-9-0-lpm-33103in-4nd?skuId=33103IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "HLkPDre27b",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=257, origin; dur=836, ak_p; desc=\"1789422090963_400553039_333242801_109315_11539_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:41:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1995",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Trim only; requires valve to complete installation (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "6-1/2\"",
+            "ProductNarrativeDescription_s": "With contemporary curves and sleek, tapered lines, the KOHLER® Accliv™ bathroom faucet collection infuses your space with sophisticated, modern styling that transforms any bathroom into a serene retreat. A variety of faucet sizes and configurations allows you to create a unique, tailored space, while the thoughtfully engineered spout designs are crafted to provide precise water angles, ensuring a delightful and functional experience throughout the collection. This Accliv™ bathroom sink faucet showcases a wall-mount installation, enhancing both functionality and visual appeal. The ergonomic, single Lever-handle allows for easy, intuitive control of cold water only and volume, providing a seamless experience every time. The Accliv™ faucet is designed with both style and practicality in mind, offering durable materials and a streamlined silhouette that effortlessly balances form and function. Valve sold separately.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|33103IN-4ND-CP|true|false|K-33103IN-4ND-CP",
+              "Vibrant French Gold|swatch_AF|33103IN-4ND-AF|true|false|K-33103IN-4ND-AF"
+            ],
+            "ProductBrandName_s": "Accliv™",
+            "ProductPackageContents_s": "1 ACCLIV WM COLD TRIM WO DRAIN, 1 WARRANTY SHEET, INDIA, 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1472378-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-33103IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "33103IN-4ND-CP|aae52007_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae52007_rgb",
+              "33103IN-4ND-AF|aae52005_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae52005_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2599.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3300.0,
+            "ProductOverallLengthInches_s": "9-5/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet trim, cold only, 9.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103in_4ndsde.dxf"
+            ],
+            "productName_s": "Accliv™ Wall-mount single-handle bathroom sink faucet trim, cold only, 9.0 lpm",
+            "ctId_s": "e9503958-515a-4963-acc3-78db7013361c",
+            "ProductWebFeatures_ss": [
+              "Single Lever handle provides on/off activation and volume control",
+              "9.0 lpm (2.37 gpm) maximum flow rate at 3.1 bar (45 psi)",
+              "16.6 cm (6.50 inch) spout reach",
+              "Part of the Accliv bathroom faucet and showering collection"
+            ],
+            "priceList.ANY.finalPrice_d": 3300.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103in_4ndsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "33103IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Accliv-K-33103IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "8.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "33103IN-4ND",
+            "productInRiverId_s": "inRiver_2791786",
+            "priceList.CTR.finalPrice_d": 3300.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-33103IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Accliv™",
+            "variantList.sku_ss": [
+              "33103IN-4ND-CP",
+              "33103IN-4ND-AF"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "30.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_2491222"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33103IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-5/8\"",
+            "id": "e9503958-515a-4963-acc3-78db7013361c|33103IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

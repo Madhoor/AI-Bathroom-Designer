@@ -1,0 +1,168 @@
+{
+  "product_url": "https://www.kohler.co.in/p/forefront-vanity-lavatory-with-single-faucet-hole-2749t-1?skuId=2749T-1-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/forefront-vanity-lavatory-with-single-faucet-hole-2749t-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/forefront-vanity-lavatory-with-single-faucet-hole-2749t-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/forefront-vanity-lavatory-with-single-faucet-hole-2749t-1?skuId=2749T-1-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "bTwxLKbHmr",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=249, origin; dur=773, ak_p; desc=\"1789421394957_400553078_266642819_102155_10515_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:29:55 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1551",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749T-1.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749t_1frt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/forefront-basin-table-top-with-faucet-hole-in-white",
+            "ProductWebInstallation_ss": [
+              "Vessel"
+            ],
+            "ProductOverallWidthInches_s": "35-7/16\"",
+            "ProductNarrativeDescription_s": "The Forefront™ rectangular vessel bathroom sink features a wide basin and rounded edges in true contemporary fashion. This 90 cm sink is the perfect size for urban, residential, and commercial bathroom spaces, with a glazed underside that complements the sink's natural beauty. Pair with a compatible deck-mount faucet for a complete, modern installation.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|2749T-1-0|true|false|K-2749T-1-0"
+            ],
+            "ProductBrandName_s": "Forefront™",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 ACCESSORY PACK\n1 INSTALLATION INSTRUCTIONS",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749T-1.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/2749T-1-0_i.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-2749T-1_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749T-1.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "2749T-1-0|zac11718_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac11718_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 42799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 53500.0,
+            "ProductOverallLengthInches_s": "20-1/2\"",
+            "ProductDescriptionProductShort_s": "90 cm rectangular vessel bathroom sink with glazed underside",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749t_1pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749t_1sde.dxf"
+            ],
+            "productName_s": "Forefront™ 90 cm rectangular vessel bathroom sink with glazed underside",
+            "ctId_s": "87ae6848-7c15-4dd4-98e6-8a723e75ebc5",
+            "ProductWebFeatures_ss": [
+              "Contemporary design",
+              "Rectangular basins with rounded corners",
+              "Integrated rear faucet deck provides countertop space for placing small items",
+              "Single faucet hole at deck center",
+              "Center drain",
+              "With overflow",
+              "Glazed underside offers beauty from all angles",
+              "Coordinates with other products in the Forefront™ collection"
+            ],
+            "priceList.ANY.finalPrice_d": 53500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749t_1sde.dwg"
+            ],
+            "sku_s": "2749T-1-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-FOREFRONT-K-2749T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749T-1.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "28.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "2749T-1",
+            "productInRiverId_s": "inRiver_1336444",
+            "priceList.CTR.finalPrice_d": 53500.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-2749T-1-0",
+            "ProductBrandNameDisplay_s": "Forefront™",
+            "variantList.sku_ss": [
+              "2749T-1-0"
+            ],
+            "SKUShippingHeight_s": "57.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "97.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749t_1pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749t_1frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2749T-1.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-11/16\"",
+            "id": "87ae6848-7c15-4dd4-98e6-8a723e75ebc5|2749T-1-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

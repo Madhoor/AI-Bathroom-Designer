@@ -1,0 +1,29 @@
+category,subcategory,slug,url,kind,enabled,scraped_product_count,category_key,subcategory_key,scraped_product_count_recorded,scraped_product_count_actual,count_matches
+Wellness,Freestanding Bathtubs,freestanding-bathtubs,https://www.kohler.co.in/p/bathtubs/shop-freestanding-bathtubs,product,True,5,wellness,freestanding-bathtubs,5,5,True
+Wellness,Drop-in Bathtubs,dropin-bathtubs,https://www.kohler.co.in/p/bathtubs/shop-drop-in-bathtubs,product,False,14,wellness,drop-in-bathtubs,14,14,True
+Wellness,Alcove Bathtubs,alcove-bathtubs,https://www.kohler.co.in/p/bathtubs/shop-alcove-bathtubs,product,False,0,wellness,alcove-bathtubs,0,0,True
+Basin Area,Vessel Basin,vessel-basin,https://www.kohler.co.in/p/washbasins/shop-vessel-basin,product,False,30,basin-area,vessel-basin,30,30,True
+Basin Area,Undercounter Basin,undercounter-basin,https://www.kohler.co.in/p/washbasins/shop-undercounter-basin,product,False,9,basin-area,undercounter-basin,9,9,True
+Basin Area,Wall Mount Basin,wallmount-basin,https://www.kohler.co.in/p/washbasins/shop-wall-mount-basin,product,False,11,basin-area,wall-mount-basin,11,11,True
+Basin Area,Semi Recessed Basin,semirecessed-basin,https://www.kohler.co.in/p/washbasins/shop-semi-recessed-basin,product,False,4,basin-area,semi-recessed-basin,4,4,True
+Basin Area,Vanity Top Basin,vanitytop-basin,https://www.kohler.co.in/p/washbasins/shop-vanity-top-basin,product,False,2,basin-area,vanity-top-basin,2,2,True
+Basin Area,Single Control Faucets,faucets-single-control,https://www.kohler.co.in/p/faucets/shop-single-control-faucets,product,False,17,basin-area,single-control-faucets,17,17,True
+Basin Area,Tall Faucets,faucets-tall,https://www.kohler.co.in/p/faucets/shop-tall-faucets,product,False,4,basin-area,tall-faucets,4,4,True
+Basin Area,Wall-Mount Faucets,faucets-wallmount,https://www.kohler.co.in/p/faucets/shop-wall-mount-faucets,product,False,30,basin-area,wall-mount-faucets,30,30,True
+Basin Area,Widespread Faucets,faucets-widespread,https://www.kohler.co.in/p/faucets/shop-widespread-faucets,product,False,9,basin-area,widespread-faucets,9,9,True
+Basin Area,Bathtub Faucets,faucets-bathtub,https://www.kohler.co.in/p/faucets/shop-bathtub-faucets,product,False,30,basin-area,bathtub-faucets,30,30,True
+Showering Area,Rainpanels,rainpanels,https://www.kohler.co.in/p/showers/shop-rainpanels,product,False,3,showering-area,rainpanels,3,3,True
+Showering Area,Rainheads,rainheads,https://www.kohler.co.in/p/showers/shop-rainheads,product,False,13,showering-area,rainheads,13,13,True
+Showering Area,Showerheads,showerheads,https://www.kohler.co.in/p/showers/shop-showerheads,product,False,30,showering-area,showerheads,30,30,True
+Showering Area,Hand Showers,hand-showers,https://www.kohler.co.in/p/showers/shop-hand-showers,product,False,18,showering-area,hand-showers,18,18,True
+Showering Area,Pivot Shower Doors,shower-doors-pivot,https://www.kohler.co.in/p/shower-doors/shop-pivot-shower-doors,product,False,7,showering-area,pivot-shower-doors,7,7,True
+Showering Area,Sliding Shower Doors,shower-doors-sliding,https://www.kohler.co.in/p/shower-doors/shop-sliding-shower-doors,product,False,8,showering-area,sliding-shower-doors,8,8,True
+Toilet Area,Smart Toilet,smart-toilet,https://www.kohler.co.in/p/toilets/shop-smart-toilet,product,False,1,toilet-area,smart-toilet,1,1,True
+Toilet Area,Wall Hung Toilets,wallhung-toilets,https://www.kohler.co.in/p/toilets/shop-wall-hung-toilets,product,False,30,toilet-area,wall-hung-toilets,30,30,True
+Toilet Area,One Piece,toilets-onepiece,https://www.kohler.co.in/p/toilets/shop-one-piece,product,False,8,toilet-area,one-piece,8,8,True
+Toilet Area,Two Piece,toilets-twopiece,https://www.kohler.co.in/p/toilets/shop-two-piece,product,False,5,toilet-area,two-piece,5,5,True
+Basin Area,Bathroom Vanity,bathroom-vanity,https://www.kohler.co.in/p/bathroom-vanity,product,False,0,basin-area,bathroom-vanity,0,0,True
+Combos,Bathroom Combos,combos-bathroom,https://www.kohler.co.in/p/shop-bathroom-combos,combo,False,0,combos,bathroom-combos,0,0,True
+Combos,Showering Area Combos,combos-showering,https://www.kohler.co.in/p/shop-showering-area-combos,combo,False,0,combos,showering-area-combos,0,0,True
+Combos,Toilet Area Combos,combos-toilet,https://www.kohler.co.in/p/shop-toilet-area-combos,combo,False,0,combos,toilet-area-combos,0,0,True
+Combos,Grooming Area Combos,combos-grooming,https://www.kohler.co.in/p/shop-grooming-area-combos,combo,False,0,combos,grooming-area-combos,0,0,True

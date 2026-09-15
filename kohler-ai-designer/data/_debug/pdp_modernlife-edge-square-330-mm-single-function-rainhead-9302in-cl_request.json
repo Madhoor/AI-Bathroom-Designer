@@ -1,0 +1,150 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-square-330-mm-single-function-rainhead-9302in-cl?skuId=9302IN-CL-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-square-330-mm-single-function-rainhead-9302in-cl",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-square-330-mm-single-function-rainhead-9302in-cl",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4883>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-square-330-mm-single-function-rainhead-9302in-cl?skuId=9302IN-CL-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "QNeMfGzAL4",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=257, origin; dur=720, ak_p; desc=\"1789448824762_400553039_335789546_97704_14487_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:07:05 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1446",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302IN-CL.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302in_clfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/modernlife-edge-square-330mm-showerhead-in-polished-chrome",
+            "ProductNarrativeDescription_s": "Embark on a journey of sensory indulgence with KOHLER showerheads and sprays, where the transformative power of water becomes an immersive experience. Unveiling a harmonious blend of stunning design and functionality, each fixture is meticulously crafted to refresh your body, renew your mind, and rejuvenate your spirit. With a commitment to tailoring experiences to every need, KOHLER showerheads and sprays unlock a world of possibilities, allowing you to explore the full potential of water in your daily routine.bathroom.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|9302IN-CL-CP|true|false|K-9302IN-CL-CP"
+            ],
+            "ProductBrandName_s": "ModernLife® Edge",
+            "ProductPackageContents_s": "1 RAIN HEAD;1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302IN-CL.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302IN-CL.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "9302IN-CL-CP|aad31907_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad31907_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 52079.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 65100.0,
+            "ProductDescriptionProductShort_s": "Square 33 cm single-function rainhead",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302in_clpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302in_clsde.dxf"
+            ],
+            "productName_s": "ModernLife™ Edge Square 33 cm single-function rainhead",
+            "ctId_s": "ae82496c-c017-4d83-b2ae-c6f00c7f10bc",
+            "priceList.ANY.finalPrice_d": 65100.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302in_clsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "9302IN-CL-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-LOURE-K-9302IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302IN-CL.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "46.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "9302IN-CL",
+            "productInRiverId_s": "inRiver_2492126",
+            "priceList.CTR.finalPrice_d": 65100.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-9302IN-CL-CP",
+            "ProductBrandNameDisplay_s": "ModernLife® Edge",
+            "variantList.sku_ss": [
+              "9302IN-CL-CP"
+            ],
+            "SKUShippingHeight_s": "13.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "48.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302in_clpln.dwg"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_559635"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302in_clfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/9302IN-CL.dwg"
+            ],
+            "id": "ae82496c-c017-4d83-b2ae-c6f00c7f10bc|9302IN-CL-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,2489 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"ProductShape_s\"}ProductShape_s",
+      "{!ex=\"ProductProductType_s\"}ProductProductType_s",
+      "{!ex=\"Shower_SprayType_ss\"}Shower_SprayType_ss",
+      "{!ex=\"ShowerProductOverallLengthCm_s\"}ShowerProductOverallLengthCm_s",
+      "Available_Now_s",
+      "InstallationCost_s",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d"
+    ],
+    "color_swatch_labels": {
+      "Matte Black": "swatch_BL",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant Brushed Bronze": "swatch_BV",
+      "Vibrant Brushed Moderne Brass": "swatch_2MB",
+      "Vibrant Brushed Nickel": "swatch_BN",
+      "Vibrant Brushed Rose Gold": "swatch_BRD",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD"
+    },
+    "facet_labels": {
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "ProductShape_s": "Shape",
+      "ProductProductType_s": "Product Type",
+      "Shower_SprayType_ss": "Spray Type",
+      "ShowerProductOverallLengthCm_s": "Shower Size",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26855IN-CP|true|false|K-26855IN-CP",
+          "Vibrant French Gold|swatch_AF|26855IN-AF|true|false|K-26855IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|26855IN-RGD|true|false|K-26855IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|26855IN-BV|true|false|K-26855IN-BV",
+          "Matte Black|swatch_BL|26855IN-BL|true|false|K-26855IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|26855IN-BRD|true|false|K-26855IN-BRD"
+        ],
+        "ProductBrandName_s": "Rain Max",
+        "metaTitle_s": "Square 25.4 cm Single-Function Rainhead | K-26855IN | KOHLER",
+        "masterSKU_s": "26855IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_CP",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "26855IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "26855IN-BL|aaf06938_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06938_rgb",
+          "26855IN-BL|aaf67687_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67687_rgb",
+          "26855IN-AF|aaf06951_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06951_rgb",
+          "26855IN-BV|aaf06931_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06931_rgb",
+          "26855IN-BV|aaf67686_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67686_rgb",
+          "26855IN-RGD|aaf06946_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06946_rgb",
+          "26855IN-CP|aaf06958_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06958_rgb",
+          "26855IN-CP|aaf67682_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67682_rgb",
+          "26855IN-CP|aaf67683_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67683_rgb",
+          "26855IN-CP|aaf67681_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67681_rgb",
+          "26855IN-CP|aaf67684_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67684_rgb",
+          "26855IN-CP|aaf67685_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67685_rgb",
+          "26855IN-BRD|aag61356_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61356_rgb",
+          "26855IN-BRD|aag64157_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag64157_rgb"
+        ],
+        "priceList.GST.price_d": 15699.0,
+        "priceList.GST.finalPrice_d": 15699.0,
+        "ProductDescriptionProductShort_s": "Square 25.4 cm single-function rainhead, 22 lpm",
+        "productName_s": "Rain Max Square 25.4 cm single-function rainhead, 22 lpm",
+        "ctId_s": "5a0a3d75-d764-41d2-a9d0-24562da27e3b",
+        "Color.GST.Details_ss": [
+          "26855IN-AF|Vibrant French Gold|23900.0|19589.0||https://kohler.scene7.com/is/image/PAWEB/aaf06951_rgb",
+          "26855IN-BL|Matte Black|26750.0|21929.0||https://kohler.scene7.com/is/image/PAWEB/aaf06938_rgb",
+          "26855IN-BV|Vibrant Brushed Bronze|28700.0|23529.0||https://kohler.scene7.com/is/image/PAWEB/aaf06931_rgb",
+          "26855IN-CP|Polished Chrome|19150.0|15699.0||https://kohler.scene7.com/is/image/PAWEB/aaf06958_rgb",
+          "26855IN-RGD|Vibrant Rose Gold|26750.0|21929.0||https://kohler.scene7.com/is/image/PAWEB/aaf06946_rgb",
+          "26855IN-BRD|Vibrant Brushed Rose Gold|28700.0|23529.0||https://kohler.scene7.com/is/image/PAWEB/aag61356_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26855IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06938_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67687_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06951_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06931_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67686_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06946_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06958_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67682_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67683_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67681_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67684_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67685_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61356_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag64157_rgb"
+        ],
+        "priceList.ANY.price_d": 19150.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26855IN-AF",
+        "ProductBrandNameDisplay_s": "Rain Max",
+        "variantList.sku_ss": [
+          "26855IN-AF",
+          "26855IN-BL",
+          "26855IN-BV",
+          "26855IN-CP",
+          "26855IN-RGD",
+          "26855IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 15699.0,
+        "displayPriceStartingAt_s": "₹15,699.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Polished Chrome",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "rain-max-square-254-mm-single-function-rainhead-22-lpm-26855in",
+        "priceStartingAt.GST_d": 15699.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "5a0a3d75-d764-41d2-a9d0-24562da27e3b|26855IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|73199IN-CP|true|false|K-73199IN-CP"
+        ],
+        "ProductBrandName_s": "Rainduet™",
+        "masterSKU_s": "73199IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "73199IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "73199IN-CP|aaf67694_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf67694_rgb",
+          "73199IN-CP|aah42099_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42099_rgb",
+          "73199IN-CP|aaf67695_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67695_rgb",
+          "73199IN-CP|aah42102_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/aah42102_rgb",
+          "73199IN-CP|aaf67692_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67692_rgb",
+          "73199IN-CP|aah42098_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42098_rgb",
+          "73199IN-CP|aaf67693_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67693_rgb",
+          "73199IN-CP|aah42104_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42104_rgb",
+          "73199IN-CP|aaf67696_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf67696_rgb",
+          "73199IN-CP|aad84288_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad84288_rgb",
+          "73199IN-CP|aah42105_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aah42105_rgb",
+          "73199IN-CP|aah42103_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42103_rgb",
+          "73199IN-CP|aah42100_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42100_rgb"
+        ],
+        "priceList.GST.price_d": 5889.0,
+        "priceList.GST.finalPrice_d": 5889.0,
+        "ProductDescriptionProductShort_s": "Contemporary square 20 cm single-function rainhead, 8.7 lpm",
+        "productName_s": "Rainduet® Contemporary square 20 cm single-function rainhead, 8.7 lpm",
+        "ctId_s": "acf4bbdc-085a-45e0-96b2-027a57be9d1f",
+        "Color.GST.Details_ss": [
+          "73199IN-CP|Polished Chrome|8300.0|5889.0||https://kohler.scene7.com/is/image/PAWEB/aaf67694_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "73199IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67694_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah42099_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67695_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah42102_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67692_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah42098_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67693_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah42104_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67696_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad84288_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah42105_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah42103_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah42100_rgb"
+        ],
+        "priceList.ANY.price_d": 8300.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "73199IN-CP",
+        "ProductBrandNameDisplay_s": "Rainduet™",
+        "variantList.sku_ss": [
+          "73199IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 5889.0,
+        "displayPriceStartingAt_s": "₹5,889.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "rainduet-contemporary-square-200-mm-single-function-rainhead-8-7-lpm-73199in",
+        "priceStartingAt.GST_d": 5889.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "acf4bbdc-085a-45e0-96b2-027a57be9d1f|73199IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26856IN-CP|true|false|K-26856IN-CP",
+          "Vibrant French Gold|swatch_AF|26856IN-AF|true|false|K-26856IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|26856IN-RGD|true|false|K-26856IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|26856IN-BV|true|false|K-26856IN-BV",
+          "Matte Black|swatch_BL|26856IN-BL|true|false|K-26856IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|26856IN-BRD|true|false|K-26856IN-BRD"
+        ],
+        "ProductBrandName_s": "Rain Max",
+        "metaTitle_s": "Square 30.5 cm Single-Function Rainhead | K-26856IN | KOHLER",
+        "masterSKU_s": "26856IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_CP",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "26856IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "26856IN-BL|aaf06939_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06939_rgb",
+          "26856IN-BL|aaf67689_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67689_rgb",
+          "26856IN-CP|aaf06955_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06955_rgb",
+          "26856IN-CP|aaf67688_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67688_rgb",
+          "26856IN-RGD|aaf06962_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06962_rgb",
+          "26856IN-RGD|aaf67691_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67691_rgb",
+          "26856IN-AF|aaf06934_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06934_rgb",
+          "26856IN-AF|aaf67690_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67690_rgb",
+          "26856IN-BV|aaf06932_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06932_rgb",
+          "26856IN-BV|aah68713_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah68713_rgb",
+          "26856IN-BRD|aag61338_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61338_rgb",
+          "26856IN-BRD|aag67669_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag67669_rgb"
+        ],
+        "priceList.GST.price_d": 18859.0,
+        "priceList.GST.finalPrice_d": 18859.0,
+        "ProductDescriptionProductShort_s": "Square 30.5 cm single-function rainhead, 22 lpm",
+        "productName_s": "Rain Max Square 30.5 cm single-function rainhead, 22 lpm",
+        "ctId_s": "bb245e64-e1ae-4793-ad77-ce9afd2a4aad",
+        "Color.GST.Details_ss": [
+          "26856IN-AF|Vibrant French Gold|28700.0|23529.0||https://kohler.scene7.com/is/image/PAWEB/aaf06934_rgb",
+          "26856IN-BL|Matte Black|32150.0|26359.0||https://kohler.scene7.com/is/image/PAWEB/aaf06939_rgb",
+          "26856IN-BV|Vibrant Brushed Bronze|34400.0|28199.0||https://kohler.scene7.com/is/image/PAWEB/aaf06932_rgb",
+          "26856IN-CP|Polished Chrome|23000.0|18859.0||https://kohler.scene7.com/is/image/PAWEB/aaf06955_rgb",
+          "26856IN-RGD|Vibrant Rose Gold|32150.0|26359.0||https://kohler.scene7.com/is/image/PAWEB/aaf06962_rgb",
+          "26856IN-BRD|Vibrant Brushed Rose Gold|34400.0|28199.0||https://kohler.scene7.com/is/image/PAWEB/aag61338_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26856IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06939_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67689_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06955_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67688_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06962_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67691_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06934_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67690_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06932_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah68713_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61338_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag67669_rgb"
+        ],
+        "priceList.ANY.price_d": 23000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26856IN-AF",
+        "ProductBrandNameDisplay_s": "Rain Max",
+        "variantList.sku_ss": [
+          "26856IN-AF",
+          "26856IN-BL",
+          "26856IN-BV",
+          "26856IN-CP",
+          "26856IN-RGD",
+          "26856IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 18859.0,
+        "displayPriceStartingAt_s": "₹18,859.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Polished Chrome",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "rain-max-square-305-mm-single-function-rainhead-22-lpm-26856in",
+        "priceStartingAt.GST_d": 18859.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "bb245e64-e1ae-4793-ad77-ce9afd2a4aad|26856IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|73198IN-CP|true|false|K-73198IN-CP"
+        ],
+        "ProductBrandName_s": "Rainduet™",
+        "masterSKU_s": "73198IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "73198IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "73198IN-CP|aaf69924_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf69924_rgb",
+          "73198IN-CP|aaf69927_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf69927_rgb",
+          "73198IN-CP|aad82184_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad82184_rgb",
+          "73198IN-CP|aaf73901_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf73901_rgb",
+          "73198IN-CP|aaf73900_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf73900_rgb",
+          "73198IN-CP|aaf69928_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf69928_rgb",
+          "73198IN-CP|aaf69926_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69926_rgb",
+          "73198IN-CP|aaf69925_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69925_rgb"
+        ],
+        "priceList.GST.price_d": 5459.0,
+        "priceList.GST.finalPrice_d": 5459.0,
+        "ProductDescriptionProductShort_s": "Round 20.3 cm rainhead, 9.0 lpm",
+        "productName_s": "Rainduet® Round 20.3 cm rainhead, 9.0 lpm",
+        "ctId_s": "47678cfa-c08d-446c-b765-2b1c37d2a2f7",
+        "Color.GST.Details_ss": [
+          "73198IN-CP|Polished Chrome|7700.0|5459.0||https://kohler.scene7.com/is/image/PAWEB/aaf69924_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "73198IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69924_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69927_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad82184_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf73901_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf73900_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69928_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69926_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69925_rgb"
+        ],
+        "priceList.ANY.price_d": 7700.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "73198IN-CP",
+        "ProductBrandNameDisplay_s": "Rainduet™",
+        "variantList.sku_ss": [
+          "73198IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 5459.0,
+        "displayPriceStartingAt_s": "₹5,459.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "203mm-round-katalyst-tm-rainhead-73198in",
+        "priceStartingAt.GST_d": 5459.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "47678cfa-c08d-446c-b765-2b1c37d2a2f7|73198IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|73040IN-CL-CP|true|false|K-73040IN-CL-CP",
+          "Vibrant French Gold|swatch_AF|73040IN-CL-AF|true|false|K-73040IN-CL-AF",
+          "Vibrant Rose Gold|swatch_RGD|73040IN-CL-RGD|false|false|K-73040IN-CL-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|73040IN-CL-BV|false|false|K-73040IN-CL-BV",
+          "Matte Black|swatch_BL|73040IN-CL-BL|true|false|K-73040IN-CL-BL"
+        ],
+        "ProductBrandName_s": "Rainduet™ Edge",
+        "masterSKU_s": "73040IN-CL-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "73040IN-CL-CP",
+        "productImages.labelWithUrl_ss": [
+          "73040IN-CL-CP|aaf88546_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88546_rgb",
+          "73040IN-CL-CP|aaf88547_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88547_rgb",
+          "73040IN-CL-AF|aaf95042_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95042_rgb",
+          "73040IN-CL-AF|aaf95043_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95043_rgb",
+          "73040IN-CL-BL|aag74296_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74296_rgb",
+          "73040IN-CL-RGD|aaf95041_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95041_rgb",
+          "73040IN-CL-RGD|aaf95040_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95040_rgb",
+          "73040IN-CL-BV|aag74293_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74293_rgb"
+        ],
+        "priceList.GST.price_d": 12379.0,
+        "priceList.GST.finalPrice_d": 12379.0,
+        "ProductDescriptionProductShort_s": "Square 25.4 cm single-function rainhead, 9.5 lpm",
+        "productName_s": "Rainduet® Edge Square 25.4 cm single-function rainhead, 9.5 lpm",
+        "ctId_s": "19803499-59a2-46c2-917d-9cc852f8e1a7",
+        "Color.GST.Details_ss": [
+          "73040IN-CL-CP|Polished Chrome|15100.0|12379.0||https://kohler.scene7.com/is/image/PAWEB/aaf88546_rgb",
+          "73040IN-CL-AF|Vibrant French Gold|18100.0|14839.0||https://kohler.scene7.com/is/image/PAWEB/aaf95042_rgb",
+          "73040IN-CL-BL|Matte Black|20300.0|16639.0||https://kohler.scene7.com/is/image/PAWEB/aag74296_rgb",
+          "73040IN-CL-BV|Vibrant Brushed Bronze|20300.0|16639.0||https://kohler.scene7.com/is/image/PAWEB/aag74293_rgb",
+          "73040IN-CL-RGD|Vibrant Rose Gold|20300.0|16639.0||https://kohler.scene7.com/is/image/PAWEB/aaf95041_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "73040IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88546_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88547_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95042_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95043_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag74296_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95041_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95040_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag74293_rgb"
+        ],
+        "priceList.ANY.price_d": 15100.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "73040IN-CL-AF",
+        "ProductBrandNameDisplay_s": "Rainduet™ Edge",
+        "variantList.sku_ss": [
+          "73040IN-CL-CP",
+          "73040IN-CL-AF",
+          "73040IN-CL-BL",
+          "73040IN-CL-BV",
+          "73040IN-CL-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 12379.0,
+        "displayPriceStartingAt_s": "₹12,379.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "rainduet-edge-square-254-mm-single-function-rainhead-9-5-lpm-73040in-cl",
+        "priceStartingAt.GST_d": 12379.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "19803499-59a2-46c2-917d-9cc852f8e1a7|73040IN-CL-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|73038IN-CL-CP|true|false|K-73038IN-CL-CP"
+        ],
+        "ProductBrandName_s": "Rainduet™ Edge",
+        "masterSKU_s": "73038IN-CL-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "73038IN-CL-CP",
+        "productImages.labelWithUrl_ss": [
+          "73038IN-CL-CP|aaf88599_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88599_rgb",
+          "73038IN-CL-CP|aaf88551_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88551_rgb"
+        ],
+        "priceList.GST.price_d": 8929.0,
+        "priceList.GST.finalPrice_d": 8929.0,
+        "ProductDescriptionProductShort_s": "Square 20.3 cm single-function rainhead, 9.5 lpm",
+        "productName_s": "Rainduet® Edge Square 20.3 cm single-function rainhead, 9.5 lpm",
+        "ctId_s": "4462dbc3-c213-447c-ae05-a7b98021950b",
+        "Color.GST.Details_ss": [
+          "73038IN-CL-CP|Polished Chrome|10900.0|8929.0||https://kohler.scene7.com/is/image/PAWEB/aaf88599_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "73038IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88599_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88551_rgb"
+        ],
+        "priceList.ANY.price_d": 10900.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "73038IN-CL-CP",
+        "ProductBrandNameDisplay_s": "Rainduet™ Edge",
+        "variantList.sku_ss": [
+          "73038IN-CL-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 8929.0,
+        "displayPriceStartingAt_s": "₹8,929.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "rain-duet-edge-square-203-mm-single-function-rainhead-73038in-cl",
+        "priceStartingAt.GST_d": 8929.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "4462dbc3-c213-447c-ae05-a7b98021950b|73038IN-CL-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant French Gold|swatch_AF|18361IN-CL-AF|false|false|K-18361IN-CL-AF",
+          "Vibrant Rose Gold|swatch_RGD|18361IN-CL-RGD|true|false|K-18361IN-CL-RGD",
+          "Vibrant Brushed Nickel|swatch_BN|18361IN-CL-BN|false|false|K-18361IN-CL-BN",
+          "Vibrant Brushed Bronze|swatch_BV|18361IN-CL-BV|false|false|K-18361IN-CL-BV"
+        ],
+        "ProductBrandName_s": "Rainduet",
+        "masterSKU_s": "18361IN-CL-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BN",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_AF"
+        ],
+        "sourceId_s": "18361IN-CL-AF",
+        "productImages.labelWithUrl_ss": [
+          "18361IN-CL-BN|zac30497_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac30497_rgb",
+          "18361IN-CL-AF|aae27374_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27374_rgb",
+          "18361IN-CL-BV|zac30931_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac30931_rgb",
+          "18361IN-CL-RGD|18361T-CL-RGD|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/18361T-CL-RGD"
+        ],
+        "priceList.GST.price_d": 27299.0,
+        "priceList.GST.finalPrice_d": 27299.0,
+        "ProductDescriptionProductShort_s": "Square 25.4 cm Rainhead\n",
+        "productName_s": "Rainduet Square 25.4 cm Rainhead",
+        "ctId_s": "30342045-74be-40f5-acc7-a444035aed74",
+        "Color.GST.Details_ss": [
+          "18361IN-CL-BN|Vibrant Brushed Nickel|32000.0|26239.0||https://kohler.scene7.com/is/image/PAWEB/zac30497_rgb",
+          "18361IN-CL-BV|Vibrant Brushed Bronze|37250.0|30539.0||https://kohler.scene7.com/is/image/PAWEB/zac30931_rgb",
+          "18361IN-CL-RGD|Vibrant Rose Gold|37250.0|30539.0||https://s7g10.scene7.com/is/image/kohlerindia/18361T-CL-RGD",
+          "18361IN-CL-AF|Vibrant French Gold|33300.0|27299.0||https://kohler.scene7.com/is/image/PAWEB/aae27374_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "18361IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zac30497_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae27374_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zac30931_rgb",
+          "https://s7g10.scene7.com/is/image/kohlerindia/18361T-CL-RGD"
+        ],
+        "priceList.ANY.price_d": 33300.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "18361IN-CL-AF",
+        "ProductBrandNameDisplay_s": "Rainduet",
+        "variantList.sku_ss": [
+          "18361IN-CL-BN",
+          "18361IN-CL-BV",
+          "18361IN-CL-RGD",
+          "18361IN-CL-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 26239.0,
+        "displayPriceStartingAt_s": "₹26,239.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Nickel",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "rainduet-square-254mm-rainhead-18361in-cl",
+        "priceStartingAt.GST_d": 26239.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "30342045-74be-40f5-acc7-a444035aed74|18361IN-CL-AF"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27731IN-CP|true|false|K-27731IN-CP",
+          "Vibrant French Gold|swatch_AF|27731IN-AF|true|false|K-27731IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|27731IN-RGD|true|false|K-27731IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|27731IN-BV|true|false|K-27731IN-BV",
+          "Matte Black|swatch_BL|27731IN-BL|true|false|K-27731IN-BL"
+        ],
+        "ProductBrandName_s": "ModernLife™",
+        "masterSKU_s": "27731IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "27731IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "27731IN-BV|aaf79797_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79797_rgb",
+          "27731IN-RGD|aaf66497_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66497_rgb",
+          "27731IN-RGD|aag38844_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38844_rgb",
+          "27731IN-AF|aae32816_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae32816_rgb",
+          "27731IN-AF|aag38845_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38845_rgb",
+          "27731IN-BL|aaf86794_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86794_rgb",
+          "27731IN-BL|aaf86793_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86793_rgb",
+          "27731IN-CP|aad82066_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad82066_rgb",
+          "27731IN-CP|aag38847_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38847_rgb"
+        ],
+        "priceList.GST.price_d": 21839.0,
+        "priceList.GST.finalPrice_d": 21839.0,
+        "ProductDescriptionProductShort_s": "Rectangular 33.5 cm x 22 cm single-function rainhead, 9.0 lpm",
+        "productName_s": "ModernLife™ Rectangular 33.5 cm x 22 cm single-function rainhead, 9.0 lpm",
+        "ctId_s": "cfb63614-f07c-4c85-b396-84b4447ba4f4",
+        "Color.GST.Details_ss": [
+          "27731IN-CP|Polished Chrome|27300.0|21839.0||https://kohler.scene7.com/is/image/PAWEB/aad82066_rgb",
+          "27731IN-AF|Vibrant French Gold|34100.0|27279.0||https://kohler.scene7.com/is/image/PAWEB/aae32816_rgb",
+          "27731IN-BL|Matte Black|37800.0|30239.0||https://kohler.scene7.com/is/image/PAWEB/aaf86794_rgb",
+          "27731IN-BV|Vibrant Brushed Bronze|41000.0|32799.0||https://kohler.scene7.com/is/image/PAWEB/aaf79797_rgb",
+          "27731IN-RGD|Vibrant Rose Gold|37800.0|30239.0||https://kohler.scene7.com/is/image/PAWEB/aaf66497_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "27731IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf79797_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf66497_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag38844_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae32816_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag38845_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf86794_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf86793_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad82066_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag38847_rgb"
+        ],
+        "priceList.ANY.price_d": 27300.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "27731IN-AF",
+        "ProductBrandNameDisplay_s": "ModernLife™",
+        "variantList.sku_ss": [
+          "27731IN-CP",
+          "27731IN-AF",
+          "27731IN-BL",
+          "27731IN-BV",
+          "27731IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 21839.0,
+        "displayPriceStartingAt_s": "₹21,839.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "modernlife-flow-330x230mm-rainhead-27731in",
+        "priceStartingAt.GST_d": 21839.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "cfb63614-f07c-4c85-b396-84b4447ba4f4|27731IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26294IN-CP|true|false|K-26294IN-CP",
+          "Vibrant French Gold|swatch_AF|26294IN-AF|true|false|K-26294IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|26294IN-RGD|true|false|K-26294IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|26294IN-BV|true|false|K-26294IN-BV",
+          "Matte Black|swatch_BL|26294IN-BL|true|false|K-26294IN-BL"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "metaTitle_s": "Statement Oblong 35.3 cm Rainhead 9.5LPM | 26294IN | KOHLER",
+        "masterSKU_s": "26294IN-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_CP",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "26294IN-AF",
+        "productImages.labelWithUrl_ss": [
+          "26294IN-CP|aad03930_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad03930_rgb",
+          "26294IN-CP|aad03933_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad03933_rgb",
+          "26294IN-CP|aad03933_cmyk|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad03933_cmyk",
+          "26294IN-BL|aad03939_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad03939_rgb",
+          "26294IN-RGD|aad03929_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad03929_rgb",
+          "26294IN-AF|aad03940_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad03940_rgb",
+          "26294IN-BV|aad03931_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad03931_rgb"
+        ],
+        "priceList.GST.price_d": 41839.0,
+        "priceList.GST.finalPrice_d": 41839.0,
+        "ProductDescriptionProductShort_s": "Oblong 35.3 cm single-function rainhead, 9.5 lpm",
+        "productName_s": "Statement™ Oblong 35.3 cm single-function rainhead, 9.5 lpm",
+        "ctId_s": "5fbdf132-118e-41f9-853d-543b67955702",
+        "Color.GST.Details_ss": [
+          "26294IN-AF|Vibrant French Gold|52300.0|41839.0||https://kohler.scene7.com/is/image/PAWEB/aad03940_rgb",
+          "26294IN-BL|Matte Black|58400.0|46719.0||https://kohler.scene7.com/is/image/PAWEB/aad03939_rgb",
+          "26294IN-BV|Vibrant Brushed Bronze|62400.0|49919.0||https://kohler.scene7.com/is/image/PAWEB/aad03931_rgb",
+          "26294IN-CP|Polished Chrome|41600.0|33279.0||https://kohler.scene7.com/is/image/PAWEB/aad03930_rgb",
+          "26294IN-RGD|Vibrant Rose Gold|58400.0|46719.0||https://kohler.scene7.com/is/image/PAWEB/aad03929_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26294IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad03930_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad03933_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad03933_cmyk",
+          "https://kohler.scene7.com/is/image/PAWEB/aad03939_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad03929_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad03940_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad03931_rgb"
+        ],
+        "priceList.ANY.price_d": 52300.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26294IN-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26294IN-AF",
+          "26294IN-BL",
+          "26294IN-BV",
+          "26294IN-CP",
+          "26294IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 33279.0,
+        "displayPriceStartingAt_s": "₹33,279.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Polished Chrome",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "statement-oblong-353-mm-single-function-rainhead-9-5-lpm-26294in",
+        "priceStartingAt.GST_d": 33279.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "5fbdf132-118e-41f9-853d-543b67955702|26294IN-AF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Moderne Brass|swatch_2MB|26294T-2MB|false|false|K-26294T-2MB"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "26294T-2MB",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2MB"
+        ],
+        "sourceId_s": "26294T-2MB",
+        "productImages.labelWithUrl_ss": [
+          "26294T-2MB|aad03936_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad03936_rgb"
+        ],
+        "priceList.GST.price_d": 83500.0,
+        "priceList.GST.finalPrice_d": 83500.0,
+        "ProductDescriptionProductShort_s": "Oblong 35.3 cm single-function rainhead, 9.5 lpm",
+        "productName_s": "Statement™ Oblong 35.3 cm single-function rainhead, 9.5 lpm",
+        "ctId_s": "695d43af-bd0f-4407-8b04-30a1dacf823f",
+        "Color.GST.Details_ss": [
+          "26294T-2MB|Vibrant Brushed Moderne Brass|83500.0|83500.0||https://kohler.scene7.com/is/image/PAWEB/aad03936_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "26294T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad03936_rgb"
+        ],
+        "priceList.ANY.price_d": 83500.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26294T-2MB",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26294T-2MB"
+        ],
+        "discountedPriceStartingAt.GST_d": 83500.0,
+        "displayPriceStartingAt_s": "₹83,500.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Moderne Brass"
+        ],
+        "slug_s": "statement-oblong-353-mm-single-function-rainhead-9-5-lpm-26294t",
+        "priceStartingAt.GST_d": 83500.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "695d43af-bd0f-4407-8b04-30a1dacf823f|26294T-2MB",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|24470IN-CP|true|false|K-24470IN-CP",
+          "Vibrant French Gold|swatch_AF|24470IN-AF|false|false|K-24470IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|24470IN-RGD|true|false|K-24470IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|24470IN-BV|true|false|K-24470IN-BV",
+          "Matte Black|swatch_BL|24470IN-BL|true|false|K-24470IN-BL"
+        ],
+        "ProductBrandName_s": "ModernLife™",
+        "masterSKU_s": "24470IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_RGD",
+          "swatch_AF",
+          "swatch_BV",
+          "swatch_BL"
+        ],
+        "sourceId_s": "24470IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "24470IN-CP|aad82043_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad82043_rgb",
+          "24470IN-AF|aaf66501_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66501_rgb",
+          "24470IN-RGD|aaf66498_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66498_rgb",
+          "24470IN-BV|aag80811_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80811_rgb",
+          "24470IN-BL|aaf75391_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf75391_rgb"
+        ],
+        "priceList.GST.price_d": 33599.0,
+        "priceList.GST.finalPrice_d": 33599.0,
+        "ProductDescriptionProductShort_s": "Rectangular 33 cm x 23 cm two-function rainhead, 12.0 lpm",
+        "productName_s": "ModernLife™ Rectangular 33 cm x 23 cm two-function rainhead, 12.0 lpm",
+        "ctId_s": "c00f778b-c4b8-4418-844d-2cd8563518a6",
+        "Color.GST.Details_ss": [
+          "24470IN-CP|Polished Chrome|42000.0|33599.0||https://kohler.scene7.com/is/image/PAWEB/aad82043_rgb",
+          "24470IN-RGD|Vibrant Rose Gold|58800.0|47039.0||https://kohler.scene7.com/is/image/PAWEB/aaf66498_rgb",
+          "24470IN-AF|Vibrant French Gold|52500.0|41999.0||https://kohler.scene7.com/is/image/PAWEB/aaf66501_rgb",
+          "24470IN-BV|Vibrant Brushed Bronze|63000.0|50399.0||https://kohler.scene7.com/is/image/PAWEB/aag80811_rgb",
+          "24470IN-BL|Matte Black|58800.0|47039.0||https://kohler.scene7.com/is/image/PAWEB/aaf75391_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "24470IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad82043_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf66501_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf66498_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag80811_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf75391_rgb"
+        ],
+        "priceList.ANY.price_d": 42000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "24470IN-AF",
+        "ProductBrandNameDisplay_s": "ModernLife™",
+        "variantList.sku_ss": [
+          "24470IN-CP",
+          "24470IN-RGD",
+          "24470IN-AF",
+          "24470IN-BV",
+          "24470IN-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 33599.0,
+        "displayPriceStartingAt_s": "₹33,599.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Rose Gold",
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze",
+          "Matte Black"
+        ],
+        "slug_s": "modernlife-dual-flow-330-x-230mm-rainhead-in-brushed-bronze-24470in",
+        "priceStartingAt.GST_d": 33599.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "c00f778b-c4b8-4418-844d-2cd8563518a6|24470IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Moderne Brass|swatch_2MB|26295T-2MB|false|false|K-26295T-2MB"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "26295T-2MB",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2MB"
+        ],
+        "sourceId_s": "26295T-2MB",
+        "productImages.labelWithUrl_ss": [
+          "26295T-2MB|aad06290_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06290_rgb"
+        ],
+        "priceList.GST.price_d": 125200.0,
+        "priceList.GST.finalPrice_d": 125200.0,
+        "ProductDescriptionProductShort_s": "Oblong 35.4 cm two-function rainhead, 9.5 lpm",
+        "productName_s": "Statement™ Oblong 35.4 cm two-function rainhead, 9.5 lpm",
+        "ctId_s": "850c4a1b-50f2-4355-b627-fecdb1937c42",
+        "Color.GST.Details_ss": [
+          "26295T-2MB|Vibrant Brushed Moderne Brass|125200.0|125200.0||https://kohler.scene7.com/is/image/PAWEB/aad06290_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "26295T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad06290_rgb"
+        ],
+        "priceList.ANY.price_d": 125200.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26295T-2MB",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26295T-2MB"
+        ],
+        "discountedPriceStartingAt.GST_d": 125200.0,
+        "displayPriceStartingAt_s": "₹125,200.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Moderne Brass"
+        ],
+        "slug_s": "statement-oblong-353-mm-two-function-rainhead-9-5-lpm-26295t",
+        "priceStartingAt.GST_d": 125200.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "850c4a1b-50f2-4355-b627-fecdb1937c42|26295T-2MB",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26296IN-CP|true|false|K-26296IN-CP",
+          "Vibrant French Gold|swatch_AF|26296IN-AF|true|false|K-26296IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|26296IN-RGD|true|false|K-26296IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|26296IN-BV|true|false|K-26296IN-BV",
+          "Matte Black|swatch_BL|26296IN-BL|true|false|K-26296IN-BL"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "metaTitle_s": "Oblong 35.3 cm 2-Function Rainhead | 26296IN | KOHLER",
+        "masterSKU_s": "26296IN-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_CP",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "26296IN-AF",
+        "productImages.labelWithUrl_ss": [
+          "26296IN-CP|aad06045_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06045_rgb",
+          "26296IN-CP|aad06042_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad06042_rgb",
+          "26296IN-BL|aad06046_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06046_rgb",
+          "26296IN-BV|aad73344_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73344_rgb",
+          "26296IN-AF|aad73334_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73334_rgb",
+          "26296IN-RGD|aad06072_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06072_rgb"
+        ],
+        "priceList.GST.price_d": 64239.0,
+        "priceList.GST.finalPrice_d": 64239.0,
+        "ProductDescriptionProductShort_s": "Oblong 35.3 cm two-function rainhead, 9.5 lpm",
+        "productName_s": "Statement™ Oblong 35.3 cm two-function rainhead, 9.5 lpm",
+        "ctId_s": "de5d9a32-3f17-45ef-85d6-592bc1c1525f",
+        "Color.GST.Details_ss": [
+          "26296IN-AF|Vibrant French Gold|80300.0|64239.0||https://kohler.scene7.com/is/image/PAWEB/aad73334_rgb",
+          "26296IN-BL|Matte Black|89900.0|71919.0||https://kohler.scene7.com/is/image/PAWEB/aad06046_rgb",
+          "26296IN-BV|Vibrant Brushed Bronze|96100.0|76879.0||https://kohler.scene7.com/is/image/PAWEB/aad73344_rgb",
+          "26296IN-CP|Polished Chrome|64100.0|51279.0||https://kohler.scene7.com/is/image/PAWEB/aad06045_rgb",
+          "26296IN-RGD|Vibrant Rose Gold|89900.0|71919.0||https://kohler.scene7.com/is/image/PAWEB/aad06072_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26296IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad06045_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad06042_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad06046_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad73344_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad73334_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad06072_rgb"
+        ],
+        "priceList.ANY.price_d": 80300.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26296IN-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26296IN-AF",
+          "26296IN-BL",
+          "26296IN-BV",
+          "26296IN-CP",
+          "26296IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 51279.0,
+        "displayPriceStartingAt_s": "₹51,279.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Polished Chrome",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "statement-oblong-353-mm-two-function-rainhead-9-5-lpm-26296in",
+        "priceStartingAt.GST_d": 51279.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "de5d9a32-3f17-45ef-85d6-592bc1c1525f|26296IN-AF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Moderne Brass|swatch_2MB|26296T-2MB|false|false|K-26296T-2MB"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "26296T-2MB",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2MB"
+        ],
+        "sourceId_s": "26296T-2MB",
+        "productImages.labelWithUrl_ss": [
+          "26296T-2MB|aad73336_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73336_rgb"
+        ],
+        "priceList.GST.price_d": 125200.0,
+        "priceList.GST.finalPrice_d": 125200.0,
+        "ProductDescriptionProductShort_s": "Oblong 35.3 cm two-function rainhead, 9.5 lpm",
+        "productName_s": "Statement™ Oblong 35.3 cm two-function rainhead, 9.5 lpm",
+        "ctId_s": "67ad6d28-8ea7-44f7-ab75-e534208b839c",
+        "Color.GST.Details_ss": [
+          "26296T-2MB|Vibrant Brushed Moderne Brass|125200.0|125200.0||https://kohler.scene7.com/is/image/PAWEB/aad73336_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "26296T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad73336_rgb"
+        ],
+        "priceList.ANY.price_d": 125200.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26296T-2MB",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26296T-2MB"
+        ],
+        "discountedPriceStartingAt.GST_d": 125200.0,
+        "displayPriceStartingAt_s": "₹125,200.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Moderne Brass"
+        ],
+        "slug_s": "statement-oblong-353-mm-two-function-rainhead-9-5-lpm-26296t",
+        "priceStartingAt.GST_d": 125200.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "67ad6d28-8ea7-44f7-ab75-e534208b839c|26296T-2MB",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26297IN-CP|true|false|K-26297IN-CP",
+          "Vibrant French Gold|swatch_AF|26297IN-AF|true|false|K-26297IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|26297IN-RGD|true|false|K-26297IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|26297IN-BV|true|false|K-26297IN-BV",
+          "Matte Black|swatch_BL|26297IN-BL|true|false|K-26297IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|26297IN-BRD|true|false|K-26297IN-BRD"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "26297IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "26297IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "26297IN-BL|aad06275_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06275_rgb",
+          "26297IN-CP|aad06262_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06262_rgb",
+          "26297IN-RGD|aad73343_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73343_rgb",
+          "26297IN-BV|aad73356_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73356_rgb",
+          "26297IN-AF|aad73345_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73345_rgb",
+          "26297IN-BRD|aaj47562_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj47562_rgb",
+          "26297IN-BRD|aaj47563_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj47563_rgb"
+        ],
+        "priceList.GST.price_d": 75919.0,
+        "priceList.GST.finalPrice_d": 75919.0,
+        "ProductDescriptionProductShort_s": "Oblong 45.3 cm two-function rainhead, 9.5 lpm",
+        "productName_s": "Statement™ Oblong 45.3 cm two-function rainhead, 9.5 lpm",
+        "ctId_s": "5d8a6a52-5658-4b1d-82b0-6e2c64c98e85",
+        "Color.GST.Details_ss": [
+          "26297IN-CP|Polished Chrome|75800.0|60639.0||https://kohler.scene7.com/is/image/PAWEB/aad06262_rgb",
+          "26297IN-AF|Vibrant French Gold|94900.0|75919.0||https://kohler.scene7.com/is/image/PAWEB/aad73345_rgb",
+          "26297IN-BL|Matte Black|106200.0|84959.0||https://kohler.scene7.com/is/image/PAWEB/aad06275_rgb",
+          "26297IN-BV|Vibrant Brushed Bronze|113500.0|90799.0||https://kohler.scene7.com/is/image/PAWEB/aad73356_rgb",
+          "26297IN-RGD|Vibrant Rose Gold|106200.0|84959.0||https://kohler.scene7.com/is/image/PAWEB/aad73343_rgb",
+          "26297IN-BRD|Vibrant Brushed Rose Gold|113500.0|90799.0||https://kohler.scene7.com/is/image/PAWEB/aaj47562_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "26297IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad06275_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad06262_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad73343_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad73356_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad73345_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj47562_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj47563_rgb"
+        ],
+        "priceList.ANY.price_d": 94900.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26297IN-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26297IN-CP",
+          "26297IN-AF",
+          "26297IN-BL",
+          "26297IN-BV",
+          "26297IN-RGD",
+          "26297IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 60639.0,
+        "displayPriceStartingAt_s": "₹60,639.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "statement-oblong-453-mm-two-function-rainhead-9-5-lpm-26297in",
+        "priceStartingAt.GST_d": 60639.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "5d8a6a52-5658-4b1d-82b0-6e2c64c98e85|26297IN-AF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|9301IN-CL-CP|true|false|K-9301IN-CL-CP",
+          "Vibrant French Gold|swatch_AF|9301IN-CL-AF|true|false|K-9301IN-CL-AF",
+          "Matte Black|swatch_BL|9301IN-CL-BL|true|false|K-9301IN-CL-BL"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "masterSKU_s": "9301IN-CL-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_CP",
+          "swatch_BL"
+        ],
+        "sourceId_s": "9301IN-CL-CP",
+        "productImages.labelWithUrl_ss": [
+          "9301IN-CL-CP|aae59676_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae59676_rgb",
+          "9301IN-CL-AF|aae59672_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae59672_rgb",
+          "9301IN-CL-BL|aag79965_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag79965_rgb",
+          "9301IN-CL-BL|aag79964_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag79964_rgb"
+        ],
+        "priceList.GST.price_d": 95359.0,
+        "priceList.GST.finalPrice_d": 95359.0,
+        "ProductDescriptionProductShort_s": "Square 38.4 cm single-function rainhead, 22.2 lpm",
+        "productName_s": "ModernLife Edge® Square 38.4 cm single-function rainhead, 22.2 lpm",
+        "ctId_s": "de57d90e-6461-47b3-83b6-bfc41fc004f3",
+        "Color.GST.Details_ss": [
+          "9301IN-CL-AF|Vibrant French Gold|119200.0|95359.0||https://kohler.scene7.com/is/image/PAWEB/aae59672_rgb",
+          "9301IN-CL-CP|Polished Chrome|95000.0|75999.0||https://kohler.scene7.com/is/image/PAWEB/aae59676_rgb",
+          "9301IN-CL-BL|Matte Black|133400.0|106719.0||https://kohler.scene7.com/is/image/PAWEB/aag79965_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "9301IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae59676_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae59672_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag79965_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag79964_rgb"
+        ],
+        "priceList.ANY.price_d": 119200.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "9301IN-CL-AF",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "9301IN-CL-AF",
+          "9301IN-CL-CP",
+          "9301IN-CL-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 75999.0,
+        "displayPriceStartingAt_s": "₹75,999.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Polished Chrome",
+          "Matte Black"
+        ],
+        "slug_s": "modernlife-edge-square-381mm-single-function-rainhead-9301in-cl",
+        "priceStartingAt.GST_d": 75999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "de57d90e-6461-47b3-83b6-bfc41fc004f3|9301IN-CL-AF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|9302IN-CL-CP|true|false|K-9302IN-CL-CP"
+        ],
+        "ProductBrandName_s": "ModernLife® Edge",
+        "masterSKU_s": "9302IN-CL-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "9302IN-CL-CP",
+        "productImages.labelWithUrl_ss": [
+          "9302IN-CL-CP|aad31907_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad31907_rgb"
+        ],
+        "priceList.GST.price_d": 52079.0,
+        "priceList.GST.finalPrice_d": 52079.0,
+        "ProductDescriptionProductShort_s": "Square 33 cm single-function rainhead",
+        "productName_s": "ModernLife™ Edge Square 33 cm single-function rainhead",
+        "ctId_s": "ae82496c-c017-4d83-b2ae-c6f00c7f10bc",
+        "Color.GST.Details_ss": [
+          "9302IN-CL-CP|Polished Chrome|65100.0|52079.0||https://kohler.scene7.com/is/image/PAWEB/aad31907_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "9302IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad31907_rgb"
+        ],
+        "priceList.ANY.price_d": 65100.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "9302IN-CL-CP",
+        "ProductBrandNameDisplay_s": "ModernLife® Edge",
+        "variantList.sku_ss": [
+          "9302IN-CL-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 52079.0,
+        "displayPriceStartingAt_s": "₹52,079.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "modernlife-edge-square-330-mm-single-function-rainhead-9302in-cl",
+        "priceStartingAt.GST_d": 52079.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "ae82496c-c017-4d83-b2ae-c6f00c7f10bc|9302IN-CL-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|73037IN-CL-CP|true|false|K-73037IN-CL-CP"
+        ],
+        "ProductBrandName_s": "Rainduet™ Edge",
+        "masterSKU_s": "73037IN-CL-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "73037IN-CL-CP",
+        "productImages.labelWithUrl_ss": [
+          "73037IN-CL-CP|aaf88598_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88598_rgb",
+          "73037IN-CL-CP|aaf88553_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88553_rgb"
+        ],
+        "priceList.GST.price_d": 8109.0,
+        "priceList.GST.finalPrice_d": 8109.0,
+        "ProductDescriptionProductShort_s": "Round 20.3 cm single-function rainhead, 14.5 lpm",
+        "productName_s": "Rainduet® Edge Round 20.3 cm single-function rainhead, 14.5 lpm",
+        "ctId_s": "cd78c341-537b-4a6e-98e6-aa5947858167",
+        "Color.GST.Details_ss": [
+          "73037IN-CL-CP|Polished Chrome|9900.0|8109.0||https://kohler.scene7.com/is/image/PAWEB/aaf88598_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "73037IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88598_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88553_rgb"
+        ],
+        "priceList.ANY.price_d": 9900.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "73037IN-CL-CP",
+        "ProductBrandNameDisplay_s": "Rainduet™ Edge",
+        "variantList.sku_ss": [
+          "73037IN-CL-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 8109.0,
+        "displayPriceStartingAt_s": "₹8,109.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "round-duet-edge-square-203-mm-single-function-rainhead-73037in-cl",
+        "priceStartingAt.GST_d": 8109.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "cd78c341-537b-4a6e-98e6-aa5947858167|73037IN-CL-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|73039IN-CL-CP|true|false|K-73039IN-CL-CP",
+          "Vibrant French Gold|swatch_AF|73039IN-CL-AF|true|false|K-73039IN-CL-AF",
+          "Vibrant Rose Gold|swatch_RGD|73039IN-CL-RGD|false|false|K-73039IN-CL-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|73039IN-CL-BV|false|false|K-73039IN-CL-BV",
+          "Matte Black|swatch_BL|73039IN-CL-BL|true|false|K-73039IN-CL-BL"
+        ],
+        "ProductBrandName_s": "Rainduet™ Edge",
+        "masterSKU_s": "73039IN-CL-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "73039IN-CL-CP",
+        "productImages.labelWithUrl_ss": [
+          "73039IN-CL-CP|aaf88595_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88595_rgb",
+          "73039IN-CL-CP|aaf88549_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88549_rgb",
+          "73039IN-CL-AF|aaf95048_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95048_rgb",
+          "73039IN-CL-AF|aaf95046_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95046_rgb",
+          "73039IN-CL-BL|aag74299_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74299_rgb",
+          "73039IN-CL-RGD|aaf95045_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95045_rgb",
+          "73039IN-CL-RGD|aaf95044_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95044_rgb",
+          "73039IN-CL-BV|aag74295_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74295_rgb"
+        ],
+        "priceList.GST.price_d": 11519.0,
+        "priceList.GST.finalPrice_d": 11519.0,
+        "ProductDescriptionProductShort_s": "Round 25.4 cm rainhead, 9.4 lpm",
+        "productName_s": "Rainduet® Edge Round 25.4 cm rainhead, 9.4 lpm",
+        "ctId_s": "49940f7b-0ef0-4de9-ae59-a380c0c17ecb",
+        "Color.GST.Details_ss": [
+          "73039IN-CL-CP|Polished Chrome|14050.0|11519.0||https://kohler.scene7.com/is/image/PAWEB/aaf88595_rgb",
+          "73039IN-CL-AF|Vibrant French Gold|16900.0|13849.0||https://kohler.scene7.com/is/image/PAWEB/aaf95048_rgb",
+          "73039IN-CL-BL|Matte Black|18900.0|15489.0||https://kohler.scene7.com/is/image/PAWEB/aag74299_rgb",
+          "73039IN-CL-BV|Vibrant Brushed Bronze|20300.0|16639.0||https://kohler.scene7.com/is/image/PAWEB/aag74295_rgb",
+          "73039IN-CL-RGD|Vibrant Rose Gold|18900.0|15489.0||https://kohler.scene7.com/is/image/PAWEB/aaf95045_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "73039IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88595_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf88549_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95048_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95046_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag74299_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95045_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95044_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag74295_rgb"
+        ],
+        "priceList.ANY.price_d": 14050.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "73039IN-CL-AF",
+        "ProductBrandNameDisplay_s": "Rainduet™ Edge",
+        "variantList.sku_ss": [
+          "73039IN-CL-CP",
+          "73039IN-CL-AF",
+          "73039IN-CL-BL",
+          "73039IN-CL-BV",
+          "73039IN-CL-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 11519.0,
+        "displayPriceStartingAt_s": "₹11,519.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "rainduet-edge-round-254-mm-rainhead-9-4-lpm-73039in-cl",
+        "priceStartingAt.GST_d": 11519.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "49940f7b-0ef0-4de9-ae59-a380c0c17ecb|73039IN-CL-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Matte Black|swatch_BL|76465IN-BL|false|false|K-76465IN-BL"
+        ],
+        "ProductBrandName_s": "Awaken",
+        "masterSKU_s": "76465IN-BL",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BL"
+        ],
+        "sourceId_s": "76465IN-BL",
+        "productImages.labelWithUrl_ss": [
+          "76465IN-BL|aae23481_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23481_rgb"
+        ],
+        "priceList.GST.price_d": 28449.0,
+        "priceList.GST.finalPrice_d": 28449.0,
+        "ProductDescriptionProductShort_s": "25.4 cm Rainhead",
+        "productName_s": "Awaken 25.4 cm Rainhead",
+        "ctId_s": "9080dcb8-adf9-42d2-b804-e79eeae139ae",
+        "Color.GST.Details_ss": [
+          "76465IN-BL|Matte Black|34700.0|28449.0||https://kohler.scene7.com/is/image/PAWEB/aae23481_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "76465IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae23481_rgb"
+        ],
+        "priceList.ANY.price_d": 34700.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "76465IN-BL",
+        "ProductBrandNameDisplay_s": "Awaken",
+        "variantList.sku_ss": [
+          "76465IN-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 28449.0,
+        "displayPriceStartingAt_s": "₹28,449.00",
+        "SKUColorFinishName_ss": [
+          "Matte Black"
+        ],
+        "slug_s": "awaken-254mm-rainhead-76465in",
+        "priceStartingAt.GST_d": 28449.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "9080dcb8-adf9-42d2-b804-e79eeae139ae|76465IN-BL"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|77276IN-L-CP|true|false|K-77276IN-L-CP",
+          "Vibrant French Gold|swatch_AF|77276IN-L-AF|false|false|K-77276IN-L-AF",
+          "Matte Black|swatch_BL|77276IN-L-BL|false|false|K-77276IN-L-BL"
+        ],
+        "ProductBrandName_s": "Beitou™",
+        "masterSKU_s": "77276IN-L-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL"
+        ],
+        "sourceId_s": "77276IN-L-CP",
+        "productImages.labelWithUrl_ss": [
+          "77276IN-L-CP|aaf09904_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf09904_rgb",
+          "77276IN-L-AF|aag24288_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24288_rgb",
+          "77276IN-L-BL|aah01119_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah01119_rgb"
+        ],
+        "priceList.GST.price_d": 436639.0,
+        "priceList.GST.finalPrice_d": 436639.0,
+        "ProductDescriptionProductShort_s": "60 cm x 80 cm three-function rainhead, 23.2 – 29.4 lpm",
+        "productName_s": "Beitou® 60 cm x 80 cm three-function rainhead, 23.2 – 29.4 lpm",
+        "ctId_s": "0abfb935-52b8-4259-96ac-2b5a085f8391",
+        "Color.GST.Details_ss": [
+          "77276IN-L-CP|Polished Chrome|545800.0|436639.0||https://kohler.scene7.com/is/image/PAWEB/aaf09904_rgb",
+          "77276IN-L-AF|Vibrant French Gold|495000.0|395999.0||https://kohler.scene7.com/is/image/PAWEB/aag24288_rgb",
+          "77276IN-L-BL|Matte Black|495000.0|395999.0||https://kohler.scene7.com/is/image/PAWEB/aah01119_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "77276IN-L",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf09904_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag24288_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah01119_rgb"
+        ],
+        "priceList.ANY.price_d": 545800.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "77276IN-L-AF",
+        "ProductBrandNameDisplay_s": "Beitou",
+        "variantList.sku_ss": [
+          "77276IN-L-CP",
+          "77276IN-L-AF",
+          "77276IN-L-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 395999.0,
+        "displayPriceStartingAt_s": "₹395,999.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black"
+        ],
+        "slug_s": "beitou-rectangle-600x800-multifunction-rainpanel-in-polished-chrome-77276in-l",
+        "priceStartingAt.GST_d": 395999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "0abfb935-52b8-4259-96ac-2b5a085f8391|77276IN-L-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|38973IN-CP|true|false|K-38973IN-CP",
+          "Vibrant French Gold|swatch_AF|38973IN-AF|true|false|K-38973IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|38973IN-RGD|true|false|K-38973IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|38973IN-BV|true|false|K-38973IN-BV",
+          "Matte Black|swatch_BL|38973IN-BL|true|false|K-38973IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|38973IN-BRD|true|false|K-38973IN-BRD"
+        ],
+        "ProductBrandName_s": "Pristine™",
+        "masterSKU_s": "38973IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BL",
+          "swatch_AF",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "38973IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "38973IN-AF|aaj32856_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32856_rgb",
+          "38973IN-AF|aaj32851_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32851_rgb",
+          "38973IN-AF|aak04699_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "38973IN-AF|aak04709_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "38973IN-AF|aak04707_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "38973IN-AF|aak04700_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "38973IN-AF|aak04701_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "38973IN-AF|aak04715_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "38973IN-AF|aak04710_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "38973IN-AF|aak04703_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "38973IN-AF|aak04712_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "38973IN-AF|aak04705_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "38973IN-AF|aak04711_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "38973IN-RGD|aaj32849_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32849_rgb",
+          "38973IN-RGD|aaj32857_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32857_rgb",
+          "38973IN-RGD|aak04699_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "38973IN-RGD|aak04709_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "38973IN-RGD|aak04707_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "38973IN-RGD|aak04700_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "38973IN-RGD|aak04701_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "38973IN-RGD|aak04715_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "38973IN-RGD|aak04710_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "38973IN-RGD|aak04703_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "38973IN-RGD|aak04712_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "38973IN-RGD|aak04705_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "38973IN-RGD|aak04711_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "38973IN-CP|aaj32852_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32852_rgb",
+          "38973IN-CP|aaj32843_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32843_rgb",
+          "38973IN-CP|aaj32854_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32854_rgb",
+          "38973IN-CP|aaj32845_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32845_rgb",
+          "38973IN-CP|aak04699_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "38973IN-CP|aak04709_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "38973IN-CP|aak04707_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "38973IN-CP|aak04700_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "38973IN-CP|aak04701_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "38973IN-CP|aak04715_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "38973IN-CP|aak04710_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "38973IN-CP|aak04703_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "38973IN-CP|aak04712_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "38973IN-CP|aak04705_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "38973IN-CP|aak04711_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "38973IN-BV|aaj32853_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32853_rgb",
+          "38973IN-BV|aaj32855_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32855_rgb",
+          "38973IN-BV|aak04699_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "38973IN-BV|aak04709_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "38973IN-BV|aak04707_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "38973IN-BV|aak04700_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "38973IN-BV|aak04701_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "38973IN-BV|aak04715_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "38973IN-BV|aak04710_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "38973IN-BV|aak04703_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "38973IN-BV|aak04712_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "38973IN-BV|aak04705_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "38973IN-BV|aak04711_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "38973IN-BRD|aaj32850_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32850_rgb",
+          "38973IN-BRD|aaj32842_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32842_rgb",
+          "38973IN-BRD|aak04699_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "38973IN-BRD|aak04709_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "38973IN-BRD|aak04707_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "38973IN-BRD|aak04700_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "38973IN-BRD|aak04701_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "38973IN-BRD|aak04715_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "38973IN-BRD|aak04710_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "38973IN-BRD|aak04703_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "38973IN-BRD|aak04712_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "38973IN-BRD|aak04705_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "38973IN-BRD|aak04711_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "38973IN-BL|aaj32847_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32847_rgb",
+          "38973IN-BL|aaj32848_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj32848_rgb",
+          "38973IN-BL|aak04699_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "38973IN-BL|aak04709_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "38973IN-BL|aak04707_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "38973IN-BL|aak04700_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "38973IN-BL|aak04701_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "38973IN-BL|aak04715_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "38973IN-BL|aak04710_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "38973IN-BL|aak04703_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "38973IN-BL|aak04712_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "38973IN-BL|aak04705_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "38973IN-BL|aak04711_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb"
+        ],
+        "priceList.GST.price_d": 10249.0,
+        "priceList.GST.finalPrice_d": 10249.0,
+        "ProductDescriptionProductShort_s": "Rectangular 25.4 cm single-function filtered rainhead, 12.0 lpm",
+        "productName_s": "Pristine™ Rectangular 25.4 cm single-function filtered rainhead, 12.0 lpm",
+        "ctId_s": "5e6a3bc2-2f2e-4529-851c-43752b2c3598",
+        "Color.GST.Details_ss": [
+          "38973IN-CP|Polished Chrome|12500.0|10249.0||https://kohler.scene7.com/is/image/PAWEB/aaj32852_rgb",
+          "38973IN-BL|Matte Black|17500.0|14349.0||https://kohler.scene7.com/is/image/PAWEB/aaj32847_rgb",
+          "38973IN-AF|Vibrant French Gold|15600.0|12789.0||https://kohler.scene7.com/is/image/PAWEB/aaj32856_rgb",
+          "38973IN-BV|Vibrant Brushed Bronze|18800.0|15409.0||https://kohler.scene7.com/is/image/PAWEB/aaj32853_rgb",
+          "38973IN-RGD|Vibrant Rose Gold|17500.0|14349.0||https://kohler.scene7.com/is/image/PAWEB/aaj32849_rgb",
+          "38973IN-BRD|Vibrant Brushed Rose Gold|18800.0|15409.0||https://kohler.scene7.com/is/image/PAWEB/aaj32850_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "38973IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32856_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32851_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32849_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32857_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32852_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32843_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32854_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32845_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32853_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32855_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32850_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32842_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32847_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj32848_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04699_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04709_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04707_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04701_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04715_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04710_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04703_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04712_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04705_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aak04711_rgb"
+        ],
+        "priceList.ANY.price_d": 12500.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "38973IN-AF",
+        "ProductBrandNameDisplay_s": "Pristine™",
+        "variantList.sku_ss": [
+          "38973IN-CP",
+          "38973IN-BL",
+          "38973IN-AF",
+          "38973IN-BV",
+          "38973IN-RGD",
+          "38973IN-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 10249.0,
+        "displayPriceStartingAt_s": "₹10,249.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Matte Black",
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "pristine-rectangular-254-mm-single-function-filtered-rainhead-12-0-lpm-38973in",
+        "priceStartingAt.GST_d": 10249.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "5e6a3bc2-2f2e-4529-851c-43752b2c3598|38973IN-CP"
+      },
+      {
+        "masterSKU_s": "13693-CP",
+        "sourceId_s": "13693-CP",
+        "priceList.GST.price_d": 70000.0,
+        "priceList.GST.finalPrice_d": 70000.0,
+        "ProductDescriptionProductShort_s": "Traditional 10\" single-function rainhead, 2.5 gpm",
+        "productName_s": "Traditional 10\" single-function rainhead, 2.5 gpm",
+        "ctId_s": "eba34f18-44e3-423f-93b9-5eb2baf51631",
+        "Color.GST.Details_ss": [
+          "13693-CP|Polished Chrome|70000.0|70000.0||https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_DIMENSIONALSquareWithText_d2c0017040_en-US",
+          "13693-BV|Vibrant Brushed Bronze|93500.0|93500.0||https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_PartialRoomViewOnePointSquare_d2c0019515_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "13693",
+        "displayPriceStartingAt_s": "₹70,000.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "traditional-round-10-rainhead-with-katalyst-air-induction-spray-2-5-gpm-13693",
+        "priceStartingAt.GST_d": 70000.0,
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|13693-CP|false|false|K-13693-CP",
+          "Vibrant Brushed Bronze|swatch_BV|13693-BV|false|false|K-13693-BV"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BV"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "13693-BV|13693-G-BV_PartialRoomViewOnePointSquare_d2c0019515_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_PartialRoomViewOnePointSquare_d2c0019515_rgb",
+          "13693-BV|13693-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016993_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016993_en-US",
+          "13693-BV|13693-G-BV_DIMENSIONALSquareWithText_d2c0016999_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_DIMENSIONALSquareWithText_d2c0016999_en-US",
+          "13693-BV|13693-G-BV_FRONTSquare_d2c0017025_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FRONTSquare_d2c0017025_rgb",
+          "13693-BV|13693-G-BV_ISO_d2c0017047_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_ISO_d2c0017047_rgb",
+          "13693-BV|13693-G-BV_CloseRoomViewSquareWithText_d2c0017017_en-US|IMGITEMCLOSEROOMVIEWSquareWithText||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewSquareWithText_d2c0017017_en-US",
+          "13693-BV|13693-G-BV_ISOSquare_d2c0017047_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_ISOSquare_d2c0017047_rgb",
+          "13693-BV|13693-G-BV_CloseRoomViewProductDetailSquare_d2c0016978_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewProductDetailSquare_d2c0016978_rgb",
+          "13693-BV|13693-G-BV_DETAILSquare_d2c0017006_rgb|IMGITEMPRODUCTDETAILSquare||close-up view of product detail|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_DETAILSquare_d2c0017006_rgb",
+          "13693-BV|SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US|IMGITEMFEATURESpraysSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US",
+          "13693-BV|13693-G-BV_FullRoomViewTwoPointSquareWithText_d2c0019484_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FullRoomViewTwoPointSquareWithText_d2c0019484_en-US",
+          "13693-BV|13693-G-BV_FullRoomViewOnePointSquare_d2c0019527_rgb|IMGITEMFULLROOMVIEWOnePointSquare||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FullRoomViewOnePointSquare_d2c0019527_rgb",
+          "13693-BV|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "13693-BV|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US",
+          "13693-CP|13693-G-CP_DIMENSIONALSquareWithText_d2c0017040_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_DIMENSIONALSquareWithText_d2c0017040_en-US",
+          "13693-CP|13693-G-CP_CloseRoomViewSquareWithText_d2c0017049_en-US|IMGITEMCLOSEROOMVIEWSquareWithText||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewSquareWithText_d2c0017049_en-US",
+          "13693-CP|13693-G-CP_CloseRoomViewProductDetailSquare_d2c0017027_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewProductDetailSquare_d2c0017027_rgb",
+          "13693-CP|13693-G-CP_ISOSquare_d2c0017030_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_ISOSquare_d2c0017030_rgb",
+          "13693-CP|13693-G-CP_PartialRoomViewOnePointSquare_d2c0019474_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_PartialRoomViewOnePointSquare_d2c0019474_rgb",
+          "13693-CP|13693-G-CP_DETAILSquare_d2c0017057_rgb|IMGITEMPRODUCTDETAILSquare||close-up view of product detail|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_DETAILSquare_d2c0017057_rgb",
+          "13693-CP|13693-G-CP_FRONTSquare_d2c0017051_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FRONTSquare_d2c0017051_rgb",
+          "13693-CP|13693-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0017046_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0017046_en-US",
+          "13693-CP|13693-G-CP_ISO_d2c0017032_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_ISO_d2c0017032_rgb",
+          "13693-CP|SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US|IMGITEMFEATURESpraysSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US",
+          "13693-CP|13693-G-CP_FullRoomViewTwoPointSquareWithText_d2c0019510_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FullRoomViewTwoPointSquareWithText_d2c0019510_en-US",
+          "13693-CP|13693-G-CP_FullRoomViewOnePointSquare_d2c0019532_rgb|IMGITEMFULLROOMVIEWOnePointSquare||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FullRoomViewOnePointSquare_d2c0019532_rgb",
+          "13693-CP|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "13693-CP|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_PartialRoomViewOnePointSquare_d2c0019515_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016993_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_DIMENSIONALSquareWithText_d2c0016999_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FRONTSquare_d2c0017025_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_ISO_d2c0017047_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewSquareWithText_d2c0017017_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_ISOSquare_d2c0017047_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewProductDetailSquare_d2c0016978_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_DETAILSquare_d2c0017006_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FullRoomViewTwoPointSquareWithText_d2c0019484_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FullRoomViewOnePointSquare_d2c0019527_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_DIMENSIONALSquareWithText_d2c0017040_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewSquareWithText_d2c0017049_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewProductDetailSquare_d2c0017027_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_ISOSquare_d2c0017030_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_PartialRoomViewOnePointSquare_d2c0019474_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_DETAILSquare_d2c0017057_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FRONTSquare_d2c0017051_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0017046_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_ISO_d2c0017032_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FullRoomViewTwoPointSquareWithText_d2c0019510_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FullRoomViewOnePointSquare_d2c0019532_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US"
+        ],
+        "priceList.ANY.price_d": 70000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "13693-BV",
+        "variantList.sku_ss": [
+          "13693-CP",
+          "13693-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 70000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "eba34f18-44e3-423f-93b9-5eb2baf51631|13693-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Rose Gold|swatch_RGD|9301IN-ZX-RGD|true|false|K-9301IN-ZX-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|9301IN-ZX-BV|true|false|K-9301IN-ZX-BV",
+          "Vibrant Brushed Rose Gold|swatch_BRD|9301IN-ZX-BRD|true|false|K-9301IN-ZX-BRD"
+        ],
+        "ProductBrandName_s": "Katalyst™ Air",
+        "masterSKU_s": "9301IN-ZX-RGD",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_RGD",
+          "swatch_BV",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "9301IN-ZX-RGD",
+        "productImages.labelWithUrl_ss": [
+          "9301IN-ZX-BV|aad40034_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad40034_rgb",
+          "9301IN-ZX-RGD|9301T-ZX-RGD|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/9301T-ZX-RGD",
+          "9301IN-ZX-BRD|aag81888_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag81888_rgb",
+          "9301IN-ZX-BRD|aag81886_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag81886_rgb"
+        ],
+        "priceList.GST.price_d": 106719.0,
+        "priceList.GST.finalPrice_d": 106719.0,
+        "ProductDescriptionProductShort_s": "Square 38.4 cm single-function rainhead, 22.2 lpm",
+        "productName_s": "Katalyst™ Air Square 38.4 cm single-function rainhead, 22.2 lpm",
+        "ctId_s": "d3558ba1-938a-4a46-8d35-8b1d010e3abf",
+        "Color.GST.Details_ss": [
+          "9301IN-ZX-RGD|Vibrant Rose Gold|133400.0|106719.0||https://s7g10.scene7.com/is/image/kohlerindia/9301T-ZX-RGD",
+          "9301IN-ZX-BV|Vibrant Brushed Bronze|142800.0|114239.0||https://kohler.scene7.com/is/image/PAWEB/aad40034_rgb",
+          "9301IN-ZX-BRD|Vibrant Brushed Rose Gold|142800.0|114239.0||https://kohler.scene7.com/is/image/PAWEB/aag81888_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "9301IN-ZX",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad40034_rgb",
+          "https://s7g10.scene7.com/is/image/kohlerindia/9301T-ZX-RGD",
+          "https://kohler.scene7.com/is/image/PAWEB/aag81888_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag81886_rgb"
+        ],
+        "priceList.ANY.price_d": 133400.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "9301IN-ZX-RGD",
+        "ProductBrandNameDisplay_s": "Katalyst™ Air",
+        "variantList.sku_ss": [
+          "9301IN-ZX-RGD",
+          "9301IN-ZX-BV",
+          "9301IN-ZX-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 106719.0,
+        "displayPriceStartingAt_s": "₹106,719.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "katalyst-air-square-384-mm-single-function-rainhead-22-2-lpm-9301in-zx",
+        "priceStartingAt.GST_d": 106719.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d3558ba1-938a-4a46-8d35-8b1d010e3abf|9301IN-ZX-RGD"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|38629IN-CP|false|false|K-38629IN-CP",
+          "Vibrant French Gold|swatch_AF|38629IN-AF|false|false|K-38629IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|38629IN-RGD|false|false|K-38629IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|38629IN-BV|false|false|K-38629IN-BV",
+          "Matte Black|swatch_BL|38629IN-BL|false|false|K-38629IN-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|38629IN-BRD|false|false|K-38629IN-BRD"
+        ],
+        "ProductBrandName_s": "Rain Max",
+        "masterSKU_s": "38629IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BRD",
+          "swatch_RGD",
+          "swatch_BV"
+        ],
+        "sourceId_s": "38629IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "38629IN-CP|aaf06947_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06947_rgb",
+          "38629IN-BRD|aag67669_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag67669_rgb",
+          "38629IN-AF|aaf06934_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06934_rgb",
+          "38629IN-BL|aaf06939_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06939_rgb",
+          "38629IN-RGD|aaf06953_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06953_rgb",
+          "38629IN-BV|aaf06932_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf06932_rgb",
+          "38629IN-BV|aah68713_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah68713_rgb"
+        ],
+        "priceList.GST.price_d": 25879.0,
+        "priceList.GST.finalPrice_d": 25879.0,
+        "ProductDescriptionProductShort_s": "Square 30.5 cm three-function rainhead, 14.5 – 31.0 lpm",
+        "productName_s": "Rain Max Square 30.5 cm three-function rainhead, 14.5 – 31.0 lpm",
+        "ctId_s": "fe0bb587-8726-426b-8b99-db37f1b26fca",
+        "Color.GST.Details_ss": [
+          "38629IN-CP|Polished Chrome|32350.0|25879.0||https://kohler.scene7.com/is/image/PAWEB/aaf06947_rgb",
+          "38629IN-AF|Vibrant French Gold|40550.0|32439.0||https://kohler.scene7.com/is/image/PAWEB/aaf06934_rgb",
+          "38629IN-BL|Matte Black|45250.0|36199.0||https://kohler.scene7.com/is/image/PAWEB/aaf06939_rgb",
+          "38629IN-BRD|Vibrant Brushed Rose Gold|48800.0|39039.0||https://kohler.scene7.com/is/image/PAWEB/aag67669_rgb",
+          "38629IN-RGD|Vibrant Rose Gold|45250.0|36199.0||https://kohler.scene7.com/is/image/PAWEB/aaf06953_rgb",
+          "38629IN-BV|Vibrant Brushed Bronze|48800.0|39039.0||https://kohler.scene7.com/is/image/PAWEB/aaf06932_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "38629IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06947_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag67669_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06934_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06939_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06953_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf06932_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah68713_rgb"
+        ],
+        "priceList.ANY.price_d": 32350.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "38629IN-AF",
+        "variantList.sku_ss": [
+          "38629IN-CP",
+          "38629IN-AF",
+          "38629IN-BL",
+          "38629IN-BRD",
+          "38629IN-RGD",
+          "38629IN-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 25879.0,
+        "displayPriceStartingAt_s": "₹25,879.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Rose Gold",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "rain-max-square-305-mm-three-function-rainhead-14-5-31-0-lpm-38629in",
+        "priceStartingAt.GST_d": 25879.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "fe0bb587-8726-426b-8b99-db37f1b26fca|38629IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|39507IN-CP|true|false|K-39507IN-CP",
+          "Vibrant French Gold|swatch_AF|39507IN-AF|true|false|K-39507IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|39507IN-RGD|true|false|K-39507IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|39507IN-BV|false|false|K-39507IN-BV",
+          "Matte Black|swatch_BL|39507IN-BL|true|false|K-39507IN-BL"
+        ],
+        "ProductBrandName_s": "Rainduet™",
+        "masterSKU_s": "39507IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BL",
+          "swatch_RGD",
+          "swatch_AF",
+          "swatch_BV"
+        ],
+        "sourceId_s": "39507IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "39507IN-CP|aai95004_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95004_rgb",
+          "39507IN-CP|aai95005_rgb|IMGITEMISOAlternative||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95005_rgb",
+          "39507IN-AF|aai95008_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95008_rgb",
+          "39507IN-AF|aai95019_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95019_rgb",
+          "39507IN-RGD|aai95021_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95021_rgb",
+          "39507IN-RGD|aai95022_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95022_rgb",
+          "39507IN-BL|aai95011_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95011_rgb",
+          "39507IN-BL|aai95007_rgb|IMGITEMISOAlternative||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95007_rgb",
+          "39507IN-BV|aaj94205_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94205_rgb",
+          "39507IN-BV|aaj94191_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94191_rgb"
+        ],
+        "priceList.GST.price_d": 9839.0,
+        "priceList.GST.finalPrice_d": 9839.0,
+        "ProductDescriptionProductShort_s": "Round 25 cm single-function rainhead, 10.5 lpm",
+        "productName_s": "Rainduet® Round 25 cm single-function rainhead, 10.5 lpm",
+        "ctId_s": "162f1df0-d444-4dec-b468-396cbbd28d4e",
+        "Color.GST.Details_ss": [
+          "39507IN-CP|Polished Chrome|12000.0|9839.0||https://kohler.scene7.com/is/image/PAWEB/aai95004_rgb",
+          "39507IN-BL|Matte Black|16800.0|13769.0||https://kohler.scene7.com/is/image/PAWEB/aai95011_rgb",
+          "39507IN-RGD|Vibrant Rose Gold|16800.0|13769.0||https://kohler.scene7.com/is/image/PAWEB/aai95021_rgb",
+          "39507IN-AF|Vibrant French Gold|15000.0|12299.0||https://kohler.scene7.com/is/image/PAWEB/aai95008_rgb",
+          "39507IN-BV|Vibrant Brushed Bronze|18000.0|14759.0||https://kohler.scene7.com/is/image/PAWEB/aaj94205_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "39507IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aai95004_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95005_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95008_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95019_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95021_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95022_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95011_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai95007_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj94205_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj94191_rgb"
+        ],
+        "priceList.ANY.price_d": 12000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "39507IN-AF",
+        "ProductBrandNameDisplay_s": "Rainduet™",
+        "variantList.sku_ss": [
+          "39507IN-CP",
+          "39507IN-BL",
+          "39507IN-RGD",
+          "39507IN-AF",
+          "39507IN-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 9839.0,
+        "displayPriceStartingAt_s": "₹9,839.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Matte Black",
+          "Vibrant Rose Gold",
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "rainduet-round-250-mm-single-function-rainhead-10-5-lpm-39507in",
+        "priceStartingAt.GST_d": 9839.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "162f1df0-d444-4dec-b468-396cbbd28d4e|39507IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|98275IN-CL-CP|false|false|K-98275IN-CL-CP"
+        ],
+        "ProductBrandName_s": "Loure™",
+        "masterSKU_s": "98275IN-CL-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "98275IN-CL-CP",
+        "productImages.labelWithUrl_ss": [
+          "98275IN-CL-CP|aad96152_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad96152_rgb"
+        ],
+        "priceList.GST.price_d": 95999.0,
+        "priceList.GST.finalPrice_d": 95999.0,
+        "ProductDescriptionProductShort_s": "17\" katalyst air showerhead",
+        "productName_s": "LOURE 17\" KATALYST AIR SHOWERHEAD",
+        "ctId_s": "265fadec-c3e8-41e9-bc52-38f2c4e2bfa3",
+        "Color.GST.Details_ss": [
+          "98275IN-CL-CP|Polished Chrome|120000.0|95999.0||https://kohler.scene7.com/is/image/PAWEB/aad96152_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "98275IN-CL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad96152_rgb"
+        ],
+        "priceList.ANY.price_d": 120000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "98275IN-CL-CP",
+        "ProductBrandNameDisplay_s": "Loure™",
+        "variantList.sku_ss": [
+          "98275IN-CL-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 95999.0,
+        "displayPriceStartingAt_s": "₹95,999.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "loure-17-katalyst-air-showerhead-98275in-cl",
+        "priceStartingAt.GST_d": 95999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "265fadec-c3e8-41e9-bc52-38f2c4e2bfa3|98275IN-CL-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26303T-CP|false|false|K-26303T-CP",
+          "Vibrant French Gold|swatch_AF|26303T-AF|false|false|K-26303T-AF",
+          "Vibrant Brushed Moderne Brass|swatch_2MB|26303T-2MB|false|false|K-26303T-2MB",
+          "Matte Black|swatch_BL|26303T-BL|false|false|K-26303T-BL"
+        ],
+        "ProductBrandName_s": "Statement™",
+        "masterSKU_s": "26303T-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BL",
+          "swatch_2MB",
+          "swatch_AF"
+        ],
+        "sourceId_s": "26303T-CP",
+        "productImages.labelWithUrl_ss": [
+          "26303T-CP|aad45095_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad45095_rgb",
+          "26303T-2MB|aad45101_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad45101_rgb",
+          "26303T-BL|aad45097_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad45097_rgb",
+          "26303T-AF|aad45098_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad45098_rgb"
+        ],
+        "priceList.GST.price_d": 189200.0,
+        "priceList.GST.finalPrice_d": 189200.0,
+        "ProductDescriptionProductShort_s": "Ceiling-mount single-function iconic dual shower arm with rainhead and handshower",
+        "productName_s": "Statement™ Ceiling-mount single-function iconic dual shower arm with rainhead and handshower",
+        "ctId_s": "bd2d7aa7-77e0-44d3-9cb7-80cd78282b7c",
+        "Color.GST.Details_ss": [
+          "26303T-CP|Polished Chrome|189200.0|189200.0||https://kohler.scene7.com/is/image/PAWEB/aad45095_rgb",
+          "26303T-BL|Matte Black|264900.0|264900.0||https://kohler.scene7.com/is/image/PAWEB/aad45097_rgb",
+          "26303T-2MB|Vibrant Brushed Moderne Brass|283900.0|283900.0||https://kohler.scene7.com/is/image/PAWEB/aad45101_rgb",
+          "26303T-AF|Vibrant French Gold|236500.0|236500.0||https://kohler.scene7.com/is/image/PAWEB/aad45098_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "26303T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad45095_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad45101_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad45097_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad45098_rgb"
+        ],
+        "priceList.ANY.price_d": 189200.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "26303T-AF",
+        "ProductBrandNameDisplay_s": "Statement™",
+        "variantList.sku_ss": [
+          "26303T-CP",
+          "26303T-BL",
+          "26303T-2MB",
+          "26303T-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 189200.0,
+        "displayPriceStartingAt_s": "₹189,200.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Matte Black",
+          "Vibrant Brushed Moderne Brass",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "statement-ceiling-mount-single-function-iconic-dual-shower-arm-with-rainhead-and-handshower-26303t",
+        "priceStartingAt.GST_d": 189200.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "bd2d7aa7-77e0-44d3-9cb7-80cd78282b7c|26303T-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      }
+    ],
+    "numFound": 28,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "ShowerProductOverallLengthCm_s:\"<20cm\"": 1,
+      "ShowerProductOverallLengthCm_s:\"20cm to 40cm\"": 24,
+      "ShowerProductOverallLengthCm_s:\">40cm\"": 3,
+      "Available_Now_s:\"Yes\"": 19
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        22,
+        "Vibrant French Gold",
+        16,
+        "Vibrant Brushed Moderne Brass",
+        4,
+        "Vibrant Rose Gold",
+        13,
+        "Vibrant Brushed Nickel",
+        1,
+        "Vibrant Brushed Bronze",
+        15,
+        "Matte Black",
+        16,
+        "Vibrant Brushed Rose Gold",
+        6
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Awaken",
+        1,
+        "Beitou",
+        1,
+        "Katalyst™ Air",
+        1,
+        "Loure™",
+        1,
+        "ModernLife Edge™",
+        1,
+        "ModernLife® Edge",
+        1,
+        "ModernLife™",
+        2,
+        "Pristine™",
+        1,
+        "Rain Max",
+        2,
+        "Rainduet",
+        1,
+        "Rainduet™",
+        3,
+        "Rainduet™ Edge",
+        4,
+        "Statement™",
+        7
+      ],
+      "ProductInstallationType_ss": [
+        "Ceiling-mount",
+        27,
+        "Wall-mount",
+        2
+      ],
+      "ProductShape_s": [
+        "Oblong",
+        6,
+        "Rectangle",
+        3,
+        "Rectangular",
+        2,
+        "Round",
+        7,
+        "Square",
+        10
+      ],
+      "ProductProductType_s": [
+        "Adapter Kits",
+        2,
+        "Bodysprays",
+        8,
+        "Control Kits",
+        2,
+        "Drain Pans",
+        2,
+        "Faucet Cleaner",
+        1,
+        "Handshowers",
+        18,
+        "Rainheads",
+        28,
+        "Rainpanels",
+        5,
+        "Showerheads",
+        29,
+        "Steam Generators",
+        7,
+        "Steamheads",
+        2
+      ],
+      "Shower_SprayType_ss": [
+        "Multi Spray",
+        6,
+        "Single Spray",
+        7
+      ],
+      "ShowerProductOverallLengthCm_s": [
+        "<20cm",
+        1,
+        "20cm to 40cm",
+        24,
+        ">40cm",
+        3
+      ],
+      "Available_Now_s": [
+        "Yes",
+        20,
+        "No",
+        14
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        10,
+        "Paid",
+        18
+      ]
+    },
+    "facet_ranges": {
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "4000",
+          2,
+          "8000",
+          3,
+          "10000",
+          2,
+          "12000",
+          4,
+          "14000",
+          5,
+          "16000",
+          2,
+          "18000",
+          2,
+          "20000",
+          2,
+          "22000",
+          2,
+          "24000",
+          1,
+          "26000",
+          3,
+          "28000",
+          2,
+          "30000",
+          2,
+          "32000",
+          4,
+          "36000",
+          1,
+          "38000",
+          1,
+          "40000",
+          2,
+          "46000",
+          2,
+          "48000",
+          1,
+          "50000",
+          2,
+          "52000",
+          1
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "6000",
+          1,
+          "8000",
+          2,
+          "10000",
+          1,
+          "12000",
+          2,
+          "14000",
+          4,
+          "16000",
+          3,
+          "18000",
+          5,
+          "20000",
+          2,
+          "22000",
+          2,
+          "26000",
+          2,
+          "28000",
+          2,
+          "32000",
+          3,
+          "34000",
+          3,
+          "36000",
+          2,
+          "40000",
+          3,
+          "42000",
+          1,
+          "44000",
+          1,
+          "48000",
+          1,
+          "52000",
+          2,
+          "58000",
+          2
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      },
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "6000",
+          1,
+          "8000",
+          2,
+          "10000",
+          1,
+          "12000",
+          2,
+          "14000",
+          4,
+          "16000",
+          3,
+          "18000",
+          5,
+          "20000",
+          2,
+          "22000",
+          2,
+          "26000",
+          2,
+          "28000",
+          2,
+          "32000",
+          3,
+          "34000",
+          3,
+          "36000",
+          2,
+          "40000",
+          3,
+          "42000",
+          1,
+          "44000",
+          1,
+          "48000",
+          1,
+          "52000",
+          2,
+          "58000",
+          2
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "6000",
+          1,
+          "8000",
+          2,
+          "10000",
+          1,
+          "12000",
+          2,
+          "14000",
+          4,
+          "16000",
+          3,
+          "18000",
+          5,
+          "20000",
+          2,
+          "22000",
+          2,
+          "26000",
+          2,
+          "28000",
+          2,
+          "32000",
+          3,
+          "34000",
+          3,
+          "36000",
+          2,
+          "40000",
+          3,
+          "42000",
+          1,
+          "44000",
+          1,
+          "48000",
+          1,
+          "52000",
+          2,
+          "58000",
+          2
+        ],
+        "start": 0.0,
+        "end": 60000.0,
+        "gap": 2000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

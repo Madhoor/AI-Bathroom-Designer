@@ -1,0 +1,186 @@
+{
+  "product_url": "https://www.kohler.co.in/p/fluence-wall-mount-bath-spout-38892in?skuId=38892IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/fluence-wall-mount-bath-spout-38892in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/fluence-wall-mount-bath-spout-38892in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5451>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/fluence-wall-mount-bath-spout-38892in?skuId=38892IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "NSkZvWgY8L",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=242, origin; dur=738, ak_p; desc=\"1789422569326_400553039_333260638_98100_10263_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:49:30 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1847",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "The bold, straight-line design of this Fluence™ wall-mount bath spout makes an elegant statement in any bathroom, its clean silhouette embodying a refined, humanist touch. Beautiful and functional, premium materials and a corrosion-resistant finish ensure lasting durability. Together, these elements create a sense of energy and resilience. At Kohler, we make it our business to help you create the bathroom space of your dreams.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|38892IN-CP|true|false|K-38892IN-CP",
+              "Vibrant French Gold|swatch_AF|38892IN-AF|true|false|K-38892IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|38892IN-RGD|true|false|K-38892IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|38892IN-BV|true|false|K-38892IN-BV",
+              "Matte Black|swatch_BL|38892IN-BL|true|false|K-38892IN-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|38892IN-BRD|true|false|K-38892IN-BRD"
+            ],
+            "ProductBrandName_s": "Fluence™",
+            "ProductPackageContents_s": "1  SPOUT;1 ESCUTCHEON;1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1609345-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1602157-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-38892IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "38892IN-RGD|aaf79697_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79697_rgb",
+              "38892IN-CP|aaf79698_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79698_rgb",
+              "38892IN-BV|aaf79699_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79699_rgb",
+              "38892IN-BV|aaj05856_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05856_rgb",
+              "38892IN-BV|aaj05857_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05857_rgb",
+              "38892IN-BV|aaj05859_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05859_rgb",
+              "38892IN-BV|aaj05858_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05858_rgb",
+              "38892IN-BV|aaj10280_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj10280_rgb",
+              "38892IN-BV|aaj05842_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05842_rgb",
+              "38892IN-BL|aaf79700_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79700_rgb",
+              "38892IN-AF|aaf79701_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79701_rgb",
+              "38892IN-BRD|aag85986_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag85986_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3169.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3870.0,
+            "ProductOverallLengthInches_s": "7\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892insde.dxf"
+            ],
+            "productName_s": "Fluence™ Wall-mount bath spout",
+            "ctId_s": "07576c22-b8f9-4ac1-9367-87f12673b5ac",
+            "ProductWebFeatures_ss": [
+              "Nondiverter bath spout",
+              "A geometric, straight-line design with a simple, modern, and stylish touch",
+              "6.14 inch (15.6 cm) spout reach",
+              "4.22 gpm (16.0 lpm) maximum flow rate at 43.5 psi (3.0 bar)",
+              "Requires bath and shower trim (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 3870.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892insde.dwg"
+            ],
+            "sku_s": "38892IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-K-38892IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "7.500",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "38892IN",
+            "productInRiverId_s": "inRiver_3006920",
+            "priceList.CTR.finalPrice_d": 3870.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-38892IN-CP",
+            "ProductBrandNameDisplay_s": "Fluence™",
+            "variantList.sku_ss": [
+              "38892IN-CP",
+              "38892IN-AF",
+              "38892IN-BL",
+              "38892IN-BV",
+              "38892IN-RGD",
+              "38892IN-BRD"
+            ],
+            "SKUShippingHeight_s": "5.500",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "23.600",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38892IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/8\"",
+            "id": "07576c22-b8f9-4ac1-9367-87f12673b5ac|38892IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

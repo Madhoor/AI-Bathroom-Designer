@@ -1,0 +1,180 @@
+{
+  "product_url": "https://www.kohler.co.in/p/span-round-wm-lavatory-small-480x440-31458in?skuId=31458IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/span-round-wm-lavatory-small-480x440-31458in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/span-round-wm-lavatory-small-480x440-31458in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/span-round-wm-lavatory-small-480x440-31458in?skuId=31458IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "ESwmpxRnKs",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=270, origin; dur=787, ak_p; desc=\"1789421055299_400553078_266615879_105684_13719_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:24:16 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2121",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/span-round-wall-hung-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductNarrativeDescription_s": "The KOHLER® Span™ oval wall-mount bathroom sink with glazed underside is a testament to refined minimalism and functional artistry. Its gently sloped edges and unique geometric silhouette, featuring a rounded front and squared rear, create a harmonious balance of curves and clean lines that seamlessly align with your bathroom wall. Thoughtfully designed for convenience and practicality, the integrated faucet deck accommodates your choice of single-handle bathroom sink faucets, and also provides a modest yet practical countertop surface, perfect for essential bathroom items like soap, lotion, or a decorative accessory. For an added layer of sophistication, pair the Span™ sink with a coordinating shroud that elegantly conceals plumbing, transforming the setup into a semi-pedestal display that emphasizes streamlined beauty. With its robust construction and timeless design, the KOHLER® Span™ wall-mount sink is an ideal choice for compact spaces, creating an airy, open feel in smaller bathrooms. It brings together innovative craftsmanship and contemporary style to elevate your bathroom experience, making it a centerpiece of modern sophistication.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|31458IN-0|true|false|K-31458IN-0"
+            ],
+            "ProductBrandName_s": "Span™",
+            "ProductPackageContents_s": " 1 LAVATORY;1 INSTALLATION GUIDE;1HARDWARE KIT;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1389018-IN2_D2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1656586-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-31458IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "31458IN-0|aae54925_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae54925_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5099.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 6000.0,
+            "ProductOverallLengthInches_s": "19\"",
+            "ProductDescriptionProductShort_s": "48.2 cm oval wall-mount bathroom sink with glazed underside",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458insde.dxf"
+            ],
+            "productName_s": "Span™ 48.2 cm oval wall-mount bathroom sink with glazed underside",
+            "ctId_s": "afda5574-824b-4106-87f8-e121cee297e1",
+            "ProductWebFeatures_ss": [
+              "Minimalist design with gently sloped edges",
+              "Rounded front and squared rear create unique geometric silhouette",
+              "Deep oval basin minimizes splash",
+              "Integrated rear faucet deck provides countertop space for placing small items",
+              "Single faucet hole at deck center",
+              "With overflow",
+              "Glazed underside offers beauty from all angles",
+              "Pair with pedestal and shroud to conceal pipes and create a sleek semi-pedestal look (sold separately)",
+              "Pedestal and shroud are decorative only, not supporting the full weight of the sink",
+              "For use with choice of KOHLER® single-handle bathroom sink faucet (sold separately)",
+              "Clicker drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 6000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "31458IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Wall_Mount-Lavatory-KOHLER-Span-K-31458IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "22.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "31458IN",
+            "productInRiverId_s": "inRiver_1342313",
+            "priceList.CTR.finalPrice_d": 6000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-31458IN-0",
+            "ProductBrandNameDisplay_s": "Span™",
+            "variantList.sku_ss": [
+              "31458IN-0"
+            ],
+            "SKUShippingHeight_s": "50.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "56.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558305",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31458IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-3/4\"",
+            "id": "afda5574-824b-4106-87f8-e121cee297e1|31458IN-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

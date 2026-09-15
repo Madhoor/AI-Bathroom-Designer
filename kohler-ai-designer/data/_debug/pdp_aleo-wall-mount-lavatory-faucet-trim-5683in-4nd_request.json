@@ -1,0 +1,191 @@
+{
+  "product_url": "https://www.kohler.co.in/p/aleo-wall-mount-lavatory-faucet-trim-5683in-4nd?skuId=5683IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/aleo-wall-mount-lavatory-faucet-trim-5683in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/aleo-wall-mount-lavatory-faucet-trim-5683in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/aleo-wall-mount-lavatory-faucet-trim-5683in-4nd?skuId=5683IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "eKqJ2ItP40",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=281, origin; dur=730, ak_p; desc=\"1789421973695_400553039_333237801_101195_10588_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:39:34 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2270",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683in_4ndfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/aleo-wall-mount-lav-faucet-trim-in-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Trim only; requires valve to complete installation (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "7-7/8\"",
+            "ProductNarrativeDescription_s": "The KOHLER® Aleo® faucet collection was thoughtfully designed to offer you a truly modern experience where simplicity and beauty collide. This wall-mount bathroom sink faucet trim features a flat Lever handle that exudes a sense of elegance and sophistication, elevating the overall aesthetic of your space. But beyond its eye-catching appearance, this wall-mount faucet trim also offers a warm and inviting feel, creating a welcoming atmosphere for you to relax and unwind in. Its sleek design combined with practical functionality truly makes it the ideal choice for any modern bathroom. Featuring a single Lever-style handle, this faucet trim offers both functionality and elegance. With just one smooth motion, you can control the volume and temperature of your water, making it easy to achieve your desired settings. Crafted with precision and attention to detail, this Aleo® faucet trim adds a touch of luxury to your daily routine. The durable construction ensures long-lasting use while the elegant design elevates the aesthetic of your bathroom. A clean silhouette, this faucet trim pairs with a compatible valve (sold separately).",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|5683IN-4ND-CP|true|false|K-5683IN-4ND-CP",
+              "Vibrant Rose Gold|swatch_RGD|5683IN-4ND-RGD|true|false|K-5683IN-4ND-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|5683IN-4ND-BV|true|false|K-5683IN-4ND-BV",
+              "Vibrant Brushed Rose Gold|swatch_BRD|5683IN-4ND-BRD|false|false|K-5683IN-4ND-BRD"
+            ],
+            "ProductBrandName_s": "Aleo™",
+            "ProductPackageContents_s": "1 TRIM; 1 HANDLE; 1 BONNET;1 SPOUT;1 CONNECTOR; 1 WARRANTY CARD; 1 INSTALLATION INSTRUCTION",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208982",
+              "inRiver_3201829",
+              "inRiver_3208985"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1637356-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1216567-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-5683IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "5683IN-4ND-CP|aae98016_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae98016_rgb",
+              "5683IN-4ND-RGD|aag70629_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag70629_rgb",
+              "5683IN-4ND-BRD|aaj29778_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj29778_rgb",
+              "5683IN-4ND-BV|aad81659_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad81659_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 9919.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 12100.0,
+            "ProductOverallLengthInches_s": "6-7/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 9.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683in_4ndsde.dxf"
+            ],
+            "productName_s": "Aleo® Wall-mount bathroom sink faucet, 9.0 lpm",
+            "ctId_s": "b5e8d38c-3171-40e3-8865-256703c6e505",
+            "ProductWebFeatures_ss": [
+              "Single Lever handle allows for on/off activation, volume, and temperature control",
+              "16 cm (6.3 inch) spout reach",
+              "Aerated flow",
+              "9.0 lpm (2.38 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 12100.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683in_4ndsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "5683IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Aleo-K-5683IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "16.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "5683IN-4ND",
+            "productInRiverId_s": "inRiver_558792",
+            "priceList.CTR.finalPrice_d": 12100.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-5683IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Aleo™",
+            "variantList.sku_ss": [
+              "5683IN-4ND-CP",
+              "5683IN-4ND-BV",
+              "5683IN-4ND-RGD",
+              "5683IN-4ND-BRD"
+            ],
+            "SKUShippingHeight_s": "12.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "24.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558780"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/5683IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-1/8\"",
+            "id": "b5e8d38c-3171-40e3-8865-256703c6e505|5683IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

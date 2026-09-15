@@ -1,0 +1,182 @@
+{
+  "product_url": "https://www.kohler.co.in/p/reach-1500-mm-x-700-mm-drop-in-bath-15847t?skuId=15847T-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/reach-1500-mm-x-700-mm-drop-in-bath-15847t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/reach-1500-mm-x-700-mm-drop-in-bath-15847t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4127>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/reach-1500-mm-x-700-mm-drop-in-bath-15847t?skuId=15847T-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "OP2W4HupU8",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=270, origin; dur=740, ak_p; desc=\"1789420365834_400553039_333166209_101177_11935_11_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:12:46 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1742",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847tfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/reach-1500mm-drop-in-acrylic-bathtub-in-white",
+            "ProductWebInstallation_ss": [
+              "Drop-in"
+            ],
+            "ProductOverallWidthInches_s": "27-9/16\"",
+            "ProductNarrativeDescription_s": "Clean, elegant and crisp lines allow for a sophisticated style to complement most contemporary spaces. This Reach™ drop-in bath offers an indulgent bathing experience in its deep basin with integral lumbar support. The sleek, acrylic construction offers exceptional durability with thoughtful touches like built-in integral overflow and location versatility.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|15847T-0|true|false|K-15847T-0"
+            ],
+            "ProductBrandName_s": "Reach™",
+            "ProductPackageContents_s": "1 BATHTUB; 1 WARRANTY CARD; 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847T.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556175"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/15847t.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-15847T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "15847T-0|aaf68577_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf68577_rgb",
+              "15847T-0|aaf68578_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68578_rgb",
+              "15847T-0|aaf68583_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68583_rgb",
+              "15847T-0|aaf68579_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68579_rgb",
+              "15847T-0|aaf68581_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68581_rgb",
+              "15847T-0|aaf68582_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68582_rgb",
+              "15847T-0|aaf68580_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68580_rgb",
+              "15847T-0|aaf68584_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68584_rgb",
+              "15847T-0|aad44280_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad44280_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 29449.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 31000.0,
+            "ProductOverallLengthInches_s": "59-1/16\"",
+            "ProductDescriptionProductShort_s": "150 cm x 70 cm drop-in bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847tsde.dxf"
+            ],
+            "productName_s": "Reach™ 150 cm x 70 cm drop-in bath",
+            "ctId_s": "12f30017-1483-4739-8884-c9a3d7b4a4ae",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin creates a spacious bathing experience",
+              "Drop-in design creates a seamless bathroom aesthetic",
+              "59\" (150 cm) x 27-1/2\" (70 cm) x 18-1/8\" (46 cm)",
+              "Round overflow",
+              "12-3/4\" (32.4 cm) soaking depth",
+              "Integral lumbar support",
+              "Easy-to-clean, durable high-gloss finish"
+            ],
+            "priceList.ANY.finalPrice_d": 31000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847tsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "15847T-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In-KOHLER-REACH-K-15847T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847T.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "26.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "15847T",
+            "productInRiverId_s": "inRiver_568408",
+            "priceList.CTR.finalPrice_d": 31000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-15847T-0",
+            "ProductBrandNameDisplay_s": "Reach™",
+            "variantList.sku_ss": [
+              "15847T-0"
+            ],
+            "SKUShippingHeight_s": "14.000",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "43.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1336299"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/15847T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "18-1/8\"",
+            "id": "12f30017-1483-4739-8884-c9a3d7b4a4ae|15847T-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

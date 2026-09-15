@@ -1,0 +1,151 @@
+{
+  "product_url": "https://www.kohler.co.in/p/aleo-pillar-tap-tall-20071in-4?skuId=20071IN-4-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/aleo-pillar-tap-tall-20071in-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/aleo-pillar-tap-tall-20071in-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4736>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/aleo-pillar-tap-tall-20071in-4?skuId=20071IN-4-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "U050fWay6i",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=281, origin; dur=717, ak_p; desc=\"1789421855996_400553039_333233235_99907_11476_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:37:37 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1469",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071IN-4.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071in_4frt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "The design of Aleo resulted from research into the evolving and complex nature of modern urban lifestyle. The role of the bathroom is evolving constantly as a result. No longer is it just a place to bathe, but an extension of living space, with a multi-mode, multi-person role demanding the highest standards of design, hygiene, performance and intuitive functionality.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|20071IN-4-CP|true|false|K-20071IN-4-CP"
+            ],
+            "ProductBrandName_s": "Aleo+™",
+            "ProductPackageContents_s": "1 FAUCET ASSY;1 HARDWARE KIT;1 ESCUTCHEON;1 INSTALLATION GUIDE;1 WARRANTY CARD",
+            "Recommended_Accessories_ss": [
+              "inRiver_3201829"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071IN-4.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1649162-IN8.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/1649158-IN8.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071IN-4.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "20071IN-4-CP|aag69350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag69350_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 6699.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 8180.0,
+            "ProductDescriptionProductShort_s": "PILLAR TAP, TALL",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071in_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071in_4sde.dxf"
+            ],
+            "productName_s": "ALEO+ PILLAR TAP, TALL",
+            "ctId_s": "619bfe81-6337-493e-a5c5-0aef19f70c71",
+            "ProductWebFeatures_ss": [
+              "Durable Ceramic valves: Faucet valve function 2x above and beyond the industry standard",
+              "Lasting Finish: Kohler faucet passes easily the salt spray test of 48 hours which is 2x the US industry standard",
+              "Leak free performance : Water never touches the stem of valve , eliminating the most common leak path"
+            ],
+            "priceList.ANY.finalPrice_d": 8180.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071in_4sde.dwg"
+            ],
+            "sku_s": "20071IN-4-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Aleo-K-20071IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071IN-4.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "19.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "20071IN-4",
+            "productInRiverId_s": "inRiver_558697",
+            "priceList.CTR.finalPrice_d": 8180.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-20071IN-4-CP",
+            "ProductBrandNameDisplay_s": "Aleo+™",
+            "variantList.sku_ss": [
+              "20071IN-4-CP"
+            ],
+            "SKUShippingHeight_s": "9.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "38.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071in_4pln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071in_4frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20071IN-4.dwg"
+            ],
+            "id": "619bfe81-6337-493e-a5c5-0aef19f70c71|20071IN-4-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

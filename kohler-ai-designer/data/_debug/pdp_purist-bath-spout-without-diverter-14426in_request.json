@@ -1,0 +1,152 @@
+{
+  "product_url": "https://www.kohler.co.in/p/purist-bath-spout-without-diverter-14426in?skuId=14426IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/purist-bath-spout-without-diverter-14426in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/purist-bath-spout-without-diverter-14426in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/purist-bath-spout-without-diverter-14426in?skuId=14426IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "tspg8r4MUP",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=254, origin; dur=780, ak_p; desc=\"1789446534503_400553039_335220789_103475_15592_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:28:55 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1362",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/purist-bath-spout-194mm",
+            "ProductNarrativeDescription_s": "Purist faucets and accessories combine simple, architectural forms with sensual design lines. This bath spout exemplifies the Purist collection's understated style with its rounded silhouette and gentle, 35-degree arc.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|14426IN-CP|false|false|K-14426IN-CP"
+            ],
+            "ProductBrandName_s": "Purist™",
+            "ProductPackageContents_s": "1 SPOUT, 1 ESCUTCHEON, 1 WARRANTY, & 1 INSTALLATION GUIDE 1 FLANGE; 1 INSTALLATION INSTRUCTION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/14426t.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "14426IN-CP|zaa67867_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa67867_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 9599.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 12000.0,
+            "ProductDescriptionProductShort_s": "Wall-mount non-diverter bath spout, 35-degrees",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426insde.dxf"
+            ],
+            "productName_s": "Purist Bath spout without diverter",
+            "ctId_s": "05cb20d7-c0c4-433c-b9b7-8f0463cb1b6d",
+            "ProductWebFeatures_ss": [
+              "Complements the Purist(R) collection",
+              "Wall Mount Installation",
+              "Solid brass construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times"
+            ],
+            "priceList.ANY.finalPrice_d": 12000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426insde.dwg"
+            ],
+            "sku_s": "14426IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Purist-K-14426IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "13.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "14426IN",
+            "productInRiverId_s": "inRiver_558288",
+            "priceList.CTR.finalPrice_d": 12000.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-14426IN-CP",
+            "ProductBrandNameDisplay_s": "Purist™",
+            "variantList.sku_ss": [
+              "14426IN-CP"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "31.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426inpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14426IN.dwg"
+            ],
+            "id": "05cb20d7-c0c4-433c-b9b7-8f0463cb1b6d|14426IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "product_url": "https://www.kohler.co.in/p/600mm-edge-vessel-basin-without-faucet-hole-in-thunder-grey-21226in?skuId=21226IN-HP1",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/600mm-edge-vessel-basin-without-faucet-hole-in-thunder-grey-21226in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/600mm-edge-vessel-basin-without-faucet-hole-in-thunder-grey-21226in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/600mm-edge-vessel-basin-without-faucet-hole-in-thunder-grey-21226in?skuId=21226IN-HP1",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "kT8eYpiWk8",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=277, origin; dur=749, ak_p; desc=\"1789420612124_400553078_266578362_102660_10845_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:16:53 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1836",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/modernlife-edge-tabletop-wash-basin-in-peacock",
+            "ProductWebInstallation_ss": [
+              "Vessel"
+            ],
+            "ProductOverallWidthInches_s": "15-9/16\"",
+            "ProductNarrativeDescription_s": "The ModernLife Edge® collection combines thoughtful design with a contemporary and minimalist form. This 60 cm rectangular vessel bathroom sink offers a unique aesthetic, with a rimless form that is easy to clean and complements most bathroom styles. For a beautiful and complete setup, coordinate your new sink with a compatible wall-mount or tall deck-mount bathroom sink faucet.",
+            "Color.SKU.Details_ss": [
+              "Honed Black|swatch_HB1|21226IN-HB1|true|false|K-21226IN-HB1",
+              "Peacock|swatch_HP1|21226IN-HP1|true|false|K-21226IN-HP1",
+              "Thunder Grey|swatch_HG1|21226IN-HG1|true|false|K-21226IN-HG1",
+              "Honed Lush|swatch_HL1|21226IN-HL1|true|false|K-21226IN-HL1"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 LAVATORY;1 INSTALLATION TEMPLATE AND 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/21226IN.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-21226IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "21226IN-HP1|aaf72440_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf72440_rgb",
+              "21226IN-HP1|aaf66536_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66536_rgb",
+              "21226IN-HP1|aaf66538_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66538_rgb",
+              "21226IN-HP1|aaf66540_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66540_rgb",
+              "21226IN-HP1|aaf66539_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66539_rgb",
+              "21226IN-HP1|aaf66537_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66537_rgb",
+              "21226IN-HP1|aaf66535_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66535_rgb",
+              "21226IN-HG1|aaf72439_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf72439_rgb",
+              "21226IN-HL1|aah61736_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah61736_rgb",
+              "21226IN-HB1|aag43532_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag43532_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 30399.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 38000.0,
+            "ProductOverallLengthInches_s": "23-5/8\"",
+            "ProductDescriptionProductShort_s": "60 cm rectangular vessel bathroom sink, no overflow",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226insde.dxf"
+            ],
+            "productName_s": "ModernLife Edge® 60 cm rectangular vessel bathroom sink, no overflow",
+            "ctId_s": "70d0e6dc-976a-4552-b2dc-efdf6529b765",
+            "ProductWebFeatures_ss": [
+              "Contemporary design makes a modern statement",
+              "Rectangular basin with rounded corners",
+              "No faucet holes; requires wall- or deck-mount faucet",
+              "Without overflow",
+              "Part of the ModernLife Edge collection",
+              "Faucet and drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 38000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "21226IN-HP1",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Modernlife-K-21226IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-ModernLife-K-21226IN.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "45.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "21226IN",
+            "productInRiverId_s": "inRiver_2491799",
+            "priceList.CTR.finalPrice_d": 38000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-21226IN-HP1",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "variantList.sku_ss": [
+              "21226IN-HP1",
+              "21226IN-HG1",
+              "21226IN-HB1",
+              "21226IN-HL1"
+            ],
+            "SKUShippingHeight_s": "26.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "65.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21226IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-11/16\"",
+            "id": "70d0e6dc-976a-4552-b2dc-efdf6529b765|21226IN-HP1",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

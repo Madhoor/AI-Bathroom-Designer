@@ -1,0 +1,174 @@
+{
+  "product_url": "https://www.kohler.co.in/p/loure-rectangular-800-mm-x-600-mm-four-function-overhead-shower-panel-11-8-lpm-36-0-lpm-97168in?skuId=97168IN-BL",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/loure-rectangular-800-mm-x-600-mm-four-function-overhead-shower-panel-11-8-lpm-36-0-lpm-97168in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/loure-rectangular-800-mm-x-600-mm-four-function-overhead-shower-panel-11-8-lpm-36-0-lpm-97168in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5463>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/loure-rectangular-800-mm-x-600-mm-four-function-overhead-shower-panel-11-8-lpm-36-0-lpm-97168in?skuId=97168IN-BL",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "lOA1mXfxin",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=263, origin; dur=866, ak_p; desc=\"1789448631229_400553078_273857334_112968_14314_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:03:52 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2137",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Mounts flush to the surface of a drop ceiling",
+              "G 1/2 connection",
+              "Requires electrical connection"
+            ],
+            "ProductOverallWidthInches_s": "23-5/8\"",
+            "ProductNarrativeDescription_s": "Indulge in the shower of your dreams with the exquisitely crafted Loure™ four-function overhead shower panel. This sleek ultra-thin rectangular shower panel lends itself to the contemporary bathroom space with a flush-to-ceiling profile and easy-to-clean silicone nozzles. Four distinct spray patterns and LED lighting alternating in four colors allows you to further customize your premium shower experience.",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|97168IN-AF|true|false|K-97168IN-AF",
+              "Matte Black|swatch_BL|97168IN-BL|true|false|K-97168IN-BL"
+            ],
+            "ProductBrandName_s": "Loure™",
+            "ProductPackageContents_s": "1 LOURE RECTANGLE MF RAINPANEL 600 X 800MM, 1 INSTALLATION INSTRUCTION, 1 WARRANTY SHEET, INDIA",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-97168IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "97168IN-BL|aah01121_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah01121_rgb",
+              "97168IN-AF|aag24285_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24285_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 582159.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 727700.0,
+            "ProductOverallLengthInches_s": "1/8\"",
+            "ProductDescriptionProductShort_s": "Rectangular 80 cm x 60 cm four-function overhead shower panel, 11.8 lpm – 36.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168insde.dxf"
+            ],
+            "productName_s": "Loure™ Rectangular 80 cm x 60 cm four-function overhead shower panel, 11.8 lpm – 36.0 lpm",
+            "ctId_s": "662d4762-d002-46ed-a288-4b1d93caa50c",
+            "ProductWebFeatures_ss": [
+              "Sleek, minimalist design",
+              "Advanced spray engine provides four alternate experiences: full coverage rain with Katalyst air-induction technology, rain curtain, cascade, and hydromassage spray",
+              "Full coverage rain with Katalyst™ air-induction technology delivers a drenching spray experience, ideal for rinsing shampoo from hair",
+              "Rain curtain provides a warm space to lather in the center of the shower, surrounded by a gentle curtain of rain",
+              "Cascade spray delivers two luxurious waterfall-like angled streams for complete soaking and rinsing",
+              "Hydromassage spray consists of four targeted kinetic streams to soothe tired and sore muscles",
+              "Corner LED lighting sets the mood, cycling through four automatically changing colors",
+              "Flexible, silicone nozzles assure long life and easy clean",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "3.1 gpm – 9.5 gpm (11.8 lpm – 36.0 lpm) maximum flow rate at 43.5 psi (3.0 bar); flow rate will vary by spray and with flow restrictor"
+            ],
+            "priceList.ANY.finalPrice_d": 727700.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168insde.dwg"
+            ],
+            "sku_s": "97168IN-BL",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Ceiling_Mount_Rainhead-KOHLER-K-97168IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Ceiling_Mount_Rainhead-KOHLER-K-97168IN.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "79.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "97168IN",
+            "productInRiverId_s": "inRiver_558334",
+            "priceList.CTR.finalPrice_d": 727700.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-97168IN-BL",
+            "ProductBrandNameDisplay_s": "Loure™",
+            "variantList.sku_ss": [
+              "97168IN-BL",
+              "97168IN-AF"
+            ],
+            "SKUShippingHeight_s": "26.400",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "100.200",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97168IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "31-1/2\"",
+            "id": "662d4762-d002-46ed-a288-4b1d93caa50c|97168IN-BL"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "product_url": "https://www.kohler.co.in/p/ove-1700-mm-x-750-mm-drop-in-whirlpool-bath-1709in-k?skuId=1709IN-K-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/ove-1700-mm-x-750-mm-drop-in-whirlpool-bath-1709in-k",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/ove-1700-mm-x-750-mm-drop-in-whirlpool-bath-1709in-k",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/ove-1700-mm-x-750-mm-drop-in-whirlpool-bath-1709in-k?skuId=1709IN-K-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "YwlFXb6vSM",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=256, origin; dur=1406, ak_p; desc=\"1789420468028_400553039_333170701_166165_10406_10_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:14:29 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1486",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1709in_kfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in",
+              "Reversible drain",
+              "Requires dedicated electrical GFCI circuit (220-240 V, 3 A, 50 Hz)"
+            ],
+            "ProductOverallWidthInches_s": "29-1/2\"",
+            "ProductNarrativeDescription_s": "Clean, elegant, and contained, the Ove™ drop-in whirlpool bath expresses contemporary warmth and simplicity. This Ove™ rectangular bath lets you indulge in a deep, immersive soak with six luxurious jets as you relax against the sloped lumbar support. The sleek acrylic construction offers exceptional durability, while thoughtful touches like an integral overflow ensure a deep water experience to relax your mind, rejuvenate your body, and renew your spirit.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1709IN-K-0|false|false|K-1709IN-K-0"
+            ],
+            "ProductBrandName_s": "Ove™",
+            "ProductPackageContents_s": "BATHTUB;\n1 WARRANTY CARD;\n1 INSTALLATION GUIDE;\n1 ROUGHIN GUIDE",
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1709IN-K_spec_IN_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1709IN-K-0|1709IN-0|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/1709IN-0"
+            ],
+            "priceList.GST.finalPrice_d": 156749.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 165000.0,
+            "ProductOverallLengthInches_s": "66-15/16\"",
+            "ProductDescriptionProductShort_s": "170 cm x 75 cm drop-in whirlpool bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1709in_kpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1709in_ksde.dxf"
+            ],
+            "productName_s": "Ove™ 170 cm x 75 cm drop-in whirlpool bath",
+            "ctId_s": "49c6dff6-2959-41c4-95ae-35fad5c9bcd6",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin creates a spacious bathing experience",
+              "Drop-in design creates a seamless bathroom aesthetic",
+              "With overflow",
+              "12.87 inch (32.7 cm) soaking depth",
+              "6 Flexjet™ whirlpool jets",
+              "Integral lumbar support"
+            ],
+            "priceList.ANY.finalPrice_d": 165000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1709in_ksde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "1709IN-K-0",
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "17.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1709IN-K",
+            "productInRiverId_s": "inRiver_2492319",
+            "priceList.CTR.finalPrice_d": 165000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-1709IN-K-0",
+            "ProductBrandNameDisplay_s": "Ove™",
+            "variantList.sku_ss": [
+              "1709IN-K-0"
+            ],
+            "SKUShippingHeight_s": "7.000",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "25.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1709in_kpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1336299"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1709in_kfrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "21-1/4\"",
+            "id": "49c6dff6-2959-41c4-95ae-35fad5c9bcd6|1709IN-K-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

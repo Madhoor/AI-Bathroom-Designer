@@ -1,0 +1,191 @@
+{
+  "product_url": "https://www.kohler.co.in/p/composed-wall-mount-bath-spout-73120?skuId=73120-2MB",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/composed-wall-mount-bath-spout-73120",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/composed-wall-mount-bath-spout-73120",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/composed-wall-mount-bath-spout-73120?skuId=73120-2MB",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "RifdyEyG6O",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=244, origin; dur=711, ak_p; desc=\"1789446657832_400553039_335245887_95568_11490_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:30:58 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2155",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductYoutubeID_s": "OiXD3pB4SSM",
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductBrandName_s": "Composed™",
+            "ProductPackageContents_s": "1. BATH SPOUT ASSY.\n 1 INSTALLATION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120.skp"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1276119-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 37000.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 37000.0,
+            "ProductOverallLengthInches_s": "8-1/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120pln.dxf"
+            ],
+            "productName_s": "Composed® Wall-mount bath spout",
+            "ctId_s": "3352b5bd-f1fe-4489-a816-63106190c440",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Composed-K-73120.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Spout-KOHLER-Composed-K-73120.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "3.210",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73120",
+            "priceList.CTR.finalPrice_d": 37000.0,
+            "ProductBrandNameDisplay_s": "Composed",
+            "SKUShippingHeight_s": "3.210",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-1/2\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120.obj"
+            ],
+            "ProductOverallWidthInches_s": "2-1/2\"",
+            "ProductNarrativeDescription_s": "Timeless and deliberate, the KOHLER® Composed wall-mount bathroom faucet collection embodies the beautifully understated elements of minimalist design. By eliminating unnecessary details, the collection is designed to elicit an emotional response with its stark, refined style. Choose a KOHLER faucet and count on a lifetime of practical beauty.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Titanium|swatch_TT|73120-TT|false|false|K-73120-TT",
+              "Vibrant Brushed Moderne Brass|swatch_2MB|73120-2MB|false|false|K-73120-2MB"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-73120_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-73120_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-73120_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-73120_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73120-TT|73120-TT_ISO_d2c0016270_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_ISO_d2c0016270_rgb",
+              "73120-TT|73120-TT_ISOSquare_d2c0016270_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_ISOSquare_d2c0016270_rgb",
+              "73120-TT|73120-TT_FRONTSquare_d2c0016256_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_FRONTSquare_d2c0016256_rgb",
+              "73120-TT|73120-TT_CloseRoomViewInUseSquareWithText_d2c0016202_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewInUseSquareWithText_d2c0016202_en-US",
+              "73120-TT|73120-TT_CloseRoomViewProductDetailSquare_d2c0016227_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewProductDetailSquare_d2c0016227_rgb",
+              "73120-TT|73120-TT_CloseRoomViewProductDetailInUseSquareWithText_d2c0016267_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/73120-TT_CloseRoomViewProductDetailInUseSquareWithText_d2c0016267_en-US",
+              "73120-TT|73120-TT_DIMENSIONALSquareWithText_d2c0016254_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/73120-TT_DIMENSIONALSquareWithText_d2c0016254_en-US",
+              "73120-TT|73120-TT_SIDESquare_d2c0016269_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/73120-TT_SIDESquare_d2c0016269_rgb",
+              "73120-TT|73120-TT_PartialRoomViewInUseSquareWithText_d2c0016240_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/73120-TT_PartialRoomViewInUseSquareWithText_d2c0016240_en-US",
+              "73120-TT|73120-TT_PartialRoomViewSquareWithText_d2c0016280_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/73120-TT_PartialRoomViewSquareWithText_d2c0016280_en-US",
+              "73120-TT|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "73120-2MB|73120-2MB_ISOSquare_d2c0016152_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_ISOSquare_d2c0016152_rgb",
+              "73120-2MB|73120-2MB_SIDESquare_d2c0016146_rgb|IMGITEMSIDESquare||side view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_SIDESquare_d2c0016146_rgb",
+              "73120-2MB|73120-2MB_PartialRoomViewSquareWithText_d2c0016118_en-US|IMGITEMPARTIALROOMVIEWSquareWithText||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_PartialRoomViewSquareWithText_d2c0016118_en-US",
+              "73120-2MB|73120-2MB_ISO_d2c0016152_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_ISO_d2c0016152_rgb",
+              "73120-2MB|73120-2MB_PartialRoomViewInUseSquareWithText_d2c0016187_en-US|IMGITEMPARTIALROOMVIEWInUseSquareWithText||Up to 2 walls & multiple product categories visible in use|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_PartialRoomViewInUseSquareWithText_d2c0016187_en-US",
+              "73120-2MB|73120-2MB_DIMENSIONALSquareWithText_d2c0016115_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_DIMENSIONALSquareWithText_d2c0016115_en-US",
+              "73120-2MB|73120-2MB_CloseRoomViewInUseSquareWithText_d2c0016108_en-US|IMGITEMCLOSEROOMVIEWInUseSquareWithText||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewInUseSquareWithText_d2c0016108_en-US",
+              "73120-2MB|73120-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0016109_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewProductDetailInUseSquareWithText_d2c0016109_en-US",
+              "73120-2MB|73120-2MB_CloseRoomViewProductDetailSquare_d2c0016130_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_CloseRoomViewProductDetailSquare_d2c0016130_rgb",
+              "73120-2MB|73120-2MB_FRONTSquare_d2c0016157_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/73120-2MB_FRONTSquare_d2c0016157_rgb",
+              "73120-2MB|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Vibrant® Titanium finish provides an edgy, mid-gray metallic look for a modern bathroom",
+              "Complete range of faucets, accessories and showering components to coordinate a full bathroom"
+            ],
+            "priceList.ANY.finalPrice_d": 37000.0,
+            "sku_s": "73120-2MB",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_269961",
+            "Product_Category": "Bathtub Faucets",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1279078_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-73120-2MB",
+            "variantList.sku_ss": [
+              "73120-2MB",
+              "73120-TT"
+            ],
+            "SKUShippingLength_s": "12.020",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Solid-brass construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73120.dwg"
+            ],
+            "id": "3352b5bd-f1fe-4489-a816-63106190c440|73120-2MB"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1787,95 +1787,124 @@
       },
       {
         "Color.SKU.Details_ss": [
-          "Vibrant Brushed Bronze|swatch_BV|23482IN-4-BV|false|false|K-23482IN-4-BV"
+          "Vibrant French Gold|swatch_AF|EX28093IN-8-AF|true|false|K-EX28093IN-8-AF",
+          "Vibrant Rose Gold|swatch_RGD|EX28093IN-8-RGD|true|false|K-EX28093IN-8-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|EX28093IN-8-BV|true|false|K-EX28093IN-8-BV",
+          "Matte Black|swatch_BL|EX28093IN-8-BL|true|false|K-EX28093IN-8-BL"
         ],
-        "ProductBrandName_s": "Parallel™",
-        "masterSKU_s": "23482IN-4-BV",
+        "ProductBrandName_s": "Components™",
+        "masterSKU_s": "EX28093IN-8-AF",
         "SKUColorSwatchFilename_ss": [
-          "swatch_BV"
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD"
         ],
-        "sourceId_s": "23482IN-4-BV",
+        "sourceId_s": "EX28093IN-8-AF",
         "productImages.labelWithUrl_ss": [
-          "23482IN-4-BV|aaf63272_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63272_rgb"
+          "EX28093IN-8-BV|aae23745_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23745_rgb",
+          "EX28093IN-8-BL|aae23753_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23753_rgb",
+          "EX28093IN-8-AF|aae23754_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23754_rgb",
+          "EX28093IN-8-RGD|aae23756_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23756_rgb"
         ],
-        "priceList.GST.price_d": 8649.0,
-        "priceList.GST.finalPrice_d": 8649.0,
-        "ProductDescriptionProductShort_s": "Pillar tap",
-        "productName_s": "Parallel™ Pillar tap",
-        "ctId_s": "2567e1ad-0851-4433-978d-854a3d778f76",
+        "priceList.GST.price_d": 31599.0,
+        "priceList.GST.finalPrice_d": 31599.0,
+        "ProductDescriptionProductShort_s": "Single-handle bathroom sink faucet with Row spout and Oyl handle, 8.3 lpm",
+        "productName_s": "Components™ Single-handle bathroom sink faucet with Row spout and Oyl handle, 8.3 lpm",
+        "ctId_s": "7aacbed7-0425-4839-8c4a-4ba3cd4fbd5b",
         "Color.GST.Details_ss": [
-          "23482IN-4-BV|Vibrant Brushed Bronze|10180.0|8649.0||https://kohler.scene7.com/is/image/PAWEB/aaf63272_rgb"
+          "EX28093IN-8-AF|Vibrant French Gold|39500.0|31599.0||https://kohler.scene7.com/is/image/PAWEB/aae23754_rgb",
+          "EX28093IN-8-BL|Matte Black|39500.0|31599.0||https://kohler.scene7.com/is/image/PAWEB/aae23753_rgb",
+          "EX28093IN-8-BV|Vibrant Brushed Bronze|39500.0|31599.0||https://kohler.scene7.com/is/image/PAWEB/aae23745_rgb",
+          "EX28093IN-8-RGD|Vibrant Rose Gold|39500.0|31599.0||https://kohler.scene7.com/is/image/PAWEB/aae23756_rgb"
         ],
         "RegionSupplyChain_ss": [
-          "Marketed By"
+          "Imported By"
         ],
         "InstallationAvailable_s": "No",
-        "ProductProductNo_s": "23482IN-4",
+        "ProductProductNo_s": "EX28093IN-8",
         "productImages.url_ss": [
-          "https://kohler.scene7.com/is/image/PAWEB/aaf63272_rgb"
+          "https://kohler.scene7.com/is/image/PAWEB/aae23745_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae23753_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae23754_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae23756_rgb"
         ],
-        "priceList.ANY.price_d": 10180.0,
+        "priceList.ANY.price_d": 39500.0,
         "Product_Category": "Bathroom Sink Faucets",
-        "preferenceSku_s": "23482IN-4-BV",
-        "ProductBrandNameDisplay_s": "Parallel",
+        "preferenceSku_s": "EX28093IN-8-AF",
+        "ProductBrandNameDisplay_s": "Components™",
         "variantList.sku_ss": [
-          "23482IN-4-BV"
+          "EX28093IN-8-AF",
+          "EX28093IN-8-BL",
+          "EX28093IN-8-BV",
+          "EX28093IN-8-RGD"
         ],
-        "discountedPriceStartingAt.GST_d": 8649.0,
-        "displayPriceStartingAt_s": "₹8,649.00",
+        "discountedPriceStartingAt.GST_d": 31599.0,
+        "displayPriceStartingAt_s": "₹31,599.00",
         "SKUColorFinishName_ss": [
-          "Vibrant Brushed Bronze"
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
         ],
-        "slug_s": "parallel-pillar-tap-23482in-4",
-        "priceStartingAt.GST_d": 8649.0,
+        "slug_s": "components-single-handle-bathroom-sink-faucet-with-row-spout-and-oyl-handle-8-3-lpm-ex28093in-8",
+        "priceStartingAt.GST_d": 31599.0,
         "priceList.GST.discountedPrice_d": 0.0,
-        "id": "2567e1ad-0851-4433-978d-854a3d778f76|23482IN-4-BV"
+        "id": "7aacbed7-0425-4839-8c4a-4ba3cd4fbd5b|EX28093IN-8-AF"
       },
       {
         "Color.SKU.Details_ss": [
-          "Polished Chrome|swatch_CP|20071IN-4-CP|true|false|K-20071IN-4-CP"
+          "Polished Chrome|swatch_CP|33103IN-4ND-CP|true|false|K-33103IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|33103IN-4ND-AF|true|false|K-33103IN-4ND-AF"
         ],
-        "ProductBrandName_s": "Aleo+™",
-        "masterSKU_s": "20071IN-4-CP",
+        "ProductBrandName_s": "Accliv™",
+        "masterSKU_s": "33103IN-4ND-CP",
         "SKUColorSwatchFilename_ss": [
-          "swatch_CP"
+          "swatch_CP",
+          "swatch_AF"
         ],
-        "sourceId_s": "20071IN-4-CP",
+        "sourceId_s": "33103IN-4ND-CP",
         "productImages.labelWithUrl_ss": [
-          "20071IN-4-CP|aag69350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag69350_rgb"
+          "33103IN-4ND-CP|aae52007_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae52007_rgb",
+          "33103IN-4ND-AF|aae52005_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae52005_rgb"
         ],
-        "priceList.GST.price_d": 6699.0,
-        "priceList.GST.finalPrice_d": 6699.0,
-        "ProductDescriptionProductShort_s": "PILLAR TAP, TALL",
-        "productName_s": "ALEO+ PILLAR TAP, TALL",
-        "ctId_s": "619bfe81-6337-493e-a5c5-0aef19f70c71",
+        "priceList.GST.price_d": 2599.0,
+        "priceList.GST.finalPrice_d": 2599.0,
+        "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet trim, cold only, 9.0 lpm",
+        "productName_s": "Accliv™ Wall-mount single-handle bathroom sink faucet trim, cold only, 9.0 lpm",
+        "ctId_s": "e9503958-515a-4963-acc3-78db7013361c",
         "Color.GST.Details_ss": [
-          "20071IN-4-CP|Polished Chrome|8180.0|6699.0||https://kohler.scene7.com/is/image/PAWEB/aag69350_rgb"
+          "33103IN-4ND-CP|Polished Chrome|3300.0|2599.0||https://kohler.scene7.com/is/image/PAWEB/aae52007_rgb",
+          "33103IN-4ND-AF|Vibrant French Gold|4120.0|3249.0||https://kohler.scene7.com/is/image/PAWEB/aae52005_rgb"
         ],
         "RegionSupplyChain_ss": [
           "Manufactured By"
         ],
         "InstallationAvailable_s": "No",
-        "ProductProductNo_s": "20071IN-4",
+        "ProductProductNo_s": "33103IN-4ND",
         "productImages.url_ss": [
-          "https://kohler.scene7.com/is/image/PAWEB/aag69350_rgb"
+          "https://kohler.scene7.com/is/image/PAWEB/aae52007_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae52005_rgb"
         ],
-        "priceList.ANY.price_d": 8180.0,
+        "priceList.ANY.price_d": 3300.0,
         "Product_Category": "Bathroom Sink Faucets",
-        "preferenceSku_s": "20071IN-4-CP",
-        "ProductBrandNameDisplay_s": "Aleo+™",
+        "preferenceSku_s": "33103IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Accliv™",
         "variantList.sku_ss": [
-          "20071IN-4-CP"
+          "33103IN-4ND-CP",
+          "33103IN-4ND-AF"
         ],
-        "discountedPriceStartingAt.GST_d": 6699.0,
-        "displayPriceStartingAt_s": "₹6,699.00",
+        "discountedPriceStartingAt.GST_d": 2599.0,
+        "displayPriceStartingAt_s": "₹2,599.00",
         "SKUColorFinishName_ss": [
-          "Polished Chrome"
+          "Polished Chrome",
+          "Vibrant French Gold"
         ],
-        "slug_s": "aleo-pillar-tap-tall-20071in-4",
-        "priceStartingAt.GST_d": 6699.0,
+        "slug_s": "accliv-wall-mount-single-handle-bathroom-sink-faucet-trim-cold-only-9-0-lpm-33103in-4nd",
+        "priceStartingAt.GST_d": 2599.0,
         "priceList.GST.discountedPrice_d": 0.0,
-        "id": "619bfe81-6337-493e-a5c5-0aef19f70c71|20071IN-4-CP"
+        "id": "e9503958-515a-4963-acc3-78db7013361c|33103IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
       }
     ],
     "numFound": 48,

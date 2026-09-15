@@ -1,0 +1,175 @@
+{
+  "product_url": "https://www.kohler.co.in/p/beitou-rainpanel-500x500-multifunction-rainpanel-in-polished-chrome-72830in-l?skuId=72830IN-L-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/beitou-rainpanel-500x500-multifunction-rainpanel-in-polished-chrome-72830in-l",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/beitou-rainpanel-500x500-multifunction-rainpanel-in-polished-chrome-72830in-l",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5463>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/beitou-rainpanel-500x500-multifunction-rainpanel-in-polished-chrome-72830in-l?skuId=72830IN-L-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "zghzuEox0R",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=244, origin; dur=707, ak_p; desc=\"1789448615336_400553078_273849034_95180_12372_11_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:03:36 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1909",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830IN-L.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830in_lfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/beitou-water-fall-overhead-shower-in-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Includes mounting hardware"
+            ],
+            "ProductOverallWidthInches_s": "11-1/16\"",
+            "ProductNarrativeDescription_s": "The calming movement of water lies at the heart of the Beitou™ rainhead. The effortless flow of the design mimics the natural cascade of the water over the shower space. Seen in this light, the three-function rainhead with LED lights becomes a stage for water delivery whose shape and sound resembles a serene river. Features three unique sprays: cascade angled stream, full coverage rain with Katalyst™ air-induction technology, and laminar flow.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|72830IN-L-CP|true|false|K-72830IN-L-CP",
+              "Matte Black|swatch_BL|72830IN-L-BL|false|false|K-72830IN-L-BL"
+            ],
+            "ProductBrandName_s": "Beitou™",
+            "ProductPackageContents_s": "1 SHOWERHEAD;1 VALVE ASSY; 1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830IN-L.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600665"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-72830IN-L_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830IN-L.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "72830IN-L-CP|aaf03035_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf03035_rgb",
+              "72830IN-L-BL|aag74300_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74300_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 242799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 303500.0,
+            "ProductOverallLengthInches_s": "21-11/16\"",
+            "ProductDescriptionProductShort_s": "28 cm x 55 cm three-function rainhead, 25.3 – 34.9 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830in_lpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830in_lsde.dxf"
+            ],
+            "productName_s": "Beitou® 28 cm x 55 cm three-function rainhead, 25.3 – 34.9 lpm",
+            "ctId_s": "1a9f4466-e805-4bbb-b955-91f54a181132",
+            "ProductWebFeatures_ss": [
+              "Versatile modern design",
+              "Three function rainhead with cascade, rain, and laminar sprays",
+              "Cascade spray delivers a luxurious waterfall-like angled stream for complete rinsing",
+              "Full coverage rain with Katalyst™ air-induction technology delivers a drenching spray experience, ideal for rinsing shampoo from hair",
+              "Laminar flow",
+              "Integrated warm white lights powered by the water flow",
+              "Cascade spray: 9.2 gpm (34.9 lpm) maximum flow rate at 43.5 psi (3.0 bar) without regulator",
+              "Rain spray: 6.7 gpm (25.3 lpm) maximum flow rate at 43.5 psi (3.0 bar) without regulator",
+              "Laminar spray: 7.1 gpm (26.7 lpm) maximum flow rate at 43.5 psi (3.0 bar) without regulator",
+              "For simultaneous showerhead functions, a higher flow rate is required"
+            ],
+            "priceList.ANY.finalPrice_d": 303500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830in_lsde.dwg"
+            ],
+            "sku_s": "72830IN-L-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Wall_Mount_Showerhead-KOHLER-BEITOU-K-72830IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830IN-L.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "39.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "72830IN-L",
+            "productInRiverId_s": "inRiver_2371699",
+            "priceList.CTR.finalPrice_d": 303500.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-72830IN-L-CP",
+            "ProductBrandNameDisplay_s": "Beitou™",
+            "variantList.sku_ss": [
+              "72830IN-L-CP",
+              "72830IN-L-BL"
+            ],
+            "SKUShippingHeight_s": "14.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "75.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830in_lpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830in_lfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72830IN-L.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-7/8\"",
+            "id": "1a9f4466-e805-4bbb-b955-91f54a181132|72830IN-L-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

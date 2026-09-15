@@ -1,0 +1,159 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rain-duet-multi-function-handshower-geo-97009t?skuId=97009T-AF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rain-duet-multi-function-handshower-geo-97009t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rain-duet-multi-function-handshower-geo-97009t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4906>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rain-duet-multi-function-handshower-geo-97009t?skuId=97009T-AF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "NDcm3Du5Ug",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=269, origin; dur=969, ak_p; desc=\"1789449418840_400553039_335963130_123804_10187_10_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:17:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1247",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009tfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/rainduet-handshower-square-in-french-gold-finish",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|97009T-AF|true|false|K-97009T-AF"
+            ],
+            "ProductBrandName_s": "Rain Duet",
+            "ProductPackageContents_s": "1-HANDSHOWER; 1-WARRANTY CARD; 1-INSTALLATION MANUAL",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009T.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/k-R97009T.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/97009T_spec_CN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "97009T-AF|aaf04405_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf04405_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 10659.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 13000.0,
+            "ProductDescriptionProductShort_s": "Multi-function handshower-geo",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009tsde.dxf"
+            ],
+            "productName_s": "Rain Duet Multi-function handshower-geo",
+            "ctId_s": "4b2e0a87-81a4-4412-a092-fb8fb0380024",
+            "ProductWebFeatures_ss": [
+              "Featuring 13 cm extra-large showerhead with Katalyst™ air-induction technology",
+              "Switch between three spray modes at the touch of a button",
+              "One-piece silicone shower panel"
+            ],
+            "priceList.ANY.finalPrice_d": 13000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009tsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "97009T-AF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower-KOHLER-RAINDUET-K-97009T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009T.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "14.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "97009T",
+            "productInRiverId_s": "inRiver_1337229",
+            "priceList.CTR.finalPrice_d": 13000.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-97009T-AF",
+            "ProductBrandNameDisplay_s": "Rain Duet",
+            "variantList.sku_ss": [
+              "97009T-AF"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "31.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009tpln.dwg"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558981"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/97009T.dwg"
+            ],
+            "id": "4b2e0a87-81a4-4412-a092-fb8fb0380024|97009T-AF"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

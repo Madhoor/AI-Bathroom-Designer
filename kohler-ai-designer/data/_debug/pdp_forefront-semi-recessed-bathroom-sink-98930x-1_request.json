@@ -1,0 +1,160 @@
+{
+  "product_url": "https://www.kohler.co.in/p/forefront-semi-recessed-bathroom-sink-98930x-1?skuId=98930X-1-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/forefront-semi-recessed-bathroom-sink-98930x-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/forefront-semi-recessed-bathroom-sink-98930x-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4215>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/forefront-semi-recessed-bathroom-sink-98930x-1?skuId=98930X-1-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "1F4fj075ic",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=246, origin; dur=730, ak_p; desc=\"1789421322260_400553078_266635338_98084_9627_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:28:43 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1382",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930X-1.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930x_1frt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/forefront-square-semi-recessed-lavatory",
+            "ProductOverallWidthInches_s": "18-5/16\"",
+            "ProductNarrativeDescription_s": "The Forefront™ 42.9 cm square semi-recessed bathroom seek offers a sleek and contemporary design. With a deep basin and rounded edges, this sink showcases a true minimalist style. Semi-recessed installation ensures a striking and elegant focal point in any bathroom.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|98930X-1-0|true|false|K-98930X-1-0"
+            ],
+            "ProductBrandName_s": "Forefront™",
+            "ProductPackageContents_s": "1 VESSEL\n1 INSTL. INSTR. OR CUTOUT TEMPLATE\n1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930X-1.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1218942-X7_B.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-98930X-1_spec_GPS_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-98930X-1_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930X-1.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "98930X-1-0|aae00997_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00997_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 11889.0,
+            "SKUCountryofOrigin_s": "TH",
+            "priceList.KEMP.finalPrice_d": 14500.0,
+            "ProductOverallLengthInches_s": "16-15/16\"",
+            "ProductDescriptionProductShort_s": "Semi-recessed bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930x_1pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930x_1sde.dxf"
+            ],
+            "productName_s": "Forefront™ Semi-recessed bathroom sink",
+            "ctId_s": "788137c2-4fc2-4bff-b765-4b634a75ece3",
+            "ProductWebFeatures_ss": [
+              "Features a symmetrical, square deep basin with rounded edges in true minimalist fashion",
+              "Single-hole faucet installation"
+            ],
+            "priceList.ANY.finalPrice_d": 14500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930x_1sde.dwg"
+            ],
+            "sku_s": "98930X-1-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Semi_Recessed-KOHLER-FOREFRONT-K-98930X.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930X-1.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "47.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "98930X-1",
+            "productInRiverId_s": "inRiver_609515",
+            "priceList.CTR.finalPrice_d": 14500.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-98930X-1-0",
+            "ProductBrandNameDisplay_s": "Forefront",
+            "variantList.sku_ss": [
+              "98930X-1-0"
+            ],
+            "SKUShippingHeight_s": "23.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "59.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930x_1pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930x_1frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98930X-1.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-7/8\"",
+            "id": "788137c2-4fc2-4bff-b765-4b634a75ece3|98930X-1-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

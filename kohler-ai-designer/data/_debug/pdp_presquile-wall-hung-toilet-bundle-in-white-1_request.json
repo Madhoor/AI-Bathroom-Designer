@@ -1,0 +1,160 @@
+{
+  "product_url": "https://www.kohler.co.in/p/presquile-wall-hung-toilet-bundle-in-white-1?skuId=18133IN-2SS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/presquile-wall-hung-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/presquile-wall-hung-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/presquile-wall-hung-toilet-bundle-in-white-1?skuId=18133IN-2SS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "OSwsuMZSHI",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=264, origin; dur=715, ak_p; desc=\"1789450034443_400553078_274585200_97879_14842_18_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:27:15 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1501",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 7.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|8798IN-UF-0|false|false|K-8798IN-UF-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1  INSTALLATION GUIDE,\n1 HARDWARE KIT, 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "8798IN-UF-0|aad75858_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75858_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-close elongated toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Presqu'ile™ Quiet-close elongated toilet seat",
+            "ctId_s": "d7579eec-a9ef-4a56-a353-8c48141c38df",
+            "ProductWebFeatures_ss": [
+              "Resistant to scratching, chipping and Stain-resistant",
+              "Compatible with LED nightlight and fragrance",
+              "Quick-Release™ hinges allow seat to be unlatched from toilet for easy removal and convenient cleaning; no tools required.",
+              "Quiet-Close™ seat and lid close slowly and quietly without slamming.",
+              "Grip-Tight bumpers add stability and prevent shifting.",
+              "2 Year Warranty"
+            ],
+            "ProductOverallWidthCm_d": 39.3,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "8798IN-UF-0",
+            "SKUShippingWidth_s": "43.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Presqu’ile",
+            "SKUShippingHeight_s": "10.000",
+            "SKUShippingLength_s": "51.500",
+            "slug_s": "presqu-ile-quiet-close-elongated-toilet-seat-8798in-uf",
+            "ProductOverallLengthCm_d": 45.5
+          },
+          {
+            "ProductOverallHeightCm_d": 33.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|19080IN-SS-0|true|false|K-19080IN-SS-0"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG;\n1 INSTALLATION KIT; 1 WARRANTY CARD;\n1 INSTALLATION INSTRUCTION",
+            "productImages.labelWithUrl_ss": [
+              "19080IN-SS-0|aae01202_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01202_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung toilet bowl",
+            "ColorFinish_s": "White",
+            "productName_s": "Presqu'ile Wall-hung toilet bowl",
+            "ctId_s": "911857ce-369e-48f1-bbb0-7e3c4e1b6ce7",
+            "ProductWebFeatures_ss": [
+              "Elegant and classic styling",
+              "Smooth side surface with no dirt traps",
+              "It is not a coating on top of the toilet which can get scratched or worn."
+            ],
+            "ProductOverallWidthCm_d": 38.0,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "19080IN-SS-0",
+            "SKUShippingWidth_s": "42.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Presqu'ile",
+            "SKUShippingHeight_s": "62.000",
+            "SKUShippingLength_s": "42.000",
+            "slug_s": "presqu-ile-wall-hung-toilet-bowl-19080in-ss",
+            "ProductOverallLengthCm_d": 55.5
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Presquile wall hung toilet bundle in White",
+            "ctId_s": "c17d14b5-3b9c-4119-af93-d709547082c4",
+            "priceList.ANY.finalPrice_d": 35600.0,
+            "sku_s": "18133IN-2SS-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 35600.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-18133IN-2SS-0",
+            "variantList.sku_ss": [
+              "18133IN-2SS-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "18133IN-2SS-0|aaf86902_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf86902_rgb",
+              "18133IN-2SS-0|aaf86894_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf86894_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 29190.92,
+            "priceList.KEMP.finalPrice_d": 35600.0,
+            "id": "c17d14b5-3b9c-4119-af93-d709547082c4|18133IN-2SS-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

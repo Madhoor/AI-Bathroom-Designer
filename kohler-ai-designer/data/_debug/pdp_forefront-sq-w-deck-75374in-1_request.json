@@ -1,0 +1,156 @@
+{
+  "product_url": "https://www.kohler.co.in/p/forefront-sq-w-deck-75374in-1?skuId=75374IN-1-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/forefront-sq-w-deck-75374in-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/forefront-sq-w-deck-75374in-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/forefront-sq-w-deck-75374in-1?skuId=75374IN-1-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "78airLr2RT",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=272, origin; dur=830, ak_p; desc=\"1789420688561_400553078_266586306_110303_13824_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:18:09 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1852",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75374IN-1.obj"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/forefront-countertop-wash-square-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Semi-recessed vessel",
+              "Requires countertop cutout"
+            ],
+            "ProductOverallWidthInches_s": "18-1/8\"",
+            "ProductNarrativeDescription_s": "The KOHLER® Forefront™ 46 cm square vessel bathroom sink is a perfect fusion of practical design and contemporary elegance. Featuring an integrated rear faucet deck, it offers a convenient surface for containing water or placing small essentials like soap or toiletries, keeping your space tidy and functional. The vessel’s softly rounded edges add a delicate, inviting touch that enhances its modern aesthetic, blending seamlessly into a wide range of bathroom styles. Designed with meticulous attention to detail, its glazed underside presents a polished, refined look from every angle, ensuring beauty is never compromised. At Kohler, we are dedicated to transforming your vision into reality, helping you craft a serene and stylish bathroom space that is as functional as it is breathtaking. With the Forefront™ sink, thoughtful innovation meets timeless design to deliver an experience that’s nothing short of extraordinary.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|75374IN-1-0|true|false|K-75374IN-1-0"
+            ],
+            "ProductBrandName_s": "Forefront™",
+            "ProductPackageContents_s": "1VESSEL;",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75374IN-1.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-75374IN-1_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75374IN-1.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "75374IN-1-0|aad75942_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75942_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 10659.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 13000.0,
+            "ProductOverallLengthInches_s": "16-1/4\"",
+            "ProductDescriptionProductShort_s": "46 cm square vessel bathroom sink with glazed underside, no overflow",
+            "productName_s": "Forefront™ 46 cm square vessel bathroom sink with glazed underside, no overflow",
+            "ctId_s": "750b4b6d-a223-4493-a55f-4973b7fda760",
+            "ProductWebFeatures_ss": [
+              "Contemporary design makes a modern statement",
+              "Square basin",
+              "Rounded corners are easy to clean",
+              "An integrated faucet deck provides additional water containment",
+              "Single faucet hole at deck center",
+              "Without overflow",
+              "Glazed underside offers beauty from all angles",
+              "Coordinates with other products in the Forefront™ collection"
+            ],
+            "priceList.ANY.finalPrice_d": 13000.0,
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "75374IN-1-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-FOREFRONT-K-75374IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75374IN-1.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "44.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "75374IN-1",
+            "productInRiverId_s": "inRiver_589565",
+            "priceList.CTR.finalPrice_d": 13000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-75374IN-1-0",
+            "ProductBrandNameDisplay_s": "Forefront™",
+            "variantList.sku_ss": [
+              "75374IN-1-0"
+            ],
+            "SKUShippingHeight_s": "24.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "52.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75374IN-1.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6\"",
+            "id": "750b4b6d-a223-4493-a55f-4973b7fda760|75374IN-1-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

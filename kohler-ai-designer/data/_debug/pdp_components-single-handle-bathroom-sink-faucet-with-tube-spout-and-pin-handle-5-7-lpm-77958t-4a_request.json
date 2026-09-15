@@ -1,0 +1,172 @@
+{
+  "product_url": "https://www.kohler.co.in/p/components-single-handle-bathroom-sink-faucet-with-tube-spout-and-pin-handle-5-7-lpm-77958t-4a?skuId=77958T-4A-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/components-single-handle-bathroom-sink-faucet-with-tube-spout-and-pin-handle-5-7-lpm-77958t-4a",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/components-single-handle-bathroom-sink-faucet-with-tube-spout-and-pin-handle-5-7-lpm-77958t-4a",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5541>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/components-single-handle-bathroom-sink-faucet-with-tube-spout-and-pin-handle-5-7-lpm-77958t-4a?skuId=77958T-4A-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "NCMeGsWGuG",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=260, origin; dur=795, ak_p; desc=\"1789421597991_400553039_333218708_105533_10079_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:33:19 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1854",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958T-4A.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958t_4afrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/components-sc-lavatory-faucet",
+            "ProductWebInstallation_ss": [
+              "For single-hole installation",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductOverallWidthInches_s": "1-7/8\"",
+            "ProductNarrativeDescription_s": "Modern form meets modern function: the Components™ collection is defined by controlled forms and stark precision in every line and angle. With Components, you design your custom bath. This single-handle bathroom sink faucet with Tube spout, features a slim, elegant pin lever handle that is easy to grasp and control with one hand. Coordinate this sink faucet with Components™ shower and bath faucets and accessories to create a personalized design.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|77958T-4A-CP|false|false|K-77958T-4A-CP"
+            ],
+            "ProductBrandName_s": "Components™",
+            "ProductPackageContents_s": "1 COMPONENTS SC LAV FCT, 3 INSTALLATION INSTRUCTIONS, 1 CERT. OF MAINTENANCE, 3 INSERT,DC,",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958T-4A.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/77958T-4A_install_CN_Kohler_en.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-77958T-4A_spec_TH_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-77958T-4A_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958T-4A.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "77958T-4A-CP|zac46801_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac46801_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 23999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 30000.0,
+            "ProductOverallLengthInches_s": "5-1/16\"",
+            "ProductDescriptionProductShort_s": "Single-handle bathroom sink faucet with Tube spout and Pin handle, 5.7 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958t_4apln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958t_4asde.dxf"
+            ],
+            "productName_s": "Components™ Single-handle bathroom sink faucet with Tube spout and Pin handle, 5.7 lpm",
+            "ctId_s": "aab594f9-938f-4c2e-a564-e97d2858313d",
+            "ProductWebFeatures_ss": [
+              "Single pin handle allows for both volume and temperature control",
+              "Temperature memory allows faucet to be turned on and off at the temperature set during prior usage",
+              "5-1/16\" (12.9 cm) spout reach",
+              "3-11/16\" (94 mm) spout height",
+              "1.5 gpm (5.7 lpm) maximum flow rate at 45 psi (3.1 bar)",
+              "Includes metal pop-up drain with 1-1/4\" metal tailpiece",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance",
+              "Coordinates with Components faucets, accessories, and showering components to complete your bathroom"
+            ],
+            "priceList.ANY.finalPrice_d": 30000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958t_4asde.dwg"
+            ],
+            "sku_s": "77958T-4A-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-COMPONENTS-K-77958T.zip",
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-COMPONENTS-K-77958T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958T-4A.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "27.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "77958T-4A",
+            "productInRiverId_s": "inRiver_1336489",
+            "priceList.CTR.finalPrice_d": 30000.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-77958T-4A-CP",
+            "ProductBrandNameDisplay_s": "Components™",
+            "variantList.sku_ss": [
+              "77958T-4A-CP"
+            ],
+            "SKUShippingHeight_s": "9.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "38.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958t_4apln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958t_4afrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/77958T-4A.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-1/16\"",
+            "id": "aab594f9-938f-4c2e-a564-e97d2858313d|77958T-4A-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

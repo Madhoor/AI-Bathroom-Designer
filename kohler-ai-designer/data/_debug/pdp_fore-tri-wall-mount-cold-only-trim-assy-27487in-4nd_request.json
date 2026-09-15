@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/fore-tri-wall-mount-cold-only-trim-assy-27487in-4nd?skuId=27487IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/fore-tri-wall-mount-cold-only-trim-assy-27487in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/fore-tri-wall-mount-cold-only-trim-assy-27487in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/fore-tri-wall-mount-cold-only-trim-assy-27487in-4nd?skuId=27487IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "OGZKrLUnzd",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=742, ak_p; desc=\"1789422116279_400553039_333243770_100719_10535_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:41:57 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1762",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487in_4ndfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/fore-tri-wall-mount-cold-only-basin-faucet-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Trim only; requires valve to complete installation (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "Bold in stature with neo-modern expression, the Fore Tri™ wall-mount bathroom sink faucet brings sleek sophistication to your bathroom. This futuristic-looking faucet with hidden aerator features a thin Lever handle for easy-to-grip, ergonomic control of temperature and water volume. A clean silhouette, this single-handle bathroom sink faucet blends design with more-sustainable performance for the ultimate user experience.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|27487IN-4ND-CP|true|false|K-27487IN-4ND-CP"
+            ],
+            "ProductBrandName_s": "Fore Tri™",
+            "ProductPackageContents_s": "1-WM COLD ONLY FAUCET, 1 INSTALLATION INSTRUCTION; 1 WARRANTY, 1 MOUNTING KIT; 1 SLEEVE KIT, 1 ESCUTCHEON KIT",
+            "Recommended_Accessories_ss": [
+              "inRiver_3201829"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-27487IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27487IN-4ND-CP|aaf94987_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf94987_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2899.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3420.0,
+            "ProductOverallLengthInches_s": "6-1/4\"",
+            "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet, 9.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487in_4ndsde.dxf"
+            ],
+            "productName_s": "Fore Tri™ Wall-mount single-handle bathroom sink faucet, 9.0 lpm",
+            "ctId_s": "bb44a11a-1db0-4a8d-bbc5-e5de2f85f564",
+            "ProductWebFeatures_ss": [
+              "Single handle provides on/off activation, volume, and temperature control",
+              "Red/blue indexing on handle",
+              "15.8 cm (6.25 inch) spout reach",
+              "9.0 lpm (2.38 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 3420.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487in_4ndsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "27487IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Ore-K-27487IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "17.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27487IN-4ND",
+            "productInRiverId_s": "inRiver_2491486",
+            "priceList.CTR.finalPrice_d": 3420.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-27487IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Fore Tri™",
+            "variantList.sku_ss": [
+              "27487IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "6.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "20.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_2491222"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27487IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-3/8\"",
+            "id": "bb44a11a-1db0-4a8d-bbc5-e5de2f85f564|27487IN-4ND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

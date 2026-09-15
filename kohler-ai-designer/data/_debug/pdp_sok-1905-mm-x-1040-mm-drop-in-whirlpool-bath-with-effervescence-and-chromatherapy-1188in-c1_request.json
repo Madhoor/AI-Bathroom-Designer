@@ -1,0 +1,171 @@
+{
+  "product_url": "https://www.kohler.co.in/p/sok-1905-mm-x-1040-mm-drop-in-whirlpool-bath-with-effervescence-and-chromatherapy-1188in-c1?skuId=1188IN-C1-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/sok-1905-mm-x-1040-mm-drop-in-whirlpool-bath-with-effervescence-and-chromatherapy-1188in-c1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/sok-1905-mm-x-1040-mm-drop-in-whirlpool-bath-with-effervescence-and-chromatherapy-1188in-c1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/sok-1905-mm-x-1040-mm-drop-in-whirlpool-bath-with-effervescence-and-chromatherapy-1188in-c1?skuId=1188IN-C1-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "McPuV7FzVT",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=278, origin; dur=792, ak_p; desc=\"1789420499482_400553039_333172097_106960_12685_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:15:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1639",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188IN-C1.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188in_c1frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in",
+              "Right drain",
+              "Requires two dedicated electrical GFCI circuits (240 V, 20 A, 50-60 Hz)"
+            ],
+            "ProductOverallWidthInches_s": "31-1/2\"",
+            "ProductNarrativeDescription_s": "Escape and unwind in this ultra-deep and private retreat. With a continuous flow of water cascading over the sides of the basin, the sok™ whirlpool bath offers whole-body immersion as chromatherapy surrounds you with calming colored lights. Effervescence ports release thousands of tiny champagne-like bubbles, creating a luxurious sensory experience.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1188IN-C1-0|false|false|K-1188IN-C1-0"
+            ],
+            "ProductBrandName_s": "sok™",
+            "ProductPackageContents_s": "Bathtub, Installation Manual, Warranty Document",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188IN-C1.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1188IN-C1_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188IN-C1.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1188IN-C1-0|zaa64728_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa64728_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2383500.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 2383500.0,
+            "ProductOverallLengthInches_s": "72\"",
+            "ProductDescriptionProductShort_s": "190.5 cm x 104 cm drop-in whirlpool bath with Effervescence and chromatherapy",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188in_c1pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188in_c1sde.dxf"
+            ],
+            "productName_s": "sok™ 190.5 cm x 104 cm drop-in whirlpool bath with Effervescence and chromatherapy",
+            "ctId_s": "8256031e-999f-4194-ab1c-d20e293561d8",
+            "ProductWebFeatures_ss": [
+              "Spacious design lets you melt into a luxuriously deep soaking experience",
+              "Overflow channel for deep soak and unique infinity pool effect",
+              "Variable-speed pump for adjusting hydromassage intensity",
+              "Chromatherapy lighting allows you to select a preferred color scheme to suit your mood",
+              "Built-in heater",
+              "Integral lumbar support",
+              "Remote control"
+            ],
+            "ProductWebHydrotherapy_ss": [
+              "11 effervescence ports deliver gentle, caressing bubbles"
+            ],
+            "priceList.ANY.finalPrice_d": 2383500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188in_c1sde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "1188IN-C1-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In-Effervesence-KOHLER-Sok-K-1188IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188IN-C1.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "48.880",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1188IN-C1",
+            "productInRiverId_s": "inRiver_3067521",
+            "priceList.CTR.finalPrice_d": 2383500.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-1188IN-C1-0",
+            "ProductBrandNameDisplay_s": "sok™",
+            "variantList.sku_ss": [
+              "1188IN-C1-0"
+            ],
+            "SKUShippingHeight_s": "28.310",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "80.880",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188in_c1pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_244354"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188in_c1frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1188IN-C1.dwg"
+            ],
+            "ProductOverallHeightInches_s": "25\"",
+            "id": "8256031e-999f-4194-ab1c-d20e293561d8|1188IN-C1-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

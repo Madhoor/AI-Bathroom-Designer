@@ -1,0 +1,166 @@
+{
+  "product_url": "https://www.kohler.co.in/p/caxton-big-undercounter-lavatory-2211in?skuId=2211IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/caxton-big-undercounter-lavatory-2211in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/caxton-big-undercounter-lavatory-2211in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/caxton-big-undercounter-lavatory-2211in?skuId=2211IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "UQuJF2jEIH",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=249, origin; dur=813, ak_p; desc=\"1789420917762_400553078_266605642_106200_10193_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:21:58 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1524",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/caxton-undercounter-round-wash-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Undermount"
+            ],
+            "ProductOverallWidthInches_s": "17-1/4\"",
+            "ProductNarrativeDescription_s": "The Caxton™ 54 cm oval undercounter bathroom sink has a simple, streamlined design that's as versatile as it is attractive. This easy-to-clean sink combines the sleek look of an integrated basin with a timeless design that suits both traditional and contemporary bathroom decor. Pair your new Caxton™ sink with a compatible wall- or deck-mount faucet for a complete setup.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|2211IN-0|true|false|K-2211IN-0"
+            ],
+            "ProductBrandName_s": "Caxton™",
+            "ProductPackageContents_s": "1 Lavatory, 1 Instruction\nTemplate, 1 Warranty Card\n1 Lav Clamp Accessory Pack",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1593303-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-2211IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "2211IN-0|zaa77924_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa77924_rgb",
+              "2211IN-0|zaa77925_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/zaa77925_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 4589.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 5400.0,
+            "ProductOverallLengthInches_s": "21-1/8\"",
+            "ProductDescriptionProductShort_s": "54 cm undercounter lavatory",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211insde.dxf"
+            ],
+            "productName_s": "Caxton™ 54 cm undercounter lavatory",
+            "ctId_s": "c11028e8-b184-4253-bde3-b259c77f197c",
+            "ProductWebFeatures_ss": [
+              "Transitional design combines the best of modern and classic styles",
+              "Oval basin",
+              "No faucet holes; requires wall- or deck-mount faucet",
+              "Rear drain and overflow"
+            ],
+            "priceList.ANY.finalPrice_d": 5400.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211insde.dwg"
+            ],
+            "sku_s": "2211IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Undermount-Lavatory-KOHLER-Caxton-K-2211IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "47.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "2211IN",
+            "productInRiverId_s": "inRiver_1336395",
+            "priceList.CTR.finalPrice_d": 5400.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-2211IN-0",
+            "ProductBrandNameDisplay_s": "Caxton™",
+            "variantList.sku_ss": [
+              "2211IN-0"
+            ],
+            "SKUShippingHeight_s": "21.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "56.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2211IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-7/16\"",
+            "id": "c11028e8-b184-4253-bde3-b259c77f197c|2211IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "product_url": "https://www.kohler.co.in/p/finial-widespread-lavatory-faucet-with-lever-handles-and-pop-up-drain-in-polished-chrome-8670in-4m?skuId=8670IN-4M-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/finial-widespread-lavatory-faucet-with-lever-handles-and-pop-up-drain-in-polished-chrome-8670in-4m",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/finial-widespread-lavatory-faucet-with-lever-handles-and-pop-up-drain-in-polished-chrome-8670in-4m",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4946>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/finial-widespread-lavatory-faucet-with-lever-handles-and-pop-up-drain-in-polished-chrome-8670in-4m?skuId=8670IN-4M-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "tuNKm1iwx7",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=258, origin; dur=895, ak_p; desc=\"1789422232236_400553039_333248199_115634_9193_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:43:53 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1493",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670IN-4M.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670in_4mfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/finial-widespread-lavatory-faucet",
+            "ProductNarrativeDescription_s": "With their graceful curved lines and classical silhouettes, Finial Traditional faucets match an assortment of bathroom styles. This Finial lavatory faucet features a high-arch spout with an aerator to help conserve water and reduce splash. ",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|8670IN-4M-CP|false|false|K-8670IN-4M-CP"
+            ],
+            "ProductBrandName_s": "Finial™",
+            "ProductPackageContents_s": "1 SPOUT ASSEMBLY; 2 HANDLE ASSEMBLY;1 HARDWARE KIT; 1 INSTALLATION GUIDES & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670IN-4M.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/8670.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670IN-4M.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "8670IN-4M-CP|zaa53940_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa53940_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 34939.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 42610.0,
+            "ProductDescriptionProductShort_s": "Widespread lavatory faucet with lever handles and pop-up drain in polished chrome",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670in_4mpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670in_4msde.dxf"
+            ],
+            "productName_s": "Finial™ Widespread lavatory faucet with lever handles and pop-up drain in polished chrome",
+            "ctId_s": "e112fc53-ac65-4868-a9af-edbb825b87fb",
+            "ProductWebFeatures_ss": [
+              "Complements the Finial(R) collection",
+              "Two-handle widespread lavatory faucet",
+              "Solid brass construction for durability and reliability",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance.",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times"
+            ],
+            "priceList.ANY.finalPrice_d": 42610.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670in_4msde.dwg"
+            ],
+            "sku_s": "8670IN-4M-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Finial_Traditional-K-8670IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670IN-4M.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "13.906",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "8670IN-4M",
+            "productInRiverId_s": "inRiver_559199",
+            "priceList.CTR.finalPrice_d": 42610.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-8670IN-4M-CP",
+            "ProductBrandNameDisplay_s": "Finial™",
+            "variantList.sku_ss": [
+              "8670IN-4M-CP"
+            ],
+            "SKUShippingHeight_s": "4.219",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "18.313",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670in_4mpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670in_4mfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/8670IN-4M.dwg"
+            ],
+            "id": "e112fc53-ac65-4868-a9af-edbb825b87fb|8670IN-4M-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

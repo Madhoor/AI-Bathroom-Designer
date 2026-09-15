@@ -1,0 +1,1299 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"BathingProductType_s\"}BathingProductType_s",
+      "{!ex=\"BathingProductOverallLengthDecimalRangeCm_s\"}BathingProductOverallLengthDecimalRangeCm_s",
+      "{!ex=\"BathingProductOverallHeightDecimalRangeCm_s\"}BathingProductOverallHeightDecimalRangeCm_s",
+      "{!ex=\"ProductBrandNameDisplay_s\"}ProductBrandNameDisplay_s",
+      "{!ex=\"ProductMaterial_s\"}ProductMaterial_s",
+      "{!ex=\"ATTR_SPEC_DrainLocation_s\"}ATTR_SPEC_DrainLocation_s",
+      "{!ex=\"ATTR_SPEC_Hydrotherapy_ss\"}ATTR_SPEC_Hydrotherapy_ss",
+      "{!ex=\"ProductShape_s\"}ProductShape_s",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "{!ex=\"Water_Depth_s\"}Water_Depth_s",
+      "ATTR_SPEC_IncludesChromatherapy_s",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductInstallationType_ss": "Installation Type",
+      "BathingProductType_s": "Product Type",
+      "BathingProductOverallLengthDecimalRangeCm_s": "Length",
+      "BathingProductOverallHeightDecimalRangeCm_s": "Height",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductMaterial_s": "Material",
+      "ATTR_SPEC_DrainLocation_s": "Drain Location",
+      "ATTR_SPEC_Hydrotherapy_ss": "Hydrotherapy",
+      "ProductShape_s": "Shape",
+      "ProductStyle_ss": "Style",
+      "Water_Depth_s": "Water Depth",
+      "ATTR_SPEC_IncludesChromatherapy_s": "Chromatherapy",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|15847T-0|true|false|K-15847T-0"
+        ],
+        "ProductBrandName_s": "Reach™",
+        "masterSKU_s": "15847T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "15847T-0",
+        "productImages.labelWithUrl_ss": [
+          "15847T-0|aaf68577_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf68577_rgb",
+          "15847T-0|aaf68578_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68578_rgb",
+          "15847T-0|aaf68583_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68583_rgb",
+          "15847T-0|aaf68579_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68579_rgb",
+          "15847T-0|aaf68581_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68581_rgb",
+          "15847T-0|aaf68582_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68582_rgb",
+          "15847T-0|aaf68580_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68580_rgb",
+          "15847T-0|aaf68584_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68584_rgb",
+          "15847T-0|aad44280_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad44280_rgb"
+        ],
+        "priceList.GST.price_d": 29449.0,
+        "priceList.GST.finalPrice_d": 29449.0,
+        "ProductDescriptionProductShort_s": "150 cm x 70 cm drop-in bath",
+        "productName_s": "Reach™ 150 cm x 70 cm drop-in bath",
+        "ctId_s": "12f30017-1483-4739-8884-c9a3d7b4a4ae",
+        "Color.GST.Details_ss": [
+          "15847T-0|White|31000.0|29449.0||https://kohler.scene7.com/is/image/PAWEB/aaf68577_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "15847T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68577_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68578_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68583_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68579_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68581_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68582_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68580_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68584_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad44280_rgb"
+        ],
+        "priceList.ANY.price_d": 31000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "15847T-0",
+        "ProductBrandNameDisplay_s": "Reach™",
+        "variantList.sku_ss": [
+          "15847T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 29449.0,
+        "displayPriceStartingAt_s": "₹29,449.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "reach-1500-mm-x-700-mm-drop-in-bath-15847t",
+        "priceStartingAt.GST_d": 29449.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "12f30017-1483-4739-8884-c9a3d7b4a4ae|15847T-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|18775T-0|true|false|K-18775T-0"
+        ],
+        "ProductBrandName_s": "Duo™",
+        "masterSKU_s": "18775T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "18775T-0",
+        "productImages.labelWithUrl_ss": [
+          "18775T-0|aag07345_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07345_rgb",
+          "18775T-0|aag07344_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07344_rgb",
+          "18775T-0|aag07346_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07346_rgb",
+          "18775T-0|aag07347_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07347_rgb",
+          "18775T-0|aag07348_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07348_rgb",
+          "18775T-0|aag07350_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb",
+          "18775T-0|aag07350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb"
+        ],
+        "priceList.GST.price_d": 39899.0,
+        "priceList.GST.finalPrice_d": 39899.0,
+        "ProductDescriptionProductShort_s": "167 cm x 76 cm drop-in bath",
+        "productName_s": "Duo™ 167 cm x 76 cm drop-in bath",
+        "ctId_s": "2bbd05c8-dc6e-40d3-8723-8c3af2d7c11e",
+        "Color.GST.Details_ss": [
+          "18775T-0|White|42000.0|39899.0||https://kohler.scene7.com/is/image/PAWEB/aag07345_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "18775T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag07345_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07344_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07346_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07347_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07348_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb"
+        ],
+        "priceList.ANY.price_d": 42000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "18775T-0",
+        "ProductBrandNameDisplay_s": "Duo™",
+        "variantList.sku_ss": [
+          "18775T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 39899.0,
+        "displayPriceStartingAt_s": "₹39,899.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "duo-1670-mm-x-760-mm-drop-in-bath-18775t",
+        "priceStartingAt.GST_d": 39899.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "2bbd05c8-dc6e-40d3-8723-8c3af2d7c11e|18775T-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1704T-Z-0|false|false|K-1704T-Z-0"
+        ],
+        "ProductBrandName_s": "Evok™",
+        "masterSKU_s": "1704T-Z-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1704T-Z-0",
+        "productImages.labelWithUrl_ss": [
+          "1704T-Z-0|aag07812_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aag07812_rgb",
+          "1704T-Z-0|aaf80569_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf80569_rgb",
+          "1704T-Z-0|aaf80568_rgb|IMGTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aaf80568_rgb",
+          "1704T-Z-0|aag07813_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07813_rgb",
+          "1704T-Z-0|aag07815_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07815_rgb",
+          "1704T-Z-0|aag07814_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07814_rgb",
+          "1704T-Z-0|aag07818_rgb|IMGTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aag07818_rgb",
+          "1704T-Z-0|aag07816_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07816_rgb",
+          "1704T-Z-0|aag07819_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07819_rgb"
+        ],
+        "priceList.GST.price_d": 56999.0,
+        "priceList.GST.finalPrice_d": 56999.0,
+        "ProductDescriptionProductShort_s": "180 cm x 80 cm drop-in bath",
+        "productName_s": "Evok™ 180 cm x 80 cm drop-in bath",
+        "ctId_s": "af5f77a3-7860-467c-bbc9-8596c0d9e9be",
+        "Color.GST.Details_ss": [
+          "1704T-Z-0|White|60000.0|56999.0||https://kohler.scene7.com/is/image/PAWEB/aag07812_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "1704T-Z",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag07812_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf80569_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf80568_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07813_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07815_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07814_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07818_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07816_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07819_rgb"
+        ],
+        "priceList.ANY.price_d": 60000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "1704T-Z-0",
+        "ProductBrandNameDisplay_s": "Evok™",
+        "variantList.sku_ss": [
+          "1704T-Z-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 56999.0,
+        "displayPriceStartingAt_s": "₹56,999.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "evok-1800-mm-x-800-mm-drop-in-bath-1704t-z",
+        "priceStartingAt.GST_d": 56999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "af5f77a3-7860-467c-bbc9-8596c0d9e9be|1704T-Z-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|18776T-0|true|false|K-18776T-0"
+        ],
+        "ProductBrandName_s": "Duo™",
+        "masterSKU_s": "18776T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "18776T-0",
+        "productImages.labelWithUrl_ss": [
+          "18776T-0|aag07391_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07391_rgb",
+          "18776T-0|aag07394_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07394_rgb",
+          "18776T-0|aag07390_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07390_rgb",
+          "18776T-0|aaf71433_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71433_rgb",
+          "18776T-0|aaf71432_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71432_rgb",
+          "18776T-0|aag07350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb"
+        ],
+        "priceList.GST.price_d": 34669.0,
+        "priceList.GST.finalPrice_d": 34669.0,
+        "ProductDescriptionProductShort_s": "152 cm x 76 cm drop-in bath",
+        "productName_s": "Duo™ 152 cm x 76 cm drop-in bath",
+        "ctId_s": "32f74bc1-ed0a-4d1b-955b-0d29e7264829",
+        "Color.GST.Details_ss": [
+          "18776T-0|White|36500.0|34669.0||https://kohler.scene7.com/is/image/PAWEB/aag07391_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "18776T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag07391_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07394_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07390_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf71433_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf71432_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb"
+        ],
+        "priceList.ANY.price_d": 36500.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "18776T-0",
+        "ProductBrandNameDisplay_s": "Duo™",
+        "variantList.sku_ss": [
+          "18776T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 34669.0,
+        "displayPriceStartingAt_s": "₹34,669.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "duo-1520-mm-x-760-mm-drop-in-bath-18776t",
+        "priceStartingAt.GST_d": 34669.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "32f74bc1-ed0a-4d1b-955b-0d29e7264829|18776T-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|15848T-0|true|false|K-15848T-0"
+        ],
+        "ProductBrandName_s": "Reach™",
+        "masterSKU_s": "15848T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "15848T-0",
+        "productImages.labelWithUrl_ss": [
+          "15848T-0|aad44278_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad44278_rgb",
+          "15848T-0|aaf67075_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67075_rgb",
+          "15848T-0|aaf67077_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67077_rgb",
+          "15848T-0|aaf67072_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67072_rgb",
+          "15848T-0|aaf67076_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67076_rgb",
+          "15848T-0|aaf67074_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67074_rgb",
+          "15848T-0|aaf67073_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67073_rgb",
+          "15848T-0|aag07355_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07355_rgb",
+          "15848T-0|aag07356_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07356_rgb",
+          "15848T-0|aag07353_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07353_rgb",
+          "15848T-0|aag07351_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag07351_rgb"
+        ],
+        "priceList.GST.price_d": 32299.0,
+        "priceList.GST.finalPrice_d": 32299.0,
+        "ProductDescriptionProductShort_s": "170 cm x 70 cm drop-in bath",
+        "productName_s": "Reach™ 170 cm x 70 cm drop-in bath",
+        "ctId_s": "00ff53f3-e542-4574-9eb6-6d7e5a5bb7f7",
+        "Color.GST.Details_ss": [
+          "15848T-0|White|34000.0|32299.0||https://kohler.scene7.com/is/image/PAWEB/aad44278_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "15848T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad44278_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67075_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67077_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67072_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67076_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67074_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67073_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07355_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07356_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07353_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag07351_rgb"
+        ],
+        "priceList.ANY.price_d": 34000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "15848T-0",
+        "ProductBrandNameDisplay_s": "Reach™",
+        "variantList.sku_ss": [
+          "15848T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 32299.0,
+        "displayPriceStartingAt_s": "₹32,299.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "reach-1700-mm-x-700-mm-drop-in-bath-15848t",
+        "priceStartingAt.GST_d": 32299.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "00ff53f3-e542-4574-9eb6-6d7e5a5bb7f7|15848T-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|18778T-0|false|false|K-18778T-0"
+        ],
+        "ProductBrandName_s": "Emerald®",
+        "metaTitle_s": "KOHLER | K-18778T | Emerald 1.3M Drop-In Acrylic Bath",
+        "masterSKU_s": "18778T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "18778T-0",
+        "productImages.labelWithUrl_ss": [
+          "18778T-0|ccc21943_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/ccc21943_rgb"
+        ],
+        "priceList.GST.price_d": 50039.0,
+        "priceList.GST.finalPrice_d": 50039.0,
+        "ProductDescriptionProductShort_s": "1.3M Drop-In Acrylic Bath",
+        "productName_s": "Emerald® Acrylic Drop-in Bathtub",
+        "ctId_s": "045c7da5-9a5e-4b63-bbcc-9ad7bc40deca",
+        "Color.GST.Details_ss": [
+          "18778T-0|White|52680.0|50039.0||https://kohler.scene7.com/is/image/PAWEB/ccc21943_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "18778T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/ccc21943_rgb"
+        ],
+        "priceList.ANY.price_d": 52680.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "18778T-0",
+        "ProductBrandNameDisplay_s": "Emerald®",
+        "variantList.sku_ss": [
+          "18778T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 50039.0,
+        "displayPriceStartingAt_s": "₹50,039.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "emerald-acrylic-drop-in-bathtub-18778t",
+        "priceStartingAt.GST_d": 50039.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "045c7da5-9a5e-4b63-bbcc-9ad7bc40deca|18778T-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|18749IN-W03C-0|false|false|K-18749IN-W03C-0"
+        ],
+        "ProductBrandName_s": "Evora™",
+        "masterSKU_s": "18749IN-W03C-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "18749IN-W03C-0",
+        "productImages.labelWithUrl_ss": [
+          "18749IN-W03C-0|aae85698_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae85698_rgb"
+        ],
+        "priceList.GST.price_d": 735000.0,
+        "priceList.GST.finalPrice_d": 735000.0,
+        "ProductDescriptionProductShort_s": "185 cm x 110 cm drop-in acrylic rectangular whirlpool bath with chromatherapy",
+        "productName_s": "Evora™ 185 cm x 110 cm drop-in acrylic rectangular whirlpool bath with chromatherapy",
+        "ctId_s": "17379ca0-f1be-47e9-ad00-ee1d91d53aec",
+        "Color.GST.Details_ss": [
+          "18749IN-W03C-0|White|735000.0|735000.0||https://kohler.scene7.com/is/image/PAWEB/aae85698_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "18749IN-W03C",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae85698_rgb"
+        ],
+        "priceList.ANY.price_d": 735000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "18749IN-W03C-0",
+        "ProductBrandNameDisplay_s": "Evora™",
+        "variantList.sku_ss": [
+          "18749IN-W03C-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 735000.0,
+        "displayPriceStartingAt_s": "₹735,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "evora-1850-mm-x-1100-mm-drop-in-acrylic-rectangular-whirlpool-bath-with-chromatherapy-18749in-w03c",
+        "priceStartingAt.GST_d": 735000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "17379ca0-f1be-47e9-ad00-ee1d91d53aec|18749IN-W03C-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|18343T-0|false|false|K-18343T-0"
+        ],
+        "ProductBrandName_s": "Evok™",
+        "masterSKU_s": "18343T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "18343T-0",
+        "productImages.labelWithUrl_ss": [
+          "18343T-0|aad35207_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+        ],
+        "priceList.GST.price_d": 193299.0,
+        "priceList.GST.finalPrice_d": 193299.0,
+        "ProductDescriptionProductShort_s": "167.5 cm x 76.2 cm freestanding bath",
+        "productName_s": "Evok™ 167.5 cm x 76.2 cm freestanding bath",
+        "ctId_s": "ef6fb7bb-19ba-4308-a522-9c72981c7558",
+        "Color.GST.Details_ss": [
+          "18343T-0|White|203479.0|193299.0||https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "18343T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad35207_rgb"
+        ],
+        "priceList.ANY.price_d": 203479.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "18343T-0",
+        "ProductBrandNameDisplay_s": "Evok™",
+        "variantList.sku_ss": [
+          "18343T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 193299.0,
+        "displayPriceStartingAt_s": "₹193,299.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "evok-1-6m-rectangular-freestanding-acrylic-bath-18343t",
+        "priceStartingAt.GST_d": 193299.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "ef6fb7bb-19ba-4308-a522-9c72981c7558|18343T-0"
+      },
+      {
+        "ProductBrandName_s": "Memoirs™",
+        "masterSKU_s": "1418-V-0",
+        "sourceId_s": "1418-V-0",
+        "priceList.GST.price_d": 1694000.0,
+        "priceList.GST.finalPrice_d": 1694000.0,
+        "ProductDescriptionProductShort_s": "72\" x 42\" drop-in Effervescence whirlpool bath",
+        "productName_s": "Memoirs® 72\" x 42\" drop-in Effervescence whirlpool bath",
+        "ctId_s": "f7a658e4-9def-442a-9f58-9dc8d8b12c22",
+        "Color.GST.Details_ss": [
+          "1418-V-0|White|1694000.0|1694000.0||https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewInUseSquare_d2c0108310_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "1418-V",
+        "ProductBrandNameDisplay_s": "Memoirs",
+        "displayPriceStartingAt_s": "₹1,694,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "memoirs-72-x-42-drop-in-effervescence-whirlpool-with-spa-massage-package-1418-v",
+        "priceStartingAt.GST_d": 1694000.0,
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1418-V-0|false|false|K-1418-V-0"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "1418-V-0|1418-V-0_CloseRoomViewInUseSquare_d2c0108310_rgb|IMGITEMCLOSEROOMVIEWInUseSquare||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewInUseSquare_d2c0108310_rgb",
+          "1418-V-0|1418-V-0_OverheadRoomViewSquare_d2c0108555_rgb|IMGITEMOVERHEADROOMVIEWSquare||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_OverheadRoomViewSquare_d2c0108555_rgb",
+          "1418-V-0|1418-V-0_CloseRoomViewArchitectFrontSquareWithText_d2c0108155_en-US|IMGITEMCLOSEROOMVIEWArchitectFrontSquareWithText||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewArchitectFrontSquareWithText_d2c0108155_en-US",
+          "1418-V-0|1418-V-0_CloseRoomViewProductDetailInUseSquareWithText_d2c0108338_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewProductDetailInUseSquareWithText_d2c0108338_en-US",
+          "1418-V-0|1418-V-0_DIMENSIONALSquareWithText_d2c0108709_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_DIMENSIONALSquareWithText_d2c0108709_en-US",
+          "1418-V-0|1418-V-0_TechWhirlpoolControlSquareWithText_d2c0108164_en-US|IMGITEMFEATURETechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_TechWhirlpoolControlSquareWithText_d2c0108164_en-US",
+          "1418-V-0|SKU_BATHING_FEATUREWELLNESS_InlineHeaterSquareWithText_en-US|IMGITEMFEATUREWellnessSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_BATHING_FEATUREWELLNESS_InlineHeaterSquareWithText_en-US",
+          "1418-V-0|SKU_BATHING_FEATUREWELLNESS_ChromatherpySquareWithText_en-US|IMGITEMFEATUREWellnessSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_BATHING_FEATUREWELLNESS_ChromatherpySquareWithText_en-US",
+          "1418-V-0|1418-V-0_ISO_d2c0108325_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_ISO_d2c0108325_rgb",
+          "1418-V-0|1418-V-0_ISOSquare_d2c0108325_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/1418-V-0_ISOSquare_d2c0108325_rgb"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewInUseSquare_d2c0108310_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_OverheadRoomViewSquare_d2c0108555_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewArchitectFrontSquareWithText_d2c0108155_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_CloseRoomViewProductDetailInUseSquareWithText_d2c0108338_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_DIMENSIONALSquareWithText_d2c0108709_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_TechWhirlpoolControlSquareWithText_d2c0108164_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_BATHING_FEATUREWELLNESS_InlineHeaterSquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/SKU_BATHING_FEATUREWELLNESS_ChromatherpySquareWithText_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_ISO_d2c0108325_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/1418-V-0_ISOSquare_d2c0108325_rgb"
+        ],
+        "priceList.ANY.price_d": 1694000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "1418-V-0",
+        "variantList.sku_ss": [
+          "1418-V-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 1694000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f7a658e4-9def-442a-9f58-9dc8d8b12c22|1418-V-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|20627IN-K-0|true|false|K-20627IN-K-0"
+        ],
+        "ProductBrandName_s": "Hourglass™",
+        "masterSKU_s": "20627IN-K-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "20627IN-K-0",
+        "productImages.labelWithUrl_ss": [
+          "20627IN-K-0|20627IN-K-0|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/20627IN-K-0"
+        ],
+        "priceList.GST.price_d": 174799.0,
+        "priceList.GST.finalPrice_d": 174799.0,
+        "ProductDescriptionProductShort_s": "152.9 cm x 81.8 cm corner whirlpool bath",
+        "productName_s": "Hourglass® 152.9 cm x 81.8 cm corner whirlpool bath",
+        "ctId_s": "92f273df-f608-4d59-a26c-45be819716d6",
+        "Color.GST.Details_ss": [
+          "20627IN-K-0|White|218500.0|174799.0||https://s7g10.scene7.com/is/image/kohlerindia/20627IN-K-0"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "20627IN-K",
+        "productImages.url_ss": [
+          "https://s7g10.scene7.com/is/image/kohlerindia/20627IN-K-0"
+        ],
+        "priceList.ANY.price_d": 218500.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "20627IN-K-0",
+        "ProductBrandNameDisplay_s": "Hourglass",
+        "variantList.sku_ss": [
+          "20627IN-K-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 174799.0,
+        "displayPriceStartingAt_s": "₹174,799.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "hourglass-1529-mm-x-818-mm-corner-whirlpool-bath-20627in-k",
+        "priceStartingAt.GST_d": 174799.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "92f273df-f608-4d59-a26c-45be819716d6|20627IN-K-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|8331T-0|false|false|K-8331T-0"
+        ],
+        "ProductBrandName_s": "Veil™",
+        "masterSKU_s": "8331T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "8331T-0",
+        "productImages.labelWithUrl_ss": [
+          "8331T-0|zac15126_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+        ],
+        "priceList.GST.price_d": 825000.0,
+        "priceList.GST.finalPrice_d": 825000.0,
+        "ProductDescriptionProductShort_s": "164.9 cm x 95.4 cm freestanding bath",
+        "productName_s": "Veil™ 164.9 cm x 95.4 cm freestanding bath",
+        "ctId_s": "48fb0c35-ebd9-4a0e-9ec9-f08b7f0345ad",
+        "Color.GST.Details_ss": [
+          "8331T-0|White|825000.0|825000.0||https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "8331T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zac15126_rgb"
+        ],
+        "priceList.ANY.price_d": 825000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "8331T-0",
+        "ProductBrandNameDisplay_s": "Veil™",
+        "variantList.sku_ss": [
+          "8331T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 825000.0,
+        "displayPriceStartingAt_s": "₹825,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "veil-freestanding-lithocast-bath-8331t",
+        "priceStartingAt.GST_d": 825000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "48fb0c35-ebd9-4a0e-9ec9-f08b7f0345ad|8331T-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1360IN-H2-0|false|false|K-1360IN-H2-0"
+        ],
+        "ProductBrandName_s": "Riverbath™",
+        "masterSKU_s": "1360IN-H2-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1360IN-H2-0",
+        "productImages.labelWithUrl_ss": [
+          "1360IN-H2-0|zaa87053_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa87053_rgb"
+        ],
+        "priceList.GST.price_d": 2570000.0,
+        "priceList.GST.finalPrice_d": 2570000.0,
+        "ProductDescriptionProductShort_s": "190.5 cm x 114.3 cm drop-in heated whirlpool bath with chromatherapy",
+        "productName_s": "Riverbath™ 190.5 cm x 114.3 cm drop-in heated whirlpool bath with chromatherapy",
+        "ctId_s": "28b2b064-b11e-4695-ba12-1131cf86aa12",
+        "Color.GST.Details_ss": [
+          "1360IN-H2-0|White|2570000.0|2570000.0||https://kohler.scene7.com/is/image/PAWEB/zaa87053_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "1360IN-H2",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa87053_rgb"
+        ],
+        "priceList.ANY.price_d": 2570000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "1360IN-H2-0",
+        "ProductBrandNameDisplay_s": "Riverbath™",
+        "variantList.sku_ss": [
+          "1360IN-H2-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 2570000.0,
+        "displayPriceStartingAt_s": "₹2,570,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "riverbath-1905-mm-x-1143-mm-drop-in-heated-whirlpool-bath-with-chromatherapy-1360in-h2",
+        "priceStartingAt.GST_d": 2570000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "28b2b064-b11e-4695-ba12-1131cf86aa12|1360IN-H2-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1394IN-H2-0|false|false|K-1394IN-H2-0"
+        ],
+        "ProductBrandName_s": "Riverbath™",
+        "masterSKU_s": "1394IN-H2-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1394IN-H2-0",
+        "productImages.labelWithUrl_ss": [
+          "1394IN-H2-0|zaa72870_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa72870_rgb",
+          "1394IN-H2-0|zaa72870_rgb|IMGITEMARCHITECTTOPDOWN||angled overhead view, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/zaa72870_rgb"
+        ],
+        "priceList.GST.price_d": 2300000.0,
+        "priceList.GST.finalPrice_d": 2300000.0,
+        "ProductDescriptionProductShort_s": "167.8 cm drop-in heated whirlpool bath with chromatherapy",
+        "productName_s": "Riverbath™ 167.8 cm drop-in heated whirlpool bath with chromatherapy",
+        "ctId_s": "12f3b547-92b3-4bb3-b6c5-f04d58e47355",
+        "Color.GST.Details_ss": [
+          "1394IN-H2-0|White|2300000.0|2300000.0||https://kohler.scene7.com/is/image/PAWEB/zaa72870_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "1394IN-H2",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa72870_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zaa72870_rgb"
+        ],
+        "priceList.ANY.price_d": 2300000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "1394IN-H2-0",
+        "ProductBrandNameDisplay_s": "Riverbath™",
+        "variantList.sku_ss": [
+          "1394IN-H2-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 2300000.0,
+        "displayPriceStartingAt_s": "₹2,300,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "riverbath-1678-mm-drop-in-heated-whirlpool-bath-with-chromatherapy-1394in-h2",
+        "priceStartingAt.GST_d": 2300000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "12f3b547-92b3-4bb3-b6c5-f04d58e47355|1394IN-H2-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1709IN-K-0|false|false|K-1709IN-K-0"
+        ],
+        "ProductBrandName_s": "Ove™",
+        "masterSKU_s": "1709IN-K-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1709IN-K-0",
+        "productImages.labelWithUrl_ss": [
+          "1709IN-K-0|1709IN-0|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/1709IN-0"
+        ],
+        "priceList.GST.price_d": 156749.0,
+        "priceList.GST.finalPrice_d": 156749.0,
+        "ProductDescriptionProductShort_s": "170 cm x 75 cm drop-in whirlpool bath",
+        "productName_s": "Ove™ 170 cm x 75 cm drop-in whirlpool bath",
+        "ctId_s": "49c6dff6-2959-41c4-95ae-35fad5c9bcd6",
+        "Color.GST.Details_ss": [
+          "1709IN-K-0|White|165000.0|156749.0||https://s7g10.scene7.com/is/image/kohlerindia/1709IN-0"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "1709IN-K",
+        "productImages.url_ss": [
+          "https://s7g10.scene7.com/is/image/kohlerindia/1709IN-0"
+        ],
+        "priceList.ANY.price_d": 165000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "1709IN-K-0",
+        "ProductBrandNameDisplay_s": "Ove™",
+        "variantList.sku_ss": [
+          "1709IN-K-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 156749.0,
+        "displayPriceStartingAt_s": "₹156,749.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "ove-1700-mm-x-750-mm-drop-in-whirlpool-bath-1709in-k",
+        "priceStartingAt.GST_d": 156749.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "49c6dff6-2959-41c4-95ae-35fad5c9bcd6|1709IN-K-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|76442IN-NW-0|false|false|K-76442IN-NW-0"
+        ],
+        "ProductBrandName_s": "Karess™",
+        "masterSKU_s": "76442IN-NW-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "76442IN-NW-0",
+        "productImages.labelWithUrl_ss": [
+          "76442IN-NW-0|aae00914_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00914_rgb"
+        ],
+        "priceList.GST.price_d": 714000.0,
+        "priceList.GST.finalPrice_d": 714000.0,
+        "ProductDescriptionProductShort_s": "170 cm x 80 cm drop-in whirlpool bath",
+        "productName_s": "Karess™ 170 cm x 80 cm drop-in whirlpool bath",
+        "ctId_s": "122348d1-fd18-4ef2-9306-c61d094dc5da",
+        "Color.GST.Details_ss": [
+          "76442IN-NW-0|White|714000.0|714000.0||https://kohler.scene7.com/is/image/PAWEB/aae00914_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "76442IN-NW",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae00914_rgb"
+        ],
+        "priceList.ANY.price_d": 714000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "76442IN-NW-0",
+        "ProductBrandNameDisplay_s": "Karess™",
+        "variantList.sku_ss": [
+          "76442IN-NW-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 714000.0,
+        "displayPriceStartingAt_s": "₹714,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "karess-1700-mm-x-800-mm-drop-in-whirlpool-bath-76442in-nw",
+        "priceStartingAt.GST_d": 714000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "122348d1-fd18-4ef2-9306-c61d094dc5da|76442IN-NW-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|20249T-0|false|false|K-20249T-0"
+        ],
+        "ProductBrandName_s": "Karing™",
+        "masterSKU_s": "20249T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "20249T-0",
+        "productImages.labelWithUrl_ss": [
+          "20249T-0|aad75463_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+        ],
+        "priceList.GST.price_d": 574749.0,
+        "priceList.GST.finalPrice_d": 574749.0,
+        "ProductDescriptionProductShort_s": "180 cm x 80 cm freestanding bath",
+        "productName_s": "Karing™ 180 cm x 80 cm freestanding bath",
+        "ctId_s": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94",
+        "Color.GST.Details_ss": [
+          "20249T-0|White|605000.0|574749.0||https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "20249T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad75463_rgb"
+        ],
+        "priceList.ANY.price_d": 605000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "20249T-0",
+        "ProductBrandNameDisplay_s": "Karing™",
+        "variantList.sku_ss": [
+          "20249T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 574749.0,
+        "displayPriceStartingAt_s": "₹574,749.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "karing-1-8m-oval-lithocast-bath-20249t",
+        "priceStartingAt.GST_d": 574749.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "b65b82d2-2327-4dd6-ac2c-357f1ceeea94|20249T-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|11195T-0|false|false|K-11195T-0"
+        ],
+        "ProductBrandName_s": "Cleo™",
+        "masterSKU_s": "11195T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "11195T-0",
+        "productImages.labelWithUrl_ss": [
+          "11195T-0|aae01045_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+        ],
+        "priceList.GST.price_d": 420000.0,
+        "priceList.GST.finalPrice_d": 420000.0,
+        "ProductDescriptionProductShort_s": "175 cm x 80 cm freestanding bath",
+        "productName_s": "Cleo™ 175 cm x 80 cm freestanding bath",
+        "ctId_s": "d22ff1dc-5ba2-44f8-b24a-ca339d5504e1",
+        "Color.GST.Details_ss": [
+          "11195T-0|White|420000.0|420000.0||https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "11195T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae01045_rgb"
+        ],
+        "priceList.ANY.price_d": 420000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "11195T-0",
+        "ProductBrandNameDisplay_s": "Cleo™",
+        "variantList.sku_ss": [
+          "11195T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 420000.0,
+        "displayPriceStartingAt_s": "₹420,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "cleo-1-7m-freestanding-cast-iron-bath-11195t",
+        "priceStartingAt.GST_d": 420000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d22ff1dc-5ba2-44f8-b24a-ca339d5504e1|11195T-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1188IN-C1-0|false|false|K-1188IN-C1-0"
+        ],
+        "ProductBrandName_s": "sok™",
+        "masterSKU_s": "1188IN-C1-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1188IN-C1-0",
+        "productImages.labelWithUrl_ss": [
+          "1188IN-C1-0|zaa64728_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa64728_rgb"
+        ],
+        "priceList.GST.price_d": 2383500.0,
+        "priceList.GST.finalPrice_d": 2383500.0,
+        "ProductDescriptionProductShort_s": "190.5 cm x 104 cm drop-in whirlpool bath with Effervescence and chromatherapy",
+        "productName_s": "sok™ 190.5 cm x 104 cm drop-in whirlpool bath with Effervescence and chromatherapy",
+        "ctId_s": "8256031e-999f-4194-ab1c-d20e293561d8",
+        "Color.GST.Details_ss": [
+          "1188IN-C1-0|White|2383500.0|2383500.0||https://kohler.scene7.com/is/image/PAWEB/zaa64728_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "1188IN-C1",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa64728_rgb"
+        ],
+        "priceList.ANY.price_d": 2383500.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "1188IN-C1-0",
+        "ProductBrandNameDisplay_s": "sok™",
+        "variantList.sku_ss": [
+          "1188IN-C1-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 2383500.0,
+        "displayPriceStartingAt_s": "₹2,383,500.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "sok-1905-mm-x-1040-mm-drop-in-whirlpool-bath-with-effervescence-and-chromatherapy-1188in-c1",
+        "priceStartingAt.GST_d": 2383500.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "8256031e-999f-4194-ab1c-d20e293561d8|1188IN-C1-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1800T-0|false|false|K-1800T-0"
+        ],
+        "ProductBrandName_s": "Abrazo™",
+        "masterSKU_s": "1800T-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1800T-0",
+        "productImages.labelWithUrl_ss": [
+          "1800T-0|zac73165_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+        ],
+        "priceList.GST.price_d": 1150000.0,
+        "priceList.GST.finalPrice_d": 1150000.0,
+        "ProductDescriptionProductShort_s": "167.6 cm x 80 cm freestanding bath",
+        "productName_s": "Abrazo™ 167.6 cm x 80 cm freestanding bath",
+        "ctId_s": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692",
+        "Color.GST.Details_ss": [
+          "1800T-0|White|1150000.0|1150000.0||https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "1800T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zac73165_rgb"
+        ],
+        "priceList.ANY.price_d": 1150000.0,
+        "Product_Category": "Bathing",
+        "preferenceSku_s": "1800T-0",
+        "ProductBrandNameDisplay_s": "Abrazo™",
+        "variantList.sku_ss": [
+          "1800T-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 1150000.0,
+        "displayPriceStartingAt_s": "₹1,150,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "abrazo-1-6m-freestanding-lithocast-bath-1800t",
+        "priceStartingAt.GST_d": 1150000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "8cd50f60-0ebd-4aef-81cc-ec7b136a8692|1800T-0"
+      }
+    ],
+    "numFound": 19,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "BathingProductOverallLengthDecimalRangeCm_s:\"<25cm\"": 0,
+      "BathingProductOverallLengthDecimalRangeCm_s:\"25cm to 50cm\"": 0,
+      "BathingProductOverallLengthDecimalRangeCm_s:\"50cm to 75cm\"": 0,
+      "BathingProductOverallLengthDecimalRangeCm_s:\"75cm to 100cm\"": 0,
+      "BathingProductOverallLengthDecimalRangeCm_s:\"100cm to 125cm\"": 0,
+      "BathingProductOverallHeightDecimalRangeCm_s:\"<25cm\"": 0,
+      "BathingProductOverallHeightDecimalRangeCm_s:\"25cm to 50cm\"": 5,
+      "BathingProductOverallHeightDecimalRangeCm_s:\"50cm to 75cm\"": 14,
+      "BathingProductOverallHeightDecimalRangeCm_s:\"75cm to 100cm\"": 0,
+      "BathingProductOverallHeightDecimalRangeCm_s:\"100cm to 125cm\"": 0,
+      "Available_Now_s:\"Yes\"": 5
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        19
+      ],
+      "ProductInstallationType_ss": [
+        "Drop-in",
+        14,
+        "Freestanding",
+        5
+      ],
+      "BathingProductType_s": [
+        "Hydrotherapy",
+        11,
+        "Plain",
+        8
+      ],
+      "BathingProductOverallLengthDecimalRangeCm_s": [
+        "125cm to 150cm",
+        1,
+        "150cm to 175cm",
+        12,
+        "175cm to 200cm",
+        6
+      ],
+      "BathingProductOverallHeightDecimalRangeCm_s": [
+        "25cm to 50cm",
+        5,
+        "50cm to 75cm",
+        14
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Abrazo™",
+        1,
+        "Cleo™",
+        1,
+        "Duo™",
+        2,
+        "Emerald®",
+        1,
+        "Evok™",
+        2,
+        "Evora™",
+        1,
+        "Hourglass",
+        1,
+        "Karess™",
+        1,
+        "Karing™",
+        1,
+        "Memoirs",
+        1,
+        "Ove™",
+        1,
+        "Reach™",
+        2,
+        "Riverbath™",
+        2,
+        "Veil™",
+        1,
+        "sok™",
+        1
+      ],
+      "ProductMaterial_s": [
+        "Acrylic",
+        11,
+        "Cast Iron",
+        1,
+        "Lithocast",
+        3
+      ],
+      "ATTR_SPEC_DrainLocation_s": [
+        "Center",
+        10,
+        "Left",
+        1,
+        "Reversible",
+        4,
+        "Right",
+        4
+      ],
+      "ATTR_SPEC_Hydrotherapy_ss": [
+        "Effervescence Baths",
+        1,
+        "Non-Hydrotherapies",
+        9,
+        "Soaking Baths",
+        3,
+        "Whirlpools",
+        3
+      ],
+      "ProductShape_s": [
+        "Corner",
+        1,
+        "Oval",
+        5,
+        "Rectangle",
+        13
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        16,
+        "Traditional",
+        3
+      ],
+      "ATTR_SPEC_IncludesChromatherapy_s": [
+        "No",
+        13,
+        "Yes",
+        4
+      ],
+      "Available_Now_s": [
+        "Yes",
+        5,
+        "No",
+        14
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        12,
+        "Paid",
+        7
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          6,
+          "100000",
+          1,
+          "200000",
+          2,
+          "400000",
+          1,
+          "600000",
+          1,
+          "700000",
+          2,
+          "800000",
+          1,
+          "1100000",
+          1
+        ],
+        "start": 0.0,
+        "end": 1200000.0,
+        "gap": 100000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          6,
+          "100000",
+          1,
+          "200000",
+          2,
+          "400000",
+          1,
+          "600000",
+          1,
+          "700000",
+          2,
+          "800000",
+          1,
+          "1100000",
+          1
+        ],
+        "start": 0.0,
+        "end": 1200000.0,
+        "gap": 100000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          6,
+          "100000",
+          3,
+          "400000",
+          1,
+          "500000",
+          1,
+          "700000",
+          2,
+          "800000",
+          1,
+          "1100000",
+          1
+        ],
+        "start": 0.0,
+        "end": 1200000.0,
+        "gap": 100000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          6,
+          "100000",
+          1,
+          "200000",
+          2,
+          "400000",
+          1,
+          "600000",
+          1,
+          "700000",
+          2,
+          "800000",
+          1,
+          "1100000",
+          1
+        ],
+        "start": 0.0,
+        "end": 1200000.0,
+        "gap": 100000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

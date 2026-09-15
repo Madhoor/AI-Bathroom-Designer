@@ -1,0 +1,163 @@
+{
+  "product_url": "https://www.kohler.co.in/p/artifacts-widespread-lav-faucets-bell-72759t?skuId=72759T-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/artifacts-widespread-lav-faucets-bell-72759t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/artifacts-widespread-lav-faucets-bell-72759t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4946>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/artifacts-widespread-lav-faucets-bell-72759t?skuId=72759T-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "uSzC57ZRQ2",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=292, origin; dur=773, ak_p; desc=\"1789422274641_400553039_333249782_106537_9947_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:44:35 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1760",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759tfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "Inspired by turn-of-the-century charm, each piece in the Artifacts™ faucet and accessory collection is like a vintage treasure rediscovered. At home in any decor, the Artifacts™ collection gives you the freedom to create a look that is yours and yours alone. Timeless and classic in its inspiration, Artifacts™ allows you to coordinate faucets, accessories, showering, and finishes to express your personal style. Artifacts™ faucets combine quality craftsmanship with artisan designs to lend character and authenticity to your space - as a finishing touch or the central piece to build the room around.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|72759T-CP|false|false|K-72759T-CP",
+              "Vibrant Brushed Nickel|swatch_BN|72759T-BN|false|false|K-72759T-BN",
+              "Vibrant Brushed Bronze|swatch_BV|72759T-BV|true|false|K-72759T-BV",
+              "Oil-Rubbed Bronze|swatch_2BZ|72759T-2BZ|false|false|K-72759T-2BZ"
+            ],
+            "ProductBrandName_s": "Artifacts™",
+            "ProductPackageContents_s": "1 ARTIFACTS™ WIDESPREAD LAV SPOUT, BELL, 3 INSTALLATION INSTRUCTIONS, 1 CERT. OF MAINTENANCE, 2 INSERT,",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759T.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/ri_72777.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1469085080_1282369-X4-A_ARTIFACTS_72759T.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "72759T-CP|zab30994_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30994_rgb",
+              "72759T-BN|zab30990_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30990_rgb",
+              "72759T-BV|zab31060_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31060_rgb",
+              "72759T-2BZ|zab30986_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30986_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 49200.0,
+            "SKUCountryofOrigin_s": "ID",
+            "priceList.KEMP.finalPrice_d": 49200.0,
+            "ProductDescriptionProductShort_s": "Widespread lav faucets, bell",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759tsde.dxf"
+            ],
+            "productName_s": "Artifacts™ Widespread lav faucets, bell",
+            "ctId_s": "96834a0b-f7d9-4a9a-b2d5-3f9403699f43",
+            "ProductWebFeatures_ss": [
+              "Metal pop-up drain with tailpiece.",
+              "5-3/8\" (13.7 cm) spout reach.",
+              "Includes stationary spout with aerator and pop-up drain with 1-1/4-inch tailpiece.",
+              "Handles sold separately.",
+              "Laminar flow controls deliver a graceful stream while conserving water.",
+              "1.2 gpm (4.5 lmin) maximum flow rate.",
+              "Coordinate with your choice of Artifacts handles for a personalized design."
+            ],
+            "priceList.ANY.finalPrice_d": 49200.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759tsde.dwg"
+            ],
+            "sku_s": "72759T-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-Spout-KOHLER-ARTIFACTS-K-72759T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759T.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "27.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "72759T",
+            "productInRiverId_s": "inRiver_1336487",
+            "priceList.CTR.finalPrice_d": 49200.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-72759T-CP",
+            "ProductBrandNameDisplay_s": "Artifacts™",
+            "variantList.sku_ss": [
+              "72759T-CP",
+              "72759T-BN",
+              "72759T-2BZ",
+              "72759T-BV"
+            ],
+            "SKUShippingHeight_s": "14.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "38.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759tpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72759T.dwg"
+            ],
+            "id": "96834a0b-f7d9-4a9a-b2d5-3f9403699f43|72759T-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

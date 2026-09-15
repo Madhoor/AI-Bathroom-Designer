@@ -1,0 +1,611 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ShowerDoorsProductProductType_s\"}ShowerDoorsProductProductType_s",
+      "{!ex=\"ShowerDoorsProductOverallHeightCm_s\"}ShowerDoorsProductOverallHeightCm_s",
+      "{!ex=\"ShowerDoorsProductOverallWidthCm_s\"}ShowerDoorsProductOverallWidthCm_s",
+      "ATTR_SPEC_FrameType_s",
+      "{!ex=\"ATTR_SPEC_GlassText_s\"}ATTR_SPEC_GlassText_s",
+      "{!ex=\"ATTR_SPEC_GlassThickness_s\"}ATTR_SPEC_GlassThickness_s",
+      "{!ex=\"ATTR_SPEC_DoorType_ss\"}ATTR_SPEC_DoorType_ss",
+      "{!ex=\"ATTR_SPEC_HandleStyle_ss\"}ATTR_SPEC_HandleStyle_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "Black": "swatch_2BL",
+      "Bright Polished Silver": "swatch_SHP",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant Brushed Bronze": "swatch_BV",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ShowerDoorsProductProductType_s": "Configuration",
+      "ShowerDoorsProductOverallHeightCm_s": "Standard Height",
+      "ShowerDoorsProductOverallWidthCm_s": "Width",
+      "ATTR_SPEC_FrameType_s": "Frame Type",
+      "ATTR_SPEC_GlassText_s": "Glass Design",
+      "ATTR_SPEC_GlassThickness_s": "Glass Thickness",
+      "ATTR_SPEC_DoorType_ss": "Shower Door Type",
+      "ATTR_SPEC_HandleStyle_ss": "Handle Style",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Black|swatch_2BL|704796IN-2BL|false|false|K-704796IN-2BL"
+        ],
+        "ProductBrandName_s": "New Trilogy",
+        "masterSKU_s": "704796IN-2BL",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2BL"
+        ],
+        "sourceId_s": "704796IN-2BL",
+        "productImages.labelWithUrl_ss": [
+          "704796IN-2BL|aad93751_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad93751_rgb"
+        ],
+        "priceList.GST.price_d": 67829.0,
+        "priceList.GST.finalPrice_d": 67829.0,
+        "ProductDescriptionProductShort_s": "206.1 cm H pivot shower door with 8 mm- or 10 mm-thick glass",
+        "productName_s": "New Trilogy 206.1 cm H pivot shower door with 8 mm- or 10 mm-thick glass",
+        "ctId_s": "f61a55c8-b3ba-484b-8443-0f699ebb797b",
+        "Color.GST.Details_ss": [
+          "704796IN-2BL|Black|71400.0|67829.0||https://kohler.scene7.com/is/image/PAWEB/aad93751_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "704796IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad93751_rgb"
+        ],
+        "priceList.ANY.price_d": 71400.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "704796IN-2BL",
+        "ProductBrandNameDisplay_s": "New Trilogy",
+        "variantList.sku_ss": [
+          "704796IN-2BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 67829.0,
+        "displayPriceStartingAt_s": "₹67,829.00",
+        "SKUColorFinishName_ss": [
+          "Black"
+        ],
+        "slug_s": "new-trilogy-2061-mm-h-pivot-shower-door-with-8-mm-or-10-mm-thick-glass-704796in",
+        "priceStartingAt.GST_d": 67829.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f61a55c8-b3ba-484b-8443-0f699ebb797b|704796IN-2BL"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|708067IN-CP|false|false|K-708067IN-CP",
+          "Vibrant French Gold|swatch_AF|708067IN-AF|false|false|K-708067IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|708067IN-RGD|false|false|K-708067IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|708067IN-BV|false|false|K-708067IN-BV"
+        ],
+        "ProductBrandName_s": "Singulier™",
+        "masterSKU_s": "708067IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "708067IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "708067IN-AF|aag35365_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35365_rgb",
+          "708067IN-BV|aag35364_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35364_rgb",
+          "708067IN-RGD|aag35363_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35363_rgb",
+          "708067IN-CP|aag35362_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35362_rgb"
+        ],
+        "priceList.GST.price_d": 70389.0,
+        "priceList.GST.finalPrice_d": 70389.0,
+        "ProductDescriptionProductShort_s": "200 cm – 210 cm H pivot shower door with 8 mm-thick glass",
+        "productName_s": "Singulier™ 200 cm – 210 cm H pivot shower door with 8 mm-thick glass",
+        "ctId_s": "c0e5cd10-dd1d-430f-be10-fde0331fbd6d",
+        "Color.GST.Details_ss": [
+          "708067IN-CP|Polished Chrome|74100.0|70389.0||https://kohler.scene7.com/is/image/PAWEB/aag35362_rgb",
+          "708067IN-AF|Vibrant French Gold|126000.0|119699.0||https://kohler.scene7.com/is/image/PAWEB/aag35365_rgb",
+          "708067IN-BV|Vibrant Brushed Bronze|137100.0|130239.0||https://kohler.scene7.com/is/image/PAWEB/aag35364_rgb",
+          "708067IN-RGD|Vibrant Rose Gold|137100.0|130239.0||https://kohler.scene7.com/is/image/PAWEB/aag35363_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "708067IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag35365_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag35364_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag35363_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag35362_rgb"
+        ],
+        "priceList.ANY.price_d": 74100.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "708067IN-CP",
+        "ProductBrandNameDisplay_s": "Singulier™",
+        "variantList.sku_ss": [
+          "708067IN-CP",
+          "708067IN-AF",
+          "708067IN-BV",
+          "708067IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 70389.0,
+        "displayPriceStartingAt_s": "₹70,389.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "singulier-2000-mm-2100-mm-h-pivot-shower-door-with-8-mm-thick-glass-708067in",
+        "priceStartingAt.GST_d": 70389.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "c0e5cd10-dd1d-430f-be10-fde0331fbd6d|708067IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|708066IN-CP|true|false|K-708066IN-CP",
+          "Vibrant French Gold|swatch_AF|708066IN-AF|false|false|K-708066IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|708066IN-RGD|false|false|K-708066IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|708066IN-BV|true|false|K-708066IN-BV"
+        ],
+        "ProductBrandName_s": "Singulier™",
+        "masterSKU_s": "708066IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BV",
+          "swatch_AF",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "708066IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "708066IN-CP|aag35358_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35358_rgb",
+          "708066IN-BV|aag35359_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35359_rgb",
+          "708066IN-AF|aag35360_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35360_rgb",
+          "708066IN-RGD|aag35357_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35357_rgb"
+        ],
+        "priceList.GST.price_d": 64309.0,
+        "priceList.GST.finalPrice_d": 64309.0,
+        "ProductDescriptionProductShort_s": "200 cm – 212.1 cm H pivot shower door with 8 mm- or 10 mm-thick glass",
+        "productName_s": "Singulier™ 200 cm – 212.1 cm H pivot shower door with 8 mm- or 10 mm-thick glass",
+        "ctId_s": "8fb88aef-ea4b-493f-b51d-0ed656707c00",
+        "Color.GST.Details_ss": [
+          "708066IN-CP|Polished Chrome|67700.0|64309.0||https://kohler.scene7.com/is/image/PAWEB/aag35358_rgb",
+          "708066IN-BV|Vibrant Brushed Bronze|128000.0|121599.0||https://kohler.scene7.com/is/image/PAWEB/aag35359_rgb",
+          "708066IN-AF|Vibrant French Gold|115000.0|109249.0||https://kohler.scene7.com/is/image/PAWEB/aag35360_rgb",
+          "708066IN-RGD|Vibrant Rose Gold|126000.0|119699.0||https://kohler.scene7.com/is/image/PAWEB/aag35357_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "708066IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag35358_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag35359_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag35360_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag35357_rgb"
+        ],
+        "priceList.ANY.price_d": 67700.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "708066IN-CP",
+        "ProductBrandNameDisplay_s": "Singulier™",
+        "variantList.sku_ss": [
+          "708066IN-CP",
+          "708066IN-BV",
+          "708066IN-AF",
+          "708066IN-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 64309.0,
+        "displayPriceStartingAt_s": "₹64,309.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Bronze",
+          "Vibrant French Gold",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "singulier-1d2p-s-708066in",
+        "priceStartingAt.GST_d": 64309.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "8fb88aef-ea4b-493f-b51d-0ed656707c00|708066IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|708065IN-CP|true|false|K-708065IN-CP",
+          "Vibrant French Gold|swatch_AF|708065IN-AF|true|false|K-708065IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|708065IN-RGD|false|false|K-708065IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|708065IN-BV|false|false|K-708065IN-BV"
+        ],
+        "ProductBrandName_s": "Singulier™",
+        "masterSKU_s": "708065IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BV",
+          "swatch_AF",
+          "swatch_RGD",
+          "swatch_CP"
+        ],
+        "sourceId_s": "708065IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "708065IN-BV|aag38435_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38435_rgb",
+          "708065IN-CP|aag38434_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38434_rgb",
+          "708065IN-AF|aag38436_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38436_rgb",
+          "708065IN-RGD|aag38433_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38433_rgb"
+        ],
+        "priceList.GST.price_d": 45119.0,
+        "priceList.GST.finalPrice_d": 45119.0,
+        "ProductDescriptionProductShort_s": "200 cm – 210 cm H pivot shower door with 8 mm-thick glass",
+        "productName_s": "Singulier™ 200 cm – 210 cm H pivot shower door with 8 mm-thick glass",
+        "ctId_s": "73dede84-8b9e-482b-a7e6-f4325aa07d63",
+        "Color.GST.Details_ss": [
+          "708065IN-BV|Vibrant Brushed Bronze|90000.0|85499.0||https://kohler.scene7.com/is/image/PAWEB/aag38435_rgb",
+          "708065IN-AF|Vibrant French Gold|77700.0|73809.0||https://kohler.scene7.com/is/image/PAWEB/aag38436_rgb",
+          "708065IN-RGD|Vibrant Rose Gold|85000.0|80749.0||https://kohler.scene7.com/is/image/PAWEB/aag38433_rgb",
+          "708065IN-CP|Polished Chrome|47500.0|45119.0||https://kohler.scene7.com/is/image/PAWEB/aag38434_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "708065IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag38435_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag38434_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag38436_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag38433_rgb"
+        ],
+        "priceList.ANY.price_d": 47500.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "708065IN-CP",
+        "ProductBrandNameDisplay_s": "Singulier™",
+        "variantList.sku_ss": [
+          "708065IN-BV",
+          "708065IN-AF",
+          "708065IN-RGD",
+          "708065IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 45119.0,
+        "displayPriceStartingAt_s": "₹45,119.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Bronze",
+          "Vibrant French Gold",
+          "Vibrant Rose Gold",
+          "Polished Chrome"
+        ],
+        "slug_s": "singulier-1d1p-s-708065in",
+        "priceStartingAt.GST_d": 45119.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "73dede84-8b9e-482b-a7e6-f4325aa07d63|708065IN-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|704699IN-SHP|true|false|K-704699IN-SHP"
+        ],
+        "ProductBrandName_s": "New Trilogy",
+        "masterSKU_s": "704699IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "704699IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "704699IN-SHP|aag42695_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag42695_rgb"
+        ],
+        "priceList.GST.price_d": 56999.0,
+        "priceList.GST.finalPrice_d": 56999.0,
+        "ProductDescriptionProductShort_s": "200 cm – 216.1 cm H pivot shower door with 8 mm-thick glass",
+        "productName_s": "New Trilogy 200 cm – 216.1 cm H pivot shower door with 8 mm-thick glass",
+        "ctId_s": "083c9839-657f-41e2-b3ac-5a8398182a5d",
+        "Color.GST.Details_ss": [
+          "704699IN-SHP|Bright Polished Silver|60000.0|56999.0||https://kohler.scene7.com/is/image/PAWEB/aag42695_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "704699IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag42695_rgb"
+        ],
+        "priceList.ANY.price_d": 60000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "704699IN-SHP",
+        "ProductBrandNameDisplay_s": "New Trilogy",
+        "variantList.sku_ss": [
+          "704699IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 56999.0,
+        "displayPriceStartingAt_s": "₹56,999.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "new-trilogy-2000-mm-2161-mm-h-pivot-shower-door-with-8-mm-thick-glass-704699in",
+        "priceStartingAt.GST_d": 56999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "083c9839-657f-41e2-b3ac-5a8398182a5d|704699IN-SHP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|704698IN-SHP|true|false|K-704698IN-SHP"
+        ],
+        "ProductBrandName_s": "New Trilogy",
+        "masterSKU_s": "704698IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "704698IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "704698IN-SHP|aag80815_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80815_rgb"
+        ],
+        "priceList.GST.price_d": 39899.0,
+        "priceList.GST.finalPrice_d": 39899.0,
+        "ProductDescriptionProductShort_s": "2000 H pivot shower door with 8 mm-thick glass",
+        "productName_s": "New Trilogy 2000 H pivot shower door with 8 mm-thick glass",
+        "ctId_s": "d1a58ff0-03c3-42bd-8839-4f8bcfec2804",
+        "Color.GST.Details_ss": [
+          "704698IN-SHP|Bright Polished Silver|42000.0|39899.0||https://kohler.scene7.com/is/image/PAWEB/aag80815_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "704698IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag80815_rgb"
+        ],
+        "priceList.ANY.price_d": 42000.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "704698IN-SHP",
+        "ProductBrandNameDisplay_s": "New Trilogy",
+        "variantList.sku_ss": [
+          "704698IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 39899.0,
+        "displayPriceStartingAt_s": "₹39,899.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "new-trilogy-2000-h-pivot-shower-door-with-8-mm-thick-glass-704698in",
+        "priceStartingAt.GST_d": 39899.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d1a58ff0-03c3-42bd-8839-4f8bcfec2804|704698IN-SHP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Bright Polished Silver|swatch_SHP|704702IN-SHP|false|false|K-704702IN-SHP"
+        ],
+        "ProductBrandName_s": "New Trilogy",
+        "masterSKU_s": "704702IN-SHP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_SHP"
+        ],
+        "sourceId_s": "704702IN-SHP",
+        "productImages.labelWithUrl_ss": [
+          "704702IN-SHP|aag79775_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag79775_rgb"
+        ],
+        "priceList.GST.price_d": 106589.0,
+        "priceList.GST.finalPrice_d": 106589.0,
+        "ProductDescriptionProductShort_s": "2000 H pivot shower door with 8 mm-thick glass",
+        "productName_s": "New Trilogy 2000 H pivot shower door with 8 mm-thick glass",
+        "ctId_s": "a16edbc6-fb69-48e5-ac2d-b59670cdf535",
+        "Color.GST.Details_ss": [
+          "704702IN-SHP|Bright Polished Silver|112200.0|106589.0||https://kohler.scene7.com/is/image/PAWEB/aag79775_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "704702IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag79775_rgb"
+        ],
+        "priceList.ANY.price_d": 112200.0,
+        "Product_Category": "Shower Doors",
+        "preferenceSku_s": "704702IN-SHP",
+        "ProductBrandNameDisplay_s": "New Trilogy",
+        "variantList.sku_ss": [
+          "704702IN-SHP"
+        ],
+        "discountedPriceStartingAt.GST_d": 106589.0,
+        "displayPriceStartingAt_s": "₹106,589.00",
+        "SKUColorFinishName_ss": [
+          "Bright Polished Silver"
+        ],
+        "slug_s": "new-trilogy-2d3p-t-shape-10mm-in-704702in",
+        "priceStartingAt.GST_d": 106589.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "a16edbc6-fb69-48e5-ac2d-b59670cdf535|704702IN-SHP"
+      }
+    ],
+    "numFound": 7,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "ShowerDoorsProductOverallHeightCm_s:\"<200cm\"": 1,
+      "ShowerDoorsProductOverallHeightCm_s:\"200cm to 250cm\"": 6,
+      "ShowerDoorsProductOverallHeightCm_s:\"250cm to 275cm\"": 0,
+      "ShowerDoorsProductOverallHeightCm_s:\">275cm\"": 0,
+      "ShowerDoorsProductOverallWidthCm_s:\"<50cm\"": 3,
+      "ShowerDoorsProductOverallWidthCm_s:\"50cm to 100cm\"": 0,
+      "ShowerDoorsProductOverallWidthCm_s:\"100cm to 150cm\"": 0,
+      "ShowerDoorsProductOverallWidthCm_s:\"150cm to 200cm\"": 3,
+      "ShowerDoorsProductOverallWidthCm_s:\"200cm to 250cm\"": 0,
+      "Available_Now_s:\"Yes\"": 4
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        3,
+        "Vibrant French Gold",
+        3,
+        "Vibrant Rose Gold",
+        3,
+        "Bright Polished Silver",
+        3,
+        "Vibrant Brushed Bronze",
+        3,
+        "Black",
+        1
+      ],
+      "ProductBrandNameDisplay_s": [
+        "New Trilogy",
+        4,
+        "Singulier™",
+        3
+      ],
+      "ShowerDoorsProductProductType_s": [
+        "1 Glass Door & 1 Fixed Glass Panel - Straight",
+        3,
+        "1 Glass Door & 2 Fixed Glass Panel - L Shape",
+        1,
+        "1 Glass Door & 2 Fixed Glass Panel - Straight",
+        2,
+        "2 Glass Door & 3 Fixed Glass Panel - T Shape",
+        1
+      ],
+      "ShowerDoorsProductOverallHeightCm_s": [
+        "<200cm",
+        1,
+        "200cm to 250cm",
+        6
+      ],
+      "ShowerDoorsProductOverallWidthCm_s": [
+        "<50cm",
+        3,
+        "150cm to 200cm",
+        3
+      ],
+      "ATTR_SPEC_FrameType_s": [
+        "Frameless",
+        7
+      ],
+      "ATTR_SPEC_GlassText_s": [
+        "Clear",
+        7
+      ],
+      "ATTR_SPEC_GlassThickness_s": [
+        "3/8",
+        1,
+        "5/16",
+        6
+      ],
+      "ATTR_SPEC_DoorType_ss": [
+        "Pivot Shower",
+        7,
+        "Shower Screen",
+        4,
+        "Sliding Bath",
+        1,
+        "Sliding Shower",
+        8
+      ],
+      "ATTR_SPEC_HandleStyle_ss": [
+        "Blade",
+        7
+      ],
+      "Available_Now_s": [
+        "Yes",
+        4,
+        "No",
+        5
+      ],
+      "InstallationCost_s": [
+        "Paid",
+        7
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "40000",
+          2,
+          "60000",
+          5,
+          "80000",
+          1,
+          "100000",
+          2,
+          "120000",
+          2
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "40000",
+          2,
+          "60000",
+          5,
+          "80000",
+          1,
+          "100000",
+          2,
+          "120000",
+          2
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "20000",
+          1,
+          "40000",
+          2,
+          "60000",
+          4,
+          "80000",
+          1,
+          "100000",
+          3,
+          "120000",
+          2
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "40000",
+          2,
+          "60000",
+          5,
+          "80000",
+          1,
+          "100000",
+          2,
+          "120000",
+          2
+        ],
+        "start": 0.0,
+        "end": 300000.0,
+        "gap": 20000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

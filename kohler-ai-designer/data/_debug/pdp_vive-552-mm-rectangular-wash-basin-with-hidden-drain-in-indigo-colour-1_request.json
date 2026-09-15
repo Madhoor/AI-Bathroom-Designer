@@ -1,0 +1,188 @@
+{
+  "product_url": "https://www.kohler.co.in/p/vive-552-mm-rectangular-wash-basin-with-hidden-drain-in-indigo-colour-1?skuId=C103",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/vive-552-mm-rectangular-wash-basin-with-hidden-drain-in-indigo-colour-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/vive-552-mm-rectangular-wash-basin-with-hidden-drain-in-indigo-colour-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/vive-552-mm-rectangular-wash-basin-with-hidden-drain-in-indigo-colour-1?skuId=C103",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "A7AwhcmTpI",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=247, origin; dur=726, ak_p; desc=\"1789420603577_400553078_266577099_97299_11394_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:16:44 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1767",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 17.3,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|28784IN-0|true|false|K-28784IN-0",
+              "Cashmere|swatch_K4|28784IN-K4|true|false|K-28784IN-K4",
+              "Black Black|swatch_7|28784IN-7|true|false|K-28784IN-7",
+              "Indigo|swatch_DGS|28784IN-DGS|true|false|K-28784IN-DGS",
+              "Teak Berry|KO_swatch_TKB|28784IN-TKB|true|false|K-28784IN-TKB"
+            ],
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 VESSEL;1 CUTOUT TEMPLATE;1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "28784IN-0|aae10469_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae10469_rgb",
+              "28784IN-0|aaf66418_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66418_rgb",
+              "28784IN-0|aaf66419_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66419_rgb",
+              "28784IN-0|aaf66415_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66415_rgb",
+              "28784IN-0|aaf66414_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf66414_rgb",
+              "28784IN-0|aaf66416_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66416_rgb",
+              "28784IN-DGS|aae54353_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae54353_rgb",
+              "28784IN-DGS|aaf66435_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66435_rgb",
+              "28784IN-DGS|aaf66438_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66438_rgb",
+              "28784IN-DGS|aaf66436_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66436_rgb",
+              "28784IN-DGS|aaf66437_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66437_rgb",
+              "28784IN-DGS|aaf66433_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf66433_rgb",
+              "28784IN-7|aae10462_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae10462_rgb",
+              "28784IN-7|aaf68481_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf68481_rgb",
+              "28784IN-7|aaf68478_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68478_rgb",
+              "28784IN-7|aaf68480_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68480_rgb",
+              "28784IN-7|aaf68479_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68479_rgb",
+              "28784IN-7|aaf68482_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68482_rgb",
+              "28784IN-K4|aaf49713_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf49713_rgb",
+              "28784IN-TKB|aah30830_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah30830_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "55.2 cm rectangular vessel bathroom sink, no overflow",
+            "ColorFinish_s": "Indigo",
+            "productName_s": "KOHLER VIVE® 55.2 cm rectangular vessel bathroom sink, no overflow",
+            "ctId_s": "35f599de-3064-4923-bf1f-039decb8a049",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin with rounded corners",
+              "Sleek and contemporary design",
+              "Unique front slotted drain creates a sleek look",
+              "Hidden drain connector maintains design continuity",
+              "Without overflow",
+              "No faucet holes; requires wall- or tall counter-mount faucet"
+            ],
+            "ProductOverallWidthCm_d": 39.7,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "28784IN-DGS",
+            "SKUShippingWidth_s": "50.000",
+            "ProductLocalCategory_s": "Bathroom Sinks",
+            "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+            "SKUShippingHeight_s": "22.000",
+            "SKUShippingLength_s": "63.000",
+            "slug_s": "vive-552-mm-rectangular-vessel-bathroom-sink-no-overflow-28784in",
+            "ProductOverallLengthCm_d": 54.7
+          },
+          {
+            "ProductOverallHeightCm_d": 7.0,
+            "Color.SKU.Details_ss": [
+              "Not Applicable|swatch_NA|32485IN-NA|true|false|K-32485IN-NA"
+            ],
+            "ProductPackageContents_s": "1 Drain",
+            "productImages.labelWithUrl_ss": [
+              "32485IN-NA|aag24208_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24208_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Hidden drain without overflow for bathroom sink",
+            "ColorFinish_s": "Not Applicable",
+            "productName_s": "KOHLER VIVE® Hidden drain without overflow for bathroom sink",
+            "ctId_s": "b719c9b7-d73f-47f1-91c4-0c3f3f39b54e",
+            "ProductWebFeatures_ss": [
+              "G 1-1/4 (32 mm) connection",
+              "Without overflow"
+            ],
+            "ProductOverallWidthCm_d": 7.0,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "32485IN-NA",
+            "SKUShippingWidth_s": "8.000",
+            "ProductLocalCategory_s": "Bathroom Fittings",
+            "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+            "SKUShippingHeight_s": "8.000",
+            "SKUShippingLength_s": "8.000",
+            "slug_s": "vive-hidden-drain-assembly-32485in",
+            "ProductOverallLengthCm_d": 11.5
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Vive 55.2 cm rectangular wash basin with hidden drain in Indigo colour",
+            "ctId_s": "be29d0c3-2de6-4af1-a3d6-9f770d25894a",
+            "priceList.ANY.finalPrice_d": 21100.0,
+            "sku_s": "C103",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 21100.0,
+            "Product_Category": "Grooming Area Combos",
+            "CustomerFacingSKU_s": "K-C103",
+            "variantList.sku_ss": [
+              "C103"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1730109",
+              "inRiver_3086862"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "C103|aaf91227_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf91227_rgb",
+              "C103|aaf91228_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf91228_rgb",
+              "C103|aae54353_rgb||||https://kohler.scene7.com/is/image/PAWEB/aae54353_rgb",
+              "C103|aaf66436_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf66436_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 17328.0,
+            "priceList.KEMP.finalPrice_d": 21100.0,
+            "id": "be29d0c3-2de6-4af1-a3d6-9f770d25894a|C103"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

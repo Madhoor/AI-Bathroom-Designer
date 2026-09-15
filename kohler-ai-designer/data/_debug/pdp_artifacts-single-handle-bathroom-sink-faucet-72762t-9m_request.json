@@ -1,0 +1,158 @@
+{
+  "product_url": "https://www.kohler.co.in/p/artifacts-single-handle-bathroom-sink-faucet-72762t-9m?skuId=72762T-9M-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/artifacts-single-handle-bathroom-sink-faucet-72762t-9m",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/artifacts-single-handle-bathroom-sink-faucet-72762t-9m",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5541>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/artifacts-single-handle-bathroom-sink-faucet-72762t-9m?skuId=72762T-9M-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "ieZwEXiREM",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=248, origin; dur=833, ak_p; desc=\"1789421572586_400553039_333217512_108139_10488_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:32:53 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1742",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762T-9M.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762t_9mfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "Inspired by turn-of-the-century charm, each piece in the Artifacts™ faucet and accessory collection is like a vintage treasure rediscovered. At home in any decor, the Artifacts™ collection gives you the freedom to create a look that is yours and yours alone. Timeless and classic in its inspiration, Artifacts™ allows you to coordinate faucets, accessories, showering, and finishes to express your personal style. Artifacts™ faucets combine quality craftsmanship with artisan designs to lend character and authenticity to your space - as a finishing touch or the central piece to build the room around.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|72762T-9M-CP|false|false|K-72762T-9M-CP",
+              "Vibrant Brushed Bronze|swatch_BV|72762T-9M-BV|true|false|K-72762T-9M-BV"
+            ],
+            "ProductBrandName_s": "Artifacts™",
+            "ProductPackageContents_s": "1 ARTIFACTS™ SINGLE-HANDLE LAV FAUCET, 1 INSERT, LAMINAR, 3 INSTALLATION INSTRUCTIONS, 1 CERT. OF MAINTENANCE, 2 INSERT,DC",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762T-9M.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1271109-2A-C.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1469510871_1271109-X4-A_ARTIFACTS_72762T-9M.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762T-9M.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "72762T-9M-CP|zab30953_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30953_rgb",
+              "72762T-9M-BV|zab30963_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30963_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 52300.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 52300.0,
+            "ProductDescriptionProductShort_s": "Single-handle bathroom sink faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762t_9mpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762t_9msde.dxf"
+            ],
+            "productName_s": "Artifacts™ Single-handle bathroom sink faucet",
+            "ctId_s": "393a5ce5-1159-41eb-b4f3-6a2219fe9ad2",
+            "ProductWebFeatures_ss": [
+              "One-piece, self-contained ceramic disc valve allows both volume and control.",
+              "Temperature memory allows faucet to be turned on and off at any temperature setting.",
+              "Touch-activated drain with tailpiece and overflow.",
+              "5-11/16\" (14.4 cm) spout reach.",
+              "1.5 gpm (5.7 lpm) maximum flow rate at 60 psi (4.14 bar).",
+              "Flexible G1/2\" supply hoses for easy installation",
+              "Includes click drain",
+              "14.4 cm spout reach"
+            ],
+            "priceList.ANY.finalPrice_d": 52300.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762t_9msde.dwg"
+            ],
+            "sku_s": "72762T-9M-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-ARTIFACTS-K-72762T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762T-9M.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.262",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "72762T-9M",
+            "productInRiverId_s": "inRiver_1336485",
+            "priceList.CTR.finalPrice_d": 52300.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-72762T-9M-CP",
+            "ProductBrandNameDisplay_s": "Artifacts™",
+            "variantList.sku_ss": [
+              "72762T-9M-CP",
+              "72762T-9M-BV"
+            ],
+            "SKUShippingHeight_s": "0.159",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "0.373",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762t_9mpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762t_9mfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72762T-9M.dwg"
+            ],
+            "id": "393a5ce5-1159-41eb-b4f3-6a2219fe9ad2|72762T-9M-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "product_url": "https://www.kohler.co.in/p/traditional-round-10-rainhead-with-katalyst-air-induction-spray-2-5-gpm-13693?skuId=13693-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/traditional-round-10-rainhead-with-katalyst-air-induction-spray-2-5-gpm-13693",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/traditional-round-10-rainhead-with-katalyst-air-induction-spray-2-5-gpm-13693",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4883>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/traditional-round-10-rainhead-with-katalyst-air-induction-spray-2-5-gpm-13693?skuId=13693-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "DBZXuZ0l85",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=254, origin; dur=739, ak_p; desc=\"1789448875837_400553039_335802388_99362_11252_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:07:56 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2513",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductYoutubeID_s": "I13XFm1YTJI|G1ehTMTZ4jQ",
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "1/2\" -14 NPT connection"
+            ],
+            "ProductPackageContents_s": "1 SHOWERHEAD; 1 WARRANTY CARD; 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693.skp"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1141989-2.pdf"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst® air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 70000.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 70000.0,
+            "ProductOverallLengthInches_s": "10-7/16\"",
+            "ProductDescriptionProductShort_s": "Traditional 10\" single-function rainhead, 2.5 gpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693pln.dxf"
+            ],
+            "productName_s": "Traditional 10\" single-function rainhead, 2.5 gpm",
+            "ctId_s": "eba34f18-44e3-423f-93b9-5eb2baf51631",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Traditional_Round-K-13693.zip",
+              "https://techcomm.kohler.com/techcomm/cad/Showerhead-10in_Round-Kohler-Katalyst_Spray-13693.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "14.016",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "13693",
+            "priceList.CTR.finalPrice_d": 70000.0,
+            "SKUShippingHeight_s": "5.315",
+            "ctProductType_s": "showerheads",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-3/4\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693.obj"
+            ],
+            "ProductOverallWidthInches_s": "10-7/16\"",
+            "ProductNarrativeDescription_s": "Enjoy a shower that simulates the soaking deluge of a warm summer downpour. This traditional-style KOHLER® round ceiling-mount/wall-mount rainhead features innovative Katalyst® air-induction technology, which efficiently mixes air and water to produce large water droplets and deliver a powerful, thoroughly drenching overhead shower experience. Its clean design and durable finish coordinate with many other KOHLER® faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|13693-CP|false|false|K-13693-CP",
+              "Vibrant Brushed Bronze|swatch_BV|13693-BV|false|false|K-13693-BV"
+            ],
+            "Recommended_Accessories_ss": [
+              "inRiver_219255"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-13693_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-13693_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-13693_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-13693_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "13693-BV|13693-G-BV_PartialRoomViewOnePointSquare_d2c0019515_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_PartialRoomViewOnePointSquare_d2c0019515_rgb",
+              "13693-BV|13693-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016993_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0016993_en-US",
+              "13693-BV|13693-G-BV_DIMENSIONALSquareWithText_d2c0016999_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_DIMENSIONALSquareWithText_d2c0016999_en-US",
+              "13693-BV|13693-G-BV_FRONTSquare_d2c0017025_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FRONTSquare_d2c0017025_rgb",
+              "13693-BV|13693-G-BV_ISO_d2c0017047_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_ISO_d2c0017047_rgb",
+              "13693-BV|13693-G-BV_CloseRoomViewSquareWithText_d2c0017017_en-US|IMGITEMCLOSEROOMVIEWSquareWithText||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewSquareWithText_d2c0017017_en-US",
+              "13693-BV|13693-G-BV_ISOSquare_d2c0017047_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_ISOSquare_d2c0017047_rgb",
+              "13693-BV|13693-G-BV_CloseRoomViewProductDetailSquare_d2c0016978_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_CloseRoomViewProductDetailSquare_d2c0016978_rgb",
+              "13693-BV|13693-G-BV_DETAILSquare_d2c0017006_rgb|IMGITEMPRODUCTDETAILSquare||close-up view of product detail|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_DETAILSquare_d2c0017006_rgb",
+              "13693-BV|SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US|IMGITEMFEATURESpraysSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US",
+              "13693-BV|13693-G-BV_FullRoomViewTwoPointSquareWithText_d2c0019484_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FullRoomViewTwoPointSquareWithText_d2c0019484_en-US",
+              "13693-BV|13693-G-BV_FullRoomViewOnePointSquare_d2c0019527_rgb|IMGITEMFULLROOMVIEWOnePointSquare||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-BV_FullRoomViewOnePointSquare_d2c0019527_rgb",
+              "13693-BV|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "13693-BV|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US",
+              "13693-CP|13693-G-CP_DIMENSIONALSquareWithText_d2c0017040_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_DIMENSIONALSquareWithText_d2c0017040_en-US",
+              "13693-CP|13693-G-CP_CloseRoomViewSquareWithText_d2c0017049_en-US|IMGITEMCLOSEROOMVIEWSquareWithText||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewSquareWithText_d2c0017049_en-US",
+              "13693-CP|13693-G-CP_CloseRoomViewProductDetailSquare_d2c0017027_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewProductDetailSquare_d2c0017027_rgb",
+              "13693-CP|13693-G-CP_ISOSquare_d2c0017030_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_ISOSquare_d2c0017030_rgb",
+              "13693-CP|13693-G-CP_PartialRoomViewOnePointSquare_d2c0019474_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_PartialRoomViewOnePointSquare_d2c0019474_rgb",
+              "13693-CP|13693-G-CP_DETAILSquare_d2c0017057_rgb|IMGITEMPRODUCTDETAILSquare||close-up view of product detail|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_DETAILSquare_d2c0017057_rgb",
+              "13693-CP|13693-G-CP_FRONTSquare_d2c0017051_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FRONTSquare_d2c0017051_rgb",
+              "13693-CP|13693-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0017046_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0017046_en-US",
+              "13693-CP|13693-G-CP_ISO_d2c0017032_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_ISO_d2c0017032_rgb",
+              "13693-CP|SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US|IMGITEMFEATURESpraysSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_FEATURESPRAY_FullKatalystSquareWithText_en-US",
+              "13693-CP|13693-G-CP_FullRoomViewTwoPointSquareWithText_d2c0019510_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FullRoomViewTwoPointSquareWithText_d2c0019510_en-US",
+              "13693-CP|13693-G-CP_FullRoomViewOnePointSquare_d2c0019532_rgb|IMGITEMFULLROOMVIEWOnePointSquare||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/13693-G-CP_FullRoomViewOnePointSquare_d2c0019532_rgb",
+              "13693-CP|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "13693-CP|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Single-function rainhead",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "2.5 gpm (9.5 lpm) maximum flow rate"
+            ],
+            "priceList.ANY.finalPrice_d": 70000.0,
+            "sku_s": "13693-CP",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_235756",
+            "Product_Category": "Showerheads",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1145643_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-13693-CP",
+            "variantList.sku_ss": [
+              "13693-CP",
+              "13693-BV"
+            ],
+            "SKUShippingLength_s": "14.606",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Solid-brass construction for durability and reliability"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/13693.dwg"
+            ],
+            "id": "eba34f18-44e3-423f-93b9-5eb2baf51631|13693-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

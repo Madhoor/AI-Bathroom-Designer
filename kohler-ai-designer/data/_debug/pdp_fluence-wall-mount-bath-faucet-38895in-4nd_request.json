@@ -1,0 +1,195 @@
+{
+  "product_url": "https://www.kohler.co.in/p/fluence-wall-mount-bath-faucet-38895in-4nd?skuId=38895IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/fluence-wall-mount-bath-faucet-38895in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/fluence-wall-mount-bath-faucet-38895in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5451>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/fluence-wall-mount-bath-faucet-38895in-4nd?skuId=38895IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "oEgDW1u6ks",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=287, origin; dur=748, ak_p; desc=\"1789422511879_400553039_333258665_103549_9948_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:48:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2086",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "For single-hole installation",
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-5/16\"",
+            "ProductNarrativeDescription_s": "The bold, flowing design of this Fluence+™ wall-mount bath faucet makes an elegant statement in any bathroom, its graceful silhouette embodying a refined, humanist touch. A sleek Lever handle offers effortless control over water volume and temperature, while premium materials and a corrosion-resistant finish ensure lasting durability. Together, these elements create a sense of energy and resilience. Pair this faucet with a compatible bathtub to elevate your bathroom with a sophisticated, cohesive look.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|38895IN-4ND-CP|true|false|K-38895IN-4ND-CP",
+              "Vibrant French Gold|swatch_AF|38895IN-4ND-AF|true|false|K-38895IN-4ND-AF",
+              "Vibrant Rose Gold|swatch_RGD|38895IN-4ND-RGD|true|false|K-38895IN-4ND-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|38895IN-4ND-BV|true|false|K-38895IN-4ND-BV",
+              "Matte Black|swatch_BL|38895IN-4ND-BL|true|false|K-38895IN-4ND-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|38895IN-4ND-BRD|true|false|K-38895IN-4ND-BRD"
+            ],
+            "ProductBrandName_s": "Fluence+™",
+            "ProductPackageContents_s": "1 FAUCET;1HARDWARE KIT; 1 VALVE ASSEMBLY;1 INSTALLATION GUIDE",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208985",
+              "inRiver_3208982"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1609342-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1602160-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-38895IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "38895IN-4ND-BV|aag25411_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag25411_rgb",
+              "38895IN-4ND-BV|aaj06028_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06028_rgb",
+              "38895IN-4ND-BV|aaj06029_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06029_rgb",
+              "38895IN-4ND-BV|aaj06031_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06031_rgb",
+              "38895IN-4ND-BV|aaj06030_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06030_rgb",
+              "38895IN-4ND-BV|aaj10444_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj10444_rgb",
+              "38895IN-4ND-BV|aaj05876_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05876_rgb",
+              "38895IN-4ND-BV|aaj05875_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05875_rgb",
+              "38895IN-4ND-BV|aaj05877_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05877_rgb",
+              "38895IN-4ND-BV|aaj05878_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj05878_rgb",
+              "38895IN-4ND-BL|aag25407_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag25407_rgb",
+              "38895IN-4ND-AF|aaf88265_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88265_rgb",
+              "38895IN-4ND-BRD|aag85984_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag85984_rgb",
+              "38895IN-4ND-RGD|aaf88266_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88266_rgb",
+              "38895IN-4ND-CP|aaf88270_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88270_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 13199.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 16100.0,
+            "ProductOverallLengthInches_s": "7-7/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895in_4ndsde.dxf"
+            ],
+            "productName_s": "Fluence+™ Wall-mount bath faucet",
+            "ctId_s": "8a3e831d-94da-42b3-b0bd-0e166b46bfad",
+            "ProductWebFeatures_ss": [
+              "Contemporary design",
+              "Single Lever handle allows for on/off activation, volume, and temperature control",
+              "Red/blue indexing on handle",
+              "7.19 inch (18.3 cm) nondiverter bath spout with G 1/2 (13 mm) connection",
+              "10.0 lpm (2.64 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 16100.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895in_4ndsde.dwg"
+            ],
+            "sku_s": "38895IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Core-K-38895IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "24.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "38895IN-4ND",
+            "productInRiverId_s": "inRiver_3006953",
+            "priceList.CTR.finalPrice_d": 16100.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-38895IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Fluence+™",
+            "variantList.sku_ss": [
+              "38895IN-4ND-CP",
+              "38895IN-4ND-AF",
+              "38895IN-4ND-BL",
+              "38895IN-4ND-BV",
+              "38895IN-4ND-RGD",
+              "38895IN-4ND-BRD"
+            ],
+            "SKUShippingHeight_s": "9.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "35.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38895IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-5/8\"",
+            "id": "8a3e831d-94da-42b3-b0bd-0e166b46bfad|38895IN-4ND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

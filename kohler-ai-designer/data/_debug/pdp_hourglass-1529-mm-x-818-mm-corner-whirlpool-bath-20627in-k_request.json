@@ -1,0 +1,145 @@
+{
+  "product_url": "https://www.kohler.co.in/p/hourglass-1529-mm-x-818-mm-corner-whirlpool-bath-20627in-k?skuId=20627IN-K-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/hourglass-1529-mm-x-818-mm-corner-whirlpool-bath-20627in-k",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/hourglass-1529-mm-x-818-mm-corner-whirlpool-bath-20627in-k",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/hourglass-1529-mm-x-818-mm-corner-whirlpool-bath-20627in-k?skuId=20627IN-K-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "bZOsEmN33u",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=243, origin; dur=702, ak_p; desc=\"1789420441551_400553039_333169522_94526_10220_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:14:02 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1521",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20627in_kfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/hourglass-integrated-acrylic-whirlpool-bath-tub-in-white",
+            "ProductWebInstallation_ss": [
+              "Corner",
+              "Left drain",
+              "Requires dedicated electrical GFCI circuit (220-240 V, 3 A, 50 Hz)"
+            ],
+            "ProductOverallWidthInches_s": "32-3/16\"",
+            "ProductNarrativeDescription_s": "Drift away into a soothing, relaxing water massage. This contemporary Hourglass rectangular left-corner whirlpool bath accommodates an indulgent soaking experience, with four luxurious jets to help you unwind. The shapely sleek acrylic construction offers exceptional durability, while thoughtful touches like an integral overflow ensure a deep water experience to relax your mind, rejuvenate your body, and renew your spirit.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|20627IN-K-0|true|false|K-20627IN-K-0"
+            ],
+            "ProductBrandName_s": "Hourglass™",
+            "ProductPackageContents_s": "1 BATHTUB; 1 WARRANTY CARD; 1 INSTALLATION GUIDE; 1 ROUGHIN GUIDE",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556175"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "20627IN-K-0|20627IN-K-0|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/20627IN-K-0"
+            ],
+            "priceList.GST.finalPrice_d": 174799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 218500.0,
+            "ProductOverallLengthInches_s": "60-3/16\"",
+            "ProductDescriptionProductShort_s": "152.9 cm x 81.8 cm corner whirlpool bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20627in_kpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20627in_ksde.dxf"
+            ],
+            "productName_s": "Hourglass® 152.9 cm x 81.8 cm corner whirlpool bath",
+            "ctId_s": "92f273df-f608-4d59-a26c-45be819716d6",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin creates a spacious bathing experience",
+              "Hourglass shape adds style and elegance to your bathroom",
+              "With overflow",
+              "14.5 inch (36.8 cm) soaking depth",
+              "Single-speed whirlpool offers performance and value, with 4 fully adjustable jets",
+              "Armrests offer extra comfort while bathing",
+              "Integral lumbar support"
+            ],
+            "priceList.ANY.finalPrice_d": 218500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20627in_ksde.dwg"
+            ],
+            "sku_s": "20627IN-K-0",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "90.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "20627IN-K",
+            "productInRiverId_s": "inRiver_2492316",
+            "priceList.CTR.finalPrice_d": 218500.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-20627IN-K-0",
+            "ProductBrandNameDisplay_s": "Hourglass",
+            "variantList.sku_ss": [
+              "20627IN-K-0"
+            ],
+            "SKUShippingHeight_s": "25.000",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "159.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20627in_kpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20627in_kfrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "22-11/16\"",
+            "id": "92f273df-f608-4d59-a26c-45be819716d6|20627IN-K-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

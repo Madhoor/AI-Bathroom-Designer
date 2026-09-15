@@ -1,0 +1,114 @@
+{
+  "product_url": "https://www.kohler.co.in/p/kumin-bath-spout-without-diverter-99467in-b?skuId=99467IN-B-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/kumin-bath-spout-without-diverter-99467in-b",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/kumin-bath-spout-without-diverter-99467in-b",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/kumin-bath-spout-without-diverter-99467in-b?skuId=99467IN-B-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Ainsayvwml",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=244, origin; dur=704, ak_p; desc=\"1789446706911_400553039_335256786_94850_13659_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:31:47 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1121",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "redirectUrl_s": "https://shopkohler.in/products/kumin-bath-spout-without-diverter",
+            "ProductNarrativeDescription_s": "Kumin brings easy function and sleek style into any bathroom, combining single-handle control with modern design to create an eye-catching faucet.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|99467IN-B-CP|false|false|K-99467IN-B-CP"
+            ],
+            "ProductBrandName_s": "Kumin®",
+            "ProductPackageContents_s": "BATH SPOUT; ESCUTCHEON; AERATOR KEY; INSTALLATION INSTRUCTION; WARRANTY",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "99467IN-B-CP|99467IN-B-CP|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/99467IN-B-CP"
+            ],
+            "priceList.GST.finalPrice_d": 1769.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 2090.0,
+            "ProductDescriptionProductShort_s": "Bath Spout Without Diverter",
+            "productName_s": "Kumin® Bath Spout Without Diverter",
+            "ctId_s": "68e91d81-4f4a-4ec2-8a47-596485f0bb4c",
+            "ProductWebFeatures_ss": [
+              "KOHLER ceramic disc valves exceed industry longevity standards over two times for a lifetime of durable performance.",
+              "Leak free ceramic disc valve allows both volume and temperature control.",
+              "Premium metal construction.",
+              "KOHLER finishes resist corrosion and tarnishing."
+            ],
+            "priceList.ANY.finalPrice_d": 2090.0,
+            "sku_s": "99467IN-B-CP",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "0.088",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "99467IN-B",
+            "productInRiverId_s": "inRiver_832856",
+            "priceList.CTR.finalPrice_d": 2090.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-99467IN-B-CP",
+            "ProductBrandNameDisplay_s": "Kumin®",
+            "variantList.sku_ss": [
+              "99467IN-B-CP"
+            ],
+            "SKUShippingHeight_s": "0.058",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "0.260",
+            "SKUIsProjectPack_s": "No",
+            "id": "68e91d81-4f4a-4ec2-8a47-596485f0bb4c|99467IN-B-CP",
+            "RegionReleaseforShipment_dt": "2019-04-22T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

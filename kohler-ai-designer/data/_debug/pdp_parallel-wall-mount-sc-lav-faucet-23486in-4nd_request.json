@@ -1,0 +1,217 @@
+{
+  "product_url": "https://www.kohler.co.in/p/parallel-wall-mount-sc-lav-faucet-23486in-4nd?skuId=23486IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/parallel-wall-mount-sc-lav-faucet-23486in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/parallel-wall-mount-sc-lav-faucet-23486in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/parallel-wall-mount-sc-lav-faucet-23486in-4nd?skuId=23486IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Wd8BAweMiO",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=310, origin; dur=723, ak_p; desc=\"1789421962937_400553078_266687836_103427_11828_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:39:23 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2595",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486in_4ndfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/parallel-wm-sc-lavatory-faucet",
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductOverallWidthInches_s": "7-3/16\"",
+            "ProductNarrativeDescription_s": "Elevate your bathroom aesthetic with the Parallel™ wall-mount bathroom sink faucet. This sophisticated fixture offers a harmonious blend of versatility and style, effortlessly adapting to any surrounding décor. Whether you prefer a seamless integration or a bold statement piece, the Parallel™ faucet is designed to meet your unique taste. Crafted for both functionality and elegance, this faucet is the perfect addition to transform your bathroom into a space that exudes modern sophistication.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|23486IN-4ND-CP|true|false|K-23486IN-4ND-CP",
+              "Vibrant French Gold|swatch_AF|23486IN-4ND-AF|true|false|K-23486IN-4ND-AF",
+              "Vibrant Rose Gold|swatch_RGD|23486IN-4ND-RGD|true|false|K-23486IN-4ND-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|23486IN-4ND-BV|false|false|K-23486IN-4ND-BV",
+              "Matte Black|swatch_BL|23486IN-4ND-BL|true|false|K-23486IN-4ND-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|23486IN-4ND-BRD|true|false|K-23486IN-4ND-BRD"
+            ],
+            "ProductBrandName_s": "Parallel™",
+            "ProductPackageContents_s": "1-WM LAV FAUCET, 1 MOUNTING KIT; 1 ESCUTCHEON KIT;1 WARRANTY;1INSTALLATION INSTRUCTION",
+            "Recommended_Accessories_ss": [
+              "inRiver_2312070",
+              "inRiver_3208985",
+              "inRiver_3201829",
+              "inRiver_3208982"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1339459-IN2.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/1637356-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1339459-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-23486IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "23486IN-4ND-AF|aad43847_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad43847_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_CloseRoomView_d2c0007963_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomView_d2c0007963_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_FRONT_d2c0008272_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_FRONT_d2c0008272_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_SIDE_d2c0008375_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_SIDE_d2c0008375_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_PartialRoomView_d2c0008069_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_PartialRoomView_d2c0008069_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_CloseRoomViewProductDetail_d2c0008370_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomViewProductDetail_d2c0008370_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_CloseRoomViewInUse_d2c0007882_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomViewInUse_d2c0007882_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_OverheadRoomView_d2c0008245_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_OverheadRoomView_d2c0008245_rgb",
+              "23486IN-4ND-AF|23486IN-4ND-AF_ISOBackground_d2c0008228_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_ISOBackground_d2c0008228_rgb",
+              "23486IN-4ND-CP|aad39020_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad39020_rgb",
+              "23486IN-4ND-CP|aad39024_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aad39024_rgb",
+              "23486IN-4ND-CP|aad39021_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad39021_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_PartialRoomView_d2c0008164_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_PartialRoomView_d2c0008164_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_SIDE_d2c0008433_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_SIDE_d2c0008433_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_CloseRoomViewInUse_d2c0007759_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomViewInUse_d2c0007759_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_OverheadRoomView_d2c0008041_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_OverheadRoomView_d2c0008041_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_ISOBackground_d2c0008223_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_ISOBackground_d2c0008223_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_CloseRoomViewProductDetail_d2c0007848_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomViewProductDetail_d2c0007848_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_FRONT_d2c0008014_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_FRONT_d2c0008014_rgb",
+              "23486IN-4ND-CP|23486IN-4ND-CP_CloseRoomView_d2c0007829_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomView_d2c0007829_rgb",
+              "23486IN-4ND-BL|aae59362_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae59362_rgb",
+              "23486IN-4ND-BV|aaj42723_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj42723_rgb",
+              "23486IN-4ND-BRD|aaj42708_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj42708_rgb",
+              "23486IN-4ND-RGD|aaf63271_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 13769.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 16800.0,
+            "ProductOverallLengthInches_s": "7-5/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 9.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486in_4ndsde.dxf"
+            ],
+            "productName_s": "Parallel™ Wall-mount bathroom sink faucet, 9.0 lpm",
+            "ctId_s": "65eead50-ef07-4281-8c49-8dda67bf39c5",
+            "ProductWebFeatures_ss": [
+              "A single handle controls both on/off activation and temperature setting",
+              "16.4 cm (6.45 inch) spout reach",
+              "9.0 lpm (2.38 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance",
+              "Coordinates with other products in the Parallel collection"
+            ],
+            "priceList.ANY.finalPrice_d": 16800.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486in_4ndsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "23486IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-PARALLEL-K-23486IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "17.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "23486IN-4ND",
+            "productInRiverId_s": "inRiver_880122",
+            "priceList.CTR.finalPrice_d": 16800.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-23486IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Parallel™",
+            "variantList.sku_ss": [
+              "23486IN-4ND-CP",
+              "23486IN-4ND-AF",
+              "23486IN-4ND-BL",
+              "23486IN-4ND-RGD",
+              "23486IN-4ND-BRD",
+              "23486IN-4ND-BV"
+            ],
+            "SKUShippingHeight_s": "12.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "25.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558780"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23486IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-1/8\"",
+            "id": "65eead50-ef07-4281-8c49-8dda67bf39c5|23486IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

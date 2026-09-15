@@ -1,0 +1,194 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-flow-330x230mm-rainhead-27731in?skuId=27731IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-flow-330x230mm-rainhead-27731in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-flow-330x230mm-rainhead-27731in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-flow-330x230mm-rainhead-27731in?skuId=27731IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "eAneJQk7GG",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=257, origin; dur=727, ak_p; desc=\"1789449111785_400553078_274095547_98492_13280_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:11:52 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2168",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/modernlife-single-flow-overhead-shower-in-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Ceiling- or wall-mount",
+              "G 1/2 (13 mm) inlet connection"
+            ],
+            "ProductOverallWidthInches_s": "13-3/16\"",
+            "ProductNarrativeDescription_s": "The ModernLife™ faucet collection is the very essence of understated contemporary chic, blending striking design with purposeful function. An elegant expression of practicality and timeless style, the collection's smooth linear faucets and fixtures deliver versatility that suits many bathroom spaces. The ModernLife™ rectangular single-function rainhead features a full coverage spray with Katalyst™ air-induction technology, mixing air and water to produce large water droplets for a powerful, drenching overhead shower experience.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|27731IN-CP|true|false|K-27731IN-CP",
+              "Vibrant French Gold|swatch_AF|27731IN-AF|true|false|K-27731IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|27731IN-RGD|true|false|K-27731IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|27731IN-BV|true|false|K-27731IN-BV",
+              "Matte Black|swatch_BL|27731IN-BL|true|false|K-27731IN-BL"
+            ],
+            "ProductBrandName_s": "ModernLife™",
+            "ProductPackageContents_s": "1 SHOWERHEAD, 1 INSTALLATION INSTRUCTION & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-27731IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27731IN-BV|aaf79797_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79797_rgb",
+              "27731IN-RGD|aaf66497_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66497_rgb",
+              "27731IN-RGD|aag38844_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38844_rgb",
+              "27731IN-AF|aae32816_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae32816_rgb",
+              "27731IN-AF|aag38845_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38845_rgb",
+              "27731IN-BL|aaf86794_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86794_rgb",
+              "27731IN-BL|aaf86793_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86793_rgb",
+              "27731IN-CP|aad82066_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad82066_rgb",
+              "27731IN-CP|aag38847_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag38847_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 21839.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 27300.0,
+            "ProductOverallLengthInches_s": "2-1/2\"",
+            "ProductDescriptionProductShort_s": "Rectangular 33.5 cm x 22 cm single-function rainhead, 9.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731insde.dxf"
+            ],
+            "productName_s": "ModernLife™ Rectangular 33.5 cm x 22 cm single-function rainhead, 9.0 lpm",
+            "ctId_s": "cfb63614-f07c-4c85-b396-84b4447ba4f4",
+            "ProductWebFeatures_ss": [
+              "Sleek contemporary design",
+              "Single-function rectangular rainhead features Full Coverage with Katalyst™ air-induction technology, a drenching spray experience ideal for rinsing shampoo from hair",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "Self-leveling ball joint keeps rainhead parallel to the ground for steady coverage",
+              "9.0 lpm (2.38 gpm) maximum flow rate at 3.0 bar (43.5 psi)"
+            ],
+            "priceList.ANY.finalPrice_d": 27300.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2"
+            ],
+            "sku_s": "27731IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Modern_Life-K-27731IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Rainhead-KOHLER-BEITOU-K-27731IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "23.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27731IN",
+            "productInRiverId_s": "inRiver_1429409",
+            "priceList.CTR.finalPrice_d": 27300.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-27731IN-CP",
+            "ProductBrandNameDisplay_s": "ModernLife™",
+            "variantList.sku_ss": [
+              "27731IN-CP",
+              "27731IN-AF",
+              "27731IN-BL",
+              "27731IN-BV",
+              "27731IN-RGD"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "37.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1336470",
+              "inRiver_1336469"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27731IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "8-11/16\"",
+            "id": "cfb63614-f07c-4c85-b396-84b4447ba4f4|27731IN-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

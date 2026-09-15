@@ -1,0 +1,152 @@
+{
+  "product_url": "https://www.kohler.co.in/p/laureate-under-mount-bathroom-sink-gold-14008t-pd?skuId=14008T-PD-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/laureate-under-mount-bathroom-sink-gold-14008t-pd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/laureate-under-mount-bathroom-sink-gold-14008t-pd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/laureate-under-mount-bathroom-sink-gold-14008t-pd?skuId=14008T-PD-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "E8GlT40kRO",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=288, origin; dur=758, ak_p; desc=\"1789420951263_400553078_266608252_104584_10857_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:22:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1425",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008T-PD.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008t_pdfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "The rich, warm glow of Polished Gold. The bright, reflective glint of Polished Platinum. With a choice of finishes, courtly Laureate brings refined elegance to the bathroom.Laureate combines acanthus leaves with a metalwork style used by the Ottoman Turks throughout the 18th century in embossed fabrics and as an architectural detail.Here the garland floral texture on White china creates an eye-catching juxtaposition.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|14008T-PD-0|false|false|K-14008T-PD-0"
+            ],
+            "ProductBrandName_s": "Laureate™",
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 LAV; 1 INST.INSTR.;\n1 WARRANTY CARD; 1 HARDWARE KIT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008T-PD.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/14008t_pd_pk.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/k_14008t_rgd.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008T-PD.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "14008T-PD-0|aae34787_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae34787_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 75999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 95000.0,
+            "ProductDescriptionProductShort_s": "Under-mount Bathroom Sink - Gold",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008t_pdpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008t_pdsde.dxf"
+            ],
+            "productName_s": "LAUREATE™ Under-mount Bathroom Sink - Gold",
+            "ctId_s": "61996ca0-f58d-4f3b-8c9a-d2b92ba7a147",
+            "ProductWebFeatures_ss": [
+              "Decorated with 3D leaf pattern made of 24K gold",
+              "Carefully hand made with impeccable craftsmanship",
+              "Vivid and long-lasting color",
+              "With overflow drain ",
+              "Dimensions: 480*38.1 cm"
+            ],
+            "priceList.ANY.finalPrice_d": 95000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008t_pdsde.dwg"
+            ],
+            "sku_s": "14008T-PD-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Undermount-Lavatory-KOHLER-LAUREATE_CAXTON-K-14008T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008T-PD.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.517",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "14008T-PD",
+            "productInRiverId_s": "inRiver_877920",
+            "priceList.CTR.finalPrice_d": 95000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-14008T-PD-0",
+            "ProductBrandNameDisplay_s": "Laureate™",
+            "variantList.sku_ss": [
+              "14008T-PD-0"
+            ],
+            "SKUShippingHeight_s": "0.227",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "0.627",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008t_pdpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008t_pdfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14008T-PD.dwg"
+            ],
+            "id": "61996ca0-f58d-4f3b-8c9a-d2b92ba7a147|14008T-PD-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

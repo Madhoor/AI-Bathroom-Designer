@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1?skuId=26994IN-HB1",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1?skuId=26994IN-HB1",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "m6c10yzM3D",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=261, origin; dur=732, ak_p; desc=\"1789450089378_400553078_274612042_99393_12561_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:28:10 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1701",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 1.6,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|21128IN-0|true|false|K-21128IN-0",
+              "Honed Black|swatch_HB1|21128IN-HB1|true|false|K-21128IN-HB1",
+              "Honed Lush|swatch_HL1|21128IN-HL1|true|false|K-21128IN-HL1"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1 HARDWARE INSTALLATION ASSEMBLY, 1 INSTALLATION INSTRUCTION & 1 WARRANTY CARD.",
+            "productImages.labelWithUrl_ss": [
+              "21128IN-0|aae45105_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae45105_rgb",
+              "21128IN-0|aaf71399_rgb|IMGITEMISO||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf71399_rgb",
+              "21128IN-0|aae45104_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aae45104_rgb",
+              "21128IN-0|aaf71398_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71398_rgb",
+              "21128IN-0|aaf71400_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf71400_rgb",
+              "21128IN-HB1|aag94929_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag94929_rgb",
+              "21128IN-HL1|aah61681_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah61681_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close round-front toilet seat",
+            "ColorFinish_s": "Honed Black",
+            "productName_s": "Brazn™ Quiet-Close round-front toilet seat",
+            "ctId_s": "77fb8095-fbb0-4c56-a8e4-36320aabee8d",
+            "ProductWebFeatures_ss": [
+              "Round-front seat with lid",
+              "Quiet-Close™ seat with Quick-Release™ functionality closes quietly and quickly unlatches from the toilet for easy removal and convenient cleaning",
+              "Quick-Attach™ hardware for fast and secure installation"
+            ],
+            "ProductOverallWidthCm_d": 38.5,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "21128IN-HB1",
+            "SKUShippingWidth_s": "42.300",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Brazn™",
+            "SKUShippingHeight_s": "7.700",
+            "SKUShippingLength_s": "50.000",
+            "slug_s": "brazn-quiet-close-round-front-toilet-seat-21128in",
+            "ProductOverallLengthCm_d": 46.9
+          },
+          {
+            "ProductOverallHeightCm_d": 35.4,
+            "Color.SKU.Details_ss": [
+              "Honed Black|swatch_HB1|21748IN-HB1|true|false|K-21748IN-HB1",
+              "Honed Lush|swatch_HL1|21748IN-HL1|false|false|K-21748IN-HL1"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG; 1 INSTALLATION KIT; 1 WARRANTY CARD; 1 INSTL. INSTR.",
+            "productImages.labelWithUrl_ss": [
+              "21748IN-HB1|aae15823_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae15823_rgb",
+              "21748IN-HL1|aah61741_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah61741_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl with skirted trapway",
+            "ColorFinish_s": "Honed Black",
+            "productName_s": "Brazn™ Wall-hung round-front toilet bowl with skirted trapway",
+            "ctId_s": "04f3cde2-5b50-4745-ae02-ae8625715d45",
+            "ProductWebFeatures_ss": [
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "2-1/8\" (54 mm) fully glazed trapway",
+              "Rimless design makes toilet bowl more hygienic and easier to clean",
+              "Bowl only; requires KOHLER® in-wall tank and carrier system, flush actuator, and seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 38.4,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "21748IN-HB1",
+            "SKUShippingWidth_s": "42.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Brazn™",
+            "SKUShippingHeight_s": "62.600",
+            "SKUShippingLength_s": "44.100",
+            "slug_s": "brazn-wall-hung-round-front-toilet-bowl-with-skirted-trapway-21748in",
+            "ProductOverallLengthCm_d": 55.6
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Brazn round wall hung toilet bundle in Honed Black finish",
+            "ctId_s": "c70a9a8e-b062-4a34-b9d7-a3eaeff39afb",
+            "priceList.ANY.finalPrice_d": 50000.0,
+            "sku_s": "26994IN-HB1",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 50000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-26994IN-HB1",
+            "variantList.sku_ss": [
+              "26994IN-HB1"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "priceList.GST.finalPrice_d": 39999.0,
+            "priceList.KEMP.finalPrice_d": 50000.0,
+            "id": "c70a9a8e-b062-4a34-b9d7-a3eaeff39afb|26994IN-HB1"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "product_url": "https://www.kohler.co.in/p/emerald-acrylic-drop-in-bathtub-18778t?skuId=18778T-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/emerald-acrylic-drop-in-bathtub-18778t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/emerald-acrylic-drop-in-bathtub-18778t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/emerald-acrylic-drop-in-bathtub-18778t?skuId=18778T-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "MgMZqrzQ5o",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=272, origin; dur=780, ak_p; desc=\"1789420404266_400553039_333167930_105188_13668_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:13:25 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1100",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "redirectUrl_s": "https://shopkohler.in/products/emerald-1305-mm-acrylic-drop-in-bathtub",
+            "ProductNarrativeDescription_s": "Crafted of high-quality acrylic for durability and luster, the space-saving design of the Emerald bath is ideal for owners with small bathrooms wanting to enjoy a comfortable soaking experience.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|18778T-0|false|false|K-18778T-0"
+            ],
+            "ProductBrandName_s": "Emerald®",
+            "ProductPackageContents_s": "1 Bathtub,1 warranty card, 1 Installation guide, 1 rougin guide",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556175"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/18778t.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "18778T-0|ccc21943_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/ccc21943_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 50039.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 52680.0,
+            "ProductOverallLengthInches_s": "51",
+            "ProductDescriptionProductShort_s": "1.3M Drop-In Acrylic Bath",
+            "productName_s": "Emerald® Acrylic Drop-in Bathtub",
+            "ctId_s": "045c7da5-9a5e-4b63-bbcc-9ad7bc40deca",
+            "ProductWebFeatures_ss": [
+              "Corner bath for space saving",
+              "Molded space for bathing stuff"
+            ],
+            "priceList.ANY.finalPrice_d": 52680.0,
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "18778T-0",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "1.370",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "18778T",
+            "productInRiverId_s": "inRiver_1336345",
+            "priceList.CTR.finalPrice_d": 52680.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-18778T-0",
+            "ProductBrandNameDisplay_s": "Emerald®",
+            "variantList.sku_ss": [
+              "18778T-0"
+            ],
+            "SKUShippingHeight_s": "0.535",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "1.370",
+            "SKUIsProjectPack_s": "No",
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1336299"
+            ],
+            "id": "045c7da5-9a5e-4b63-bbcc-9ad7bc40deca|18778T-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

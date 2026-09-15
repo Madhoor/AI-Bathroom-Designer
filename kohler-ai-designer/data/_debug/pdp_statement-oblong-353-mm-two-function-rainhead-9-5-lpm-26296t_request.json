@@ -1,0 +1,167 @@
+{
+  "product_url": "https://www.kohler.co.in/p/statement-oblong-353-mm-two-function-rainhead-9-5-lpm-26296t?skuId=26296T-2MB",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/statement-oblong-353-mm-two-function-rainhead-9-5-lpm-26296t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/statement-oblong-353-mm-two-function-rainhead-9-5-lpm-26296t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/statement-oblong-353-mm-two-function-rainhead-9-5-lpm-26296t?skuId=26296T-2MB",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "vFCA7UcyrC",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=244, origin; dur=717, ak_p; desc=\"1789449211035_400553078_274147661_96136_11044_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:13:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1860",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296tfrt.dxf"
+            ],
+            "ProductOverallWidthInches_s": "13-15/16\"",
+            "ProductNarrativeDescription_s": "Relax in a shower that simulates a warm summer rain and targets sore shoulders with cascading streams—two distinct experiences, each available separately within one rainhead. Choose between Full Coverage with Katalyst air-induction technology, mixing air and water to produce large water droplets for a powerful, consistent overhead shower spray experience, or more-focused Ribbon Massage cascading streams, angled to relieve sore muscles. The innovative two-function rainhead also boasts a contemporary, minimalist design that coordinates with many KOHLER faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Brushed Moderne Brass|swatch_2MB|26296T-2MB|false|false|K-26296T-2MB"
+            ],
+            "ProductBrandName_s": "Statement™",
+            "ProductPackageContents_s": "1 STATEMENT™ 2F 14\" RBN  RAINHEAD, 1 CERT. OF MAINTENANCE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296T.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1430511-T2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1474745-T8 (26296T, 26298T).pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-26296T_spec_AP_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-26296T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296T.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst® air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "26296T-2MB|aad73336_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad73336_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 125200.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 125200.0,
+            "ProductOverallLengthInches_s": "8\"",
+            "ProductDescriptionProductShort_s": "Oblong 35.3 cm two-function rainhead, 9.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296tsde.dxf"
+            ],
+            "productName_s": "Statement™ Oblong 35.3 cm two-function rainhead, 9.5 lpm",
+            "ctId_s": "67ad6d28-8ea7-44f7-ab75-e534208b839c",
+            "ProductWebFeatures_ss": [
+              "Dual-function oblong rainhead features Full Coverage with Katalyst technology, a drenching spray experience ideal for rinsing shampoo from hair",
+              "Ribbon Massage delivers a waterfall-like angled stream that cascades over shoulders for a relaxing massage spray experience",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "Requires two-function rainhead arm and flange (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 125200.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296tsde.dwg"
+            ],
+            "sku_s": "26296T-2MB",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-K-26296T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296T.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "10.236",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "26296T",
+            "productInRiverId_s": "inRiver_886719",
+            "priceList.CTR.finalPrice_d": 125200.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-26296T-2MB",
+            "ProductBrandNameDisplay_s": "Statement™",
+            "variantList.sku_ss": [
+              "26296T-2MB"
+            ],
+            "SKUShippingHeight_s": "5.630",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "16.693",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26296T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-1/2\"",
+            "id": "67ad6d28-8ea7-44f7-ab75-e534208b839c|26296T-2MB",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

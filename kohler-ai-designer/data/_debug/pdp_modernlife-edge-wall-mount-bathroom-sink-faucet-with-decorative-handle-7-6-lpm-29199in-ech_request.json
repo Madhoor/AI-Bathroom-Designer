@@ -1,0 +1,165 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-wall-mount-bathroom-sink-faucet-with-decorative-handle-7-6-lpm-29199in-ech?skuId=29199IN-ECH-RGD",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-wall-mount-bathroom-sink-faucet-with-decorative-handle-7-6-lpm-29199in-ech",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-wall-mount-bathroom-sink-faucet-with-decorative-handle-7-6-lpm-29199in-ech",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-wall-mount-bathroom-sink-faucet-with-decorative-handle-7-6-lpm-29199in-ech?skuId=29199IN-ECH-RGD",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "CSLU6cl0fQ",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=259, origin; dur=821, ak_p; desc=\"1789422058941_400553039_333241267_108048_10296_11_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:41:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1727",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-ECH.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_echfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductOverallWidthInches_s": "6-11/16\"",
+            "ProductNarrativeDescription_s": "Bold lines meet intricate inscription in the ModernLife Edge® wall-mount bathroom sink faucet, elevating the bathroom wash space from everyday functional to statement-making work of art. The faucet's square spout and decorative lever handle creates a unique focal point, reinventing classic cubist design with an expressive stance. Visible from all angles with an elegant floral motif, the slim handle is as easy to clean as it is to admire.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Rose Gold|swatch_RGD|29199IN-ECH-RGD|true|false|K-29199IN-ECH-RGD"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "1 VALVE;1 WALL MOUNT  TRIM",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208985",
+              "inRiver_3208982"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-ECH.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-29199IN-ECH_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-ECH.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "29199IN-ECH-RGD|aaf60617_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf60617_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 40719.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 50900.0,
+            "ProductOverallLengthInches_s": "7-1/2\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet with decorative handle, 7.6 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_echpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_echsde.dxf"
+            ],
+            "productName_s": "ModernLife Edge® Wall-mount bathroom sink faucet with decorative handle, 7.6 lpm",
+            "ctId_s": "2a90c498-0ed2-4c45-8cb4-ba324478a214",
+            "ProductWebFeatures_ss": [
+              "Exquisite floral etching brings the beauty of nature to your inner sanctuary",
+              "Contemporary square design",
+              "Single Lever handle allows for both volume and temperature control",
+              "7-1/2\" (19.1 cm) spout reach",
+              "2.0 gpm (7.6 lpm) maximum flow rate at 45 psi (3.1 bar)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 50900.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_echsde.dwg"
+            ],
+            "sku_s": "29199IN-ECH-RGD",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Modernlife_Edge-K-29199IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-ECH.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "26.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "29199IN-ECH",
+            "productInRiverId_s": "inRiver_3070193",
+            "priceList.CTR.finalPrice_d": 50900.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-29199IN-ECH-RGD",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "variantList.sku_ss": [
+              "29199IN-ECH-RGD"
+            ],
+            "SKUShippingHeight_s": "11.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "50.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_echpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199in_echfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29199IN-ECH.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-5/8\"",
+            "id": "2a90c498-0ed2-4c45-8cb4-ba324478a214|29199IN-ECH-RGD"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

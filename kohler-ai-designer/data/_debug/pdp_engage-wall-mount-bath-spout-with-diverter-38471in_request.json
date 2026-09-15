@@ -1,0 +1,170 @@
+{
+  "product_url": "https://www.kohler.co.in/p/engage-wall-mount-bath-spout-with-diverter-38471in?skuId=38471IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/engage-wall-mount-bath-spout-with-diverter-38471in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/engage-wall-mount-bath-spout-with-diverter-38471in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/engage-wall-mount-bath-spout-with-diverter-38471in?skuId=38471IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "HtEUWQRWXM",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=247, origin; dur=770, ak_p; desc=\"1789446698709_400553039_335254924_101725_14128_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:31:39 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1803",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "G 1/2 connection"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "KOHLER® Engage™ faucets embody a subtle boldness that masterfully blends form with function to showcase elegant innovation. A statement of sophistication in a hurried world, flowing lines echo continuity while gentle curves add a welcoming softness. This bath spout slopes downward, creating a unique form when viewed from the side. At the spout's outlet, the form swells to mimic the natural shape of a water droplet, ensuring water flows smoothly without any lingering residue. A standout piece in any bathroom, the contemporary design elevates functionality while proving a clean aesthetic. Pair with choice of valve, valve trim, and showering components.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|38471IN-CP|true|false|K-38471IN-CP",
+              "Vibrant French Gold|swatch_AF|38471IN-AF|true|false|K-38471IN-AF"
+            ],
+            "ProductBrandName_s": "Engage™",
+            "ProductPackageContents_s": "1 BATH SPOUT ASSY;1 ESCUTCHEON; 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1609345-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1642587-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-38471IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "38471IN-CP|aah06254_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah06254_rgb",
+              "38471IN-AF|aah06252_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah06252_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3279.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 4000.0,
+            "ProductOverallLengthInches_s": "6-1/2\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471insde.dxf"
+            ],
+            "productName_s": "Engage™ Wall-mount bath spout with diverter",
+            "ctId_s": "af30e7fb-9134-4eb9-a4a2-17f9d26673b6",
+            "ProductWebFeatures_ss": [
+              "Sleek and contemporary design",
+              "Diverter spout",
+              "16.4 cm (6.45 inch) spout reach",
+              "12.5 lpm (3.3 gpm) (maximum flow rate at 3.0 bar (43.5 psi)",
+              "Aerated flow",
+              "Coin aerator is easy to remove for maintenance"
+            ],
+            "priceList.ANY.finalPrice_d": 4000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471insde.dwg"
+            ],
+            "sku_s": "38471IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-Spout-KOHLER-K-38471IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "9.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "38471IN",
+            "productInRiverId_s": "inRiver_3149066",
+            "priceList.CTR.finalPrice_d": 4000.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-38471IN-CP",
+            "ProductBrandNameDisplay_s": "Engage™",
+            "variantList.sku_ss": [
+              "38471IN-CP",
+              "38471IN-AF"
+            ],
+            "SKUShippingHeight_s": "6.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "25.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium brass construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/38471IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-7/8\"",
+            "id": "af30e7fb-9134-4eb9-a4a2-17f9d26673b6|38471IN-CP",
+            "RegionReleaseforShipment_dt": "2024-09-08T12:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

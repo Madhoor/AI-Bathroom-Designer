@@ -1,0 +1,147 @@
+{
+  "product_url": "https://www.kohler.co.in/p/composed-liu-guang-jing-yun-series-double-handle-wall-mounted-bathroom-sink-faucet-with-amber-gold-glazed-glass-handle-73067t-9ach?skuId=73067T-9ACH-BV",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/composed-liu-guang-jing-yun-series-double-handle-wall-mounted-bathroom-sink-faucet-with-amber-gold-glazed-glass-handle-73067t-9ach",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/composed-liu-guang-jing-yun-series-double-handle-wall-mounted-bathroom-sink-faucet-with-amber-gold-glazed-glass-handle-73067t-9ach",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/composed-liu-guang-jing-yun-series-double-handle-wall-mounted-bathroom-sink-faucet-with-amber-gold-glazed-glass-handle-73067t-9ach?skuId=73067T-9ACH-BV",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Nles2tTvyB",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=251, origin; dur=789, ak_p; desc=\"1789422003130_400553039_333238972_104073_10755_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:40:04 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1404",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067T-9ACH.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067t_9achfrt.dxf"
+            ],
+            "Color.SKU.Details_ss": [
+              "Vibrant Brushed Bronze|swatch_BV|73067T-9ACH-BV|false|false|K-73067T-9ACH-BV"
+            ],
+            "ProductBrandName_s": "Composed™ ",
+            "ProductPackageContents_s": "1 SPOUT ASSY;\n1 HARDWARE KIT;1 DRAIN;1 ESCUTCHEON;\n1 INSTALLATION GUIDE;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067T-9ACH.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1511948185440_73067T-9ACH&9GCH_install.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067T-9ACH.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73067T-9ACH-BV|aae01669_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01669_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 87999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 110000.0,
+            "ProductDescriptionProductShort_s": "2h wm lav faucet-ach",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067t_9achpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067t_9achsde.dxf"
+            ],
+            "productName_s": "COMPOSED® LIU GUANG JING YUN Series Double-handle Wall-mounted Bathroom Sink Faucet with Amber Gold Glazed Glass Handle",
+            "ctId_s": "450c9f25-bfba-4013-9823-ee7fea88355e",
+            "ProductWebFeatures_ss": [
+              "The innovative PVD space metal coating is subtly incorporated into the design, showcasing unique artistry",
+              "Warm and lustrous amber brings a sense of grandeur from majestic temples",
+              "Using ancient dewaxing casting technique, which requires firing for 7 days and 7 nights in a 47-stage process",
+              "The natural gradual color on each tap surface is unique and long-lasting; the surface feels silky smooth"
+            ],
+            "priceList.ANY.finalPrice_d": 110000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067t_9achsde.dwg"
+            ],
+            "sku_s": "73067T-9ACH-BV",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-COMPOSED-K-73067T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067T-9ACH.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.193",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73067T-9ACH",
+            "productInRiverId_s": "inRiver_879797",
+            "priceList.CTR.finalPrice_d": 110000.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-73067T-9ACH-BV",
+            "ProductBrandNameDisplay_s": "Composed™",
+            "variantList.sku_ss": [
+              "73067T-9ACH-BV"
+            ],
+            "SKUShippingHeight_s": "0.136",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "0.384",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067t_9achpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067t_9achfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73067T-9ACH.dwg"
+            ],
+            "id": "450c9f25-bfba-4013-9823-ee7fea88355e|73067T-9ACH-BV"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

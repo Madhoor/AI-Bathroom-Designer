@@ -1,0 +1,218 @@
+{
+  "product_url": "https://www.kohler.co.in/p/comfort-basin-combo-1?skuId=C5",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/comfort-basin-combo-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/comfort-basin-combo-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/comfort-basin-combo-1?skuId=C5",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "51FOmEpjjJ",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=323, origin; dur=1012, ak_p; desc=\"1789421098925_400553078_266618482_133477_10529_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:25:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2173",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 13.6,
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|75377IN-4-CP|false|false|K-75377IN-4-CP",
+              "Vibrant French Gold|swatch_AF|75377IN-4-AF|false|false|K-75377IN-4-AF"
+            ],
+            "ProductPackageContents_s": "1 PILLAR TAP, 1 INSTALLTION INSTRUCTION; 1 WARRANTY, 1 MOUNTING KIT; 1 ESCUTCHEON",
+            "productImages.labelWithUrl_ss": [
+              "75377IN-4-CP|aae22031_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae22031_rgb",
+              "75377IN-4-CP|aaj83480_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj83480_rgb",
+              "75377IN-4-CP|aaj83479_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83479_rgb",
+              "75377IN-4-CP|aaj83485_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83485_rgb",
+              "75377IN-4-CP|aaj83483_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83483_rgb",
+              "75377IN-4-AF|aaf71141_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf71141_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Single-handle bathroom sink faucet, cold only, 27.0 lpm",
+            "ColorFinish_s": "Polished Chrome",
+            "productName_s": "July™ Single-handle bathroom sink faucet, cold only, 27.0 lpm",
+            "ctId_s": "8e1a2cbd-f4c2-49a4-accd-2ad0af3bdada",
+            "ProductWebFeatures_ss": [
+              "Versatile modern design",
+              "Single Lever handle provides on/off activation and volume control",
+              "For use with cold water line only",
+              "90 mm (3.5 inch) spout reach",
+              "75 mm (2.95 inch) spout height",
+              "Aerated flow",
+              "27.0 lpm (7.13 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "ProductOverallWidthCm_d": 4.6,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "75377IN-4-CP",
+            "SKUShippingWidth_s": "17.000",
+            "ProductLocalCategory_s": "Bathroom Sink Faucets",
+            "ProductBrandNameDisplay_s": "July™",
+            "SKUShippingHeight_s": "6.000",
+            "SKUShippingLength_s": "20.000",
+            "slug_s": "july-pillar-tap-75377in-4",
+            "ProductOverallLengthCm_d": 9.0
+          },
+          {
+            "ProductOverallHeightCm_d": 9.7,
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|45432IN-CP|true|false|K-45432IN-CP",
+              "Vibrant French Gold|swatch_AF|45432IN-AF|true|false|K-45432IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|45432IN-RGD|true|false|K-45432IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|45432IN-BV|true|false|K-45432IN-BV",
+              "Vibrant Brushed Rose Gold|swatch_BRD|45432IN-BRD|true|false|K-45432IN-BRD"
+            ],
+            "ProductPackageContents_s": "1- WARRANTY CARD;\n1- INSTALLATION GUIDE;\n1-GRID DRAIN SET",
+            "productImages.labelWithUrl_ss": [
+              "45432IN-CP|aae21481_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae21481_rgb",
+              "45432IN-RGD|aaf63261_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63261_rgb",
+              "45432IN-AF|aae21477_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae21477_rgb",
+              "45432IN-BV|aaf79801_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79801_rgb",
+              "45432IN-BRD|aag61412_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61412_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Bathroom sink grid drain with overflow",
+            "ColorFinish_s": "Polished Chrome",
+            "productName_s": "Complementary™ Bathroom sink grid drain with overflow",
+            "ctId_s": "d5d46417-6015-4fb2-b63f-5f0888cec559",
+            "ProductWebFeatures_ss": [
+              "Grid drain with tailpiece",
+              "With overflow"
+            ],
+            "ProductOverallWidthCm_d": 6.7,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "45432IN-CP",
+            "SKUShippingWidth_s": "8.000",
+            "ProductLocalCategory_s": "Bathroom Fittings",
+            "ProductBrandNameDisplay_s": "Complementary™",
+            "SKUShippingHeight_s": "8.000",
+            "SKUShippingLength_s": "12.000",
+            "slug_s": "grid-drain-45432in",
+            "ProductOverallLengthCm_d": 9.7
+          },
+          {
+            "ProductOverallHeightCm_d": 17.2,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|25317IN-0|true|false|K-25317IN-0"
+            ],
+            "ProductPackageContents_s": "1 LAVATORY, 1 INSTALLATION KIT, 1 INSTALLATION TEMPLATE, 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "25317IN-0|aae54922_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae54922_rgb",
+              "25317IN-0|aaf69971_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69971_rgb",
+              "25317IN-0|aaf69972_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69972_rgb",
+              "25317IN-0|aaf69973_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69973_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "54.4 cm rectangular wall-mount bathroom sink with glazed underside",
+            "ColorFinish_s": "White",
+            "productName_s": "Span™ 54.4 cm rectangular wall-mount bathroom sink with glazed underside",
+            "ctId_s": "e9d001d6-3743-4dc0-a9a0-dda2999d70f7",
+            "ProductWebFeatures_ss": [
+              "Minimalist design with thin, rounded edges",
+              "Rectangular basin",
+              "An integrated faucet deck provides additional water containment",
+              "Single faucet hole at deck center",
+              "With overflow",
+              "Glazed underside offers beauty from all angles"
+            ],
+            "ProductOverallWidthCm_d": 48.9,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "25317IN-0",
+            "SKUShippingWidth_s": "53.000",
+            "ProductLocalCategory_s": "Bathroom Sinks",
+            "ProductBrandNameDisplay_s": "Span™",
+            "SKUShippingHeight_s": "22.100",
+            "SKUShippingLength_s": "60.000",
+            "slug_s": "span-544-mm-rectangular-wall-mount-bathroom-sink-with-glazed-underside-25317in",
+            "ProductOverallLengthCm_d": 54.5
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Comfort Basin combo",
+            "ctId_s": "538950c6-939c-48b9-a792-4ef794039d3e",
+            "priceList.ANY.finalPrice_d": 11130.0,
+            "redirectUrl_s": "https://shopkohler.in/products/comfort-basin-combo",
+            "sku_s": "C5",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 11130.0,
+            "Product_Category": "Grooming Area Combos",
+            "CustomerFacingSKU_s": "K-C5",
+            "variantList.sku_ss": [
+              "C5"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558305",
+              "inRiver_1730109"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "C5|aaf67900_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf67900_rgb",
+              "C5|aaf67901_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf67901_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 9007.0,
+            "priceList.KEMP.finalPrice_d": 11130.0,
+            "id": "538950c6-939c-48b9-a792-4ef794039d3e|C5"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

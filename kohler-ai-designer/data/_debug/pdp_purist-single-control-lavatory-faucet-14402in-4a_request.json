@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/purist-single-control-lavatory-faucet-14402in-4a?skuId=14402IN-4A-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/purist-single-control-lavatory-faucet-14402in-4a",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/purist-single-control-lavatory-faucet-14402in-4a",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5541>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/purist-single-control-lavatory-faucet-14402in-4a?skuId=14402IN-4A-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "WPHfVXTWEo",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=247, origin; dur=807, ak_p; desc=\"1789421563311_400553039_333217108_105491_10538_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:32:44 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1856",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402IN-4A.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402in_4afrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "Purist faucets and accessories combine simple, architectural forms with sensual design lines.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|14402IN-4A-CP|false|false|K-14402IN-4A-CP"
+            ],
+            "ProductBrandName_s": "Purist™",
+            "ProductPackageContents_s": "PURIST SC LAV FAUCET\nPACKAGE CONTENT: 1 FAUCET;\n1 MOUNTING KIT; 1 DRAIN;\n1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402IN-4A.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/14402_4a.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402IN-4A.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "14402IN-4A-CP|zaa77807_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa77807_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_PartialRoomView_d2c0008266_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_PartialRoomView_d2c0008266_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_CloseRoomViewProductDetail_d2c0007698_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_CloseRoomViewProductDetail_d2c0007698_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_FRONT_d2c0007975_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_FRONT_d2c0007975_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_CloseRoomView_d2c0007774_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_CloseRoomView_d2c0007774_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_CloseRoomViewInUse_d2c0008109_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_CloseRoomViewInUse_d2c0008109_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_OverheadRoomView_d2c0008028_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_OverheadRoomView_d2c0008028_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_ISOBackground_d2c0008259_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_ISOBackground_d2c0008259_rgb",
+              "14402IN-4A-CP|14402IN-4A-CP_SIDE_d2c0008030_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/14402IN-4A-CP_SIDE_d2c0008030_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 27999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 35000.0,
+            "ProductDescriptionProductShort_s": "Single control lavatory faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402in_4apln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402in_4asde.dxf"
+            ],
+            "productName_s": "Purist™ Single control lavatory faucet",
+            "ctId_s": "fd29d298-4232-4192-ace4-9bcb1e3ad1b5",
+            "ProductWebFeatures_ss": [
+              "Single lever handle allows for both volume and temperature control.",
+              "5-1/2\" (14 cm) spout reach.",
+              "1.2 gpm (4.5 lpm) maximum flow rate at 60 psi (4.14 bar).",
+              "Includes metal pop-up drain with 1-1/4\" (31.75mm) tailpiece.",
+              "KOHLER ceramic disc valves exceed industry longevity standards for a lifetime of durable performance.",
+              "Temperature memory allows faucet to be turned on and off at the temperature set during prior usage.",
+              "Coordinates with Purist faucets, accessories, and showering components to complete your bathroom.",
+              "Low-flow aerator option available (please see latest price book)."
+            ],
+            "priceList.ANY.finalPrice_d": 35000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402in_4asde.dwg"
+            ],
+            "sku_s": "14402IN-4A-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-Purist-K-14402IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402IN-4A.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "25.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "14402IN-4A",
+            "productInRiverId_s": "inRiver_558283",
+            "priceList.CTR.finalPrice_d": 35000.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-14402IN-4A-CP",
+            "ProductBrandNameDisplay_s": "Purist",
+            "variantList.sku_ss": [
+              "14402IN-4A-CP"
+            ],
+            "SKUShippingHeight_s": "11.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "49.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402in_4apln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402in_4afrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/14402IN-4A.dwg"
+            ],
+            "id": "fd29d298-4232-4192-ace4-9bcb1e3ad1b5|14402IN-4A-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

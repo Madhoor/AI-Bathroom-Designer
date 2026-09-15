@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1?skuId=6098IN-SR-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1?skuId=6098IN-SR-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "jMTjht9hn8",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=762, ak_p; desc=\"1789450106786_400553078_274621403_102670_11322_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:28:27 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1711",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 5.7,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|23107IN-UF-0|true|false|K-23107IN-UF-0",
+              "Cashmere|swatch_K4|23107IN-UF-K4|false|false|K-23107IN-UF-K4"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1 SEAT INSTALLATION KIT, 1 INSTALLATION MANUAL, & 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "23107IN-UF-0|aad75854_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75854_rgb",
+              "23107IN-UF-K4|aaf85599_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf85599_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ square-front toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Replay™ Quiet-Close™ square-front toilet seat",
+            "ctId_s": "dd0d5d7e-a768-425d-8dfb-abe54cbeb3ae",
+            "ProductWebFeatures_ss": [
+              "Sleek, ultra-thin seat design",
+              "Square-front seat with lid",
+              "Compatible with LED nightlight and scent packet freshener add-ons (sold separately)",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ hinge design allows both adult seat and child ring to be removed for easy cleaning",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Thermoset plastic material is strong and durable, allowing for a thin, modern aesthetic with enhanced scratch-resistance"
+            ],
+            "ProductOverallWidthCm_d": 36.5,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "23107IN-UF-0",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Replay™",
+            "SKUShippingHeight_s": "10.000",
+            "SKUShippingLength_s": "51.000",
+            "slug_s": "replay-quiet-close-square-front-toilet-seat-23107in-uf",
+            "ProductOverallLengthCm_d": 41.6
+          },
+          {
+            "ProductOverallHeightCm_d": 35.5,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|6088IN-0|true|false|K-6088IN-0",
+              "Cashmere|swatch_K4|6088IN-K4|true|false|K-6088IN-K4"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG BOWL; 1 WARRANTY CARD; 1 INSTALLATION INSTR.; 1 INSTALLATION KIT",
+            "productImages.labelWithUrl_ss": [
+              "6088IN-0|aad81624_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad81624_rgb",
+              "6088IN-K4|aad81627_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad81627_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung square-front toilet bowl with skirted trapway",
+            "ColorFinish_s": "White",
+            "productName_s": "Replay™ Wall-hung square-front toilet bowl with skirted trapway",
+            "ctId_s": "f268b43f-58f4-46f9-b159-67567fdcfdfb",
+            "ProductWebFeatures_ss": [
+              "Square-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Wall-hung design allows bowl to be set at preferred height",
+              "65 mm (2-1/2 inch) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Coordinates with other products in the Replay™ collection",
+              "Bowl only; requires KOHLER® in-wall tank and carrier system, faceplate, and seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.7,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "6088IN-0",
+            "SKUShippingWidth_s": "15.313",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Replay™",
+            "SKUShippingHeight_s": "15.688",
+            "SKUShippingLength_s": "22.813",
+            "slug_s": "replay-wall-hung-square-front-toilet-bowl-with-skirted-trapway-6088in",
+            "ProductOverallLengthCm_d": 53.4
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Replay square wall hung toilet with antimicrobial agent seat in White",
+            "ctId_s": "2519fe4c-daf9-4625-b9ed-b533bf633694",
+            "priceList.ANY.finalPrice_d": 24500.0,
+            "sku_s": "6098IN-SR-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 24500.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-6098IN-SR-0",
+            "variantList.sku_ss": [
+              "6098IN-SR-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "priceList.GST.finalPrice_d": 20089.0,
+            "priceList.KEMP.finalPrice_d": 24500.0,
+            "id": "2519fe4c-daf9-4625-b9ed-b533bf633694|6098IN-SR-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

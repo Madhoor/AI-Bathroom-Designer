@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/fore-line-wall-mount-cold-only-trim-assy-27488in-4nd?skuId=27488IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/fore-line-wall-mount-cold-only-trim-assy-27488in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/fore-line-wall-mount-cold-only-trim-assy-27488in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/fore-line-wall-mount-cold-only-trim-assy-27488in-4nd?skuId=27488IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "FnoL6hNnmG",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=249, origin; dur=708, ak_p; desc=\"1789422108019_400553039_333243366_95668_11484_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:41:48 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1751",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Trim only; requires valve to complete installation (sold separately)",
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "4\"",
+            "ProductNarrativeDescription_s": "Bold in stature with neo-modern expression, the Fore Line® wall-mount cold water bathroom sink faucet trim brings sleek sophistication to your home. This futuristic-looking faucet with hidden aerator features a thin Lever handle for easy-to-grip, effortless control of the water temperature and volume. With a clean silhouette and durable construction, this faucet blends design with remarkable performance for the ultimate user experience.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|27488IN-4ND-CP|true|false|K-27488IN-4ND-CP",
+              "Vibrant French Gold|swatch_AF|27488IN-4ND-AF|true|false|K-27488IN-4ND-AF"
+            ],
+            "ProductBrandName_s": "Fore Line™",
+            "ProductPackageContents_s": "1-WM COLD ONLY FAUCET, 1 INSTALLATION INSTRUCTION; 1 WARRANTY, 1 MOUNTING KIT; 1 SLEEVE KIT, 1 ESCUTCHEON KIT",
+            "Recommended_Accessories_ss": [
+              "inRiver_3201829"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-27488IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27488IN-4ND-CP|aaf86196_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86196_rgb",
+              "27488IN-4ND-AF|aaf86198_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86198_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3109.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3660.0,
+            "ProductOverallLengthInches_s": "6-5/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet trim, cold only, 9.2 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488in_4ndsde.dxf"
+            ],
+            "productName_s": "Fore Line® Wall-mount bathroom sink faucet trim, cold only, 9.2 lpm",
+            "ctId_s": "0887a545-4235-4587-bf41-819e5499dbd6",
+            "ProductWebFeatures_ss": [
+              "For use with cold water line only",
+              "Single Lever handle allows for on/off activation, volume, and temperature control",
+              "16 cm (6.3 inch) spout reach",
+              "Aerated flow",
+              "2.43 gpm (9.2 lpm) at 43.5 psi (3.0 bar)",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 3660.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488in_4ndsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "27488IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Fore-K-27488IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "17.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27488IN-4ND",
+            "productInRiverId_s": "inRiver_2491489",
+            "priceList.CTR.finalPrice_d": 3660.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-27488IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Fore Line™",
+            "variantList.sku_ss": [
+              "27488IN-4ND-CP",
+              "27488IN-4ND-AF"
+            ],
+            "SKUShippingHeight_s": "6.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "20.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_2491222"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27488IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/8\"",
+            "id": "0887a545-4235-4587-bf41-819e5499dbd6|27488IN-4ND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

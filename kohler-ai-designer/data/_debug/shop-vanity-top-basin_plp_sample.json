@@ -1,0 +1,302 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"BathroomSinksProductOverallLengthCm_s\"}BathroomSinksProductOverallLengthCm_s",
+      "{!ex=\"BathroomSinksProductOverallWidthCm_s\"}BathroomSinksProductOverallWidthCm_s",
+      "{!ex=\"ATTR_SPEC_BasinShape_s\"}ATTR_SPEC_BasinShape_s",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "Biscuit": "swatch_96",
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "BathroomSinksProductOverallLengthCm_s": "Length - Side to Side",
+      "BathroomSinksProductOverallWidthCm_s": "Width - Front to Back",
+      "ATTR_SPEC_BasinShape_s": "Shape",
+      "ProductStyle_ss": "Style",
+      "SpecialFeatureList_ss": "Special Feature",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "ProductBrandName_s": "Marrakesh™",
+        "Color.SKU.Details_ss": [
+          "Biscuit|swatch_96|14031-BU-96|false|false|K-14031-BU-96"
+        ],
+        "masterSKU_s": "14031-BU-96",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_96"
+        ],
+        "sourceId_s": "14031-BU-96",
+        "productImages.labelWithUrl_ss": [
+          "14031-BU-96|zaa93879_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa93879_rgb",
+          "14031-BU-96|aaa73245_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/aaa73245_rgb"
+        ],
+        "priceList.GST.price_d": 410000.0,
+        "priceList.GST.finalPrice_d": 410000.0,
+        "ProductDescriptionProductShort_s": "Vanity-top with single faucet hole",
+        "productName_s": "Marrakesh™ Vanity-top with single faucet hole",
+        "ctId_s": "3fd346db-2ea0-4568-ae4b-c595b58a85fa",
+        "Color.GST.Details_ss": [
+          "14031-BU-96|Biscuit|410000.0|410000.0||https://kohler.scene7.com/is/image/PAWEB/zaa93879_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "14031-BU",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa93879_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaa73245_rgb"
+        ],
+        "priceList.ANY.price_d": 410000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "14031-BU-96",
+        "ProductBrandNameDisplay_s": "Marrakesh",
+        "variantList.sku_ss": [
+          "14031-BU-96"
+        ],
+        "discountedPriceStartingAt.GST_d": 410000.0,
+        "displayPriceStartingAt_s": "₹410,000.00",
+        "SKUColorFinishName_ss": [
+          "Biscuit"
+        ],
+        "slug_s": "marrakesh-vanity-top-with-single-faucet-hole-14031-bu",
+        "priceStartingAt.GST_d": 410000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "3fd346db-2ea0-4568-ae4b-c595b58a85fa|14031-BU-96",
+        "RegionReleaseforShipment_dt": "2020-06-15T10:12:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|2749T-1-0|true|false|K-2749T-1-0"
+        ],
+        "ProductBrandName_s": "Forefront™",
+        "masterSKU_s": "2749T-1-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "2749T-1-0",
+        "productImages.labelWithUrl_ss": [
+          "2749T-1-0|zac11718_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac11718_rgb"
+        ],
+        "priceList.GST.price_d": 42799.0,
+        "priceList.GST.finalPrice_d": 42799.0,
+        "ProductDescriptionProductShort_s": "90 cm rectangular vessel bathroom sink with glazed underside",
+        "productName_s": "Forefront™ 90 cm rectangular vessel bathroom sink with glazed underside",
+        "ctId_s": "87ae6848-7c15-4dd4-98e6-8a723e75ebc5",
+        "Color.GST.Details_ss": [
+          "2749T-1-0|White|53500.0|42799.0||https://kohler.scene7.com/is/image/PAWEB/zac11718_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "2749T-1",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zac11718_rgb"
+        ],
+        "priceList.ANY.price_d": 53500.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "2749T-1-0",
+        "ProductBrandNameDisplay_s": "Forefront™",
+        "variantList.sku_ss": [
+          "2749T-1-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 42799.0,
+        "displayPriceStartingAt_s": "₹42,799.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "forefront-vanity-lavatory-with-single-faucet-hole-2749t-1",
+        "priceStartingAt.GST_d": 42799.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "87ae6848-7c15-4dd4-98e6-8a723e75ebc5|2749T-1-0"
+      }
+    ],
+    "numFound": 2,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "BathroomSinksProductOverallLengthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallLengthCm_s:\"25cm to 50cm\"": 0,
+      "BathroomSinksProductOverallLengthCm_s:\"50cm to 75cm\"": 2,
+      "BathroomSinksProductOverallLengthCm_s:\">75cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"25cm to 50cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"50cm to 75cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\">75cm\"": 2,
+      "Available_Now_s:\"Yes\"": 1
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        1,
+        "Biscuit",
+        1
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Forefront™",
+        1,
+        "Marrakesh",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Deck-mount",
+        2,
+        "Drop-in",
+        5,
+        "Pedestal",
+        4,
+        "Semi recessed",
+        4,
+        "Undercounter",
+        9,
+        "Vanity Top",
+        2,
+        "Vessel",
+        51,
+        "Wall-mount",
+        11
+      ],
+      "BathroomSinksProductOverallLengthCm_s": [
+        "50cm to 75cm",
+        2
+      ],
+      "BathroomSinksProductOverallWidthCm_s": [
+        ">75cm",
+        2
+      ],
+      "ATTR_SPEC_BasinShape_s": [
+        "Round",
+        1,
+        "Square/Rectangle",
+        1
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        1,
+        "Transitional",
+        1
+      ],
+      "Available_Now_s": [
+        "Yes",
+        1,
+        "No",
+        1
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        1,
+        "Paid",
+        1
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "50000",
+          1,
+          "400000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "50000",
+          1,
+          "400000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "25000",
+          1,
+          "400000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "50000",
+          1,
+          "400000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 25000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

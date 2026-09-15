@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/beam-wall-mount-cold-only-trim-without-drain-25148in-4nd?skuId=25148IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/beam-wall-mount-cold-only-trim-without-drain-25148in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/beam-wall-mount-cold-only-trim-without-drain-25148in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/beam-wall-mount-cold-only-trim-without-drain-25148in-4nd?skuId=25148IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "G7MkoBIypp",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=255, origin; dur=721, ak_p; desc=\"1789422075728_400553039_333242234_97615_9660_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:41:16 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1767",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148in_4ndfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "The sleek look and aerodynamic ambition finds its final functional interpretation.Sophisticated European styling in your bathroom at an approachable price.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|25148IN-4ND-CP|true|false|K-25148IN-4ND-CP"
+            ],
+            "ProductBrandName_s": "Beam",
+            "ProductPackageContents_s": "2 ESCUTCHEON; 1 SPOUT;1 SLEEVE;1 HANDLE; 1 INSTALLATION INSTRUCTION; 1 WARRANTY",
+            "Recommended_Accessories_ss": [
+              "inRiver_3201829"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1393321-IN2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "25148IN-4ND-CP|aag10690_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag10690_rgb",
+              "25148IN-4ND-CP|aag10691_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE",
+              "25148IN-4ND-CP|aag10689_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aag10689_rgb",
+              "25148IN-4ND-CP|aag10692_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aag10692_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2829.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 3330.0,
+            "ProductDescriptionProductShort_s": "Wall Mount Cold Only Trim Without Drain",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148in_4ndsde.dxf"
+            ],
+            "productName_s": "Beam Wall Mount Cold Only Trim Without Drain",
+            "ctId_s": "152bee3c-674b-4937-a9f3-1586ace1686e",
+            "ProductWebFeatures_ss": [
+              "Combining an aerodynamic profile with sleek contours, the Beam faucet collection is an eye-catching blend of function and fashion.",
+              "The versatile, modern design of Beam faucets complements a  variety of decors. Coordinate with Beam showering components  to create a cohesive look you’ll fall in love with.",
+              "Superior dimensions provide easy and intuitive operation.  Sustainable flow options available.",
+              "Life-50TM: Tested for 50 years of use, Kohler’s unique Cartridges  have near diamond hardness ceramic discs which grind debris and have a polishing effect for smooth & precise operation.",
+              "Life-BrightTM: Resists corrosion and wear two times longer than  industry standard. Kohler chrome products have 3 layers of  coating for added protection.",
+              "Premium Metal Construction.",
+              "KOHLER finishes resist corrosion and tarnishing.",
+              "Wall Mount Cold Only Valve (25149IN-NA)."
+            ],
+            "priceList.ANY.finalPrice_d": 3330.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148in_4ndsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "25148IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Beam-K-25148IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "18.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "25148IN-4ND",
+            "productInRiverId_s": "inRiver_2491215",
+            "priceList.CTR.finalPrice_d": 3330.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-25148IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Beam",
+            "variantList.sku_ss": [
+              "25148IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "7.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "20.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148in_4ndpln.dwg"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_2491222"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25148IN-4ND.dwg"
+            ],
+            "id": "152bee3c-674b-4937-a9f3-1586ace1686e|25148IN-4ND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

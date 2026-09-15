@@ -1,0 +1,171 @@
+{
+  "product_url": "https://www.kohler.co.in/p/kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1?skuId=33677IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1?skuId=33677IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "xKv1GZGkXI",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=249, origin; dur=738, ak_p; desc=\"1789450115629_400553078_274625515_98774_12388_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:28:36 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1959",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 6.4,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|41652IN-0|true|false|K-41652IN-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT; 1 INSTALLATION GUIDE; 1 HARDWARE KIT; 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "41652IN-0|aaf91152_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf91152_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ square-front toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "KOHLER® Ridge™ Quiet-Close™ square-front toilet seat",
+            "ctId_s": "3616cf99-54cd-4002-9cce-090a1bab1866",
+            "ProductWebFeatures_ss": [
+              "Square-front seat with lid",
+              "One Swipe Clean™ seat features no grooves for seamless cleaning",
+              "Hinge is concealed by lid when closed to offer a clean profile",
+              "Antimicrobial finish inhibits the growth of mold-, mildew-, stain-, and odor-causing bacteria on the fixture surface. This product does not protect users against bacteria, viruses, or other disease organisms. Always clean and wash this product thoroughly before and after each use",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Grip-Tight bumpers hold seat firmly in place"
+            ],
+            "ProductOverallWidthCm_d": 37.3,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "41652IN-0",
+            "SKUShippingWidth_s": "6.755",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "KOHLER® Ridge™",
+            "SKUShippingHeight_s": "2.819",
+            "SKUShippingLength_s": "9.708",
+            "slug_s": "kohler-ridge-quiet-close-square-front-toilet-seat-41652in",
+            "ProductOverallLengthCm_d": 45.1
+          },
+          {
+            "ProductOverallHeightCm_d": 36.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|33678IN-0|true|false|K-33678IN-0"
+            ],
+            "ProductPackageContents_s": "1 WALL HUNG TOILET; 1 FLOW DISTRIBUTOR;1 TOP FIXATION KIT; 1 INSTALLATION GUIDE; 1 WARRANTY CARD; 1 CLEAN AND CARE GUIDE",
+            "productImages.labelWithUrl_ss": [
+              "33678IN-0|aaf91158_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf91158_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung square-front toilet with skirted trapway, dual-flush",
+            "ColorFinish_s": "White",
+            "productName_s": "KOHLER® Ridge™ Wall-hung square-front toilet with skirted trapway, dual-flush",
+            "ctId_s": "256a4b66-18c8-43d8-9245-48b60a73f0f5",
+            "ProductWebFeatures_ss": [
+              "Wall-hung design offers a clean, streamlined look",
+              "Soft square-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Recommended rim-to-floor height installation: 40 cm (15-3/4 inches)",
+              "REV360™ flushing technology generates a forceful swirling motion to keep the bowl clean longer",
+              "Washdown flushing system",
+              "Dual-flush offers a choice of 2.0 or 4.0 lpf (.53 or 1.06 gpf)",
+              "65 mm (2-1/2 inch) fully glazed trapway",
+              "Bowl only; requires KOHLER® in-wall tank and carrier system, faceplate, and seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.5,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "33678IN-0",
+            "SKUShippingWidth_s": "16.063",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "KOHLER® Ridge™",
+            "SKUShippingHeight_s": "23.063",
+            "SKUShippingLength_s": "16.938",
+            "slug_s": "kohler-ridge-wall-hung-square-front-toilet-with-skirted-trapway-dual-flush-33678in",
+            "ProductOverallLengthCm_d": 54.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Kohler Ridge square wall-hung with REV360 flushing solution toilet bundle with Quite close seat in White",
+            "ctId_s": "d66804ed-8671-4f02-945c-d83328ad7c4e",
+            "priceList.ANY.finalPrice_d": 24500.0,
+            "sku_s": "33677IN-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 24500.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-33677IN-0",
+            "variantList.sku_ss": [
+              "33677IN-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "33677IN-0|aaj83682_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83682_rgb",
+              "33677IN-0|aaj83678_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83678_rgb",
+              "33677IN-0|aaj83676_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83676_rgb",
+              "33677IN-0|aaj83683_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83683_rgb",
+              "33677IN-0|aaj83677_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83677_rgb",
+              "33677IN-0|aaj83675_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83675_rgb",
+              "33677IN-0|aaj83680_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83680_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 20089.0,
+            "priceList.KEMP.finalPrice_d": 24500.0,
+            "id": "d66804ed-8671-4f02-945c-d83328ad7c4e|33677IN-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

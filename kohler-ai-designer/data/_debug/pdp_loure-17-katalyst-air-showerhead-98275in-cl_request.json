@@ -1,0 +1,151 @@
+{
+  "product_url": "https://www.kohler.co.in/p/loure-17-katalyst-air-showerhead-98275in-cl?skuId=98275IN-CL-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/loure-17-katalyst-air-showerhead-98275in-cl",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/loure-17-katalyst-air-showerhead-98275in-cl",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4883>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/loure-17-katalyst-air-showerhead-98275in-cl?skuId=98275IN-CL-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "riYYf4Sw5I",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=807, ak_p; desc=\"1789448910672_400553039_335814539_107229_11084_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:08:31 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1609",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275IN-CL.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275in_clfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/katalyst-air-showerhead",
+            "ProductNarrativeDescription_s": "Geometric composition in interior architecture lies behind the design intent of Loure. We saw the need for a Shower that was able to enhance luxury bathrooms typically described by linearity and surface. Designed for hotel engineering, high water pressure under the perfect water performance Oxygen flow technology upgrade, to provide a more thoughtful rain experience full of modern design.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|98275IN-CL-CP|false|false|K-98275IN-CL-CP"
+            ],
+            "ProductBrandName_s": "Loure™",
+            "ProductPackageContents_s": "1 SHOWER HEAD, 1 FLOW REGULATOR,1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275IN-CL.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275IN-CL.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "98275IN-CL-CP|aad96152_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad96152_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 95999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 120000.0,
+            "ProductDescriptionProductShort_s": "17\" katalyst air showerhead",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275in_clpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275in_clsde.dxf"
+            ],
+            "productName_s": "LOURE 17\" KATALYST AIR SHOWERHEAD",
+            "ctId_s": "265fadec-c3e8-41e9-bc52-38f2c4e2bfa3",
+            "ProductWebFeatures_ss": [
+              "21.2 lpm flow rate @3 bar pressure",
+              "Anti-drip technology-1)Ultra-slim design front plate thickness is 2mm 2)Optimized sprayface with large nozzles 1.33mm for improved water coverage 3)Number of nozzles increased by 60%.These 324 flexible silicone nozzles assure long life and easy clean",
+              "Katalyst air-induction technology for powerful and even coverage",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times.",
+              "Brass Construction"
+            ],
+            "priceList.ANY.finalPrice_d": 120000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275in_clsde.dwg"
+            ],
+            "sku_s": "98275IN-CL-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Loure-K-98275IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275IN-CL.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "49.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "98275IN-CL",
+            "productInRiverId_s": "inRiver_558181",
+            "priceList.CTR.finalPrice_d": 120000.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-98275IN-CL-CP",
+            "ProductBrandNameDisplay_s": "Loure™",
+            "variantList.sku_ss": [
+              "98275IN-CL-CP"
+            ],
+            "SKUShippingHeight_s": "15.000",
+            "ctProductType_s": "rainheads",
+            "SKUShippingLength_s": "73.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275in_clpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275in_clfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98275IN-CL.dwg"
+            ],
+            "id": "265fadec-c3e8-41e9-bc52-38f2c4e2bfa3|98275IN-CL-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

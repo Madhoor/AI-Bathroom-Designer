@@ -1,0 +1,176 @@
+{
+  "product_url": "https://www.kohler.co.in/p/wall-mount-lav-faucet-trim-valve-24280in-4nd?skuId=24280IN-4ND-RGD",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/wall-mount-lav-faucet-trim-valve-24280in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/wall-mount-lav-faucet-trim-valve-24280in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/wall-mount-lav-faucet-trim-valve-24280in-4nd?skuId=24280IN-4ND-RGD",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "CP7t1Jbf41",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=252, origin; dur=755, ak_p; desc=\"1789422158163_400553039_333245319_100785_10325_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:42:39 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2037",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "G 1/2 connection"
+            ],
+            "ProductOverallWidthInches_s": "4\"",
+            "ProductNarrativeDescription_s": "The KOHLER® Parallel™ faucet collection is the epitome of understated chic, crafted to bring harmony of form and function to your bathroom space. Featuring the unique interplay of circular shapes within a square design, this collection boasts a balanced versatility that adapts to any decor, whether you prefer it to blend into your surroundings or act as an eye-catching focal point. The sleek profile of this Parallel™ single-handle bathroom sink faucet adds a sophisticated touch to your bathroom layout. Designed with meticulous attention to detail, this faucet showcases clean lines and a finish that radiates modern elegance. Beyond aesthetics, this Parallel™ faucet ensures a flawless experience with its ergonomic wide single-handle design and valve, allowing for precise water control and effortless functionality. With timeless appeal and superior craftsmanship, the KOHLER® Parallel™ collection invites you to reimagine your bathroom as a sanctuary of beauty and modern refinement.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Rose Gold|swatch_RGD|24280IN-4ND-RGD|true|false|K-24280IN-4ND-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|24280IN-4ND-BV|true|false|K-24280IN-4ND-BV",
+              "Vibrant Brushed Rose Gold|swatch_BRD|24280IN-4ND-BRD|true|false|K-24280IN-4ND-BRD"
+            ],
+            "ProductBrandName_s": "Parallel™",
+            "ProductPackageContents_s": "1 PARALLEL  WM SC LAV FAUCET COMBO, 2 INSERT, 1 WARRANTY SHEET, INDIA, 2 INSTALLATION INSTRUCTION",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208985",
+              "inRiver_3208982"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1339459-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-24280IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "24280IN-4ND-RGD|aaf63271_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb",
+              "24280IN-4ND-BV|aag42768_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag42768_rgb",
+              "24280IN-4ND-BRD|aag35371_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35371_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 25089.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 30600.0,
+            "ProductOverallLengthInches_s": "7-5/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 7.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280in_4ndsde.dxf"
+            ],
+            "productName_s": "Parallel™ Wall-mount bathroom sink faucet, 7.5 lpm",
+            "ctId_s": "10c1d4f3-3fbf-48dc-93c3-9c954b64d182",
+            "ProductWebFeatures_ss": [
+              "Sleek contemporary design",
+              "Faceplate with Lever handle",
+              "Red/blue indexing on handle",
+              "16.4 cm (6.45 inch) spout reach",
+              "Aerated flow",
+              "7.5 lpm (2.0 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Includes valve",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 30600.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280in_4ndsde.dwg"
+            ],
+            "sku_s": "24280IN-4ND-RGD",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Parallel-K-24280IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "28.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "24280IN-4ND",
+            "productInRiverId_s": "inRiver_2491440",
+            "priceList.CTR.finalPrice_d": 30600.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-24280IN-4ND-RGD",
+            "ProductBrandNameDisplay_s": "Parallel™",
+            "variantList.sku_ss": [
+              "24280IN-4ND-RGD",
+              "24280IN-4ND-BV",
+              "24280IN-4ND-BRD"
+            ],
+            "SKUShippingHeight_s": "15.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "28.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24280IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-13/16\"",
+            "id": "10c1d4f3-3fbf-48dc-93c3-9c954b64d182|24280IN-4ND-RGD"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

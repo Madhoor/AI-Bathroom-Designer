@@ -1,0 +1,160 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rainduet-multifunction-showerhead-75924in?skuId=75924IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rainduet-multifunction-showerhead-75924in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rainduet-multifunction-showerhead-75924in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rainduet-multifunction-showerhead-75924in?skuId=75924IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "1B92lzl8nl",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=242, origin; dur=735, ak_p; desc=\"1789449119925_400553078_274099503_101060_13935_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:12:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1437",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/kohler-rainduet-multi-spray-shower-in-polished-chrome-finish",
+            "ProductNarrativeDescription_s": "The Rainduet delivers an invigorating spray for a great bathing experience. The modern look of the showerhead complements a wide variety of style lines.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|75924IN-CP|true|false|K-75924IN-CP",
+              "Vibrant French Gold|swatch_AF|75924IN-AF|true|false|K-75924IN-AF"
+            ],
+            "ProductBrandName_s": "Rain Duet™",
+            "ProductPackageContents_s": "1 RAIN DUET ORGANIC SHOWERHEAD, 1 FLOW REGULATOR KIT, 1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "75924IN-AF|aad40035_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad40035_rgb",
+              "75924IN-CP|aaf88557_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88557_rgb",
+              "75924IN-CP|aaf88587_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88587_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3519.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 4150.0,
+            "ProductDescriptionProductShort_s": "Multifunction Showerhead",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924insde.dxf"
+            ],
+            "productName_s": "Rainduet \nMultifunction Showerhead",
+            "ctId_s": "f08e97b2-8c6b-419e-b65f-8005046d0432",
+            "ProductWebFeatures_ss": [
+              "MasterClean™ sprayface is easy to clean.",
+              "Drenching rain delivers a soft, soothing circular water pattern.",
+              "Excellent materials provide a strong corrosion-resistant surface",
+              "Shower arm option :Wall Mount showerarm K-99054IN-CP"
+            ],
+            "priceList.ANY.finalPrice_d": 4150.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "75924IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Rainduet-K-75924IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "15.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "75924IN",
+            "productInRiverId_s": "inRiver_2371708",
+            "priceList.CTR.finalPrice_d": 4150.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-75924IN-CP",
+            "ProductBrandNameDisplay_s": "Rain Duet™",
+            "variantList.sku_ss": [
+              "75924IN-CP",
+              "75924IN-AF"
+            ],
+            "SKUShippingHeight_s": "10.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "15.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924inpln.dwg"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1337905",
+              "inRiver_559461"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/75924IN.dwg"
+            ],
+            "id": "f08e97b2-8c6b-419e-b65f-8005046d0432|75924IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

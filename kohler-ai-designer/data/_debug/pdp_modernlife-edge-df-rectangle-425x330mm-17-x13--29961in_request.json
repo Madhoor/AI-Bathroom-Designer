@@ -1,0 +1,181 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-df-rectangle-425x330mm-17-x13--29961in?skuId=29961IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-df-rectangle-425x330mm-17-x13--29961in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-df-rectangle-425x330mm-17-x13--29961in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-df-rectangle-425x330mm-17-x13--29961in?skuId=29961IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "7cUw7jCWWw",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=324, origin; dur=732, ak_p; desc=\"1789449235719_400553078_274163769_105609_13488_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:13:56 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2060",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/modernlife-edge-dual-flow-ceiling-mount-overhead-shower-in-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Ceiling-mount",
+              "G 1/2 inlet connection"
+            ],
+            "ProductOverallWidthInches_s": "13\"",
+            "ProductNarrativeDescription_s": "Relax in a shower that simulates a warm rain or a luxurious mist—two distinct experiences, each available separately within one ModernLife Edge™ rainhead. Choose from full coverage with Katalyst™ air-induction technology, mixing air and water to produce large water droplets for a powerful, consistent overhead shower spray experience, or an overall gentle misting spray. The innovative two-function rainhead also boasts a contemporary, minimalist design that coordinates with many KOHLER® faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|29961IN-CP|true|false|K-29961IN-CP",
+              "Vibrant French Gold|swatch_AF|29961IN-AF|false|false|K-29961IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|29961IN-RGD|false|false|K-29961IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|29961IN-BV|false|false|K-29961IN-BV",
+              "Matte Black|swatch_BL|29961IN-BL|false|false|K-29961IN-BL"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "1 DUAL FLOW RAINHEAD; 1 INSTALLATION GUIDE 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600665"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-29961IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "29961IN-CP|aae23477_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23477_rgb",
+              "29961IN-RGD|aaf95047_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95047_rgb",
+              "29961IN-BV|aah24640_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah24640_rgb",
+              "29961IN-BL|aah24638_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah24638_rgb",
+              "29961IN-AF|aaf95049_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95049_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 83999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 105000.0,
+            "ProductOverallLengthInches_s": "16-13/16\"",
+            "ProductDescriptionProductShort_s": "42.5 cm x 33 cm two-function rainhead, 2.0 and 11.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961insde.dxf"
+            ],
+            "productName_s": "ModernLife Edge™ 42.5 cm x 33 cm two-function rainhead, 2.0 and 11.5 lpm",
+            "ctId_s": "14e3ad5e-9207-4502-a334-6ec3bc98e647",
+            "ProductWebFeatures_ss": [
+              "Versatile, contemporary design",
+              "Dual-function rectangular rainhead features full coverage with Katalyst air-induction technology, a drenching spray experience ideal for rinsing shampoo from hair",
+              "Gentle mist spray restores, with a thick cloud of silky, super-fine water droplets",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Full coverage rain spray: 3.0 gpm (11.5 lpm) maximum flow rate at 43.5 psi (3.0 bar)",
+              "Gentle mist spray: 0.5 gpm (2.0 lpm) maximum flow rate at 43.5 psi (3.0 bar)"
+            ],
+            "priceList.ANY.finalPrice_d": 105000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961insde.dwg"
+            ],
+            "sku_s": "29961IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Ceiling_Mount_Showerhead-KOHLER-ML_EDGE-K-29961IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "38.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "29961IN",
+            "productInRiverId_s": "inRiver_2371679",
+            "priceList.CTR.finalPrice_d": 105000.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-29961IN-CP",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "variantList.sku_ss": [
+              "29961IN-CP",
+              "29961IN-AF",
+              "29961IN-BV",
+              "29961IN-RGD",
+              "29961IN-BL"
+            ],
+            "SKUShippingHeight_s": "9.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "51.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29961IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-1/8\"",
+            "id": "14e3ad5e-9207-4502-a334-6ec3bc98e647|29961IN-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

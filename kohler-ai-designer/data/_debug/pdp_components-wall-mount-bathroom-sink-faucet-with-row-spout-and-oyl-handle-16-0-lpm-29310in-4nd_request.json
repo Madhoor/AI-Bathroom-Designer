@@ -1,0 +1,177 @@
+{
+  "product_url": "https://www.kohler.co.in/p/components-wall-mount-bathroom-sink-faucet-with-row-spout-and-oyl-handle-16-0-lpm-29310in-4nd?skuId=29310IN-4ND-AF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/components-wall-mount-bathroom-sink-faucet-with-row-spout-and-oyl-handle-16-0-lpm-29310in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/components-wall-mount-bathroom-sink-faucet-with-row-spout-and-oyl-handle-16-0-lpm-29310in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/components-wall-mount-bathroom-sink-faucet-with-row-spout-and-oyl-handle-16-0-lpm-29310in-4nd?skuId=29310IN-4ND-AF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "zrjutANPMH",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=263, origin; dur=759, ak_p; desc=\"1789422183234_400553039_333246181_102242_10729_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:43:04 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1841",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "7-11/16\"",
+            "ProductNarrativeDescription_s": "Modern form meets modern function: the KOHLER® Components™ collection is defined by controlled forms and stark precision in every line and angle. With Components™, you design your custom minimalist bathroom. This wall-mount bathroom sink faucet with valve features monumental yet playful angularity in its Row spout accompanied by a large Oyl handle. Coordinate this sink faucet with Components™ shower and bath faucets and accessories to create a personalized design.",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|29310IN-4ND-AF|true|false|K-29310IN-4ND-AF",
+              "Vibrant Rose Gold|swatch_RGD|29310IN-4ND-RGD|true|false|K-29310IN-4ND-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|29310IN-4ND-BV|true|false|K-29310IN-4ND-BV",
+              "Matte Black|swatch_BL|29310IN-4ND-BL|true|false|K-29310IN-4ND-BL"
+            ],
+            "ProductBrandName_s": "Components™",
+            "ProductPackageContents_s": "1 SPOUT; 1 TRIM;1VALVE; 1BONNET; 1SLEEVE;1CONNECTOR; 1HARDWARE KIT;1 INSTALLATION GUIDE",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208985",
+              "inRiver_3208982"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1594422-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-29310IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "29310IN-4ND-AF|aag80562_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80562_rgb",
+              "29310IN-4ND-RGD|aag80567_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80567_rgb",
+              "29310IN-4ND-BL|aag80570_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80570_rgb",
+              "29310IN-4ND-BV|aag80569_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80569_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 39519.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 49400.0,
+            "ProductOverallLengthInches_s": "8-3/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet with Row spout and Oyl handle, 16.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310in_4ndsde.dxf"
+            ],
+            "productName_s": "Components™ Wall-mount bathroom sink faucet with Row spout and Oyl handle, 16.0 lpm",
+            "ctId_s": "dcf95296-e231-429a-a73f-f878c58045fe",
+            "ProductWebFeatures_ss": [
+              "Includes faceplate with Oyl handle",
+              "Single Oyl handle actuation allows for both temperature and volume control",
+              "Red/blue indexing on handle",
+              "Row spout",
+              "7.84 inch (19.9 cm) spout reach",
+              "4.22 gpm (16.0 lpm) maximum flow rate at 80 psi (5.5 bar)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 49400.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310in_4ndsde.dwg"
+            ],
+            "sku_s": "29310IN-4ND-AF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Entry_Lux-K-29310IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "27.600",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "29310IN-4ND",
+            "productInRiverId_s": "inRiver_2898893",
+            "priceList.CTR.finalPrice_d": 49400.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-29310IN-4ND-AF",
+            "ProductBrandNameDisplay_s": "Components™",
+            "variantList.sku_ss": [
+              "29310IN-4ND-AF",
+              "29310IN-4ND-BL",
+              "29310IN-4ND-BV",
+              "29310IN-4ND-RGD"
+            ],
+            "SKUShippingHeight_s": "15.500",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "27.800",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/29310IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-5/16\"",
+            "id": "dcf95296-e231-429a-a73f-f878c58045fe|29310IN-4ND-AF"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

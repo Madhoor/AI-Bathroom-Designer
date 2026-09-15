@@ -1,0 +1,154 @@
+{
+  "product_url": "https://www.kohler.co.in/p/freelance-wall-hung-toilet-bundle-in-white-1?skuId=18132IN-2SR-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/freelance-wall-hung-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/freelance-wall-hung-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/freelance-wall-hung-toilet-bundle-in-white-1?skuId=18132IN-2SR-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "MT2NKLyO2t",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=775, ak_p; desc=\"1789450071401_400553078_274602920_104242_10957_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:27:52 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1484",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 34.8,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|19461IN-2-0|true|false|K-19461IN-2-0"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG BOWL\n1 INSTL. INSTR; 1 WARRANTY CARD\n1 INSTL. KIT",
+            "productImages.labelWithUrl_ss": [
+              "19461IN-2-0|aad75472_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad75472_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet with skirted trapway, dual-flush",
+            "ColorFinish_s": "White",
+            "productName_s": "Freelance™ Wall-hung round-front toilet with skirted trapway, dual-flush",
+            "ctId_s": "44eb9d5e-c8b4-4636-9d95-6ead84541a02",
+            "ProductOverallWidthCm_d": 36.0,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "19461IN-2-0",
+            "SKUShippingWidth_s": "41.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Freelance",
+            "SKUShippingHeight_s": "62.000",
+            "SKUShippingLength_s": "42.000",
+            "slug_s": "freelance-wall-hung-round-front-toilet-with-skirted-trapway-dual-flush-19461in-2",
+            "ProductOverallLengthCm_d": 58.0
+          },
+          {
+            "ProductOverallHeightCm_d": 6.6,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|4735IN-UF-0|false|false|K-4735IN-UF-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT;\n1 SEAT INSTALLATION KIT; 1 INSTALLATION\nINSTRUCTIONS;1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "4735IN-UF-0|aae00962_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00962_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Round-front toilet seat lid",
+            "ColorFinish_s": "White",
+            "productName_s": "Freelance™  Round-front toilet seat lid",
+            "ctId_s": "09d879f5-8911-4d14-8e3b-a68b4407fd5f",
+            "ProductWebFeatures_ss": [
+              "SafeShield™ - Anti-Microbial Seat, Long lasting protection against harmful bacteria (Under standard test conditions (JISZ2801))",
+              "Durable UF material resistant to scratching, chipping and Stain-resistant",
+              "Quick-Release™ hinges allow seat to be unlatched from toilet for easy removal and convenient cleaning; no tools required.",
+              "Quiet-Close™ seat and lid close slowly and quietly without slamming.",
+              "Grip-Tight bumpers add stability and prevent shifting."
+            ],
+            "ProductOverallWidthCm_d": 37.3,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "4735IN-UF-0",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Freelance",
+            "SKUShippingHeight_s": "10.000",
+            "SKUShippingLength_s": "51.000",
+            "slug_s": "freelance-round-front-toilet-seat-lid-4735in-uf",
+            "ProductOverallLengthCm_d": 44.6
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Freelance wall hung toilet bundle in White",
+            "ctId_s": "67d39375-2da9-4b79-bb62-77d5012c938d",
+            "priceList.ANY.finalPrice_d": 20500.0,
+            "sku_s": "18132IN-2SR-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 20500.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-18132IN-2SR-0",
+            "variantList.sku_ss": [
+              "18132IN-2SR-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "18132IN-2SR-0|aaf88541_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf88541_rgb",
+              "18132IN-2SR-0|aaf88542_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf88542_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 16809.0,
+            "priceList.KEMP.finalPrice_d": 20500.0,
+            "id": "67d39375-2da9-4b79-bb62-77d5012c938d|18132IN-2SR-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

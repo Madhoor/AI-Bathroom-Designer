@@ -1,0 +1,167 @@
+{
+  "product_url": "https://www.kohler.co.in/p/round-duet-edge-square-203-mm-single-function-rainhead-73037in-cl?skuId=73037IN-CL-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/round-duet-edge-square-203-mm-single-function-rainhead-73037in-cl",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/round-duet-edge-square-203-mm-single-function-rainhead-73037in-cl",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4883>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/round-duet-edge-square-203-mm-single-function-rainhead-73037in-cl?skuId=73037IN-CL-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "4lljK3s64r",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=303, origin; dur=772, ak_p; desc=\"1789448832896_400553039_335791686_107475_10721_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:07:13 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1887",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037IN-CL.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037in_clfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Ceiling- or wall-mount",
+              "Requires single-function rainhead shower arm and flange (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "8\"",
+            "ProductNarrativeDescription_s": "Enjoy a shower that simulates the soaking deluge of a warm summer downpour. This ultra-slim, round rainhead features innovative Katalyst™ air-induction technology, which efficiently mixes water and air to produce large water droplets and deliver a powerful, thoroughly drenching overhead shower experience. Larger drops mean warmer water, up to half a degree in every drop for a truly luxurious shower experience. Its clean, good looks and durable finish coordinate with many other KOHLER® faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|73037IN-CL-CP|true|false|K-73037IN-CL-CP"
+            ],
+            "ProductBrandName_s": "Rainduet™ Edge",
+            "ProductPackageContents_s": "1 RAINDUET EDGE ROUND 203MM RAINHEAD, 1 INSTALLATION INSTRUCTIONS, 1 WARRANTY SHEET, INDIA",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037IN-CL.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-73037IN-CL_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037IN-CL.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73037IN-CL-CP|aaf88598_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88598_rgb",
+              "73037IN-CL-CP|aaf88553_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf88553_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 8109.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 9900.0,
+            "ProductOverallLengthInches_s": "8\"",
+            "ProductDescriptionProductShort_s": "Round 20.3 cm single-function rainhead, 14.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037in_clpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037in_clsde.dxf"
+            ],
+            "productName_s": "Rainduet® Edge Round 20.3 cm single-function rainhead, 14.5 lpm",
+            "ctId_s": "cd78c341-537b-4a6e-98e6-aa5947858167",
+            "ProductWebFeatures_ss": [
+              "Single-function rainhead",
+              "Ultra-slim design",
+              "Full coverage with Katalyst™ air-induction technology offers a drenching spray experience, ideal for rinsing shampoo from hair",
+              "Adjustable swivel ball joint allows for precise spray adjustment",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Flexible, silicone nozzles assure long life and easy clean",
+              "3.7 gpm (14.5 lpm) maximum flow rate at 73 psi (5.0 bar)",
+              "G 1/2 connection"
+            ],
+            "priceList.ANY.finalPrice_d": 9900.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037in_clsde.dwg"
+            ],
+            "sku_s": "73037IN-CL-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Rain_Duet-K-73037IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037IN-CL.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "23.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73037IN-CL",
+            "productInRiverId_s": "inRiver_2492138",
+            "priceList.CTR.finalPrice_d": 9900.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-73037IN-CL-CP",
+            "ProductBrandNameDisplay_s": "Rainduet™ Edge",
+            "variantList.sku_ss": [
+              "73037IN-CL-CP"
+            ],
+            "SKUShippingHeight_s": "11.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "23.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037in_clpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037in_clfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73037IN-CL.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-5/16\"",
+            "id": "cd78c341-537b-4a6e-98e6-aa5947858167|73037IN-CL-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "product_url": "https://www.kohler.co.in/p/taut-wall-mount-bath-spout-without-diverter-74046in-a1?skuId=74046IN-A1-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/taut-wall-mount-bath-spout-without-diverter-74046in-a1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/taut-wall-mount-bath-spout-without-diverter-74046in-a1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/taut-wall-mount-bath-spout-without-diverter-74046in-a1?skuId=74046IN-A1-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "FoCChZYs9D",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=250, origin; dur=686, ak_p; desc=\"1789446690560_400553039_335252821_93713_14172_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:31:31 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1285",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "redirectUrl_s": "https://shopkohler.in/products/taut-bath-spout-in-polished-chrome-without-diverter",
+            "ProductNarrativeDescription_s": "Kohler collection is as much an ode to performance, as to style. Its design focusses on functional elements and their composition, ensuring unmatched performance year after year.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|74046IN-A1-CP|true|false|K-74046IN-A1-CP"
+            ],
+            "ProductBrandName_s": "Taut™",
+            "ProductPackageContents_s": "1 BATH SPOUT; 1 ESCUTCHEON;1 INSTALLATION INSTRUCTION; 1 WARRANTY CARD",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "74046IN-A1-CP|zab94674_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab94674_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 1969.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 2320.0,
+            "ProductDescriptionProductShort_s": "Wall mount bath spout without diverter",
+            "productName_s": "Taut™ Wall mount bath spout without diverter",
+            "ctId_s": "4e0bd0b8-85c7-4abf-8585-b97d8f70ef1d",
+            "ProductWebFeatures_ss": [
+              "Melding thoughtful design with reliable performance, Taut faucet collection brings elegant functionality to your bathroom.",
+              "Solid brass construction for durability and reliability",
+              "Easy clean",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance.",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times"
+            ],
+            "priceList.ANY.finalPrice_d": 2320.0,
+            "sku_s": "74046IN-A1-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-TAUT-K-74046IN.rfa"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "3.464",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "74046IN-A1",
+            "productInRiverId_s": "inRiver_1482733",
+            "priceList.CTR.finalPrice_d": 2320.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-74046IN-A1-CP",
+            "ProductBrandNameDisplay_s": "Taut™",
+            "variantList.sku_ss": [
+              "74046IN-A1-CP"
+            ],
+            "SKUShippingHeight_s": "2.283",
+            "ctProductType_s": "shower-fittings",
+            "SKUShippingLength_s": "10.236",
+            "SKUIsProjectPack_s": "No",
+            "id": "4e0bd0b8-85c7-4abf-8585-b97d8f70ef1d|74046IN-A1-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

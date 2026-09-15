@@ -1,0 +1,148 @@
+{
+  "product_url": "https://www.kohler.co.in/p/kohler-vive-hidden-cord-wall-hung-square-front-toilet-with-skirted-trapway-ec42639in-hc?skuId=EC42639IN-HC-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/kohler-vive-hidden-cord-wall-hung-square-front-toilet-with-skirted-trapway-ec42639in-hc",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/kohler-vive-hidden-cord-wall-hung-square-front-toilet-with-skirted-trapway-ec42639in-hc",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/kohler-vive-hidden-cord-wall-hung-square-front-toilet-with-skirted-trapway-ec42639in-hc?skuId=EC42639IN-HC-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "szltBLQhMx",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=272, origin; dur=732, ak_p; desc=\"1789450168468_400553078_274653271_100421_11659_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:29:29 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1965",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EC42639IN-HC.obj"
+            ],
+            "ProductWebInstallation_ss": [
+              "For cold water use only",
+              "135 mm (5-5/16 inch) rough-in",
+              "Supply line sold separately"
+            ],
+            "ProductOverallWidthInches_s": "17-1/2\"",
+            "ProductNarrativeDescription_s": "The fluid shape of the KOHLER VIVE® collection by Kohler is an escape from conventional form–creating a perfect harmony of timeless, sleek design and modern, graceful functionality. Featuring a soft square fully rimless design, this toilet brings style and innovation to the bathroom in an easy-to-clean skirted silhouette. When paired with a KOHLER® in-wall tank and carrier and flush actuator, eco-flush capabilities can help to save water without sacrificing performance. Your KOHLER VIVE® hidden cord square-front toilet purchase includes the PureWash™ M350 manual bidet seat for a seamless look and luxurious cleansing experience.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|EC42639IN-HC-0|false|false|K-EC42639IN-HC-0"
+            ],
+            "ProductBrandName_s": "KOHLER VIVE®",
+            "ProductPackageContents_s": "1 WALL HUNG TOILET; 1 TOILET SEAT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EC42639IN-HC.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-EC42639IN-HC_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EC42639IN-HC.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "EC42639IN-HC-0|aaj94231_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94231_rgb",
+              "EC42639IN-HC-0|aaj94230_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94230_rgb",
+              "EC42639IN-HC-0|aaj94228_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94228_rgb",
+              "EC42639IN-HC-0|aaj94229_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94229_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 25419.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 31000.0,
+            "ProductOverallLengthInches_s": "21-15/16\"",
+            "ProductDescriptionProductShort_s": "Hidden cord wall-hung square-front toilet with skirted trapway",
+            "productName_s": "KOHLER VIVE® Hidden cord wall-hung square-front toilet with skirted trapway",
+            "ctId_s": "3f38a72d-8924-4f16-bf59-eacb7eeb2ee4",
+            "ProductWebFeatures_ss": [
+              "Square shape offers modern geometric style",
+              "Soft square-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Recommended rim-to-floor height installation: 40 cm (15-3/4 inches)",
+              "65 mm (2-1/2 inch) fully glazed trapway",
+              "Skirted trapway and rimless design simplify cleaning",
+              "Dual-function wand provides ambient water for front and rear cleansing",
+              "Air-bubble bidet spray provides gentle cleansing in front and rear wash modes",
+              "Convenient side knob allows you to preclean bidet wand and control water volume for both front and rear wash",
+              "Self-cleaning wand automatically rinses before each use",
+              "Manually operated handle requires no batteries or electrical power",
+              "Quiet-Close™ square-front seat closes quietly",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Hidden cord design conceals bidet seat cords",
+              "Ergonomically contoured seat design enhances user comfort",
+              "Requires in-wall tank and carrier system, and flush actuator plate (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 31000.0,
+            "ProductCaliforniaProp65WarningDisclaimer_s": "",
+            "sku_s": "EC42639IN-HC-0",
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "EC42639IN-HC",
+            "productInRiverId_s": "inRiver_3843102",
+            "priceList.CTR.finalPrice_d": 31000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-EC42639IN-HC-0",
+            "ProductBrandNameDisplay_s": "KOHLER VIVE",
+            "variantList.sku_ss": [
+              "EC42639IN-HC-0"
+            ],
+            "SKUShippingHeight_s": "0.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "0.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductWebMaterial_ss": [
+              "Plastic seat"
+            ],
+            "ProductOverallHeightInches_s": "18-1/4\"",
+            "id": "3f38a72d-8924-4f16-bf59-eacb7eeb2ee4|EC42639IN-HC-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

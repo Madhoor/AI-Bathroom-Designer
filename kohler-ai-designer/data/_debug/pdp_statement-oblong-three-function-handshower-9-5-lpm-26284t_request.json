@@ -1,0 +1,175 @@
+{
+  "product_url": "https://www.kohler.co.in/p/statement-oblong-three-function-handshower-9-5-lpm-26284t?skuId=26284T-2MB",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/statement-oblong-three-function-handshower-9-5-lpm-26284t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/statement-oblong-three-function-handshower-9-5-lpm-26284t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4906>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/statement-oblong-three-function-handshower-9-5-lpm-26284t?skuId=26284T-2MB",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "uek5zda6MH",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=253, origin; dur=716, ak_p; desc=\"1789449435269_400553039_335967283_97033_11450_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:17:16 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1985",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284tfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "G 1/2 inlet connection",
+              "Bracket or slidebar required for wall-mount installation",
+              "Deck-mount holder required for deck-mount installation"
+            ],
+            "ProductOverallWidthInches_s": "3-5/8\"",
+            "ProductNarrativeDescription_s": "Enjoy the flexibility of a handshower that rinses, restores, and targets sore muscles—all at the touch of a button. The Statement multifunction handshower lets you choose between the Full Coverage with Katalyst air-induction technology for large luxurious water drops, a super-fine silky Cloud spray experience, and more focused, Deep Massage kinetic cross-streams. The multifunction oblong handshower features an intuitive mode selector button for switching the stream at your fingertips. Its sleek, minimalist design complements many other KOHLER faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Brushed Moderne Brass|swatch_2MB|26284T-2MB|false|false|K-26284T-2MB"
+            ],
+            "ProductBrandName_s": "Statement™",
+            "ProductPackageContents_s": "1 STATEMENT 3F OBLONG HANDSHOWER, 1 CERT. OF MAINTENANCE,N ",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284T.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1430506-T2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1474726-T8 (26284T).pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-26284T_spec_AP_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-26284T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284T.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst® air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "26284T-2MB|aad06304_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad06304_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 11700.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 11700.0,
+            "ProductOverallLengthInches_s": "2-9/16\"",
+            "ProductDescriptionProductShort_s": "Oblong three-function handshower, 9.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284tsde.dxf"
+            ],
+            "productName_s": "Statement™ Oblong three-function handshower, 9.5 lpm",
+            "ctId_s": "62c07388-54ec-4f78-a500-f64db64c1cf5",
+            "ProductWebFeatures_ss": [
+              "Multifunction handshower with advanced spray engine provides three spray experiences: Full Coverage with Katalyst technology, Deep Massage, and Cloud",
+              "Full Coverage with Katalyst™ air-induction technology delivers a drenching spray experience, ideal for rinsing shampoo from hair",
+              "Deep Massage streams twist and swirl, targeting sore muscles to ease away aches and pains",
+              "Cloud spray experience restores with a thick cloud of silky, super-fine water droplets",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "Requires shower hose (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 11700.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284tsde.dwg"
+            ],
+            "sku_s": "26284T-2MB",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower-KOHLER-K-26284T.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower-KOHLER-Statement-K-26284T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284T.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "4.764",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "26284T",
+            "productInRiverId_s": "inRiver_885522",
+            "priceList.CTR.finalPrice_d": 11700.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-26284T-2MB",
+            "ProductBrandNameDisplay_s": "Statement™",
+            "variantList.sku_ss": [
+              "26284T-2MB"
+            ],
+            "SKUShippingHeight_s": "3.661",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "10.551",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26284T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "9-9/16\"",
+            "id": "62c07388-54ec-4f78-a500-f64db64c1cf5|26284T-2MB",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

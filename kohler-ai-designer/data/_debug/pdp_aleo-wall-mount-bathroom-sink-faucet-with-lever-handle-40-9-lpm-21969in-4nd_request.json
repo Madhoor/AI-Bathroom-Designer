@@ -1,0 +1,182 @@
+{
+  "product_url": "https://www.kohler.co.in/p/aleo-wall-mount-bathroom-sink-faucet-with-lever-handle-40-9-lpm-21969in-4nd?skuId=21969IN-4ND-BV",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/aleo-wall-mount-bathroom-sink-faucet-with-lever-handle-40-9-lpm-21969in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/aleo-wall-mount-bathroom-sink-faucet-with-lever-handle-40-9-lpm-21969in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/aleo-wall-mount-bathroom-sink-faucet-with-lever-handle-40-9-lpm-21969in-4nd?skuId=21969IN-4ND-BV",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "sQkIMpW7YV",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=264, origin; dur=847, ak_p; desc=\"1789422032726_400553039_333240216_111051_12422_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:40:33 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2063",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969in_4ndfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/aleo-wall-mount-basin-faucet-trim-with-valve-in-brushed-bronze",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "7-7/8\"",
+            "ProductNarrativeDescription_s": "Where simplicity and beauty collide, the Aleo® wall-mount bathroom sink faucet was thoughtfully designed to offer you a truly modern experience. With a flat-surface Lever handle and sleek spout, this faucet exudes minimalism while being convenient and reliable for everyday use. With premium metal construction that resists corrosion, this faucet was built to last.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Rose Gold|swatch_RGD|21969IN-4ND-RGD|false|false|K-21969IN-4ND-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|21969IN-4ND-BV|false|false|K-21969IN-4ND-BV",
+              "Vibrant Brushed Rose Gold|swatch_BRD|21969IN-4ND-BRD|false|false|K-21969IN-4ND-BRD"
+            ],
+            "ProductBrandName_s": "Aleo™",
+            "ProductPackageContents_s": "1 ALEO WM LAV FAUCET TRIM+VALVE,  1 INSTALLATION INSTRUCTION, 1 WARRANTY SHEET, INDIA",
+            "Recommended_Accessories_ss": [
+              "inRiver_3208982",
+              "inRiver_3208985"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-21969IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "21969IN-4ND-BV|aaf04237_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf04237_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_SIDE_d2c0008214_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_SIDE_d2c0008214_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_PartialRoomView_d2c0008348_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_PartialRoomView_d2c0008348_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_CloseRoomView_d2c0007691_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomView_d2c0007691_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_ISOBackground_d2c0007871_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_ISOBackground_d2c0007871_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_OverheadRoomView_d2c0007830_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_OverheadRoomView_d2c0007830_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_CloseRoomViewProductDetail_d2c0008304_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomViewProductDetail_d2c0008304_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_CloseRoomViewInUse_d2c0008017_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomViewInUse_d2c0008017_rgb",
+              "21969IN-4ND-BV|21969IN-4ND-BV_FRONT_d2c0008070_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_FRONT_d2c0008070_rgb",
+              "21969IN-4ND-RGD|aag70633_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag70633_rgb",
+              "21969IN-4ND-BRD|aag48856_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag48856_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 20779.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 25350.0,
+            "ProductOverallLengthInches_s": "6-5/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet with Lever handle, 40.9 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969in_4ndsde.dxf"
+            ],
+            "productName_s": "Aleo® Wall-mount bathroom sink faucet with Lever handle, 40.9 lpm",
+            "ctId_s": "e70b1637-77da-402a-820b-7b57e49aec5e",
+            "ProductWebFeatures_ss": [
+              "Single Lever handle allows for on/off activation, volume, and temperature control",
+              "16 cm (6.3 inch) spout reach",
+              "10.8 gpm (40.9 lpm) at 43.5 psi (3.0 bar)",
+              "Laminar flow",
+              "Valve included",
+              "Coordinates with other products in the Aleo® collection"
+            ],
+            "priceList.ANY.finalPrice_d": 25350.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969in_4ndsde.dwg"
+            ],
+            "sku_s": "21969IN-4ND-BV",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Aleo-K-21969IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "28.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "21969IN-4ND",
+            "productInRiverId_s": "inRiver_1482168",
+            "priceList.CTR.finalPrice_d": 25350.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-21969IN-4ND-BV",
+            "ProductBrandNameDisplay_s": "Aleo™",
+            "variantList.sku_ss": [
+              "21969IN-4ND-BV",
+              "21969IN-4ND-RGD",
+              "21969IN-4ND-BRD"
+            ],
+            "SKUShippingHeight_s": "15.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "28.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21969IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-1/16\"",
+            "id": "e70b1637-77da-402a-820b-7b57e49aec5e|21969IN-4ND-BV"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

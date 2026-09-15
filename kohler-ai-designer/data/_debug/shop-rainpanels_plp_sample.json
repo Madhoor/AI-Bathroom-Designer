@@ -1,0 +1,501 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"ProductShape_s\"}ProductShape_s",
+      "{!ex=\"ProductProductType_s\"}ProductProductType_s",
+      "{!ex=\"Shower_SprayType_ss\"}Shower_SprayType_ss",
+      "{!ex=\"ShowerProductOverallLengthCm_s\"}ShowerProductOverallLengthCm_s",
+      "Available_Now_s",
+      "InstallationCost_s",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d"
+    ],
+    "color_swatch_labels": {
+      "Matte Black": "swatch_BL",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant Brushed Bronze": "swatch_BV",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD"
+    },
+    "facet_labels": {
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "ProductShape_s": "Shape",
+      "ProductProductType_s": "Product Type",
+      "Shower_SprayType_ss": "Spray Type",
+      "ShowerProductOverallLengthCm_s": "Shower Size",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|29959IN-CP|true|false|K-29959IN-CP",
+          "Vibrant French Gold|swatch_AF|29959IN-AF|true|false|K-29959IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|29959IN-RGD|true|false|K-29959IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|29959IN-BV|true|false|K-29959IN-BV",
+          "Matte Black|swatch_BL|29959IN-BL|true|false|K-29959IN-BL"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "masterSKU_s": "29959IN-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_RGD",
+          "swatch_CP",
+          "swatch_BV"
+        ],
+        "sourceId_s": "29959IN-AF",
+        "productImages.labelWithUrl_ss": [
+          "29959IN-AF|aae41887_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae41887_rgb",
+          "29959IN-BL|aae36098_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae36098_rgb",
+          "29959IN-RGD|aaf66495_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66495_rgb",
+          "29959IN-CP|aaf66496_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66496_rgb",
+          "29959IN-BV|aaf76633_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf76633_rgb"
+        ],
+        "priceList.GST.price_d": 139039.0,
+        "priceList.GST.finalPrice_d": 139039.0,
+        "ProductDescriptionProductShort_s": "Hexagonal 33 cm x 42.5 cm two-function overhead shower panel, 10.5 lpm",
+        "productName_s": "ModernLife Edge® Hexagonal 33 cm x 42.5 cm two-function overhead shower panel, 10.5 lpm",
+        "ctId_s": "e695afd3-b010-44a7-8594-c1da04e3fdfa",
+        "Color.GST.Details_ss": [
+          "29959IN-AF|Vibrant French Gold|173800.0|139039.0||https://kohler.scene7.com/is/image/PAWEB/aae41887_rgb",
+          "29959IN-BL|Matte Black|194800.0|155839.0||https://kohler.scene7.com/is/image/PAWEB/aae36098_rgb",
+          "29959IN-RGD|Vibrant Rose Gold|194800.0|155839.0||https://kohler.scene7.com/is/image/PAWEB/aaf66495_rgb",
+          "29959IN-CP|Polished Chrome|139100.0|111279.0||https://kohler.scene7.com/is/image/PAWEB/aaf66496_rgb",
+          "29959IN-BV|Vibrant Brushed Bronze|209000.0|167199.0||https://kohler.scene7.com/is/image/PAWEB/aaf76633_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "29959IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae41887_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae36098_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf66495_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf66496_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf76633_rgb"
+        ],
+        "priceList.ANY.price_d": 173800.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "29959IN-AF",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "29959IN-AF",
+          "29959IN-BL",
+          "29959IN-RGD",
+          "29959IN-CP",
+          "29959IN-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 111279.0,
+        "displayPriceStartingAt_s": "₹111,279.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Rose Gold",
+          "Polished Chrome",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "modernlife-edge-df-rectangle-425x330mm-17-x13--29959in",
+        "priceStartingAt.GST_d": 111279.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e695afd3-b010-44a7-8594-c1da04e3fdfa|29959IN-AF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|29961IN-CP|true|false|K-29961IN-CP",
+          "Vibrant French Gold|swatch_AF|29961IN-AF|false|false|K-29961IN-AF",
+          "Vibrant Rose Gold|swatch_RGD|29961IN-RGD|false|false|K-29961IN-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|29961IN-BV|false|false|K-29961IN-BV",
+          "Matte Black|swatch_BL|29961IN-BL|false|false|K-29961IN-BL"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "masterSKU_s": "29961IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_BL"
+        ],
+        "sourceId_s": "29961IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "29961IN-CP|aae23477_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23477_rgb",
+          "29961IN-RGD|aaf95047_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95047_rgb",
+          "29961IN-BV|aah24640_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah24640_rgb",
+          "29961IN-BL|aah24638_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah24638_rgb",
+          "29961IN-AF|aaf95049_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf95049_rgb"
+        ],
+        "priceList.GST.price_d": 83999.0,
+        "priceList.GST.finalPrice_d": 83999.0,
+        "ProductDescriptionProductShort_s": "42.5 cm x 33 cm two-function rainhead, 2.0 and 11.5 lpm",
+        "productName_s": "ModernLife Edge™ 42.5 cm x 33 cm two-function rainhead, 2.0 and 11.5 lpm",
+        "ctId_s": "14e3ad5e-9207-4502-a334-6ec3bc98e647",
+        "Color.GST.Details_ss": [
+          "29961IN-CP|Polished Chrome|105000.0|83999.0||https://kohler.scene7.com/is/image/PAWEB/aae23477_rgb",
+          "29961IN-AF|Vibrant French Gold|118900.0|95119.0||https://kohler.scene7.com/is/image/PAWEB/aaf95049_rgb",
+          "29961IN-BV|Vibrant Brushed Bronze|142500.0|113999.0||https://kohler.scene7.com/is/image/PAWEB/aah24640_rgb",
+          "29961IN-RGD|Vibrant Rose Gold|133000.0|106399.0||https://kohler.scene7.com/is/image/PAWEB/aaf95047_rgb",
+          "29961IN-BL|Matte Black|133000.0|106399.0||https://kohler.scene7.com/is/image/PAWEB/aah24638_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "29961IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae23477_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95047_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah24640_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah24638_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf95049_rgb"
+        ],
+        "priceList.ANY.price_d": 105000.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "29961IN-AF",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "29961IN-CP",
+          "29961IN-AF",
+          "29961IN-BV",
+          "29961IN-RGD",
+          "29961IN-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 83999.0,
+        "displayPriceStartingAt_s": "₹83,999.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Matte Black"
+        ],
+        "slug_s": "modernlife-edge-df-rectangle-425x330mm-17-x13--29961in",
+        "priceStartingAt.GST_d": 83999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "14e3ad5e-9207-4502-a334-6ec3bc98e647|29961IN-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|72830IN-L-CP|true|false|K-72830IN-L-CP",
+          "Matte Black|swatch_BL|72830IN-L-BL|false|false|K-72830IN-L-BL"
+        ],
+        "ProductBrandName_s": "Beitou™",
+        "masterSKU_s": "72830IN-L-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BL"
+        ],
+        "sourceId_s": "72830IN-L-CP",
+        "productImages.labelWithUrl_ss": [
+          "72830IN-L-CP|aaf03035_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf03035_rgb",
+          "72830IN-L-BL|aag74300_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag74300_rgb"
+        ],
+        "priceList.GST.price_d": 242799.0,
+        "priceList.GST.finalPrice_d": 242799.0,
+        "ProductDescriptionProductShort_s": "28 cm x 55 cm three-function rainhead, 25.3 – 34.9 lpm",
+        "productName_s": "Beitou® 28 cm x 55 cm three-function rainhead, 25.3 – 34.9 lpm",
+        "ctId_s": "1a9f4466-e805-4bbb-b955-91f54a181132",
+        "Color.GST.Details_ss": [
+          "72830IN-L-CP|Polished Chrome|303500.0|242799.0||https://kohler.scene7.com/is/image/PAWEB/aaf03035_rgb",
+          "72830IN-L-BL|Matte Black|424700.0|339759.0||https://kohler.scene7.com/is/image/PAWEB/aag74300_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "72830IN-L",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf03035_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag74300_rgb"
+        ],
+        "priceList.ANY.price_d": 303500.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "72830IN-L-BL",
+        "ProductBrandNameDisplay_s": "Beitou™",
+        "variantList.sku_ss": [
+          "72830IN-L-CP",
+          "72830IN-L-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 242799.0,
+        "displayPriceStartingAt_s": "₹242,799.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Matte Black"
+        ],
+        "slug_s": "beitou-rainpanel-500x500-multifunction-rainpanel-in-polished-chrome-72830in-l",
+        "priceStartingAt.GST_d": 242799.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "1a9f4466-e805-4bbb-b955-91f54a181132|72830IN-L-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|97167IN-CP|true|false|K-97167IN-CP",
+          "Vibrant French Gold|swatch_AF|97167IN-AF|true|false|K-97167IN-AF",
+          "Matte Black|swatch_BL|97167IN-BL|true|false|K-97167IN-BL"
+        ],
+        "ProductBrandName_s": "Loure™",
+        "masterSKU_s": "97167IN-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BL",
+          "swatch_AF",
+          "swatch_CP"
+        ],
+        "sourceId_s": "97167IN-CP",
+        "productImages.labelWithUrl_ss": [
+          "97167IN-CP|aad08347_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad08347_rgb",
+          "97167IN-BL|aah01120_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah01120_rgb",
+          "97167IN-AF|aag24286_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24286_rgb"
+        ],
+        "priceList.GST.price_d": 313359.0,
+        "priceList.GST.finalPrice_d": 313359.0,
+        "ProductDescriptionProductShort_s": "Shower panel",
+        "productName_s": "Loure™ Shower panel",
+        "ctId_s": "fb8a53c4-89d8-4283-a21e-794f634e6b45",
+        "Color.GST.Details_ss": [
+          "97167IN-BL|Matte Black|407900.0|326319.0||https://kohler.scene7.com/is/image/PAWEB/aah01120_rgb",
+          "97167IN-AF|Vibrant French Gold|407900.0|326319.0||https://kohler.scene7.com/is/image/PAWEB/aag24286_rgb",
+          "97167IN-CP|Polished Chrome|391700.0|313359.0||https://kohler.scene7.com/is/image/PAWEB/aad08347_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "97167IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad08347_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah01120_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag24286_rgb"
+        ],
+        "priceList.ANY.price_d": 391700.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "97167IN-AF",
+        "ProductBrandNameDisplay_s": "Loure™",
+        "variantList.sku_ss": [
+          "97167IN-BL",
+          "97167IN-AF",
+          "97167IN-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 313359.0,
+        "displayPriceStartingAt_s": "₹313,359.00",
+        "SKUColorFinishName_ss": [
+          "Matte Black",
+          "Vibrant French Gold",
+          "Polished Chrome"
+        ],
+        "slug_s": "loure-shower-panel-97167in",
+        "priceStartingAt.GST_d": 313359.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "fb8a53c4-89d8-4283-a21e-794f634e6b45|97167IN-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant French Gold|swatch_AF|97168IN-AF|true|false|K-97168IN-AF",
+          "Matte Black|swatch_BL|97168IN-BL|true|false|K-97168IN-BL"
+        ],
+        "ProductBrandName_s": "Loure™",
+        "masterSKU_s": "97168IN-BL",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BL",
+          "swatch_AF"
+        ],
+        "sourceId_s": "97168IN-BL",
+        "productImages.labelWithUrl_ss": [
+          "97168IN-BL|aah01121_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah01121_rgb",
+          "97168IN-AF|aag24285_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag24285_rgb"
+        ],
+        "priceList.GST.price_d": 582159.0,
+        "priceList.GST.finalPrice_d": 582159.0,
+        "ProductDescriptionProductShort_s": "Rectangular 80 cm x 60 cm four-function overhead shower panel, 11.8 lpm – 36.0 lpm",
+        "productName_s": "Loure™ Rectangular 80 cm x 60 cm four-function overhead shower panel, 11.8 lpm – 36.0 lpm",
+        "ctId_s": "662d4762-d002-46ed-a288-4b1d93caa50c",
+        "Color.GST.Details_ss": [
+          "97168IN-BL|Matte Black|727700.0|582159.0||https://kohler.scene7.com/is/image/PAWEB/aah01121_rgb",
+          "97168IN-AF|Vibrant French Gold|727700.0|582159.0||https://kohler.scene7.com/is/image/PAWEB/aag24285_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "97168IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aah01121_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag24285_rgb"
+        ],
+        "priceList.ANY.price_d": 727700.0,
+        "Product_Category": "Showerheads",
+        "preferenceSku_s": "97168IN-AF",
+        "ProductBrandNameDisplay_s": "Loure™",
+        "variantList.sku_ss": [
+          "97168IN-BL",
+          "97168IN-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 582159.0,
+        "displayPriceStartingAt_s": "₹582,159.00",
+        "SKUColorFinishName_ss": [
+          "Matte Black",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "loure-rectangular-800-mm-x-600-mm-four-function-overhead-shower-panel-11-8-lpm-36-0-lpm-97168in",
+        "priceStartingAt.GST_d": 582159.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "662d4762-d002-46ed-a288-4b1d93caa50c|97168IN-BL"
+      }
+    ],
+    "numFound": 5,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "ShowerProductOverallLengthCm_s:\"<20cm\"": 2,
+      "ShowerProductOverallLengthCm_s:\"20cm to 40cm\"": 0,
+      "ShowerProductOverallLengthCm_s:\">40cm\"": 2,
+      "Available_Now_s:\"Yes\"": 5
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        4,
+        "Vibrant French Gold",
+        4,
+        "Vibrant Rose Gold",
+        2,
+        "Vibrant Brushed Bronze",
+        2,
+        "Matte Black",
+        5
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Beitou™",
+        1,
+        "Loure™",
+        2,
+        "ModernLife Edge™",
+        2
+      ],
+      "ProductInstallationType_ss": [
+        "Ceiling-mount",
+        4,
+        "Wall-mount",
+        1
+      ],
+      "ProductShape_s": [
+        "Hexagon",
+        1,
+        "Not Applicable",
+        1,
+        "Rectangle",
+        1,
+        "Rectangular",
+        1,
+        "Square",
+        1
+      ],
+      "ProductProductType_s": [
+        "Adapter Kits",
+        2,
+        "Bodysprays",
+        8,
+        "Control Kits",
+        2,
+        "Drain Pans",
+        2,
+        "Faucet Cleaner",
+        1,
+        "Handshowers",
+        18,
+        "Rainheads",
+        28,
+        "Rainpanels",
+        5,
+        "Showerheads",
+        29,
+        "Steam Generators",
+        7,
+        "Steamheads",
+        2
+      ],
+      "Shower_SprayType_ss": [
+        "Multi Spray",
+        1
+      ],
+      "ShowerProductOverallLengthCm_s": [
+        "<20cm",
+        2,
+        ">40cm",
+        2
+      ],
+      "Available_Now_s": [
+        "Yes",
+        5,
+        "No",
+        2
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        1,
+        "Paid",
+        4
+      ]
+    },
+    "facet_ranges": {},
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

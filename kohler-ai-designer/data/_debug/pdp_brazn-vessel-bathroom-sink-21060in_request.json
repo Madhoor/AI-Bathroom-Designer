@@ -1,0 +1,178 @@
+{
+  "product_url": "https://www.kohler.co.in/p/brazn-vessel-bathroom-sink-21060in?skuId=21060IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/brazn-vessel-bathroom-sink-21060in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/brazn-vessel-bathroom-sink-21060in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/brazn-vessel-bathroom-sink-21060in?skuId=21060IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "TJFNpnFejg",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=311, origin; dur=818, ak_p; desc=\"1789420738587_400553078_266590599_113002_11077_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:18:59 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2027",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/brazn-rectangle-vessel-with-ceramic-drain",
+            "ProductWebInstallation_ss": [
+              "Vessel"
+            ],
+            "ProductOverallWidthInches_s": "16\"",
+            "ProductNarrativeDescription_s": "An ultraminimal departure from tradition, the KOHLER® Brazn collection makes a statement of contemporary simplicity and bold elegance. Each piece in the collection is a celebration of minimalism, where clean lines meet intentional design to create a striking visual impact. The KOHLER® Brazn bathroom sink collection is unadorned yet undeniably refined, showcasing how simplicity can make the most profound statement. Every detail is crafted with purpose, every surface a testament to bold elegance. This Brazn 58.4 cm rectangular vessel bathroom sink, with its clean, geometric form, commands attention as it sits gracefully atop your bathroom counter. Its sleek and striking presence transforms ordinary spaces into refined retreats, amplifying the harmony between form and function. Designed to elevate any bathroom, the Brazn collection invites you to explore the beauty of purposeful minimalism.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|21060IN-0|true|false|K-21060IN-0",
+              "Honed Black|swatch_HB1|21060IN-HB1|true|false|K-21060IN-HB1"
+            ],
+            "ProductBrandName_s": "Brazn™",
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 LAVATORY;1INSTALLATION GUIDE; 1 CUTOUT TEMPLATE;1 WARRANTY CARD; 1 DRAIN KIT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1634465-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1634465-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-21060IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "21060IN-0|aag43534_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag43534_rgb",
+              "21060IN-0|aaf71401_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf71401_rgb",
+              "21060IN-0|aaf71402_rgb|IMGITEMISO||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf71402_rgb",
+              "21060IN-0|aaf71403_rgb|IMGITEMOVERHEADROOMVIEW||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf71403_rgb",
+              "21060IN-HB1|aag43533_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag43533_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 16799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 21000.0,
+            "ProductOverallLengthInches_s": "23\"",
+            "ProductDescriptionProductShort_s": "58.4 cm rectangular vessel bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060insde.dxf"
+            ],
+            "productName_s": "Brazn™ 58.4 cm rectangular vessel bathroom sink",
+            "ctId_s": "615b3223-468f-471f-9d91-0026a01c0b06",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin",
+              "58.4 cm (23 inch) x 40.6 cm (16 inch)",
+              "Center drain",
+              "Brass drain and color-matched brass drain cover",
+              "With overflow",
+              "No faucet holes; requires wall- or counter-mount faucet",
+              "Includes installation hardware"
+            ],
+            "priceList.ANY.finalPrice_d": 21000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060insde.dwg"
+            ],
+            "sku_s": "21060IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-BRAZN-K-21060IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Brazn-K-21060IN.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "50.900",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "21060IN",
+            "productInRiverId_s": "inRiver_2312070",
+            "priceList.CTR.finalPrice_d": 21000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-21060IN-0",
+            "ProductBrandNameDisplay_s": "Brazn™",
+            "variantList.sku_ss": [
+              "21060IN-0",
+              "21060IN-HB1"
+            ],
+            "SKUShippingHeight_s": "24.100",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "69.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Fireclay"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21060IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "13-3/8\"",
+            "id": "615b3223-468f-471f-9d91-0026a01c0b06|21060IN-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "product_url": "https://www.kohler.co.in/p/veil-vessel-bathroom-sink-20704?skuId=20704-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/veil-vessel-bathroom-sink-20704",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/veil-vessel-bathroom-sink-20704",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/veil-vessel-bathroom-sink-20704?skuId=20704-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "ndV2vPe2Tc",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=281, origin; dur=830, ak_p; desc=\"1789420771906_400553078_266594162_111054_10498_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:19:33 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2265",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Vessel",
+              "Requires drain (sold separately)"
+            ],
+            "ProductBrandName_s": "Veil™",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 DRAIN ASSEMBLY;\n1 CAP ASSEMBLY;\n1 INSTALLATION INSTRUCTIONS",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704.skp"
+            ],
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1221748-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 38399.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 48000.0,
+            "ProductOverallLengthInches_s": "21-1/8\"",
+            "ProductDescriptionProductShort_s": "21\" oval vessel bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704pln.dxf"
+            ],
+            "productName_s": "Veil™ 21\" oval vessel bathroom sink",
+            "ctId_s": "21aec5b2-05b1-41d5-b2cc-1c2923bde4a7",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Veil-K-20704.zip",
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Bathroom_Vessel-KOHLER-Veil-K-20704.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "18.701",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "20704",
+            "priceList.CTR.finalPrice_d": 48000.0,
+            "ProductBrandNameDisplay_s": "Veil",
+            "SKUShippingHeight_s": "11.024",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "8\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704.obj"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/veil-small-vessel-with-drain-in-white",
+            "ProductOverallWidthInches_s": "14-1/16\"",
+            "ProductNarrativeDescription_s": "The KOHLER® Veil vessel-mounted bathroom sink features flowing and immaculately balanced curves that evoke a sculpted simplicity in tune with contemporary style. Enhanced by a high-gloss finish, the oval vessel bathroom sink basin's sleek, organic shape is easy to clean. At Kohler, we make it our business to help you create the bathroom space of your dreams.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|20704-0|true|false|K-20704-0"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-20704_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-20704_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-20704_spec_US-CA_Kohler_fr-ca.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "20704-0|20704-0_ISOSquare_d2c0058644_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/20704-0_ISOSquare_d2c0058644_rgb",
+              "20704-0|20704-0_ISO_d2c0058644_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/20704-0_ISO_d2c0058644_rgb",
+              "20704-0|20704-0_DesignSinkTypeSquareWithText_d2c0058652_en-US|IMGITEMFEATUREDesignSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/20704-0_DesignSinkTypeSquareWithText_d2c0058652_en-US",
+              "20704-0|20704-0_CloseRoomViewProductDetailSquare_d2c0058675_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/20704-0_CloseRoomViewProductDetailSquare_d2c0058675_rgb",
+              "20704-0|20704-0_PartialRoomViewSquare_d2c0058673_rgb|IMGITEMPARTIALROOMVIEWSquare||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/20704-0_PartialRoomViewSquare_d2c0058673_rgb",
+              "20704-0|20704-0_PartialRoomViewOnePointSquareWithText_d2c0058666_en-US|IMGITEMPARTIALROOMVIEWOnePointSquareWithText||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/20704-0_PartialRoomViewOnePointSquareWithText_d2c0058666_en-US",
+              "20704-0|20704-0_TOPSquare_d2c0052373_rgb|IMGITEMTOPSquare||top view of product|https://kohler.scene7.com/is/image/PAWEB/20704-0_TOPSquare_d2c0052373_rgb",
+              "20704-0|20704-0_CloseRoomViewArchitectFrontSquare_d2c0058674_rgb|IMGITEMCLOSEROOMVIEWArchitectFrontSquare||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/20704-0_CloseRoomViewArchitectFrontSquare_d2c0058674_rgb",
+              "20704-0|20704-0_CloseRoomViewOnePointSquareWithText_d2c0058645_en-US|IMGITEMCLOSEROOMVIEWOnePointSquareWithText||angled view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/20704-0_CloseRoomViewOnePointSquareWithText_d2c0058645_en-US",
+              "20704-0|20704-0_ARCHITECTFRONTSquare_d2c0058651_rgb|IMGITEMARCHITECTFRONTSquare||angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/20704-0_ARCHITECTFRONTSquare_d2c0058651_rgb",
+              "20704-0|20704-0_OverheadRoomViewSquare_d2c0058663_rgb|IMGITEMOVERHEADROOMVIEWSquare||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/20704-0_OverheadRoomViewSquare_d2c0058663_rgb",
+              "20704-0|20704-0_DIMENSIONALSquareWithText_d2c0058676_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/20704-0_DIMENSIONALSquareWithText_d2c0058676_en-US",
+              "20704-0|20704-0_CloseRoomViewSquare_d2c0058660_rgb|IMGITEMCLOSEROOMVIEWSquare||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/20704-0_CloseRoomViewSquare_d2c0058660_rgb"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Asymmetrical oval basin",
+              "No faucet holes; requires wall- or counter-mount faucet",
+              "Overflow drain",
+              "Includes color-matched overflow cap and color-matched brass drain cover",
+              "Coordinates with other products in the Veil collection"
+            ],
+            "priceList.ANY.finalPrice_d": 48000.0,
+            "RequiredAccessoryGroupName_ss": [
+              "For above-counter installation (Bathroom sink)",
+              "Option 2",
+              "Option 3"
+            ],
+            "sku_s": "20704-0",
+            "InstallationCost_s": "Paid",
+            "productInRiverId_s": "inRiver_200801",
+            "Product_Category": "Bathroom Sinks",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1362534_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-20704-0",
+            "variantList.sku_ss": [
+              "20704-0"
+            ],
+            "SKUShippingLength_s": "25.787",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Fireclay"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1933656",
+              "inRiver_232048",
+              "inRiver_244082"
+            ],
+            "ProductResource.CutOutDXF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1317551_7_a.dxf"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/20704.dwg"
+            ],
+            "id": "21aec5b2-05b1-41d5-b2cc-1c2923bde4a7|20704-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

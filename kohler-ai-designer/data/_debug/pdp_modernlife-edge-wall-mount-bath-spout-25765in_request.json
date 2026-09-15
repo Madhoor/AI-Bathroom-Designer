@@ -1,0 +1,166 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-wall-mount-bath-spout-25765in?skuId=25765IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-wall-mount-bath-spout-25765in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-wall-mount-bath-spout-25765in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-wall-mount-bath-spout-25765in?skuId=25765IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "g5z78Xwu9g",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=245, origin; dur=717, ak_p; desc=\"1789446641488_400553039_335242067_98301_10910_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:30:42 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1827",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "G 1/2 inlet connection"
+            ],
+            "ProductOverallWidthInches_s": "2-3/16\"",
+            "ProductNarrativeDescription_s": "This KOHLER® ModernLife Edge™ wall-mount bath spout without diverter redefines sophistication by blending timeless cubist design with modern innovation. Its slim lines and bold, expressive stance create a striking centerpiece that complements any bathroom style, from minimalist to contemporary. Crafted with precision machining and meticulous attention to detail, this elegant faucet exemplifies exceptional quality and craftsmanship. Built for durability and reliability, the ModernLife Edge™ bath spout is designed to withstand everyday use while maintaining its flawless appearance, making it a refined and enduring choice for elevating your bathroom to new heights of luxury.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|25765IN-CP|true|false|K-25765IN-CP",
+              "Vibrant French Gold|swatch_AF|25765IN-AF|true|false|K-25765IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|25765IN-RGD|true|false|K-25765IN-RGD",
+              "Matte Black|swatch_BL|25765IN-BL|true|false|K-25765IN-BL"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "1 MODERNLIFE EDGE BATH SPOUT W/O DIVERTER, 1 INSTALLATION INSTRUCTION, 1 WARRANTY SHEET, INDIA, 1 INSERT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-25765IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "25765IN-CP|aae31085_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31085_rgb",
+              "25765IN-AF|aae31081_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31081_rgb",
+              "25765IN-BL|aae31083_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31083_rgb",
+              "25765IN-RGD|aae31082_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31082_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 7599.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 9500.0,
+            "ProductOverallLengthInches_s": "6-9/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765insde.dxf"
+            ],
+            "productName_s": "ModernLife Edge™ Wall-mount bath spout",
+            "ctId_s": "bc363ca3-d52d-4f96-bb1b-a2cd0cd2e54b",
+            "ProductWebFeatures_ss": [
+              "Nondiverter spout",
+              "Available in a range of dazzling finishes",
+              "16.7 cm (6.57 inch) spout reach",
+              "17.0 lpm (4.48 gpm) maximum flow rate at 3.0 bar (43.5 psi)"
+            ],
+            "priceList.ANY.finalPrice_d": 9500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765insde.dwg"
+            ],
+            "sku_s": "25765IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-ModernLife_Edge-K-25765IN.rfa"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "14.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "25765IN",
+            "productInRiverId_s": "inRiver_2486724",
+            "priceList.CTR.finalPrice_d": 9500.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-25765IN-CP",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "variantList.sku_ss": [
+              "25765IN-AF",
+              "25765IN-BL",
+              "25765IN-RGD",
+              "25765IN-CP"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "31.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25765infrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/4\"",
+            "id": "bc363ca3-d52d-4f96-bb1b-a2cd0cd2e54b|25765IN-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

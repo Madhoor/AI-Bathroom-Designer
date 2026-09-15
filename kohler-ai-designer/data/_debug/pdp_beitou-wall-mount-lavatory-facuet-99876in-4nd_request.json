@@ -1,0 +1,151 @@
+{
+  "product_url": "https://www.kohler.co.in/p/beitou-wall-mount-lavatory-facuet-99876in-4nd?skuId=99876IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/beitou-wall-mount-lavatory-facuet-99876in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/beitou-wall-mount-lavatory-facuet-99876in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/beitou-wall-mount-lavatory-facuet-99876in-4nd?skuId=99876IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "d5QUJhs9Ua",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=304, origin; dur=896, ak_p; desc=\"1789422025803_400553039_333239952_120044_10943_15_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:40:27 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1484",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876in_4ndfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/beitou-wall-mount-lavatory-faucet-in-polished-chrome",
+            "ProductNarrativeDescription_s": "The calming movement of water lies at the heart of the Beitou(TM) faucet. The effortless flow of the design mimics the natural cascade of the water over the length of the spout and into the sink. Seen in this light, the faucet becomes a stage for water delivery.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|99876IN-4ND-CP|false|false|K-99876IN-4ND-CP"
+            ],
+            "ProductBrandName_s": "Beitou™",
+            "ProductPackageContents_s": "1 VALVE ASSY;\n1 SPOUT ASSY; 1 DRAIN\n1 WARRANTY CARD; 1 INSTALLTION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553094"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "99876IN-4ND-CP|zab74781_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab74781_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 69999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 87500.0,
+            "ProductDescriptionProductShort_s": "Wall-mount lavatory facuet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876in_4ndsde.dxf"
+            ],
+            "productName_s": "Beitou™ Wall-mount lavatory facuet",
+            "ctId_s": "0b36e9cd-77ba-4763-b7a9-14087e8e8933",
+            "ProductWebFeatures_ss": [
+              "Complements the Beitou(R) collection",
+              "Single-control operation allows faucet to be turned on and off at any temperature setting",
+              "Solid brass construction for durability and reliability",
+              "KOHLER ceramic disc valves exceed industry longevity standards by two times for a lifetime of durable performance.",
+              "KOHLER finishes resist corrosion and tarnishing, exceeding industry durability standards two times"
+            ],
+            "priceList.ANY.finalPrice_d": 87500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876in_4ndsde.dwg"
+            ],
+            "sku_s": "99876IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-Beitou-K-99876IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "39.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "99876IN-4ND",
+            "productInRiverId_s": "inRiver_559431",
+            "priceList.CTR.finalPrice_d": 87500.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-99876IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Beitou™",
+            "variantList.sku_ss": [
+              "99876IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "14.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "44.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876in_4ndpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/99876IN-4ND.dwg"
+            ],
+            "id": "0b36e9cd-77ba-4763-b7a9-14087e8e8933|99876IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

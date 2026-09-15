@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/span-square-wm-lavatory-small-480x440-31460in?skuId=31460IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/span-square-wm-lavatory-small-480x440-31460in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/span-square-wm-lavatory-small-480x440-31460in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/span-square-wm-lavatory-small-480x440-31460in?skuId=31460IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "8e21ICnDHN",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=309, origin; dur=818, ak_p; desc=\"1789421063955_400553078_266616341_112784_10846_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:24:25 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1565",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/span-sq-wm-lavatory-small-484x459",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "18-1/16\"",
+            "ProductNarrativeDescription_s": "Minimal, yet effficient, the warm, humanist details of this Span™ rectangular wall-mount sink bring a soft touch to your bathroom, allowing it to complement most aesthetics. While maintaining its geometric origins, the integrated faucet deck offers additional water containment and space for personal items. Pair this sink with a coordinating faucet for a complete bathroom setup.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|31460IN-0|true|false|K-31460IN-0"
+            ],
+            "ProductBrandName_s": "Span™",
+            "ProductPackageContents_s": "1 LAVATORY; 1 INSTALLATION KIT; 1 INSTALLATION TEMPLATE AND 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1656586-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-31460IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "31460IN-0|aaf07430_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf07430_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5099.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 6000.0,
+            "ProductOverallLengthInches_s": "19-1/16\"",
+            "ProductDescriptionProductShort_s": "48.4 cm rectangular wall-mount bathroom sink with glazed underside",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460insde.dxf"
+            ],
+            "productName_s": "Span™ 48.4 cm rectangular wall-mount bathroom sink with glazed underside",
+            "ctId_s": "a166cfc3-1620-4b37-9098-4dc434ce9ed8",
+            "ProductWebFeatures_ss": [
+              "Minimalist design with thin, rounded edges",
+              "Rectangular basin",
+              "An integrated faucet deck provides additional water containment",
+              "Single faucet hole at deck center",
+              "With overflow",
+              "Glazed underside offers beauty from all angles"
+            ],
+            "priceList.ANY.finalPrice_d": 6000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "31460IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Wall_Mount-Lavatory-KOHLER-Span-K-31460IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "22.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "31460IN",
+            "productInRiverId_s": "inRiver_1342304",
+            "priceList.CTR.finalPrice_d": 6000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-31460IN-0",
+            "ProductBrandNameDisplay_s": "Span™",
+            "variantList.sku_ss": [
+              "31460IN-0"
+            ],
+            "SKUShippingHeight_s": "50.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "56.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558305",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31460IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-3/4\"",
+            "id": "a166cfc3-1620-4b37-9098-4dc434ce9ed8|31460IN-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

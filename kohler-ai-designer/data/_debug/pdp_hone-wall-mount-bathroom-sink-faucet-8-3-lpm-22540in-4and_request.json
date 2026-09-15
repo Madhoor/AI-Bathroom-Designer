@@ -1,0 +1,136 @@
+{
+  "product_url": "https://www.kohler.co.in/p/hone-wall-mount-bathroom-sink-faucet-8-3-lpm-22540in-4and?skuId=22540IN-4AND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/hone-wall-mount-bathroom-sink-faucet-8-3-lpm-22540in-4and",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/hone-wall-mount-bathroom-sink-faucet-8-3-lpm-22540in-4and",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/hone-wall-mount-bathroom-sink-faucet-8-3-lpm-22540in-4and?skuId=22540IN-4AND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "mnKFyr7Pd8",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=255, origin; dur=785, ak_p; desc=\"1789422084126_400553039_333242561_104008_11725_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:41:25 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1671",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "7-3/4\"",
+            "ProductNarrativeDescription_s": "Featuring a contemporary flat silhouette and soft edges, the Hone® faucet collection from Kohler draws inspiration from the elegance of modern European design to create a more premium aesthetic. Crafted with precision from premium brass and other metals, this wall-mount bathroom sink faucet offers both functionality and aesthetic appeal, seamlessly balancing form with utility. The square Lever handle, tempered by gently rounded corners, adds a touch of refined minimalism to create a sleek, timeless look. Ideal for those who appreciate understated sophistication, the Hone® collection enhances any bathroom with subtle charm and enduring style, embodying a perfect harmony of modern design and reliable performance.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|22540IN-4AND-CP|true|false|K-22540IN-4AND-CP",
+              "Vibrant French Gold|swatch_AF|22540IN-4AND-AF|true|false|K-22540IN-4AND-AF"
+            ],
+            "ProductBrandName_s": "Hone™",
+            "ProductPackageContents_s": "1FAUCET ASSY;1HANDLE;1HARDWAREKIT;1INSTALLATIONGUIDE",
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1637356-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1653787-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-22540IN-4AND_spec_IN_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "22540IN-4AND-CP|aai13209_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai13209_rgb",
+              "22540IN-4AND-AF|aai13208_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai13208_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5969.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 7280.0,
+            "ProductOverallLengthInches_s": "6-9/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 8.3 lpm",
+            "productName_s": "Hone™ Wall-mount bathroom sink faucet, 8.3 lpm",
+            "ctId_s": "f475f4b4-e024-4c22-a9f2-ffd44c8d360f",
+            "ProductWebFeatures_ss": [
+              "Sleek, minimalist design",
+              "Single handle provides on/off activation, volume, and temperature control",
+              "Red/blue indexing on handle",
+              "6.6 inch (16.7 cm) spout reach",
+              "2.2 gpm (8.3 lpm) maximum flow rate at 43.5 psi (3.0 bar)",
+              "Laminar flow",
+              "Valve sold separately",
+              "Drain sold separately",
+              "Coordinates with other products in the Hone® collection to complete your bathroom"
+            ],
+            "priceList.ANY.finalPrice_d": 7280.0,
+            "sku_s": "22540IN-4AND-CP",
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "16.500",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "22540IN-4AND",
+            "productInRiverId_s": "inRiver_3469030",
+            "priceList.CTR.finalPrice_d": 7280.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-22540IN-4AND-CP",
+            "ProductBrandNameDisplay_s": "Hone™",
+            "variantList.sku_ss": [
+              "22540IN-4AND-CP",
+              "22540IN-4AND-AF"
+            ],
+            "SKUShippingHeight_s": "11.600",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "24.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductOverallHeightInches_s": "5\"",
+            "id": "f475f4b4-e024-4c22-a9f2-ffd44c8d360f|22540IN-4AND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "product_url": "https://www.kohler.co.in/p/new-trilogy-2000-h-pivot-shower-door-with-8-mm-thick-glass-704698in?skuId=704698IN-SHP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/new-trilogy-2000-h-pivot-shower-door-with-8-mm-thick-glass-704698in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/new-trilogy-2000-h-pivot-shower-door-with-8-mm-thick-glass-704698in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5555>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/new-trilogy-2000-h-pivot-shower-door-with-8-mm-thick-glass-704698in?skuId=704698IN-SHP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "xl74ap9nMb",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=286, origin; dur=915, ak_p; desc=\"1789449551648_400553078_274337241_120154_14514_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:19:12 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1880",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Pivot shower door",
+              "For alcove installation",
+              "Door can be installed to open to the left or right to suit your bathroom layout",
+              "78.74 inch (2000 mm) height with 77.64 inch (1972 mm) minimum head clearance",
+              "Fits opening widths 31.50 – 70.87 inches (800 – 1800 mm)",
+              "Out-of-plumb adjustability simplifies installation",
+              "Installation hardware included"
+            ],
+            "ProductNarrativeDescription_s": "The New Trilogy pivot shower door showcases a sleek, frameless design for an understated modern look that will blend into any bathroom. CleanCoat™ technology repels dirt and water to keep your partition glass cleaner longer. Includes user-friendly handles.",
+            "Color.SKU.Details_ss": [
+              "Bright Polished Silver|swatch_SHP|704698IN-SHP|true|false|K-704698IN-SHP"
+            ],
+            "ProductBrandName_s": "New Trilogy",
+            "ProductPackageContents_s": "1 HARDWRAE kit ;1 WARRANTY CARDNOTE: TOUGHENED GLASS PACK IS SEPARATE & TO BE SUPPLIED AFTER SITE MEASUREMENT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556176"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-704698IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "704698IN-SHP|aag80815_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80815_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 39899.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 42000.0,
+            "ProductDescriptionProductShort_s": "2000 H pivot shower door with 8 mm-thick glass",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698insde.dxf"
+            ],
+            "productName_s": "New Trilogy 2000 H pivot shower door with 8 mm-thick glass",
+            "ctId_s": "d1a58ff0-03c3-42bd-8839-4f8bcfec2804",
+            "ProductWebFeatures_ss": [
+              "Frameless 8 mm (.31 inch) thick tempered glass",
+              "Tempered glass ensures enhanced safety and durability",
+              "CleanCoat™ technology creates a protective barrier that repels water and prevents dirt and minerals from collecting",
+              "External horizontal handle and internal vertical handle",
+              "Shower door configuration consists of one pivoting panel and one stationary panel",
+              "Full-length magnetic seal keeps door firmly closed, providing excellent water containment",
+              "Adjustable hinge system creates a sleek, frameless look",
+              "No exposed screws for sleek, contemporary look",
+              "Innovative L- bracket secures the fixed panel in place and gives it a sturdy feel while also being unobtrusive to the showering space"
+            ],
+            "priceList.ANY.finalPrice_d": 42000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698insde.dwg"
+            ],
+            "sku_s": "704698IN-SHP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-shower_Door-KOHLER-New_Trilogy-K-704698IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "20.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "704698IN",
+            "productInRiverId_s": "inRiver_2759242",
+            "priceList.CTR.finalPrice_d": 42000.0,
+            "Product_Category": "Shower Doors",
+            "CustomerFacingSKU_s": "K-704698IN-SHP",
+            "ProductBrandNameDisplay_s": "New Trilogy",
+            "variantList.sku_ss": [
+              "704698IN-SHP"
+            ],
+            "SKUShippingHeight_s": "18.000",
+            "ctProductType_s": "shower-doors",
+            "SKUShippingLength_s": "54.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/704698IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "78-3/4\"",
+            "id": "d1a58ff0-03c3-42bd-8839-4f8bcfec2804|704698IN-SHP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

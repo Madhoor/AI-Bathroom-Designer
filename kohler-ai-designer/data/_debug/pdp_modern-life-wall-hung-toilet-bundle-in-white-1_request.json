@@ -1,0 +1,178 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modern-life-wall-hung-toilet-bundle-in-white-1?skuId=27902IN-SS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modern-life-wall-hung-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modern-life-wall-hung-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modern-life-wall-hung-toilet-bundle-in-white-1?skuId=27902IN-SS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "pgP5bVG064",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=278, origin; dur=964, ak_p; desc=\"1789450009073_400553039_336136391_124289_13460_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:26:50 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1908",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 5.6,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|27904IN-SS-0|true|false|K-27904IN-SS-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT;1 SEAT INSTALLATION KIT; 1 INSTALLATION MANUAL; 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "27904IN-SS-0|aae36074_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae36074_rgb",
+              "27904IN-SS-0|aaj83425_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj83425_rgb",
+              "27904IN-SS-0|aaj83424_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83424_rgb",
+              "27904IN-SS-0|aaj83423_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83423_rgb",
+              "27904IN-SS-0|aaj83422_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83422_rgb",
+              "27904IN-SS-0|aaj83421_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83421_rgb",
+              "27904IN-SS-0|aaj83420_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83420_rgb",
+              "27904IN-SS-0|aaj83419_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83419_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ round-front toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "ModernLife Edge® Quiet-Close™ round-front toilet seat",
+            "ctId_s": "d69ca8af-d6ab-467e-bb24-9ec7fa10330a",
+            "ProductWebFeatures_ss": [
+              "Round-front seat with lid",
+              "Hinge is concealed by lid when closed to offer a clean profile",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "ReadyLatch™ hinge provides a positive lock/unlock latch to securely hold seat in position, yet seat easily removes for cleaning or adjusting fit",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Part of the ModernLife Edge collection"
+            ],
+            "ProductOverallWidthCm_d": 36.1,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "27904IN-SS-0",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "SKUShippingHeight_s": "8.000",
+            "SKUShippingLength_s": "51.000",
+            "slug_s": "modernlife-quiet-close-round-front-toilet-seat-27904in-ss",
+            "ProductOverallLengthCm_d": 46.2
+          },
+          {
+            "ProductOverallHeightCm_d": 35.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|27903IN-2SS-0|true|false|K-27903IN-2SS-0"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG; 1 INSTALLATION KIT; 1 WARRANTY CARD; 1 INSTL. INSTR; 1 FLOW RESTRICTOR",
+            "productImages.labelWithUrl_ss": [
+              "27903IN-2SS-0|aaf59460_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf59460_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl with skirted trapway",
+            "ColorFinish_s": "White",
+            "productName_s": "ModernLife Edge™ Wall-hung round-front toilet bowl with skirted trapway",
+            "ctId_s": "ba8b60fe-8570-41ba-b101-72619e2acbca",
+            "ProductWebFeatures_ss": [
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Rimless design makes toilet bowl more hygienic and easier to clean",
+              "2 inch (51 mm) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Washdown flushing system",
+              "Mounting hardware is completely concealed, allowing the design lines to remain intact when installed",
+              "Requires in-wall tank and carrier system, and flush actuator plate (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.0,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "27903IN-2SS-0",
+            "SKUShippingWidth_s": "15.313",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "SKUShippingHeight_s": "15.688",
+            "SKUShippingLength_s": "22.813",
+            "slug_s": "modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27903in-2ss",
+            "ProductOverallLengthCm_d": 54.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "ModernLife wall hung toilet bundle in White",
+            "ctId_s": "88159d04-0fca-4c3e-9390-60f00252bdb7",
+            "priceList.ANY.finalPrice_d": 47000.0,
+            "redirectUrl_s": "https://shopkohler.in/products/modern-life-edge-wall-hung-toilet-in-white",
+            "sku_s": "27902IN-SS-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 47000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-27902IN-SS-0",
+            "variantList.sku_ss": [
+              "27902IN-SS-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "27902IN-SS-0|aag28874_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28874_rgb",
+              "27902IN-SS-0|aag28876_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28876_rgb",
+              "27902IN-SS-0|aag28868_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28868_rgb",
+              "27902IN-SS-0|aag28873_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28873_rgb",
+              "27902IN-SS-0|aag28870_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28870_rgb",
+              "27902IN-SS-0|aag28872_rgb||||https://kohler.scene7.com/is/image/PAWEB/aag28872_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 37598.96,
+            "priceList.KEMP.finalPrice_d": 47000.0,
+            "id": "88159d04-0fca-4c3e-9390-60f00252bdb7|27902IN-SS-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

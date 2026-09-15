@@ -1,0 +1,171 @@
+{
+  "product_url": "https://www.kohler.co.in/p/evora-1850-mm-x-1100-mm-drop-in-acrylic-rectangular-whirlpool-bath-with-chromatherapy-18749in-w03c?skuId=18749IN-W03C-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/evora-1850-mm-x-1100-mm-drop-in-acrylic-rectangular-whirlpool-bath-with-chromatherapy-18749in-w03c",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/evora-1850-mm-x-1100-mm-drop-in-acrylic-rectangular-whirlpool-bath-with-chromatherapy-18749in-w03c",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/evora-1850-mm-x-1100-mm-drop-in-acrylic-rectangular-whirlpool-bath-with-chromatherapy-18749in-w03c?skuId=18749IN-W03C-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "XgH2fIZMm9",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=254, origin; dur=1213, ak_p; desc=\"1789420411615_400553039_333168267_146750_11483_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:13:33 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2185",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749IN-W03C.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749in_w03cfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in",
+              "Requires dedicated electrical GFCI circuit (220–240 V)"
+            ],
+            "ProductOverallWidthInches_s": "43-5/16\"",
+            "ProductNarrativeDescription_s": "The KOHLER® Evora™ drop-in whirlpool bath transforms your bathroom into a serene, luxurious retreat, designed for those who seek relaxation without compromise. This sophisticated oasis invites you to indulge in a blissful escape, where dual seating areas, complete with molded armrests, integral lumbar support, and removable pillows, offer tailored comfort for two. Immerse yourself in the effervescence of thousands of tiny bubbles released by the bottom air jets, enveloping your body in a gentle, invigorating massage. Strategically placed backjets soothe tension in your back and shoulders, while adjustable side jets ensure muscles are treated with a personalized touch. Heighten your senses with the Chromatherapy lighting function, casting a spectrum of radiant hues to create a calming or energizing ambiance. The built-in heater keeps the bath's surface perfectly warm, ensuring your retreat remains uninterrupted. The Evora™ whirlpool bath is more than a centerpiece; it’s a statement of elegance, innovation, and the ultimate relaxation experience, crafted to elevate your daily rituals into extraordinary moments.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|18749IN-W03C-0|false|false|K-18749IN-W03C-0"
+            ],
+            "ProductBrandName_s": "Evora™",
+            "ProductPackageContents_s": "1 BATHTUB; 1 WARRANTY CARD; 1 INSTALLATION GUIDE; 1 ROUGHIN GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749IN-W03C.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-18749IN-W03C_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749IN-W03C.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "18749IN-W03C-0|aae85698_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae85698_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 735000.0,
+            "SKUCountryofOrigin_s": "TH",
+            "priceList.KEMP.finalPrice_d": 735000.0,
+            "ProductOverallLengthInches_s": "72-13/16\"",
+            "ProductDescriptionProductShort_s": "185 cm x 110 cm drop-in acrylic rectangular whirlpool bath with chromatherapy",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749in_w03cpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749in_w03csde.dxf"
+            ],
+            "productName_s": "Evora™ 185 cm x 110 cm drop-in acrylic rectangular whirlpool bath with chromatherapy",
+            "ctId_s": "17379ca0-f1be-47e9-ad00-ee1d91d53aec",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin creates a spacious bathing experience",
+              "Spacious design accommodates up to two bathers",
+              "Two convenient molded-in seats",
+              "Integral lumbar support on both ends",
+              "Armrests offer extra comfort while bathing",
+              "Grab bars on each side for safety and stability",
+              "Includes two removable pillows for head and neck support",
+              "Single-speed whirlpool offers performance and value, with six fully adjustable jets",
+              "Two sets of six backjets target the lower back and shoulders to relieve tension and encourage deep breathing",
+              "18 air jets release thousands of bubbles that surround, support, and massage the body",
+              "Chromatherapy lighting encourages your mind and body to relax as a full spectrum of color washes over you",
+              "Built-in heater",
+              "Center drain",
+              "With overflow and overflow cover"
+            ],
+            "ProductWebHydrotherapy_ss": [
+              "Whirlpool"
+            ],
+            "priceList.ANY.finalPrice_d": 735000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749in_w03csde.dwg"
+            ],
+            "sku_s": "18749IN-W03C-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In-Whirlpool-Heater-KOHLER-Evora-K-18749IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749IN-W03C.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "77.953",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "18749IN-W03C",
+            "productInRiverId_s": "inRiver_2709933",
+            "priceList.CTR.finalPrice_d": 735000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-18749IN-W03C-0",
+            "ProductBrandNameDisplay_s": "Evora™",
+            "variantList.sku_ss": [
+              "18749IN-W03C-0"
+            ],
+            "SKUShippingHeight_s": "32.283",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "48.425",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749in_w03cpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749in_w03cfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18749IN-W03C.dwg"
+            ],
+            "ProductOverallHeightInches_s": "23-5/8\"",
+            "id": "17379ca0-f1be-47e9-ad00-ee1d91d53aec|18749IN-W03C-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

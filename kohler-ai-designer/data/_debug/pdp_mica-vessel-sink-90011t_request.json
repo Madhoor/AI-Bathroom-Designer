@@ -1,0 +1,162 @@
+{
+  "product_url": "https://www.kohler.co.in/p/mica-vessel-sink-90011t?skuId=90011T-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/mica-vessel-sink-90011t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/mica-vessel-sink-90011t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/mica-vessel-sink-90011t?skuId=90011T-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "X9ptvrp0N8",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=258, origin; dur=796, ak_p; desc=\"1789420696720_400553078_266586999_105398_11605_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:18:17 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1324",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011tfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in or vessel"
+            ],
+            "ProductOverallWidthInches_s": "5-7/8\"",
+            "ProductNarrativeDescription_s": "Minimalist with a super slim design, the Mica™ square vessel bathroom sink is sure to be a striking focal point in your bathroom. Its compellingly clean silhouette complements a variety of contemporary decors. Simple and smooth lines make the sink easy to clean.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|90011T-0|true|false|K-90011T-0"
+            ],
+            "ProductBrandName_s": "Mica™",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 CUT-OUT TEMPLATE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011T.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/90011T-0or7.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/90011T.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-90011T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "90011T-0|aae39339_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae39339_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 16799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 21000.0,
+            "ProductOverallLengthInches_s": "15-1/2\"",
+            "ProductDescriptionProductShort_s": "Vessel sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011tsde.dxf"
+            ],
+            "productName_s": "Mica™ Vessel sink",
+            "ctId_s": "e7220fc3-c003-4ab6-97d0-0f1de6cec5df",
+            "ProductWebFeatures_ss": [
+              "Sleek and contemporary design",
+              "No faucet holes; requires wall- or counter-mount faucet"
+            ],
+            "priceList.ANY.finalPrice_d": 21000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011tsde.dwg"
+            ],
+            "sku_s": "90011T-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-MICA-K-90011T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011T.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "50.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "90011T",
+            "productInRiverId_s": "inRiver_1339103",
+            "priceList.CTR.finalPrice_d": 21000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-90011T-0",
+            "ProductBrandNameDisplay_s": "Mica™",
+            "variantList.sku_ss": [
+              "90011T-0"
+            ],
+            "SKUShippingHeight_s": "20.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "50.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/90011T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-1/4\"",
+            "id": "e7220fc3-c003-4ab6-97d0-0f1de6cec5df|90011T-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

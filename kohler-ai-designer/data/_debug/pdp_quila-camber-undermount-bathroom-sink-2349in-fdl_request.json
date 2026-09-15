@@ -1,0 +1,166 @@
+{
+  "product_url": "https://www.kohler.co.in/p/quila-camber-undermount-bathroom-sink-2349in-fdl?skuId=2349IN-FDL-96",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/quila-camber-undermount-bathroom-sink-2349in-fdl",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/quila-camber-undermount-bathroom-sink-2349in-fdl",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/quila-camber-undermount-bathroom-sink-2349in-fdl?skuId=2349IN-FDL-96",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "3iBkGS7Bl2",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=285, origin; dur=782, ak_p; desc=\"1789420959406_400553078_266608867_106768_10999_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:22:40 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1631",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349IN-FDL.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349in_fdlfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Undermount",
+              "Includes undermount installation kit for simplified installation"
+            ],
+            "ProductOverallWidthInches_s": "16-1/8\"",
+            "ProductNarrativeDescription_s": "Inspired by the strength of ancient Rajput forts and the beauty of nature, the Quila design celebrates the art of Indian storytelling. Miniature painting artist Jai Prakash Lakhiwal is renowned for his intricate brushstrokes that narrate India’s rich history, traditions, and culture. The simple silhouette of the undermount sink offers a smooth profile that is easy to clean. Pair it with the Quila vanity top for a seamless look.",
+            "Color.SKU.Details_ss": [
+              "Biscuit|swatch_96|2349IN-FDL-96|false|false|K-2349IN-FDL-96"
+            ],
+            "ProductBrandName_s": "Quila™ Camber™",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 WALL DECOR FRAME; 1 AUTHENTICITY\nCERTIFICATE; 1 INSTALLATION MANUAL;\n1 HARDWARE PACK & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349IN-FDL.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-2349IN-FDL_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349IN-FDL.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "2349IN-FDL-96|aae30832_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae30832_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 303999.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 380000.0,
+            "ProductOverallLengthInches_s": "16-1/8\"",
+            "ProductDescriptionProductShort_s": "Undermount bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349in_fdlpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349in_fdlsde.dxf"
+            ],
+            "productName_s": "Quila™ Camber™ Undermount bathroom sink",
+            "ctId_s": "272c387a-5287-4b61-8162-99794d95aa74",
+            "ProductWebFeatures_ss": [
+              "Produced in collaboration with renowned artist Jai Prakash Lakhiwal",
+              "Undermount rimless design",
+              "Round basin",
+              "Fits industry-standard 30\" (76.2 cm) vanities",
+              "Pairs with the K-2447IN-FDL Quila™ vanity top (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 380000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349in_fdlsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "2349IN-FDL-96",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Undermount-Lavatory-KOHLER-QUILA-K-2349IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349IN-FDL.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "19.250",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "2349IN-FDL",
+            "productInRiverId_s": "inRiver_2285120",
+            "priceList.CTR.finalPrice_d": 380000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-2349IN-FDL-96",
+            "ProductBrandNameDisplay_s": "Quila™ Camber™",
+            "variantList.sku_ss": [
+              "2349IN-FDL-96"
+            ],
+            "SKUShippingHeight_s": "10.188",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "20.938",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349in_fdlpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china with decorative design"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1933683",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349in_fdlfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2349IN-FDL.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-15/16\"",
+            "id": "272c387a-5287-4b61-8162-99794d95aa74|2349IN-FDL-96"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

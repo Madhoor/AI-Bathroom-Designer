@@ -1,0 +1,168 @@
+{
+  "product_url": "https://www.kohler.co.in/p/fore-bath-spout-without-diverter-27490in?skuId=27490IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/fore-bath-spout-without-diverter-27490in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/fore-bath-spout-without-diverter-27490in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/fore-bath-spout-without-diverter-27490in?skuId=27490IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "MT4WRjyzG0",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=244, origin; dur=777, ak_p; desc=\"1789446747911_400553039_335267466_102099_10731_10_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:32:28 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1704",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/fore-bath-spout-without-diverter-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "G 1/2 inlet connection"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "The KOHLER® Fore Tri® faucet collection is a stunning addition to any modern bathroom, combining neo-modern expression design with exquisite function. Its bold form draws the eye immediately, while its exceptional engineering ensures it excels in everyday use. This Fore Tri® bath spout has a silhouette that accentuates a minimalist, contemporary aesthetic, creating a striking centerpiece in your bathroom. Made from durable materials, it is designed for lasting reliability and ease of maintenance. This futuristic-looking bath spout with square escutcheon blends design with more-sustainable performance for the ultimate user experience.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|27490IN-CP|true|false|K-27490IN-CP",
+              "Vibrant French Gold|swatch_AF|27490IN-AF|true|false|K-27490IN-AF"
+            ],
+            "ProductBrandName_s": "Fore Tri™",
+            "ProductPackageContents_s": "1-BATH SPOUT W/O DIV, 1 INSTALLATION INSTRUCTION; 1 WARRANTY, 1 ESCUTCHEON",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-27490IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27490IN-CP|aaf94985_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf94985_rgb",
+              "27490IN-AF|aaf94986_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf94986_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2359.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 2780.0,
+            "ProductOverallLengthInches_s": "5-3/4\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490insde.dxf"
+            ],
+            "productName_s": "Fore Tri® Wall-mount bath spout",
+            "ctId_s": "9502156b-0262-4293-869c-c1dd994ef605",
+            "ProductWebFeatures_ss": [
+              "Sleek contemporary design",
+              "Nondiverter bath spout",
+              "14.6 cm (5.73 inch) spout reach"
+            ],
+            "priceList.ANY.finalPrice_d": 2780.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490insde.dwg"
+            ],
+            "ProductResource.EnvironProdDecl.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1667457-24.pdf"
+            ],
+            "sku_s": "27490IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Fore-K-27490IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "6.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27490IN",
+            "productInRiverId_s": "inRiver_2492152",
+            "priceList.CTR.finalPrice_d": 2780.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-27490IN-CP",
+            "ProductBrandNameDisplay_s": "Fore Tri™",
+            "variantList.sku_ss": [
+              "27490IN-CP",
+              "27490IN-AF"
+            ],
+            "SKUShippingHeight_s": "6.500",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "7.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Brass",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27490IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/8\"",
+            "id": "9502156b-0262-4293-869c-c1dd994ef605|27490IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

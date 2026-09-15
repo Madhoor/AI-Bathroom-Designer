@@ -1,0 +1,169 @@
+{
+  "product_url": "https://www.kohler.co.in/p/new-levity-small-w-knob-709075in?skuId=709075IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/new-levity-small-w-knob-709075in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/new-levity-small-w-knob-709075in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4965>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/new-levity-small-w-knob-709075in?skuId=709075IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "K4XyRDiiek",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=250, origin; dur=837, ak_p; desc=\"1789449699470_400553078_274413472_108758_11580_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:21:40 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2270",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/new-levity-small-with-knob-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Sliding shower door",
+              "For alcove installation",
+              "Door can be installed to open to the left or right to suit your bathroom layout",
+              "2000 mm (78.74 inch) height with 1904 mm (74.96 inch) minimum head clearance",
+              "Fits opening widths 1280 – 1600 mm (50.39 – 62.99 inches)",
+              "Out-of-plumb adjustability simplifies installation",
+              "Installation hardware included"
+            ],
+            "ProductNarrativeDescription_s": "The New Levity™ sliding shower door brings new technology and elegant style to the contemporary shower. The door's contemporary silhouette speaks fluently in the language of modern design, with clean lines that create visual poetry in your bathroom space. Its minimalist aesthetic doesn't compromise on character—instead, it amplifies the inherent beauty of simplicity, allowing the interplay of light, water, and space to become the stars of your daily performance. Knob handles accentuate the style and serve a dual-purpose as hooks for towels, robes, or washcloths. A frameless top-track design enhances sleekness, creating an uninterrupted expanse of crystal-clear glass that maximizes light flow and visual continuity. This frameless aesthetic results in a door that seems to float effortlessly, creating an almost magical quality where function becomes art. The integrated magnetic seal keeps water contained while tempered glass enhances user safety.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|709075IN-CP|false|false|K-709075IN-CP"
+            ],
+            "ProductBrandName_s": "New Levity™",
+            "ProductPackageContents_s": "1 HARDWARE KIT ;1 INSTALLATION MANUAL 1 WARRANTY CARD NOTE: TOUGHENED GLASS PACK IS SEPARATE & TO BE SUPPLIED AFTER SITE MEASUREMENT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556176"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "709075IN-CP|709075IN-CP|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/709075IN-CP"
+            ],
+            "priceList.GST.finalPrice_d": 42749.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 45000.0,
+            "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075insde.dxf"
+            ],
+            "productName_s": "New Levity™ 200 cm H sliding shower door with 8 mm-thick glass",
+            "ctId_s": "d377e7ef-bfe6-4251-89b8-ff00b02ae240",
+            "ProductWebFeatures_ss": [
+              "Frameless 8 mm (.31 inch) thick tempered glass",
+              "Tempered glass ensures enhanced safety and durability",
+              "CleanCoat™ technology creates a protective barrier that repels water and prevents dirt and minerals from collecting",
+              "Includes knob handle on inside and outside of shower door",
+              "8 mm (.31 inch) optional threshold",
+              "Shower door configuration consists of one sliding panel and one stationary panel",
+              "Exposed roller design allows for effortless opening and closing of the sliding panel",
+              "Full-length magnetic seal keeps door firmly closed, providing excellent water containment",
+              "Smooth, easy-to-clean wall jambs",
+              "Center-guided mechanism for smooth, quiet sliding action and easy cleaning",
+              "No exposed screws for sleek, contemporary look"
+            ],
+            "priceList.ANY.finalPrice_d": 45000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075insde.dwg"
+            ],
+            "sku_s": "709075IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Shower_Door-KOHLER-New_Levity-K-709075IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "5.563",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "709075IN",
+            "productInRiverId_s": "inRiver_2298246",
+            "priceList.CTR.finalPrice_d": 45000.0,
+            "Product_Category": "Shower Doors",
+            "CustomerFacingSKU_s": "K-709075IN-CP",
+            "ProductBrandNameDisplay_s": "New Levity™",
+            "variantList.sku_ss": [
+              "709075IN-CP"
+            ],
+            "SKUShippingHeight_s": "2.313",
+            "ctProductType_s": "shower-doors",
+            "SKUShippingLength_s": "80.875",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/709075IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "78-3/4\"",
+            "id": "d377e7ef-bfe6-4251-89b8-ff00b02ae240|709075IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

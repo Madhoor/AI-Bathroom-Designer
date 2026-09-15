@@ -1,0 +1,192 @@
+{
+  "product_url": "https://www.kohler.co.in/p/demilav-verticyl-round-undermount-bathroom-sink-2883?skuId=2883-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/demilav-verticyl-round-undermount-bathroom-sink-2883",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/demilav-verticyl-round-undermount-bathroom-sink-2883",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/demilav-verticyl-round-undermount-bathroom-sink-2883?skuId=2883-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "1Y7epYTOi8",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=274, origin; dur=752, ak_p; desc=\"1789420967630_400553078_266609442_102632_10731_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:22:48 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2081",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Undermount"
+            ],
+            "ProductBrandName_s": "Verticyl™",
+            "ProductPackageContents_s": "1 VERTICYL™ ROUND UNDERCOUNTER LAVATORY, 1 INSTALLATION & USERS GUIDE, TRILINGUAL",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883.skp"
+            ],
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1199847-2.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/1068257-2.pdf"
+            ],
+            "ProductResource.YouTubeInstallVideo.resourceName_ss": [
+              "gEYT6HBo1JY"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 7649.0,
+            "SKUCountryofOrigin_s": "MX",
+            "priceList.KEMP.finalPrice_d": 9000.0,
+            "ProductOverallLengthInches_s": "15-3/4\"",
+            "ProductDescriptionProductShort_s": "15-3/4\" round undermount bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883pln.dxf"
+            ],
+            "productName_s": "Verticyl® 15-3/4\" round undermount bathroom sink",
+            "ctId_s": "0d1742ba-bde9-4f7b-a04a-ee9f313dc3cc",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Under_Mount-Lavatory-KOHLER-Verticyl-K-2883.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "17.875",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "2883",
+            "priceList.CTR.finalPrice_d": 9000.0,
+            "ProductBrandNameDisplay_s": "Verticyl",
+            "SKUShippingHeight_s": "9.813",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-3/4\"",
+            "isCollapsedPDP_b": false,
+            "ProductResource.YouTubeInstallVideo.resourceTitle_ss": [
+              "Quick Install - KOHLER Under-Mount Bathroom Sinks"
+            ],
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883.obj"
+            ],
+            "ProductOverallWidthInches_s": "15-3/4\"",
+            "ProductNarrativeDescription_s": "Embrace a sophisticated look with the KOHLER® Verticyl® Round sink, featuring vertical sides for a deep, geometric basin. An undermount installation allows this round bathroom sink to seamlessly integrate into your bath or powder room design. Complete the look with a wall- or deck-mount faucet.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|2883-0|true|false|K-2883-0"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-2883_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-2883_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-2883_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-2883_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "2883-0|2883-0_CloseRoomViewSquare_d2c0046493_rgb|IMGITEMCLOSEROOMVIEWSquare||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewSquare_d2c0046493_rgb",
+              "2883-0|2883-0_TOPSquare_d2c0046904_rgb|IMGITEMTOPSquare||top view of product|https://kohler.scene7.com/is/image/PAWEB/2883-0_TOPSquare_d2c0046904_rgb",
+              "2883-0|2883-0_PartialRoomViewOnePointSquareWithText_d2c0046699_en-US|IMGITEMPARTIALROOMVIEWOnePointSquareWithText||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_PartialRoomViewOnePointSquareWithText_d2c0046699_en-US",
+              "2883-0|2883-0_PartialRoomViewSquare_d2c0046903_rgb|IMGITEMPARTIALROOMVIEWSquare||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/2883-0_PartialRoomViewSquare_d2c0046903_rgb",
+              "2883-0|2883-0_ISOSquare_d2c0046877_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/2883-0_ISOSquare_d2c0046877_rgb",
+              "2883-0|2883-0_ISO_d2c0046877_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/2883-0_ISO_d2c0046877_rgb",
+              "2883-0|2883-0_DIMENSIONALSquareWithText_d2c0046511_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/2883-0_DIMENSIONALSquareWithText_d2c0046511_en-US",
+              "2883-0|2883-0_ARCHITECTFRONTSquare_d2c0046798_rgb|IMGITEMARCHITECTFRONTSquare||angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_ARCHITECTFRONTSquare_d2c0046798_rgb",
+              "2883-0|2883-0_OverheadRoomViewSquare_d2c0047191_rgb|IMGITEMOVERHEADROOMVIEWSquare||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/2883-0_OverheadRoomViewSquare_d2c0047191_rgb",
+              "2883-0|2883-0_CloseRoomViewArchitectFrontSquare_d2c0046978_rgb|IMGITEMCLOSEROOMVIEWArchitectFrontSquare||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewArchitectFrontSquare_d2c0046978_rgb",
+              "2883-0|2883-0_CloseRoomViewProductDetailSquare_d2c0046633_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewProductDetailSquare_d2c0046633_rgb",
+              "2883-0|2883-0_DesignSinkTypeSquareWithText_d2c0046409_en-US|IMGITEMFEATUREDesignSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/2883-0_DesignSinkTypeSquareWithText_d2c0046409_en-US",
+              "2883-0|2883-0_CloseRoomViewOnePointSquare_d2c0046718_rgb|IMGITEMCLOSEROOMVIEWOnePointSquare||angled view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewOnePointSquare_d2c0046718_rgb"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Geometric circular basin with vertical sides",
+              "Overflow drain",
+              "No faucet holes; requires wall- or counter-mount faucet",
+              "15-3/4\" (40 cm) outer bowl diameter"
+            ],
+            "priceList.ANY.finalPrice_d": 9000.0,
+            "sku_s": "2883-0",
+            "InstallationCost_s": "Paid",
+            "productInRiverId_s": "inRiver_1336454",
+            "Product_Category": "Bathroom Sinks",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1593303_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-2883-0",
+            "variantList.sku_ss": [
+              "2883-0"
+            ],
+            "SKUShippingLength_s": "20.875",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.CutOutDXF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1109224_7.dxf"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2883.dwg"
+            ],
+            "id": "0d1742ba-bde9-4f7b-a04a-ee9f313dc3cc|2883-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

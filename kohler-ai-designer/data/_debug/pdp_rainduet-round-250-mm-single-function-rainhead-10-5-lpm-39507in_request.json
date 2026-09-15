@@ -1,0 +1,183 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rainduet-round-250-mm-single-function-rainhead-10-5-lpm-39507in?skuId=39507IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rainduet-round-250-mm-single-function-rainhead-10-5-lpm-39507in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rainduet-round-250-mm-single-function-rainhead-10-5-lpm-39507in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4883>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rainduet-round-250-mm-single-function-rainhead-10-5-lpm-39507in?skuId=39507IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "crYb63aGlV",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=270, origin; dur=798, ak_p; desc=\"1789448901961_400553039_335811415_107872_14664_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:08:23 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1965",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507infrt.dxf"
+            ],
+            "ProductOverallWidthInches_s": "10\"",
+            "ProductNarrativeDescription_s": "At Kohler, we design our products to give you the right mix of functionality and style to bring comfort to your daily routines. Maximize your showering experience with the KOHLER® Rainduet® round 25 cm single-function rainhead. This single-function rainhead provides a full coverage spray for a drenching shower. Anti-drip functionality prevents water drippage from the component when the flow is turned off. Pair this contemporary rainhead with other KOHLER showering components to express your personal style and create your dream shower—one that is both beautiful and intuitive.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|39507IN-CP|true|false|K-39507IN-CP",
+              "Vibrant French Gold|swatch_AF|39507IN-AF|true|false|K-39507IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|39507IN-RGD|true|false|K-39507IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|39507IN-BV|false|false|K-39507IN-BV",
+              "Matte Black|swatch_BL|39507IN-BL|true|false|K-39507IN-BL"
+            ],
+            "ProductBrandName_s": "Rainduet™",
+            "ProductPackageContents_s": "1 RAINHEAD; 1 INSTALLATION INSTRUCTION; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1655559-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1656768-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-39507IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "39507IN-CP|aai95004_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95004_rgb",
+              "39507IN-CP|aai95005_rgb|IMGITEMISOAlternative||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95005_rgb",
+              "39507IN-AF|aai95008_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95008_rgb",
+              "39507IN-AF|aai95019_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95019_rgb",
+              "39507IN-RGD|aai95021_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95021_rgb",
+              "39507IN-RGD|aai95022_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95022_rgb",
+              "39507IN-BL|aai95011_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95011_rgb",
+              "39507IN-BL|aai95007_rgb|IMGITEMISOAlternative||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai95007_rgb",
+              "39507IN-BV|aaj94205_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94205_rgb",
+              "39507IN-BV|aaj94191_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj94191_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 9839.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 12000.0,
+            "ProductOverallLengthInches_s": "10\"",
+            "ProductDescriptionProductShort_s": "Round 25 cm single-function rainhead, 10.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507insde.dxf"
+            ],
+            "productName_s": "Rainduet® Round 25 cm single-function rainhead, 10.5 lpm",
+            "ctId_s": "162f1df0-d444-4dec-b468-396cbbd28d4e",
+            "ProductWebFeatures_ss": [
+              "Single-function rainhead",
+              "Full coverage produces an encompassing spray ideal for everyday use",
+              "Drip-proof design that completely prevent leaks",
+              "Optimized sprayface and large nozzles for improved water coverage",
+              "Flexible spray nozzles are easy to clean",
+              "Self-leveling ball joint keeps rainhead parallel to the ground for steady coverage",
+              "25 cm (9-7/8 inch) diameter sprayface",
+              "13.7 lpm (3.62 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Requires shower arm and flange (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 12000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507insde.dwg"
+            ],
+            "sku_s": "39507IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-K-39507IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "10.433",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "39507IN",
+            "productInRiverId_s": "inRiver_3253899",
+            "priceList.CTR.finalPrice_d": 12000.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-39507IN-CP",
+            "ProductBrandNameDisplay_s": "Rainduet™",
+            "variantList.sku_ss": [
+              "39507IN-CP",
+              "39507IN-BL",
+              "39507IN-RGD",
+              "39507IN-AF",
+              "39507IN-BV"
+            ],
+            "SKUShippingHeight_s": "3.543",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "10.827",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "KOHLER finishes resist corrosion and tarnishing",
+              "Premium material construction for durability and reliability"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39507IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3\"",
+            "id": "162f1df0-d444-4dec-b468-396cbbd28d4e|39507IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-dual-flow-330-x-230mm-rainhead-in-brushed-bronze-24470in?skuId=24470IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-dual-flow-330-x-230mm-rainhead-in-brushed-bronze-24470in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-dual-flow-330-x-230mm-rainhead-in-brushed-bronze-24470in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-dual-flow-330-x-230mm-rainhead-in-brushed-bronze-24470in?skuId=24470IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "p8ZmsKNXLE",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=237, origin; dur=739, ak_p; desc=\"1789449186414_400553078_274133628_97659_11975_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:13:07 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2066",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/modernlife-dual-flow-330-x-230mm-rainhead-in-polished-chrome-finish",
+            "ProductWebInstallation_ss": [
+              "Requires two-function rainhead arm and flange (sold separately)",
+              "Wall- or ceiling-mount"
+            ],
+            "ProductOverallWidthInches_s": "9-1/16\"",
+            "ProductNarrativeDescription_s": "Let your shower transform you and make your day more meaningful and memorable with the exquisitely crafted ModernLife™ two-function rainhead. This sleek rectangular rainhead lends itself to the contemporary bathroom space with a versatile profile and easy-to-clean silicone nozzles. Choose from full coverage rain spray with Katalyst air-induction technology or a narrow center laminar stream to personalize your premium shower experience.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|24470IN-CP|true|false|K-24470IN-CP",
+              "Vibrant French Gold|swatch_AF|24470IN-AF|false|false|K-24470IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|24470IN-RGD|true|false|K-24470IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|24470IN-BV|true|false|K-24470IN-BV",
+              "Matte Black|swatch_BL|24470IN-BL|true|false|K-24470IN-BL"
+            ],
+            "ProductBrandName_s": "ModernLife™",
+            "ProductPackageContents_s": "1 MODERN LIFE DUAL FLOW 330X230MM RAINHEAD, 1 INSTALLATION INSTRUCTIONS, 1 WARRANTY SHEET, INDIA",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600665"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-24470IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470IN.3ds"
+            ],
+            "ProductWebTechnology_ss": [
+              "Katalyst™ air-induction technology infuses water with air, creating bigger drops for a more powerful spray"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "24470IN-CP|aad82043_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad82043_rgb",
+              "24470IN-AF|aaf66501_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66501_rgb",
+              "24470IN-RGD|aaf66498_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66498_rgb",
+              "24470IN-BV|aag80811_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80811_rgb",
+              "24470IN-BL|aaf75391_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf75391_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 33599.0,
+            "priceList.KEMP.finalPrice_d": 42000.0,
+            "ProductOverallLengthInches_s": "13\"",
+            "ProductDescriptionProductShort_s": "Rectangular 33 cm x 23 cm two-function rainhead, 12.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470insde.dxf"
+            ],
+            "productName_s": "ModernLife™ Rectangular 33 cm x 23 cm two-function rainhead, 12.0 lpm",
+            "ctId_s": "c00f778b-c4b8-4418-844d-2cd8563518a6",
+            "ProductWebFeatures_ss": [
+              "Sleek, minimalist design",
+              "Advanced spray engine provides two alternate experiences: full coverage rain with Katalyst™ air-induction technology and laminar stream",
+              "Full coverage rain with Katalyst™ air-induction technology delivers a drenching spray experience, ideal for rinsing shampoo from hair",
+              "Laminar flow",
+              "Flexible, silicone nozzles assure long life and easy clean",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "2.64 gpm (12.0 lpm) maximum flow rate at 80 psi (5.5 bar)"
+            ],
+            "priceList.ANY.finalPrice_d": 42000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470insde.dwg"
+            ],
+            "sku_s": "24470IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Rainhead-KOHLER-Beitou-K-24470IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "24.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "24470IN",
+            "productInRiverId_s": "inRiver_1429057",
+            "priceList.CTR.finalPrice_d": 42000.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-24470IN-CP",
+            "ProductBrandNameDisplay_s": "ModernLife™",
+            "variantList.sku_ss": [
+              "24470IN-CP",
+              "24470IN-RGD",
+              "24470IN-AF",
+              "24470IN-BV",
+              "24470IN-BL"
+            ],
+            "SKUShippingHeight_s": "9.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "37.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24470IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-1/2\"",
+            "id": "c00f778b-c4b8-4418-844d-2cd8563518a6|24470IN-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

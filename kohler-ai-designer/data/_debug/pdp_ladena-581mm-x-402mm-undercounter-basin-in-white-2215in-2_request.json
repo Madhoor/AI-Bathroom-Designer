@@ -1,0 +1,156 @@
+{
+  "product_url": "https://www.kohler.co.in/p/ladena-581mm-x-402mm-undercounter-basin-in-white-2215in-2?skuId=2215IN-2-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/ladena-581mm-x-402mm-undercounter-basin-in-white-2215in-2",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/ladena-581mm-x-402mm-undercounter-basin-in-white-2215in-2",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4943>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/ladena-581mm-x-402mm-undercounter-basin-in-white-2215in-2?skuId=2215IN-2-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "EbN8zrhqye",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=780, ak_p; desc=\"1789420909432_400553078_266604951_104795_12214_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:21:50 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1918",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2215IN-2.obj"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/ladena-undercounter-rectangular-wash-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Undercounter"
+            ],
+            "ProductOverallWidthInches_s": "20-5/8\"",
+            "ProductNarrativeDescription_s": "Versatility defines the KOHLER® Ladena™ undercounter bathroom sink, as it harmonizes effortlessly with traditional and modern bathroom designs alike. Its unique curved bottom and clean, refined lines exude casual elegance, creating a centerpiece that feels both sophisticated and inviting. The spacious single-basin design provides ample room for daily routines, while the smooth, glazed basin interior adds a polished touch, ensuring a flawless aesthetic. The minimalist undermount installation allows the sink to blend perfectly into your counter surface, emphasizing a sleek, streamlined look. It’s compatible with a wide range of wall-mount and deck-mount faucets, inviting endless design possibilities to suit your personal style. Practicality meets beauty with the Ladena™ sink’s easy-to-clean surface, making maintenance simple without compromising its luxurious appeal. Designed with intention, it transforms your bathroom into a sanctuary of understated sophistication.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|2215IN-2-0|true|false|K-2215IN-2-0",
+              "Black Black|swatch_7|2215IN-2-7|true|false|K-2215IN-2-7"
+            ],
+            "ProductBrandName_s": "Ladena™",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 HARDWARE KIT; 1 INSTALLATION GUIDE;\n1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2215IN-2.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1593303-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-2215IN-2_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2215IN-2.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "2215IN-2-0|aae80663_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae80663_rgb",
+              "2215IN-2-0|aaj83399_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj83399_rgb",
+              "2215IN-2-0|aaj83398_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83398_rgb",
+              "2215IN-2-0|aaj83404_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83404_rgb",
+              "2215IN-2-0|aaj83403_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83403_rgb",
+              "2215IN-2-0|aaj83400_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83400_rgb",
+              "2215IN-2-0|aaj83401_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83401_rgb",
+              "2215IN-2-7|aag27146_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag27146_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 8199.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 10000.0,
+            "ProductOverallLengthInches_s": "13-5/8\"",
+            "ProductDescriptionProductShort_s": "58.1 cm rectangular undercounter bathroom sink",
+            "productName_s": "Ladena™ 58.1 cm rectangular undercounter bathroom sink",
+            "ctId_s": "b15ffacc-2aa7-4d72-99d8-abf8fd08dafb",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin with curved bottom",
+              "No faucet holes; requires wall- or deck-mount faucet",
+              "Offset drain increases workspace in the sink and storage space underneath",
+              "With overflow"
+            ],
+            "priceList.ANY.finalPrice_d": 10000.0,
+            "sku_s": "2215IN-2-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Undermount-Lavatory-KOHLER-Ladena -K-2215IN.rfa",
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Undermount-Lavatory-KOHLER-Ladena-K-2215IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2215IN-2.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "47.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "2215IN-2",
+            "productInRiverId_s": "inRiver_2453873",
+            "priceList.CTR.finalPrice_d": 10000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-2215IN-2-0",
+            "ProductBrandNameDisplay_s": "Ladena™",
+            "variantList.sku_ss": [
+              "2215IN-2-0",
+              "2215IN-2-7"
+            ],
+            "SKUShippingHeight_s": "28.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "66.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2215IN-2.dwg"
+            ],
+            "ProductOverallHeightInches_s": "8-1/8\"",
+            "id": "b15ffacc-2aa7-4d72-99d8-abf8fd08dafb|2215IN-2-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

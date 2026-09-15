@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/brazn-wall-hung-round-front-toilet-bowl-with-skirted-trapway-21748in?skuId=21748IN-HB1",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/brazn-wall-hung-round-front-toilet-bowl-with-skirted-trapway-21748in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/brazn-wall-hung-round-front-toilet-bowl-with-skirted-trapway-21748in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/brazn-wall-hung-round-front-toilet-bowl-with-skirted-trapway-21748in?skuId=21748IN-HB1",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "hsj8NvdNjv",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=256, origin; dur=759, ak_p; desc=\"1789450185921_400553078_274663368_101580_11023_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:29:46 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1568",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Recommended rim-to-floor height: 15-1/4\" (400 mm)",
+              "Wall-hung",
+              "8-2/3\" (220 mm) rough-in"
+            ],
+            "ProductOverallWidthInches_s": "15-1/8\"",
+            "ProductNarrativeDescription_s": "The Brazn™ collection is purposeful in every detail and bold in any space. With a modern design and fully skirted trapway, the Brazn™ wall-hung round-front toilet bowl is simple, yet special. The rimless design makes it sleek and easy to clean, while the round-front style utilizes your bathroom layout to the fullest. Pair with your choice of KOHLER® in-wall tank carrier system, flush actuator, and seat (sold separately).",
+            "Color.SKU.Details_ss": [
+              "Honed Black|swatch_HB1|21748IN-HB1|true|false|K-21748IN-HB1",
+              "Honed Lush|swatch_HL1|21748IN-HL1|false|false|K-21748IN-HL1"
+            ],
+            "ProductBrandName_s": "Brazn™",
+            "ProductPackageContents_s": "1 WALLHUNG; 1 INSTALLATION KIT; 1 WARRANTY CARD; 1 INSTL. INSTR.",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748IN.skp"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1419530-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-21748IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "21748IN-HB1|aae15823_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae15823_rgb",
+              "21748IN-HL1|aah61741_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah61741_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 27999.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 35000.0,
+            "ProductOverallLengthInches_s": "21-7/8\"",
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl with skirted trapway",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748insde.dxf"
+            ],
+            "productName_s": "Brazn™ Wall-hung round-front toilet bowl with skirted trapway",
+            "ctId_s": "04f3cde2-5b50-4745-ae02-ae8625715d45",
+            "ProductWebFeatures_ss": [
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "2-1/8\" (54 mm) fully glazed trapway",
+              "Rimless design makes toilet bowl more hygienic and easier to clean",
+              "Bowl only; requires KOHLER® in-wall tank and carrier system, flush actuator, and seat (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 35000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748insde.dwg"
+            ],
+            "sku_s": "21748IN-HB1",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Toilet-Wall_Mount-KOHLER-Brazn-K-21748IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "42.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "21748IN",
+            "productInRiverId_s": "inRiver_2490150",
+            "priceList.CTR.finalPrice_d": 35000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-21748IN-HB1",
+            "ProductBrandNameDisplay_s": "Brazn™",
+            "variantList.sku_ss": [
+              "21748IN-HB1",
+              "21748IN-HL1"
+            ],
+            "SKUShippingHeight_s": "62.600",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "44.100",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/21748IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "13-15/16\"",
+            "id": "04f3cde2-5b50-4745-ae02-ae8625715d45|21748IN-HB1"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

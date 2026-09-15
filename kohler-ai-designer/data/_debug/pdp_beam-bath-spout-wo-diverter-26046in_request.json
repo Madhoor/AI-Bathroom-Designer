@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/beam-bath-spout-wo-diverter-26046in?skuId=26046IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/beam-bath-spout-wo-diverter-26046in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/beam-bath-spout-wo-diverter-26046in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/beam-bath-spout-wo-diverter-26046in?skuId=26046IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "OWYFIiZWje",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=245, origin; dur=695, ak_p; desc=\"1789446682357_400553039_335250846_93972_11257_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:31:23 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1789",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/beam-bath-spout-without-diverter",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "The KOHLER® Beam™ bath spout is a masterpiece of understated elegance, designed to seamlessly unite form and function. Its sleek, graceful silhouette exudes sophistication while offering exceptional practicality. Crafted with care, the spout features versatile, minimalistic lines that effortlessly complement a wide range of contemporary bathroom designs. Whether paired with bold accents or soft, muted tones, the Beam™ spout enhances the ambiance of any space, adding a quiet yet confident statement. Its timeless design ensures it remains a refined centerpiece, harmonizing beautifully with modern aesthetics while delivering a luxurious and reliable experience. At Kohler, we make it our business to help you create the bathroom space of your dreams.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|26046IN-CP|true|false|K-26046IN-CP"
+            ],
+            "ProductBrandName_s": "Beam™",
+            "ProductPackageContents_s": " 1 SPOUT; 1 ESCUTCHEON; 1 WARRANTY; 1 INSTALLATION INSTRUCTION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1397513-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-26046IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "26046IN-CP|aae78181_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae78181_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2189.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 2580.0,
+            "ProductOverallLengthInches_s": "8-1/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046insde.dxf"
+            ],
+            "productName_s": "Beam™ Wall-mount bath spout",
+            "ctId_s": "34a8bd0b-caeb-4bbe-b574-4c94454f81b7",
+            "ProductWebFeatures_ss": [
+              "Nondiverter bath spout",
+              "16.1 cm (6.35 inch) spout reach",
+              "16.7 lpm (4.4 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 2580.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046insde.dwg"
+            ],
+            "sku_s": "26046IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-Beam-K-26046IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "3.438",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "26046IN",
+            "productInRiverId_s": "inRiver_1482407",
+            "priceList.CTR.finalPrice_d": 2580.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-26046IN-CP",
+            "ProductBrandNameDisplay_s": "Beam™",
+            "variantList.sku_ss": [
+              "26046IN-CP"
+            ],
+            "SKUShippingHeight_s": "2.313",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "9.750",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26046IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/8\"",
+            "id": "34a8bd0b-caeb-4bbe-b574-4c94454f81b7|26046IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

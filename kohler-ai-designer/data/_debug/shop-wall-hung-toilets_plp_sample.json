@@ -891,6 +891,38 @@
       },
       {
         "ProductServices_s": "3057099",
+        "productName_s": "Brazn round wall hung toilet bundle in Honed Black finish",
+        "ctId_s": "c70a9a8e-b062-4a34-b9d7-a3eaeff39afb",
+        "Color.GST.Details_ss": [
+          "26994IN-HB1||50000.0|39999.0||"
+        ],
+        "BundleList_ss": [
+          "21128IN-HB1|1|Brazn™ Quiet-Close round-front toilet seat|",
+          "21748IN-HB1|1|Brazn™ Wall-hung round-front toilet bowl with skirted trapway|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "26994IN-HB1",
+        "priceList.ANY.price_d": 50000.0,
+        "Product_Category": "Toilet Area Combos",
+        "preferenceSku_s": "26994IN-HB1",
+        "variantList.sku_ss": [
+          "26994IN-HB1"
+        ],
+        "discountedPriceStartingAt.GST_d": 39999.0,
+        "sourceId_s": "26994IN-HB1",
+        "displayPriceStartingAt_s": "₹39,999.00",
+        "slug_s": "brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1",
+        "priceStartingAt.GST_d": 39999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "bundleNameSlugDetails_ss": [
+          "26994IN-HB1|Brazn round wall hung toilet bundle in Honed Black finish|brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1"
+        ],
+        "priceList.GST.price_d": 39999.0,
+        "priceList.GST.finalPrice_d": 39999.0,
+        "id": "c70a9a8e-b062-4a34-b9d7-a3eaeff39afb|26994IN-HB1"
+      },
+      {
+        "ProductServices_s": "3057099",
         "productName_s": "Patio round-front wall hung toilet bundle in Black",
         "ctId_s": "c981066d-85c9-481f-8732-b9821b831ca1",
         "Color.GST.Details_ss": [
@@ -920,6 +952,120 @@
         "priceList.GST.price_d": 12319.0,
         "priceList.GST.finalPrice_d": 12319.0,
         "id": "c981066d-85c9-481f-8732-b9821b831ca1|18131IN-S-7"
+      },
+      {
+        "ProductServices_s": "3057099",
+        "productName_s": "Replay square wall hung toilet with antimicrobial agent seat in White",
+        "ctId_s": "2519fe4c-daf9-4625-b9ed-b533bf633694",
+        "Color.GST.Details_ss": [
+          "6098IN-SR-0||24500.0|20089.0||"
+        ],
+        "BundleList_ss": [
+          "23107IN-UF-0|1|Replay™ Quiet-Close™ square-front toilet seat with antimicrobial agent|",
+          "6088IN-0|1|Replay™ Wall-hung square-front toilet bowl with skirted trapway|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "6098IN-SR-0",
+        "priceList.ANY.price_d": 24500.0,
+        "Product_Category": "Toilet Area Combos",
+        "preferenceSku_s": "6098IN-SR-0",
+        "variantList.sku_ss": [
+          "6098IN-SR-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 20089.0,
+        "sourceId_s": "6098IN-SR-0",
+        "displayPriceStartingAt_s": "₹20,089.00",
+        "slug_s": "replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1",
+        "priceStartingAt.GST_d": 20089.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "bundleNameSlugDetails_ss": [
+          "6098IN-SR-0|Replay square wall hung toilet with antimicrobial agent seat in White|replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1"
+        ],
+        "priceList.GST.price_d": 20089.0,
+        "priceList.GST.finalPrice_d": 20089.0,
+        "id": "2519fe4c-daf9-4625-b9ed-b533bf633694|6098IN-SR-0"
+      },
+      {
+        "ProductServices_s": "3057099",
+        "productName_s": "Kohler Ridge square wall-hung with REV360 flushing solution toilet bundle with Quite close seat in White",
+        "ctId_s": "d66804ed-8671-4f02-945c-d83328ad7c4e",
+        "Color.GST.Details_ss": [
+          "33677IN-0||24500.0|20089.0||https://kohler.scene7.com/is/image/PAWEB/aaj83682_rgb"
+        ],
+        "BundleList_ss": [
+          "33678IN-0|1|KOHLER® Ridge™ Wall-hung square-front toilet with skirted trapway, dual-flush|",
+          "41652IN-0|1|KOHLER® Ridge™ Quiet-Close™ square-front toilet seat|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "33677IN-0",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83682_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83678_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83676_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83683_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83677_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83675_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83680_rgb"
+        ],
+        "priceList.ANY.price_d": 24500.0,
+        "Product_Category": "Toilet Area Combos",
+        "preferenceSku_s": "33677IN-0",
+        "variantList.sku_ss": [
+          "33677IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 20089.0,
+        "sourceId_s": "33677IN-0",
+        "displayPriceStartingAt_s": "₹20,089.00",
+        "slug_s": "kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1",
+        "priceStartingAt.GST_d": 20089.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "productImages.labelWithUrl_ss": [
+          "33677IN-0|aaj83682_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83682_rgb",
+          "33677IN-0|aaj83678_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83678_rgb",
+          "33677IN-0|aaj83676_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83676_rgb",
+          "33677IN-0|aaj83683_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83683_rgb",
+          "33677IN-0|aaj83677_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83677_rgb",
+          "33677IN-0|aaj83675_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83675_rgb",
+          "33677IN-0|aaj83680_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83680_rgb"
+        ],
+        "bundleNameSlugDetails_ss": [
+          "33677IN-0|Kohler Ridge square wall-hung with REV360 flushing solution toilet bundle with Quite close seat in White|kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1"
+        ],
+        "priceList.GST.price_d": 20089.0,
+        "priceList.GST.finalPrice_d": 20089.0,
+        "id": "d66804ed-8671-4f02-945c-d83328ad7c4e|33677IN-0"
+      },
+      {
+        "ProductServices_s": "3057099",
+        "productName_s": "Trace round wall hung toilet bundle in White",
+        "ctId_s": "0c9732eb-0dbf-4a04-b747-d501cd6044eb",
+        "Color.GST.Details_ss": [
+          "38785IN-0||20000.0|16399.26||"
+        ],
+        "BundleList_ss": [
+          "20218IN-0|1|Trace™ Wall-hung toilet bowl with skirted trapway|",
+          "20219IN-UF-0|1|Trace™ Quiet-Close™ toilet seat|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "38785IN-0",
+        "priceList.ANY.price_d": 20000.0,
+        "Product_Category": "Toilet Area Combos",
+        "preferenceSku_s": "38785IN-0",
+        "variantList.sku_ss": [
+          "38785IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 16399.26,
+        "sourceId_s": "38785IN-0",
+        "displayPriceStartingAt_s": "₹16,399.26",
+        "slug_s": "trace-round-wall-hung-toilet-bundle-in-white-1",
+        "priceStartingAt.GST_d": 16399.26,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "bundleNameSlugDetails_ss": [
+          "38785IN-0|Trace round wall hung toilet bundle in White|trace-round-wall-hung-toilet-bundle-in-white-1"
+        ],
+        "priceList.GST.price_d": 16399.26,
+        "priceList.GST.finalPrice_d": 16399.26,
+        "id": "0c9732eb-0dbf-4a04-b747-d501cd6044eb|38785IN-0"
       },
       {
         "ProductServices_s": "3057099",
@@ -995,69 +1141,64 @@
       },
       {
         "Color.SKU.Details_ss": [
-          "White|swatch_0|30306IN-0|false|false|K-30306IN-0"
+          "White|swatch_0|27791IN-WAF-0|false|false|K-27791IN-WAF-0"
         ],
-        "ProductBrandName_s": "APT™",
-        "masterSKU_s": "30306IN-0",
+        "ProductBrandName_s": "ModernLife Edge™",
+        "masterSKU_s": "27791IN-WAF-0",
         "SKUColorSwatchFilename_ss": [
           "swatch_0"
         ],
-        "sourceId_s": "30306IN-0",
+        "sourceId_s": "27791IN-WAF-0",
         "productImages.labelWithUrl_ss": [
-          "30306IN-0|aaf79235_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf79235_rgb",
-          "30306IN-0|aaj84635_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj84635_rgb",
-          "30306IN-0|aaj84634_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84634_rgb",
-          "30306IN-0|aaj84633_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84633_rgb",
-          "30306IN-0|aaj84632_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84632_rgb",
-          "30306IN-0|aaj84629_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84629_rgb",
-          "30306IN-0|aaj84631_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84631_rgb",
-          "30306IN-0|aaj84630_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84630_rgb",
-          "30306IN-0|aaj84636_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84636_rgb",
-          "30306IN-0|aaj84627_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84627_rgb",
-          "30306IN-0|aaj84628_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj84628_rgb"
+          "27791IN-WAF-0|aah26713_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah26713_rgb",
+          "27791IN-WAF-0|aah26715_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aah26715_rgb",
+          "27791IN-WAF-0|aah43495_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aah43495_rgb",
+          "27791IN-WAF-0|aaj91924_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaj91924_rgb",
+          "27791IN-WAF-0|aaj91927_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91927_rgb",
+          "27791IN-WAF-0|aaj92686_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj92686_rgb",
+          "27791IN-WAF-0|aaj91925_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91925_rgb",
+          "27791IN-WAF-0|aaj91929_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91929_rgb",
+          "27791IN-WAF-0|aaj91926_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91926_rgb"
         ],
-        "priceList.GST.price_d": 12239.0,
-        "priceList.GST.finalPrice_d": 12239.0,
+        "priceList.GST.price_d": 71999.0,
+        "priceList.GST.finalPrice_d": 71999.0,
         "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl with skirted trapway",
-        "productName_s": "APT™ Wall-hung round-front toilet bowl with skirted trapway",
-        "ctId_s": "b7947c0a-4f19-4415-a195-7d0da505d0ac",
+        "productName_s": "ModernLife Edge® Wall-hung round-front toilet bowl with skirted trapway",
+        "ctId_s": "09358f3a-b47d-4212-83ba-9a25b434ce52",
         "Color.GST.Details_ss": [
-          "30306IN-0|White|15500.0|12239.0||https://kohler.scene7.com/is/image/PAWEB/aaf79235_rgb"
+          "27791IN-WAF-0|White|90000.0|71999.0||https://kohler.scene7.com/is/image/PAWEB/aah26713_rgb"
         ],
         "RegionSupplyChain_ss": [
-          "Manufactured By"
+          "Marketed By"
         ],
         "InstallationAvailable_s": "No",
-        "ProductProductNo_s": "30306IN",
+        "ProductProductNo_s": "27791IN-WAF",
         "productImages.url_ss": [
-          "https://kohler.scene7.com/is/image/PAWEB/aaf79235_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84635_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84634_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84633_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84632_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84629_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84631_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84630_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84636_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84627_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj84628_rgb"
+          "https://kohler.scene7.com/is/image/PAWEB/aah26713_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah26715_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aah43495_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj91924_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj91927_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj92686_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj91925_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj91929_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj91926_rgb"
         ],
-        "priceList.ANY.price_d": 15500.0,
+        "priceList.ANY.price_d": 90000.0,
         "Product_Category": "Toilets",
-        "preferenceSku_s": "30306IN-0",
-        "ProductBrandNameDisplay_s": "APT™",
+        "preferenceSku_s": "27791IN-WAF-0",
         "variantList.sku_ss": [
-          "30306IN-0"
+          "27791IN-WAF-0"
         ],
-        "discountedPriceStartingAt.GST_d": 12239.0,
-        "displayPriceStartingAt_s": "₹12,239.00",
+        "discountedPriceStartingAt.GST_d": 71999.0,
+        "displayPriceStartingAt_s": "₹71,999.00",
         "SKUColorFinishName_ss": [
           "White"
         ],
-        "slug_s": "apt-wall-hung-round-front-toilet-bowl-with-skirted-trapway-30306in",
-        "priceStartingAt.GST_d": 12239.0,
+        "slug_s": "modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27791in-waf",
+        "priceStartingAt.GST_d": 71999.0,
         "priceList.GST.discountedPrice_d": 0.0,
-        "id": "b7947c0a-4f19-4415-a195-7d0da505d0ac|30306IN-0"
+        "id": "09358f3a-b47d-4212-83ba-9a25b434ce52|27791IN-WAF-0"
       },
       {
         "ProductServices_s": "3057099",
@@ -1227,181 +1368,6 @@
         "priceStartingAt.GST_d": 27999.0,
         "priceList.GST.discountedPrice_d": 0.0,
         "id": "04f3cde2-5b50-4745-ae02-ae8625715d45|21748IN-HB1"
-      },
-      {
-        "Color.SKU.Details_ss": [
-          "White|swatch_0|27791IN-WAF-0|false|false|K-27791IN-WAF-0"
-        ],
-        "ProductBrandName_s": "ModernLife Edge™",
-        "masterSKU_s": "27791IN-WAF-0",
-        "SKUColorSwatchFilename_ss": [
-          "swatch_0"
-        ],
-        "sourceId_s": "27791IN-WAF-0",
-        "productImages.labelWithUrl_ss": [
-          "27791IN-WAF-0|aah26713_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah26713_rgb",
-          "27791IN-WAF-0|aah26715_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aah26715_rgb",
-          "27791IN-WAF-0|aah43495_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aah43495_rgb",
-          "27791IN-WAF-0|aaj91924_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaj91924_rgb",
-          "27791IN-WAF-0|aaj91927_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91927_rgb",
-          "27791IN-WAF-0|aaj92686_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj92686_rgb",
-          "27791IN-WAF-0|aaj91925_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91925_rgb",
-          "27791IN-WAF-0|aaj91929_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91929_rgb",
-          "27791IN-WAF-0|aaj91926_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91926_rgb"
-        ],
-        "priceList.GST.price_d": 71999.0,
-        "priceList.GST.finalPrice_d": 71999.0,
-        "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl with skirted trapway",
-        "productName_s": "ModernLife Edge® Wall-hung round-front toilet bowl with skirted trapway",
-        "ctId_s": "09358f3a-b47d-4212-83ba-9a25b434ce52",
-        "Color.GST.Details_ss": [
-          "27791IN-WAF-0|White|90000.0|71999.0||https://kohler.scene7.com/is/image/PAWEB/aah26713_rgb"
-        ],
-        "RegionSupplyChain_ss": [
-          "Marketed By"
-        ],
-        "InstallationAvailable_s": "No",
-        "ProductProductNo_s": "27791IN-WAF",
-        "productImages.url_ss": [
-          "https://kohler.scene7.com/is/image/PAWEB/aah26713_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aah26715_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aah43495_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj91924_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj91927_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj92686_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj91925_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj91929_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj91926_rgb"
-        ],
-        "priceList.ANY.price_d": 90000.0,
-        "Product_Category": "Toilets",
-        "preferenceSku_s": "27791IN-WAF-0",
-        "variantList.sku_ss": [
-          "27791IN-WAF-0"
-        ],
-        "discountedPriceStartingAt.GST_d": 71999.0,
-        "displayPriceStartingAt_s": "₹71,999.00",
-        "SKUColorFinishName_ss": [
-          "White"
-        ],
-        "slug_s": "modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27791in-waf",
-        "priceStartingAt.GST_d": 71999.0,
-        "priceList.GST.discountedPrice_d": 0.0,
-        "id": "09358f3a-b47d-4212-83ba-9a25b434ce52|27791IN-WAF-0"
-      },
-      {
-        "ProductServices_s": "3057099",
-        "productName_s": "Brazn round wall hung toilet bundle in Honed Black finish",
-        "ctId_s": "c70a9a8e-b062-4a34-b9d7-a3eaeff39afb",
-        "Color.GST.Details_ss": [
-          "26994IN-HB1||50000.0|39999.0||"
-        ],
-        "BundleList_ss": [
-          "21128IN-HB1|1|Brazn™ Quiet-Close round-front toilet seat|",
-          "21748IN-HB1|1|Brazn™ Wall-hung round-front toilet bowl with skirted trapway|"
-        ],
-        "InstallationAvailable_s": "Yes",
-        "masterSKU_s": "26994IN-HB1",
-        "priceList.ANY.price_d": 50000.0,
-        "Product_Category": "Toilet Area Combos",
-        "preferenceSku_s": "26994IN-HB1",
-        "variantList.sku_ss": [
-          "26994IN-HB1"
-        ],
-        "discountedPriceStartingAt.GST_d": 39999.0,
-        "sourceId_s": "26994IN-HB1",
-        "displayPriceStartingAt_s": "₹39,999.00",
-        "slug_s": "brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1",
-        "priceStartingAt.GST_d": 39999.0,
-        "priceList.GST.discountedPrice_d": 0.0,
-        "bundleNameSlugDetails_ss": [
-          "26994IN-HB1|Brazn round wall hung toilet bundle in Honed Black finish|brazn-round-wall-hung-toilet-bundle-in-honed-black-finish-1"
-        ],
-        "priceList.GST.price_d": 39999.0,
-        "priceList.GST.finalPrice_d": 39999.0,
-        "id": "c70a9a8e-b062-4a34-b9d7-a3eaeff39afb|26994IN-HB1"
-      },
-      {
-        "ProductServices_s": "3057099",
-        "productName_s": "Replay square wall hung toilet with antimicrobial agent seat in White",
-        "ctId_s": "2519fe4c-daf9-4625-b9ed-b533bf633694",
-        "Color.GST.Details_ss": [
-          "6098IN-SR-0||24500.0|20089.0||"
-        ],
-        "BundleList_ss": [
-          "23107IN-UF-0|1|Replay™ Quiet-Close™ square-front toilet seat with antimicrobial agent|",
-          "6088IN-0|1|Replay™ Wall-hung square-front toilet bowl with skirted trapway|"
-        ],
-        "InstallationAvailable_s": "Yes",
-        "masterSKU_s": "6098IN-SR-0",
-        "priceList.ANY.price_d": 24500.0,
-        "Product_Category": "Toilet Area Combos",
-        "preferenceSku_s": "6098IN-SR-0",
-        "variantList.sku_ss": [
-          "6098IN-SR-0"
-        ],
-        "discountedPriceStartingAt.GST_d": 20089.0,
-        "sourceId_s": "6098IN-SR-0",
-        "displayPriceStartingAt_s": "₹20,089.00",
-        "slug_s": "replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1",
-        "priceStartingAt.GST_d": 20089.0,
-        "priceList.GST.discountedPrice_d": 0.0,
-        "bundleNameSlugDetails_ss": [
-          "6098IN-SR-0|Replay square wall hung toilet with antimicrobial agent seat in White|replay-square-wall-hung-toilet-with-antimicrobial-agent-seat-in-white-1"
-        ],
-        "priceList.GST.price_d": 20089.0,
-        "priceList.GST.finalPrice_d": 20089.0,
-        "id": "2519fe4c-daf9-4625-b9ed-b533bf633694|6098IN-SR-0"
-      },
-      {
-        "ProductServices_s": "3057099",
-        "productName_s": "Kohler Ridge square wall-hung with REV360 flushing solution toilet bundle with Quite close seat in White",
-        "ctId_s": "d66804ed-8671-4f02-945c-d83328ad7c4e",
-        "Color.GST.Details_ss": [
-          "33677IN-0||24500.0|20089.0||https://kohler.scene7.com/is/image/PAWEB/aaj83682_rgb"
-        ],
-        "BundleList_ss": [
-          "33678IN-0|1|KOHLER® Ridge™ Wall-hung square-front toilet with skirted trapway, dual-flush|",
-          "41652IN-0|1|KOHLER® Ridge™ Quiet-Close™ square-front toilet seat|"
-        ],
-        "InstallationAvailable_s": "Yes",
-        "masterSKU_s": "33677IN-0",
-        "productImages.url_ss": [
-          "https://kohler.scene7.com/is/image/PAWEB/aaj83682_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj83678_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj83676_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj83683_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj83677_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj83675_rgb",
-          "https://kohler.scene7.com/is/image/PAWEB/aaj83680_rgb"
-        ],
-        "priceList.ANY.price_d": 24500.0,
-        "Product_Category": "Toilet Area Combos",
-        "preferenceSku_s": "33677IN-0",
-        "variantList.sku_ss": [
-          "33677IN-0"
-        ],
-        "discountedPriceStartingAt.GST_d": 20089.0,
-        "sourceId_s": "33677IN-0",
-        "displayPriceStartingAt_s": "₹20,089.00",
-        "slug_s": "kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1",
-        "priceStartingAt.GST_d": 20089.0,
-        "priceList.GST.discountedPrice_d": 0.0,
-        "productImages.labelWithUrl_ss": [
-          "33677IN-0|aaj83682_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83682_rgb",
-          "33677IN-0|aaj83678_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83678_rgb",
-          "33677IN-0|aaj83676_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83676_rgb",
-          "33677IN-0|aaj83683_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83683_rgb",
-          "33677IN-0|aaj83677_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83677_rgb",
-          "33677IN-0|aaj83675_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83675_rgb",
-          "33677IN-0|aaj83680_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaj83680_rgb"
-        ],
-        "bundleNameSlugDetails_ss": [
-          "33677IN-0|Kohler Ridge square wall-hung with REV360 flushing solution toilet bundle with Quite close seat in White|kohler-ridge-square-wall-hung-with-rev-360-flushing-solution-toilet-bundle-with-quite-close-seat-in-white-1"
-        ],
-        "priceList.GST.price_d": 20089.0,
-        "priceList.GST.finalPrice_d": 20089.0,
-        "id": "d66804ed-8671-4f02-945c-d83328ad7c4e|33677IN-0"
       }
     ],
     "numFound": 52,

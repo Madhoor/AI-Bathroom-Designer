@@ -1,0 +1,717 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"BathroomSinksProductOverallLengthCm_s\"}BathroomSinksProductOverallLengthCm_s",
+      "{!ex=\"BathroomSinksProductOverallWidthCm_s\"}BathroomSinksProductOverallWidthCm_s",
+      "{!ex=\"ATTR_SPEC_BasinShape_s\"}ATTR_SPEC_BasinShape_s",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "Available_Now_s",
+      "InstallationCost_s",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d"
+    ],
+    "color_swatch_labels": {
+      "Biscuit": "swatch_96",
+      "Black Black": "swatch_7",
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "BathroomSinksProductOverallLengthCm_s": "Length - Side to Side",
+      "BathroomSinksProductOverallWidthCm_s": "Width - Front to Back",
+      "ATTR_SPEC_BasinShape_s": "Shape",
+      "ProductStyle_ss": "Style",
+      "SpecialFeatureList_ss": "Special Feature",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|2215IN-2-0|true|false|K-2215IN-2-0",
+          "Black Black|swatch_7|2215IN-2-7|true|false|K-2215IN-2-7"
+        ],
+        "ProductBrandName_s": "Ladena™",
+        "masterSKU_s": "2215IN-2-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0",
+          "swatch_7"
+        ],
+        "sourceId_s": "2215IN-2-0",
+        "productImages.labelWithUrl_ss": [
+          "2215IN-2-0|aae80663_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae80663_rgb",
+          "2215IN-2-0|aaj83399_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj83399_rgb",
+          "2215IN-2-0|aaj83398_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83398_rgb",
+          "2215IN-2-0|aaj83404_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83404_rgb",
+          "2215IN-2-0|aaj83403_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83403_rgb",
+          "2215IN-2-0|aaj83400_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83400_rgb",
+          "2215IN-2-0|aaj83401_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83401_rgb",
+          "2215IN-2-7|aag27146_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag27146_rgb"
+        ],
+        "priceList.GST.price_d": 8199.0,
+        "priceList.GST.finalPrice_d": 8199.0,
+        "ProductDescriptionProductShort_s": "58.1 cm rectangular undercounter bathroom sink",
+        "productName_s": "Ladena™ 58.1 cm rectangular undercounter bathroom sink",
+        "ctId_s": "b15ffacc-2aa7-4d72-99d8-abf8fd08dafb",
+        "Color.GST.Details_ss": [
+          "2215IN-2-0|White|10000.0|8199.0||https://kohler.scene7.com/is/image/PAWEB/aae80663_rgb",
+          "2215IN-2-7|Black Black|12500.0|10249.0||https://kohler.scene7.com/is/image/PAWEB/aag27146_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "2215IN-2",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae80663_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83399_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83398_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83404_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83403_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83400_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83401_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag27146_rgb"
+        ],
+        "priceList.ANY.price_d": 10000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "2215IN-2-7",
+        "ProductBrandNameDisplay_s": "Ladena™",
+        "variantList.sku_ss": [
+          "2215IN-2-0",
+          "2215IN-2-7"
+        ],
+        "discountedPriceStartingAt.GST_d": 8199.0,
+        "displayPriceStartingAt_s": "₹8,199.00",
+        "SKUColorFinishName_ss": [
+          "White",
+          "Black Black"
+        ],
+        "slug_s": "ladena-581mm-x-402mm-undercounter-basin-in-white-2215in-2",
+        "priceStartingAt.GST_d": 8199.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "b15ffacc-2aa7-4d72-99d8-abf8fd08dafb|2215IN-2-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|2211IN-0|true|false|K-2211IN-0"
+        ],
+        "ProductBrandName_s": "Caxton™",
+        "masterSKU_s": "2211IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "2211IN-0",
+        "productImages.labelWithUrl_ss": [
+          "2211IN-0|zaa77924_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa77924_rgb",
+          "2211IN-0|zaa77925_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/zaa77925_rgb"
+        ],
+        "priceList.GST.price_d": 4589.0,
+        "priceList.GST.finalPrice_d": 4589.0,
+        "ProductDescriptionProductShort_s": "54 cm undercounter lavatory",
+        "productName_s": "Caxton™ 54 cm undercounter lavatory",
+        "ctId_s": "c11028e8-b184-4253-bde3-b259c77f197c",
+        "Color.GST.Details_ss": [
+          "2211IN-0|White|5400.0|4589.0||https://kohler.scene7.com/is/image/PAWEB/zaa77924_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "2211IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa77924_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zaa77925_rgb"
+        ],
+        "priceList.ANY.price_d": 5400.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "2211IN-0",
+        "ProductBrandNameDisplay_s": "Caxton™",
+        "variantList.sku_ss": [
+          "2211IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 4589.0,
+        "displayPriceStartingAt_s": "₹4,589.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "caxton-big-undercounter-lavatory-2211in",
+        "priceStartingAt.GST_d": 4589.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "c11028e8-b184-4253-bde3-b259c77f197c|2211IN-0",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|2210IN-0|true|false|K-2210IN-0"
+        ],
+        "ProductBrandName_s": "Caxton™",
+        "masterSKU_s": "2210IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "2210IN-0",
+        "productImages.labelWithUrl_ss": [
+          "2210IN-0|zaa76952_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa76952_rgb",
+          "2210IN-0|zaa76953_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/zaa76953_rgb"
+        ],
+        "priceList.GST.price_d": 3649.0,
+        "priceList.GST.finalPrice_d": 3649.0,
+        "ProductDescriptionProductShort_s": "49.2 cm oval undercounter bathroom sink with glazed underside",
+        "productName_s": "Caxton™ 49.2 cm oval undercounter bathroom sink with glazed underside",
+        "ctId_s": "f8230335-7b62-4507-88ae-36390d1190cb",
+        "Color.GST.Details_ss": [
+          "2210IN-0|White|4300.0|3649.0||https://kohler.scene7.com/is/image/PAWEB/zaa76952_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "2210IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa76952_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zaa76953_rgb"
+        ],
+        "priceList.ANY.price_d": 4300.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "2210IN-0",
+        "ProductBrandNameDisplay_s": "Caxton™",
+        "variantList.sku_ss": [
+          "2210IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 3649.0,
+        "displayPriceStartingAt_s": "₹3,649.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "caxton-small-undercounter-lavatory-2210in",
+        "priceStartingAt.GST_d": 3649.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f8230335-7b62-4507-88ae-36390d1190cb|2210IN-0",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|14008T-RGD-0|false|false|K-14008T-RGD-0"
+        ],
+        "ProductBrandName_s": "Laureate™",
+        "masterSKU_s": "14008T-RGD-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "14008T-RGD-0",
+        "productImages.labelWithUrl_ss": [
+          "14008T-RGD-0|K-14008T-RGD-0_01|HIPPOIMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/kohlerchina/K-14008T-RGD-0_01"
+        ],
+        "priceList.GST.price_d": 90000.0,
+        "priceList.GST.finalPrice_d": 90000.0,
+        "ProductDescriptionProductShort_s": "Under-mount Bathroom Sink - Rose Gold",
+        "productName_s": "LAUREATE™ Under-mount Bathroom Sink - Rose Gold",
+        "ctId_s": "842c5609-558c-4936-825d-79cff8f2d8e3",
+        "Color.GST.Details_ss": [
+          "14008T-RGD-0|White|90000.0|90000.0||https://kohler.scene7.com/is/image/kohlerchina/K-14008T-RGD-0_01"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "14008T-RGD",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/kohlerchina/K-14008T-RGD-0_01"
+        ],
+        "priceList.ANY.price_d": 90000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "14008T-RGD-0",
+        "ProductBrandNameDisplay_s": "Laureate™",
+        "variantList.sku_ss": [
+          "14008T-RGD-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 90000.0,
+        "displayPriceStartingAt_s": "₹90,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "laureate-under-mount-bathroom-sink-rose-gold-14008t-rgd",
+        "priceStartingAt.GST_d": 90000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "842c5609-558c-4936-825d-79cff8f2d8e3|14008T-RGD-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|14008T-PK-0|false|false|K-14008T-PK-0"
+        ],
+        "ProductBrandName_s": "Laureate™",
+        "masterSKU_s": "14008T-PK-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "14008T-PK-0",
+        "productImages.labelWithUrl_ss": [
+          "14008T-PK-0|K-14008T-PK-0_01|HIPPOIMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/kohlerchina/K-14008T-PK-0_01"
+        ],
+        "priceList.GST.price_d": 100000.0,
+        "priceList.GST.finalPrice_d": 100000.0,
+        "ProductDescriptionProductShort_s": "Under-Mount Bathroom Sink - Platinum",
+        "productName_s": "LAUREATE™ Under-Mount Bathroom Sink - Platinum",
+        "ctId_s": "e335a20e-9bae-4953-a196-f7b2e35367ba",
+        "Color.GST.Details_ss": [
+          "14008T-PK-0|White|100000.0|100000.0||https://kohler.scene7.com/is/image/kohlerchina/K-14008T-PK-0_01"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "14008T-PK",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/kohlerchina/K-14008T-PK-0_01"
+        ],
+        "priceList.ANY.price_d": 100000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "14008T-PK-0",
+        "ProductBrandNameDisplay_s": "Laureate™",
+        "variantList.sku_ss": [
+          "14008T-PK-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 100000.0,
+        "displayPriceStartingAt_s": "₹100,000.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "laureate-under-mount-bathroom-sink-platinum-14008t-pk",
+        "priceStartingAt.GST_d": 100000.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e335a20e-9bae-4953-a196-f7b2e35367ba|14008T-PK-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|14008T-PD-0|false|false|K-14008T-PD-0"
+        ],
+        "ProductBrandName_s": "Laureate™",
+        "masterSKU_s": "14008T-PD-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "14008T-PD-0",
+        "productImages.labelWithUrl_ss": [
+          "14008T-PD-0|aae34787_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae34787_rgb"
+        ],
+        "priceList.GST.price_d": 75999.0,
+        "priceList.GST.finalPrice_d": 75999.0,
+        "ProductDescriptionProductShort_s": "Under-mount Bathroom Sink - Gold",
+        "productName_s": "LAUREATE™ Under-mount Bathroom Sink - Gold",
+        "ctId_s": "61996ca0-f58d-4f3b-8c9a-d2b92ba7a147",
+        "Color.GST.Details_ss": [
+          "14008T-PD-0|White|95000.0|75999.0||https://kohler.scene7.com/is/image/PAWEB/aae34787_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "14008T-PD",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae34787_rgb"
+        ],
+        "priceList.ANY.price_d": 95000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "14008T-PD-0",
+        "ProductBrandNameDisplay_s": "Laureate™",
+        "variantList.sku_ss": [
+          "14008T-PD-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 75999.0,
+        "displayPriceStartingAt_s": "₹75,999.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "laureate-under-mount-bathroom-sink-gold-14008t-pd",
+        "priceStartingAt.GST_d": 75999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "61996ca0-f58d-4f3b-8c9a-d2b92ba7a147|14008T-PD-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Biscuit|swatch_96|2349IN-FDL-96|false|false|K-2349IN-FDL-96"
+        ],
+        "ProductBrandName_s": "Quila™ Camber™",
+        "masterSKU_s": "2349IN-FDL-96",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_96"
+        ],
+        "sourceId_s": "2349IN-FDL-96",
+        "productImages.labelWithUrl_ss": [
+          "2349IN-FDL-96|aae30832_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae30832_rgb"
+        ],
+        "priceList.GST.price_d": 303999.0,
+        "priceList.GST.finalPrice_d": 303999.0,
+        "ProductDescriptionProductShort_s": "Undermount bathroom sink",
+        "productName_s": "Quila™ Camber™ Undermount bathroom sink",
+        "ctId_s": "272c387a-5287-4b61-8162-99794d95aa74",
+        "Color.GST.Details_ss": [
+          "2349IN-FDL-96|Biscuit|380000.0|303999.0||https://kohler.scene7.com/is/image/PAWEB/aae30832_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "2349IN-FDL",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae30832_rgb"
+        ],
+        "priceList.ANY.price_d": 380000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "2349IN-FDL-96",
+        "ProductBrandNameDisplay_s": "Quila™ Camber™",
+        "variantList.sku_ss": [
+          "2349IN-FDL-96"
+        ],
+        "discountedPriceStartingAt.GST_d": 303999.0,
+        "displayPriceStartingAt_s": "₹303,999.00",
+        "SKUColorFinishName_ss": [
+          "Biscuit"
+        ],
+        "slug_s": "quila-camber-undermount-bathroom-sink-2349in-fdl",
+        "priceStartingAt.GST_d": 303999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "272c387a-5287-4b61-8162-99794d95aa74|2349IN-FDL-96"
+      },
+      {
+        "ProductBrandName_s": "Verticyl™",
+        "masterSKU_s": "2883-0",
+        "sourceId_s": "2883-0",
+        "priceList.GST.price_d": 7649.0,
+        "priceList.GST.finalPrice_d": 7649.0,
+        "ProductDescriptionProductShort_s": "15-3/4\" round undermount bathroom sink",
+        "productName_s": "Verticyl® 15-3/4\" round undermount bathroom sink",
+        "ctId_s": "0d1742ba-bde9-4f7b-a04a-ee9f313dc3cc",
+        "Color.GST.Details_ss": [
+          "2883-0|White|9000.0|7649.0||https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewSquare_d2c0046493_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "2883",
+        "ProductBrandNameDisplay_s": "Verticyl",
+        "displayPriceStartingAt_s": "₹7,649.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "demilav-verticyl-round-undermount-bathroom-sink-2883",
+        "priceStartingAt.GST_d": 7649.0,
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|2883-0|true|false|K-2883-0"
+        ],
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "productImages.labelWithUrl_ss": [
+          "2883-0|2883-0_CloseRoomViewSquare_d2c0046493_rgb|IMGITEMCLOSEROOMVIEWSquare||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewSquare_d2c0046493_rgb",
+          "2883-0|2883-0_TOPSquare_d2c0046904_rgb|IMGITEMTOPSquare||top view of product|https://kohler.scene7.com/is/image/PAWEB/2883-0_TOPSquare_d2c0046904_rgb",
+          "2883-0|2883-0_PartialRoomViewOnePointSquareWithText_d2c0046699_en-US|IMGITEMPARTIALROOMVIEWOnePointSquareWithText||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_PartialRoomViewOnePointSquareWithText_d2c0046699_en-US",
+          "2883-0|2883-0_PartialRoomViewSquare_d2c0046903_rgb|IMGITEMPARTIALROOMVIEWSquare||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/2883-0_PartialRoomViewSquare_d2c0046903_rgb",
+          "2883-0|2883-0_ISOSquare_d2c0046877_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/2883-0_ISOSquare_d2c0046877_rgb",
+          "2883-0|2883-0_ISO_d2c0046877_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/2883-0_ISO_d2c0046877_rgb",
+          "2883-0|2883-0_DIMENSIONALSquareWithText_d2c0046511_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/2883-0_DIMENSIONALSquareWithText_d2c0046511_en-US",
+          "2883-0|2883-0_ARCHITECTFRONTSquare_d2c0046798_rgb|IMGITEMARCHITECTFRONTSquare||angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_ARCHITECTFRONTSquare_d2c0046798_rgb",
+          "2883-0|2883-0_OverheadRoomViewSquare_d2c0047191_rgb|IMGITEMOVERHEADROOMVIEWSquare||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/2883-0_OverheadRoomViewSquare_d2c0047191_rgb",
+          "2883-0|2883-0_CloseRoomViewArchitectFrontSquare_d2c0046978_rgb|IMGITEMCLOSEROOMVIEWArchitectFrontSquare||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewArchitectFrontSquare_d2c0046978_rgb",
+          "2883-0|2883-0_CloseRoomViewProductDetailSquare_d2c0046633_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewProductDetailSquare_d2c0046633_rgb",
+          "2883-0|2883-0_DesignSinkTypeSquareWithText_d2c0046409_en-US|IMGITEMFEATUREDesignSquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/2883-0_DesignSinkTypeSquareWithText_d2c0046409_en-US",
+          "2883-0|2883-0_CloseRoomViewOnePointSquare_d2c0046718_rgb|IMGITEMCLOSEROOMVIEWOnePointSquare||angled view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewOnePointSquare_d2c0046718_rgb"
+        ],
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewSquare_d2c0046493_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_TOPSquare_d2c0046904_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_PartialRoomViewOnePointSquareWithText_d2c0046699_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_PartialRoomViewSquare_d2c0046903_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_ISOSquare_d2c0046877_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_ISO_d2c0046877_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_DIMENSIONALSquareWithText_d2c0046511_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_ARCHITECTFRONTSquare_d2c0046798_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_OverheadRoomViewSquare_d2c0047191_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewArchitectFrontSquare_d2c0046978_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewProductDetailSquare_d2c0046633_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_DesignSinkTypeSquareWithText_d2c0046409_en-US",
+          "https://kohler.scene7.com/is/image/PAWEB/2883-0_CloseRoomViewOnePointSquare_d2c0046718_rgb"
+        ],
+        "priceList.ANY.price_d": 9000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "2883-0",
+        "variantList.sku_ss": [
+          "2883-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 7649.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "0d1742ba-bde9-4f7b-a04a-ee9f313dc3cc|2883-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|2214IN-0|true|false|K-2214IN-0"
+        ],
+        "ProductBrandName_s": "Ladena™",
+        "masterSKU_s": "2214IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "2214IN-0",
+        "productImages.labelWithUrl_ss": [
+          "2214IN-0|aae21888_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aae21888_rgb"
+        ],
+        "priceList.GST.price_d": 7789.0,
+        "priceList.GST.finalPrice_d": 7789.0,
+        "ProductDescriptionProductShort_s": "52.9 cm rectangular undercounter bathroom sink with glazed underside",
+        "productName_s": "Ladena™ 52.9 cm rectangular undercounter bathroom sink with glazed underside",
+        "ctId_s": "12a08a03-1874-408b-9572-4abb2d5a62d6",
+        "Color.GST.Details_ss": [
+          "2214IN-0|White|9500.0|7789.0||https://kohler.scene7.com/is/image/PAWEB/aae21888_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "2214IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae21888_rgb"
+        ],
+        "priceList.ANY.price_d": 9500.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "2214IN-0",
+        "ProductBrandNameDisplay_s": "Ladena™",
+        "variantList.sku_ss": [
+          "2214IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 7789.0,
+        "displayPriceStartingAt_s": "₹7,789.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "ladena-529-mm-rectangular-undercounter-bathroom-sink-with-glazed-underside-2214in",
+        "priceStartingAt.GST_d": 7789.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "12a08a03-1874-408b-9572-4abb2d5a62d6|2214IN-0"
+      }
+    ],
+    "numFound": 9,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "BathroomSinksProductOverallLengthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallLengthCm_s:\"25cm to 50cm\"": 7,
+      "BathroomSinksProductOverallLengthCm_s:\"50cm to 75cm\"": 2,
+      "BathroomSinksProductOverallLengthCm_s:\">75cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"25cm to 50cm\"": 5,
+      "BathroomSinksProductOverallWidthCm_s:\"50cm to 75cm\"": 4,
+      "BathroomSinksProductOverallWidthCm_s:\">75cm\"": 0,
+      "Available_Now_s:\"Yes\"": 5
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        8,
+        "Biscuit",
+        1,
+        "Black Black",
+        1
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Caxton™",
+        2,
+        "Ladena™",
+        2,
+        "Laureate™",
+        3,
+        "Quila™ Camber™",
+        1,
+        "Verticyl",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Deck-mount",
+        2,
+        "Drop-in",
+        5,
+        "Pedestal",
+        4,
+        "Semi recessed",
+        4,
+        "Undercounter",
+        9,
+        "Vanity Top",
+        2,
+        "Vessel",
+        51,
+        "Wall-mount",
+        11
+      ],
+      "BathroomSinksProductOverallLengthCm_s": [
+        "25cm to 50cm",
+        7,
+        "50cm to 75cm",
+        2
+      ],
+      "BathroomSinksProductOverallWidthCm_s": [
+        "25cm to 50cm",
+        5,
+        "50cm to 75cm",
+        4
+      ],
+      "ATTR_SPEC_BasinShape_s": [
+        "Oval",
+        4,
+        "Rectangular",
+        2,
+        "Round",
+        3
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        3,
+        "Traditional",
+        3,
+        "Transitional",
+        3
+      ],
+      "Available_Now_s": [
+        "Yes",
+        5,
+        "No",
+        4
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        4,
+        "Paid",
+        5
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          4,
+          "10000",
+          1,
+          "90000",
+          2,
+          "100000",
+          1,
+          "380000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 10000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          4,
+          "10000",
+          1,
+          "90000",
+          2,
+          "100000",
+          1,
+          "380000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 10000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          5,
+          "10000",
+          1,
+          "70000",
+          1,
+          "90000",
+          1,
+          "100000",
+          1,
+          "300000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 10000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          4,
+          "10000",
+          1,
+          "90000",
+          2,
+          "100000",
+          1,
+          "380000",
+          1
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 10000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

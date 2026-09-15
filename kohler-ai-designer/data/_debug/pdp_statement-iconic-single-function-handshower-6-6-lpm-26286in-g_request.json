@@ -1,0 +1,194 @@
+{
+  "product_url": "https://www.kohler.co.in/p/statement-iconic-single-function-handshower-6-6-lpm-26286in-g?skuId=26286IN-G-AF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/statement-iconic-single-function-handshower-6-6-lpm-26286in-g",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/statement-iconic-single-function-handshower-6-6-lpm-26286in-g",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4906>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/statement-iconic-single-function-handshower-6-6-lpm-26286in-g?skuId=26286IN-G-AF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "n7TY3kRmjN",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=267, origin; dur=786, ak_p; desc=\"1789449410542_400553039_335961027_105363_11274_13_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:16:51 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2141",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286IN-G.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286in_gfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Bracket or slidebar required for wall-mount installation",
+              "Deck-mount holder required for deck-mount installation"
+            ],
+            "ProductOverallWidthInches_s": "2-1/2\"",
+            "ProductNarrativeDescription_s": "Power your shower with the flexibility of the Statement 6.6 lpm handshower, featuring the unique Infinity spray that provides three spray experiences in one--all while conserving water. The hourglass-shaped spray starts with a powerful rinse in the upper zone, converging into a massaging middle stream, then diverging into broad, everyday warmth and coverage in the lower zone. The compact barrel-shaped handshower features a sleek, minimalist design and durable finishes that coordinates with many KOHLER faucets and accessories.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|26286IN-G-CP|false|false|K-26286IN-G-CP",
+              "Vibrant French Gold|swatch_AF|26286IN-G-AF|false|false|K-26286IN-G-AF",
+              "Vibrant Rose Gold|swatch_RGD|26286IN-G-RGD|true|false|K-26286IN-G-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|26286IN-G-BV|true|false|K-26286IN-G-BV",
+              "Matte Black|swatch_BL|26286IN-G-BL|false|false|K-26286IN-G-BL"
+            ],
+            "ProductBrandName_s": "Statement™",
+            "ProductPackageContents_s": "1 HANDSHOWER ASSY; 1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27106me_4sde.dwg"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1430507-2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-26286IN-G_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27106ME-4.obj"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "26286IN-G-BL|aad42194_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42194_rgb",
+              "26286IN-G-CP|aad42182_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42182_rgb",
+              "26286IN-G-AF|aad42186_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42186_rgb",
+              "26286IN-G-AF|aad48702_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad48702_rgb",
+              "26286IN-G-BV|aae27313_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27313_rgb",
+              "26286IN-G-BV|aad48703_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad48703_rgb",
+              "26286IN-G-RGD|aad42188_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad42188_rgb",
+              "26286IN-G-RGD|aad48699_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad48699_rgb",
+              "26286IN-G-RGD|aad48701_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE"
+            ],
+            "priceList.GST.finalPrice_d": 4879.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 5950.0,
+            "ProductOverallLengthInches_s": "3-3/8\"",
+            "ProductDescriptionProductShort_s": "Iconic single-function handshower, 6.6 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286in_gpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286in_gsde.dxf"
+            ],
+            "productName_s": "Statement™ Iconic single-function handshower, 6.6 lpm",
+            "ctId_s": "db8f4763-a69e-41c2-86a7-9b11cf15d453",
+            "ProductWebFeatures_ss": [
+              "Single-function handshower delivers a full, consistent spray, regardless of water pressure",
+              "Infinity provides three spray experiences in one: strong-rinsing (top), massaging (middle), and broad coverage (lower)",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "Optimized sprayface for maximum performance",
+              "1.75 gpm (6.6 lpm) maximum handshower flow rate at 45 psi (3.1 bar)",
+              "G 1/2 connection",
+              "Requires shower hose (sold separately)",
+              "This product can help a building earn Water Efficiency points in LEED® Green Building Rating System"
+            ],
+            "priceList.ANY.finalPrice_d": 5950.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286in_gsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2"
+            ],
+            "sku_s": "26286IN-G-AF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27106ME-4.dwg"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286IN-G.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "10.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "26286IN-G",
+            "productInRiverId_s": "inRiver_2310978",
+            "priceList.CTR.finalPrice_d": 5950.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-26286IN-G-AF",
+            "ProductBrandNameDisplay_s": "Statement™",
+            "variantList.sku_ss": [
+              "26286IN-G-AF",
+              "26286IN-G-BL",
+              "26286IN-G-BV",
+              "26286IN-G-CP",
+              "26286IN-G-RGD"
+            ],
+            "SKUShippingHeight_s": "7.000",
+            "ctProductType_s": "handshowers",
+            "SKUShippingLength_s": "22.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286in_gpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1337884",
+              "inRiver_2371536"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286in_gfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/26286IN-G.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-9/16\"",
+            "id": "db8f4763-a69e-41c2-86a7-9b11cf15d453|26286IN-G-AF",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

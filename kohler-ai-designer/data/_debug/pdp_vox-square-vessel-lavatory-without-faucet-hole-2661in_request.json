@@ -1,0 +1,169 @@
+{
+  "product_url": "https://www.kohler.co.in/p/vox-square-vessel-lavatory-without-faucet-hole-2661in?skuId=2661IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/vox-square-vessel-lavatory-without-faucet-hole-2661in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/vox-square-vessel-lavatory-without-faucet-hole-2661in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/vox-square-vessel-lavatory-without-faucet-hole-2661in?skuId=2661IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "sUQ84uFBq3",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=236, origin; dur=747, ak_p; desc=\"1789420655933_400553078_266583584_98326_10194_51_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:17:36 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1554",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/forefront-countertop-square-wash-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Semi-recessed vessel",
+              "Drops partially below vanity top; requires countertop cutout"
+            ],
+            "ProductOverallWidthInches_s": "18-1/8\"",
+            "ProductNarrativeDescription_s": "Sleek and contemporary, the Vox™ square vessel bathroom sink features a symmetrical, deep basin and rounded edges in true minimalist fashion. Countertop installation ensures this sink will stand out in your bathroom as a striking focal point. The included overflow cover allows users to fill the basin for even more versatility.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|2661IN-0|true|false|K-2661IN-0",
+              "Black Black|swatch_7|2661IN-7|true|false|K-2661IN-7"
+            ],
+            "ProductBrandName_s": "Vox™",
+            "ProductPackageContents_s": "1 VESSEL, 1 WARRANTY CARD, 1 CUTOUT TEMPLATE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1656582-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-2661IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "2661IN-0|zaa66264_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa66264_rgb",
+              "2661IN-7|zab38315_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab38315_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 11069.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 13500.0,
+            "ProductOverallLengthInches_s": "23\"",
+            "ProductDescriptionProductShort_s": "41.3 cm square vessel bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661insde.dxf"
+            ],
+            "productName_s": "Vox™ 41.3 cm square vessel bathroom sink",
+            "ctId_s": "7b55abb1-46b9-46ad-b3e0-b0652bb63665",
+            "ProductWebFeatures_ss": [
+              "Deep square basin with a contemporary design minimizes splash",
+              "No faucet holes; requires wall- or deck-mount faucet",
+              "Center drain",
+              "With overflow and overflow cover"
+            ],
+            "priceList.ANY.finalPrice_d": 13500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661insde.dwg"
+            ],
+            "sku_s": "2661IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-FOREFRONT-K-2661IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "53.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "2661IN",
+            "productInRiverId_s": "inRiver_1336440",
+            "priceList.CTR.finalPrice_d": 13500.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-2661IN-0",
+            "ProductBrandNameDisplay_s": "Vox™",
+            "variantList.sku_ss": [
+              "2661IN-0",
+              "2661IN-7"
+            ],
+            "SKUShippingHeight_s": "23.500",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "53.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/2661IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-5/8\"",
+            "id": "7b55abb1-46b9-46ad-b3e0-b0652bb63665|2661IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

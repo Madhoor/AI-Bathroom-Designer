@@ -1,0 +1,760 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"BathroomSinksProductOverallLengthCm_s\"}BathroomSinksProductOverallLengthCm_s",
+      "{!ex=\"BathroomSinksProductOverallWidthCm_s\"}BathroomSinksProductOverallWidthCm_s",
+      "{!ex=\"ATTR_SPEC_BasinShape_s\"}ATTR_SPEC_BasinShape_s",
+      "{!ex=\"ProductStyle_ss\"}ProductStyle_ss",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "Available_Now_s",
+      "InstallationCost_s",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d"
+    ],
+    "color_swatch_labels": {
+      "White": "swatch_0"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "ProductInstallationType_ss": "Installation Type",
+      "BathroomSinksProductOverallLengthCm_s": "Length - Side to Side",
+      "BathroomSinksProductOverallWidthCm_s": "Width - Front to Back",
+      "ATTR_SPEC_BasinShape_s": "Shape",
+      "ProductStyle_ss": "Style",
+      "SpecialFeatureList_ss": "Special Feature",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|31461IN-0|true|false|K-31461IN-0"
+        ],
+        "ProductBrandName_s": "Span™",
+        "masterSKU_s": "31461IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "31461IN-0",
+        "productImages.labelWithUrl_ss": [
+          "31461IN-0|aai54656_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai54656_rgb",
+          "31461IN-0|aaj83411_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj83411_rgb",
+          "31461IN-0|aaj83409_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83409_rgb",
+          "31461IN-0|aaj83410_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83410_rgb",
+          "31461IN-0|aaj83406_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83406_rgb",
+          "31461IN-0|aaj83405_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83405_rgb",
+          "31461IN-0|aaj83407_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83407_rgb"
+        ],
+        "priceList.GST.price_d": 5099.0,
+        "priceList.GST.finalPrice_d": 5099.0,
+        "ProductDescriptionProductShort_s": "57 cm wall-mount corner bathroom sink",
+        "productName_s": "Span™ 57 cm wall-mount corner bathroom sink",
+        "ctId_s": "e42dac7f-6e49-4c19-9069-8f3a362bcffd",
+        "Color.GST.Details_ss": [
+          "31461IN-0|White|6000.0|5099.0||https://kohler.scene7.com/is/image/PAWEB/aai54656_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "31461IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aai54656_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83411_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83409_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83410_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83406_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83405_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83407_rgb"
+        ],
+        "priceList.ANY.price_d": 6000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "31461IN-0",
+        "ProductBrandNameDisplay_s": "Span™",
+        "variantList.sku_ss": [
+          "31461IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 5099.0,
+        "displayPriceStartingAt_s": "₹5,099.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "span-wall-mount-basin-with-single-faucet-hole-in-white-31461in",
+        "priceStartingAt.GST_d": 5099.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e42dac7f-6e49-4c19-9069-8f3a362bcffd|31461IN-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|5583IN-1WH-0|true|false|K-5583IN-1WH-0"
+        ],
+        "ProductBrandName_s": "Brive Plus",
+        "masterSKU_s": "5583IN-1WH-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "5583IN-1WH-0",
+        "productImages.labelWithUrl_ss": [
+          "5583IN-1WH-0|aad74939_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad74939_rgb"
+        ],
+        "priceList.GST.price_d": 3569.0,
+        "priceList.GST.finalPrice_d": 3569.0,
+        "ProductDescriptionProductShort_s": "45 cm oval wall-mount bathroom sink with glazed underside",
+        "productName_s": "Brive Plus 45 cm oval wall-mount bathroom sink with glazed underside",
+        "ctId_s": "5e7f46d6-daf5-464e-bcf8-5eaa0272c9b7",
+        "Color.GST.Details_ss": [
+          "5583IN-1WH-0|White|4200.0|3569.0||https://kohler.scene7.com/is/image/PAWEB/aad74939_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "5583IN-1WH",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad74939_rgb"
+        ],
+        "priceList.ANY.price_d": 4200.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "5583IN-1WH-0",
+        "ProductBrandNameDisplay_s": "Brive Plus",
+        "variantList.sku_ss": [
+          "5583IN-1WH-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 3569.0,
+        "displayPriceStartingAt_s": "₹3,569.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "brive-wall-mount-lavatory-with-single-faucet-hole-5583in-1wh",
+        "priceStartingAt.GST_d": 3569.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "5e7f46d6-daf5-464e-bcf8-5eaa0272c9b7|5583IN-1WH-0",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|31458IN-0|true|false|K-31458IN-0"
+        ],
+        "ProductBrandName_s": "Span™",
+        "masterSKU_s": "31458IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "31458IN-0",
+        "productImages.labelWithUrl_ss": [
+          "31458IN-0|aae54925_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae54925_rgb"
+        ],
+        "priceList.GST.price_d": 5099.0,
+        "priceList.GST.finalPrice_d": 5099.0,
+        "ProductDescriptionProductShort_s": "48.2 cm oval wall-mount bathroom sink with glazed underside",
+        "productName_s": "Span™ 48.2 cm oval wall-mount bathroom sink with glazed underside",
+        "ctId_s": "afda5574-824b-4106-87f8-e121cee297e1",
+        "Color.GST.Details_ss": [
+          "31458IN-0|White|6000.0|5099.0||https://kohler.scene7.com/is/image/PAWEB/aae54925_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "31458IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae54925_rgb"
+        ],
+        "priceList.ANY.price_d": 6000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "31458IN-0",
+        "ProductBrandNameDisplay_s": "Span™",
+        "variantList.sku_ss": [
+          "31458IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 5099.0,
+        "displayPriceStartingAt_s": "₹5,099.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "span-round-wm-lavatory-small-480x440-31458in",
+        "priceStartingAt.GST_d": 5099.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "afda5574-824b-4106-87f8-e121cee297e1|31458IN-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|31460IN-0|true|false|K-31460IN-0"
+        ],
+        "ProductBrandName_s": "Span™",
+        "masterSKU_s": "31460IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "31460IN-0",
+        "productImages.labelWithUrl_ss": [
+          "31460IN-0|aaf07430_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf07430_rgb"
+        ],
+        "priceList.GST.price_d": 5099.0,
+        "priceList.GST.finalPrice_d": 5099.0,
+        "ProductDescriptionProductShort_s": "48.4 cm rectangular wall-mount bathroom sink with glazed underside",
+        "productName_s": "Span™ 48.4 cm rectangular wall-mount bathroom sink with glazed underside",
+        "ctId_s": "a166cfc3-1620-4b37-9098-4dc434ce9ed8",
+        "Color.GST.Details_ss": [
+          "31460IN-0|White|6000.0|5099.0||https://kohler.scene7.com/is/image/PAWEB/aaf07430_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "31460IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf07430_rgb"
+        ],
+        "priceList.ANY.price_d": 6000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "31460IN-0",
+        "ProductBrandNameDisplay_s": "Span™",
+        "variantList.sku_ss": [
+          "31460IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 5099.0,
+        "displayPriceStartingAt_s": "₹5,099.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "span-square-wm-lavatory-small-480x440-31460in",
+        "priceStartingAt.GST_d": 5099.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "a166cfc3-1620-4b37-9098-4dc434ce9ed8|31460IN-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|30520IN-0|true|false|K-30520IN-0"
+        ],
+        "ProductBrandName_s": "Trace",
+        "masterSKU_s": "30520IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "30520IN-0",
+        "productImages.labelWithUrl_ss": [
+          "30520IN-0|aah26750_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah26750_rgb"
+        ],
+        "priceList.GST.price_d": 8609.0,
+        "priceList.GST.finalPrice_d": 8609.0,
+        "ProductDescriptionProductShort_s": "55 cm rectangular wall-mount bathroom sink",
+        "productName_s": "Trace™ 55 cm rectangular wall-mount bathroom sink",
+        "ctId_s": "76deb2d8-8b98-443c-9d1e-321ff9d0b389",
+        "Color.GST.Details_ss": [
+          "30520IN-0|White|10500.0|8609.0||https://kohler.scene7.com/is/image/PAWEB/aah26750_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "30520IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aah26750_rgb"
+        ],
+        "priceList.ANY.price_d": 10500.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "30520IN-0",
+        "ProductBrandNameDisplay_s": "Trace",
+        "variantList.sku_ss": [
+          "30520IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 8609.0,
+        "displayPriceStartingAt_s": "₹8,609.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "trace-550-mm-rectangular-wall-mount-bathroom-sink-30520in",
+        "priceStartingAt.GST_d": 8609.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "76deb2d8-8b98-443c-9d1e-321ff9d0b389|30520IN-0"
+      },
+      {
+        "ProductServices_s": "3057098",
+        "productName_s": "Basin Vitality mirror combo with Modern life  basin in thunder grey",
+        "ctId_s": "207f4438-52c7-4ed1-a5f8-bce188673a5b",
+        "Color.GST.Details_ss": [
+          "C63||73700.0|58958.0||https://kohler.scene7.com/is/image/PAWEB/aaf68108_rgb"
+        ],
+        "BundleList_ss": [
+          "21226IN-HG1|1|60 cm Edge Vessel Basin Without Faucet Hole In Thunder Grey|",
+          "22931IN-NA|1|Vitality™ 76.2 cm round lighted mirror|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "C63",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68108_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68109_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68110_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68111_rgb"
+        ],
+        "priceList.ANY.price_d": 73700.0,
+        "Product_Category": "Grooming Area Combos",
+        "preferenceSku_s": "C63",
+        "variantList.sku_ss": [
+          "C63"
+        ],
+        "discountedPriceStartingAt.GST_d": 58958.0,
+        "sourceId_s": "C63",
+        "displayPriceStartingAt_s": "₹58,958.00",
+        "slug_s": "basin-vitality-mirror-combo-with-modern-life-basin-in-thunder-grey-1",
+        "priceStartingAt.GST_d": 58958.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "productImages.labelWithUrl_ss": [
+          "C63|aaf68108_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68108_rgb",
+          "C63|aaf68109_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68109_rgb",
+          "C63|aaf68110_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68110_rgb",
+          "C63|aaf68111_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68111_rgb"
+        ],
+        "bundleNameSlugDetails_ss": [
+          "C63|Basin Vitality mirror combo with Modern life  basin in thunder grey|basin-vitality-mirror-combo-with-modern-life-basin-in-thunder-grey-1"
+        ],
+        "priceList.GST.price_d": 58958.0,
+        "priceList.GST.finalPrice_d": 58958.0,
+        "id": "207f4438-52c7-4ed1-a5f8-bce188673a5b|C63"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|34229IN-0|true|false|K-34229IN-0"
+        ],
+        "ProductBrandName_s": "APT™",
+        "masterSKU_s": "34229IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "34229IN-0",
+        "productImages.labelWithUrl_ss": [
+          "34229IN-0|aaf40240_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf40240_rgb"
+        ],
+        "priceList.GST.price_d": 6369.0,
+        "priceList.GST.finalPrice_d": 6369.0,
+        "ProductDescriptionProductShort_s": "55 cm rectangular wall-mount bathroom sink, no overflow",
+        "productName_s": "APT™ 55 cm rectangular wall-mount bathroom sink, no overflow",
+        "ctId_s": "f502e6ea-563a-4ab8-8921-e33eab6054fa",
+        "Color.GST.Details_ss": [
+          "34229IN-0|White|7500.0|6369.0||https://kohler.scene7.com/is/image/PAWEB/aaf40240_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "34229IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf40240_rgb"
+        ],
+        "priceList.ANY.price_d": 7500.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "34229IN-0",
+        "ProductBrandNameDisplay_s": "APT™",
+        "variantList.sku_ss": [
+          "34229IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 6369.0,
+        "displayPriceStartingAt_s": "₹6,369.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "apt-550-mm-rectangular-wall-mount-bathroom-sink-no-overflow-34229in",
+        "priceStartingAt.GST_d": 6369.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f502e6ea-563a-4ab8-8921-e33eab6054fa|34229IN-0",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "ProductServices_s": "3057098",
+        "productName_s": "Comfort Basin combo",
+        "ctId_s": "538950c6-939c-48b9-a792-4ef794039d3e",
+        "Color.GST.Details_ss": [
+          "C5||11130.0|9007.0||https://kohler.scene7.com/is/image/PAWEB/aaf67900_rgb"
+        ],
+        "BundleList_ss": [
+          "45432IN-CP|1|Grid drain|",
+          "75377IN-4-CP|1|July Pillar Tap|",
+          "25317IN-0|1|Span™ 54.4 cm rectangular wall-mount bathroom sink with glazed underside|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "C5",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67900_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67901_rgb"
+        ],
+        "priceList.ANY.price_d": 11130.0,
+        "Product_Category": "Grooming Area Combos",
+        "preferenceSku_s": "C5",
+        "variantList.sku_ss": [
+          "C5"
+        ],
+        "discountedPriceStartingAt.GST_d": 9007.0,
+        "sourceId_s": "C5",
+        "displayPriceStartingAt_s": "₹9,007.00",
+        "slug_s": "comfort-basin-combo-1",
+        "priceStartingAt.GST_d": 9007.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "productImages.labelWithUrl_ss": [
+          "C5|aaf67900_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf67900_rgb",
+          "C5|aaf67901_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf67901_rgb"
+        ],
+        "bundleNameSlugDetails_ss": [
+          "C5|Comfort Basin combo|comfort-basin-combo-1"
+        ],
+        "priceList.GST.price_d": 9007.0,
+        "priceList.GST.finalPrice_d": 9007.0,
+        "id": "538950c6-939c-48b9-a792-4ef794039d3e|C5"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|25317IN-0|true|false|K-25317IN-0"
+        ],
+        "ProductBrandName_s": "Span™",
+        "masterSKU_s": "25317IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "25317IN-0",
+        "productImages.labelWithUrl_ss": [
+          "25317IN-0|aae54922_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae54922_rgb",
+          "25317IN-0|aaf69971_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69971_rgb",
+          "25317IN-0|aaf69972_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69972_rgb",
+          "25317IN-0|aaf69973_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69973_rgb"
+        ],
+        "priceList.GST.price_d": 5949.0,
+        "priceList.GST.finalPrice_d": 5949.0,
+        "ProductDescriptionProductShort_s": "54.4 cm rectangular wall-mount bathroom sink with glazed underside",
+        "productName_s": "Span™ 54.4 cm rectangular wall-mount bathroom sink with glazed underside",
+        "ctId_s": "e9d001d6-3743-4dc0-a9a0-dda2999d70f7",
+        "Color.GST.Details_ss": [
+          "25317IN-0|White|7000.0|5949.0||https://kohler.scene7.com/is/image/PAWEB/aae54922_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "25317IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae54922_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69971_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69972_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf69973_rgb"
+        ],
+        "priceList.ANY.price_d": 7000.0,
+        "Product_Category": "Bathroom Sinks",
+        "preferenceSku_s": "25317IN-0",
+        "ProductBrandNameDisplay_s": "Span™",
+        "variantList.sku_ss": [
+          "25317IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 5949.0,
+        "displayPriceStartingAt_s": "₹5,949.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "span-544-mm-rectangular-wall-mount-bathroom-sink-with-glazed-underside-25317in",
+        "priceStartingAt.GST_d": 5949.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e9d001d6-3743-4dc0-a9a0-dda2999d70f7|25317IN-0",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "ProductServices_s": "3057098",
+        "productName_s": "Basin Vitality mirror combo with Modern life  basin in white",
+        "ctId_s": "877b248f-c22a-4df9-9566-d6a92f5eb063",
+        "Color.GST.Details_ss": [
+          "C64||62700.0|50158.0||https://kohler.scene7.com/is/image/PAWEB/aaf68453_rgb"
+        ],
+        "BundleList_ss": [
+          "21226IN-SS-0|1|ModernLife® Edge Edge 600 Vessel|",
+          "22931IN-NA|1|Vitality™ 76.2 cm round lighted mirror|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "C64",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68453_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68454_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68455_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68456_rgb"
+        ],
+        "priceList.ANY.price_d": 62700.0,
+        "Product_Category": "Grooming Area Combos",
+        "preferenceSku_s": "C64",
+        "variantList.sku_ss": [
+          "C64"
+        ],
+        "discountedPriceStartingAt.GST_d": 50158.0,
+        "sourceId_s": "C64",
+        "displayPriceStartingAt_s": "₹50,158.00",
+        "slug_s": "basin-vitality-mirror-combo-with-modern-life-basin-in-white-1",
+        "priceStartingAt.GST_d": 50158.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "productImages.labelWithUrl_ss": [
+          "C64|aaf68453_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68453_rgb",
+          "C64|aaf68454_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68454_rgb",
+          "C64|aaf68455_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68455_rgb",
+          "C64|aaf68456_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68456_rgb"
+        ],
+        "bundleNameSlugDetails_ss": [
+          "C64|Basin Vitality mirror combo with Modern life  basin in white|basin-vitality-mirror-combo-with-modern-life-basin-in-white-1"
+        ],
+        "priceList.GST.price_d": 50158.0,
+        "priceList.GST.finalPrice_d": 50158.0,
+        "id": "877b248f-c22a-4df9-9566-d6a92f5eb063|C64"
+      },
+      {
+        "ProductServices_s": "3057098",
+        "productName_s": "Basin Vitality mirror combo with Modern life  basin in peacock",
+        "ctId_s": "351d8ae5-28bf-49cb-af75-27b58f244cf4",
+        "Color.GST.Details_ss": [
+          "C62||73700.0|58958.0||https://kohler.scene7.com/is/image/PAWEB/aaf68104_rgb"
+        ],
+        "BundleList_ss": [
+          "21226IN-HP1|1|60 cm Edge Vessel Basin Without Faucet Hole In Thunder Grey|",
+          "22931IN-NA|1|Vitality™ 76.2 cm round lighted mirror|"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "masterSKU_s": "C62",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68104_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68105_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68106_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68107_rgb"
+        ],
+        "priceList.ANY.price_d": 73700.0,
+        "Product_Category": "Grooming Area Combos",
+        "preferenceSku_s": "C62",
+        "variantList.sku_ss": [
+          "C62"
+        ],
+        "discountedPriceStartingAt.GST_d": 58958.0,
+        "sourceId_s": "C62",
+        "displayPriceStartingAt_s": "₹58,958.00",
+        "slug_s": "basin-vitality-mirror-combo-with-modern-life-basin-in-peacock-1",
+        "priceStartingAt.GST_d": 58958.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "productImages.labelWithUrl_ss": [
+          "C62|aaf68104_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68104_rgb",
+          "C62|aaf68105_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68105_rgb",
+          "C62|aaf68106_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68106_rgb",
+          "C62|aaf68107_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68107_rgb"
+        ],
+        "bundleNameSlugDetails_ss": [
+          "C62|Basin Vitality mirror combo with Modern life  basin in peacock|basin-vitality-mirror-combo-with-modern-life-basin-in-peacock-1"
+        ],
+        "priceList.GST.price_d": 58958.0,
+        "priceList.GST.finalPrice_d": 58958.0,
+        "id": "351d8ae5-28bf-49cb-af75-27b58f244cf4|C62"
+      }
+    ],
+    "numFound": 11,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "BathroomSinksProductOverallLengthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallLengthCm_s:\"25cm to 50cm\"": 3,
+      "BathroomSinksProductOverallLengthCm_s:\"50cm to 75cm\"": 4,
+      "BathroomSinksProductOverallLengthCm_s:\">75cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"<25cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\"25cm to 50cm\"": 7,
+      "BathroomSinksProductOverallWidthCm_s:\"50cm to 75cm\"": 0,
+      "BathroomSinksProductOverallWidthCm_s:\">75cm\"": 0,
+      "Available_Now_s:\"Yes\"": 10
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "White",
+        7
+      ],
+      "ProductBrandNameDisplay_s": [
+        "APT™",
+        1,
+        "Brive Plus",
+        1,
+        "Span™",
+        4,
+        "Trace",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Deck-mount",
+        2,
+        "Drop-in",
+        5,
+        "Pedestal",
+        4,
+        "Semi recessed",
+        4,
+        "Undercounter",
+        9,
+        "Vanity Top",
+        2,
+        "Vessel",
+        51,
+        "Wall-mount",
+        11
+      ],
+      "BathroomSinksProductOverallLengthCm_s": [
+        "25cm to 50cm",
+        3,
+        "50cm to 75cm",
+        4
+      ],
+      "BathroomSinksProductOverallWidthCm_s": [
+        "25cm to 50cm",
+        7
+      ],
+      "ATTR_SPEC_BasinShape_s": [
+        "Oval",
+        1,
+        "Rectangular",
+        2,
+        "Round",
+        2,
+        "Square/Rectangle",
+        2
+      ],
+      "ProductStyle_ss": [
+        "Contemporary",
+        3,
+        "Transitional",
+        4
+      ],
+      "SpecialFeatureList_ss": [
+        "Space Saving",
+        1
+      ],
+      "Available_Now_s": [
+        "Yes",
+        10,
+        "No",
+        1
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        1,
+        "Paid",
+        10
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          1,
+          "5000",
+          5,
+          "10000",
+          2,
+          "60000",
+          1,
+          "70000",
+          2
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 5000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          1,
+          "5000",
+          5,
+          "10000",
+          2,
+          "60000",
+          1,
+          "70000",
+          2
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 5000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          1,
+          "5000",
+          7,
+          "50000",
+          1,
+          "55000",
+          2
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 5000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          1,
+          "5000",
+          5,
+          "10000",
+          2,
+          "60000",
+          1,
+          "70000",
+          2
+        ],
+        "start": 0.0,
+        "end": 700000.0,
+        "gap": 5000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

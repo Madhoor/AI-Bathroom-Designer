@@ -1,0 +1,373 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"FaucetsInstallationType_ss\"}FaucetsInstallationType_ss",
+      "ATTR_SPEC_WaterSaving_s",
+      "FaucetsProductType_s",
+      "{!ex=\"ATTR_SPEC_SpoutType_s\"}ATTR_SPEC_SpoutType_s",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "{!ex=\"FaucetsProductStyle_ss\"}FaucetsProductStyle_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "Polished Chrome": "swatch_CP"
+    },
+    "facet_labels": {
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "FaucetsInstallationType_ss": "Installation Type",
+      "ATTR_SPEC_WaterSaving_s": "Water Saving",
+      "FaucetsProductType_s": "Product Type",
+      "ATTR_SPEC_SpoutType_s": "Spout Type",
+      "SpecialFeatureList_ss": "Special Feature",
+      "FaucetsProductStyle_ss": "Design Style",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|97347IN-4-CP|true|false|K-97347IN-4-CP"
+        ],
+        "ProductBrandName_s": "Avid™",
+        "masterSKU_s": "97347IN-4-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "97347IN-4-CP",
+        "productImages.labelWithUrl_ss": [
+          "97347IN-4-CP|zac83623_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac83623_rgb"
+        ],
+        "priceList.GST.price_d": 57759.0,
+        "priceList.GST.finalPrice_d": 57759.0,
+        "ProductDescriptionProductShort_s": "Sc tall lav faucet with drain",
+        "productName_s": "Avid Single-control tall lavatory faucet with drain in polished chrome",
+        "ctId_s": "5d219470-fdd9-4095-89ee-b8e1e0ae0f89",
+        "Color.GST.Details_ss": [
+          "97347IN-4-CP|Polished Chrome|72200.0|57759.0||https://kohler.scene7.com/is/image/PAWEB/zac83623_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "97347IN-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zac83623_rgb"
+        ],
+        "priceList.ANY.price_d": 72200.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "97347IN-4-CP",
+        "ProductBrandNameDisplay_s": "Avid™",
+        "variantList.sku_ss": [
+          "97347IN-4-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 57759.0,
+        "displayPriceStartingAt_s": "₹57,759.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "avid-single-control-tall-lavatory-faucet-with-drain-in-polished-chrome-97347in-4",
+        "priceStartingAt.GST_d": 57759.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "5d219470-fdd9-4095-89ee-b8e1e0ae0f89|97347IN-4-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|20070IN-4-CP|true|false|K-20070IN-4-CP"
+        ],
+        "ProductBrandName_s": "Aleo",
+        "masterSKU_s": "20070IN-4-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "20070IN-4-CP",
+        "productImages.labelWithUrl_ss": [
+          "20070IN-4-CP|aad81976_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad81976_rgb"
+        ],
+        "priceList.GST.price_d": 5899.0,
+        "priceList.GST.finalPrice_d": 5899.0,
+        "ProductDescriptionProductShort_s": "Tall pillar tap",
+        "productName_s": "Aleo Tall pillar tap",
+        "ctId_s": "7266386f-1a2b-4d2d-ac9a-8ac2c900ede0",
+        "Color.GST.Details_ss": [
+          "20070IN-4-CP|Polished Chrome|7200.0|5899.0||https://kohler.scene7.com/is/image/PAWEB/aad81976_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "20070IN-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad81976_rgb"
+        ],
+        "priceList.ANY.price_d": 7200.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "20070IN-4-CP",
+        "ProductBrandNameDisplay_s": "Aleo",
+        "variantList.sku_ss": [
+          "20070IN-4-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 5899.0,
+        "displayPriceStartingAt_s": "₹5,899.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "aleo-tall-pillar-tap-20070in-4",
+        "priceStartingAt.GST_d": 5899.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "7266386f-1a2b-4d2d-ac9a-8ac2c900ede0|20070IN-4-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|72288IN-4-CP|true|false|K-72288IN-4-CP"
+        ],
+        "ProductBrandName_s": "Aleo",
+        "masterSKU_s": "72288IN-4-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "72288IN-4-CP",
+        "productImages.labelWithUrl_ss": [
+          "72288IN-4-CP|aad84158_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad84158_rgb"
+        ],
+        "priceList.GST.price_d": 5359.0,
+        "priceList.GST.finalPrice_d": 5359.0,
+        "ProductDescriptionProductShort_s": "Single-control pillar lavatory faucet in polished chrome",
+        "productName_s": "Aleo Single-control pillar lavatory faucet in polished chrome",
+        "ctId_s": "1c416ebd-631c-4669-b97f-d459afe54d0b",
+        "Color.GST.Details_ss": [
+          "72288IN-4-CP|Polished Chrome|6540.0|5359.0||https://kohler.scene7.com/is/image/PAWEB/aad84158_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "72288IN-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad84158_rgb"
+        ],
+        "priceList.ANY.price_d": 6540.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "72288IN-4-CP",
+        "ProductBrandNameDisplay_s": "Aleo",
+        "variantList.sku_ss": [
+          "72288IN-4-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 5359.0,
+        "displayPriceStartingAt_s": "₹5,359.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "aleo-single-control-pillar-lavatory-faucet-in-polished-chrome-72288in-4",
+        "priceStartingAt.GST_d": 5359.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "1c416ebd-631c-4669-b97f-d459afe54d0b|72288IN-4-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|20071IN-4-CP|true|false|K-20071IN-4-CP"
+        ],
+        "ProductBrandName_s": "Aleo+™",
+        "masterSKU_s": "20071IN-4-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "20071IN-4-CP",
+        "productImages.labelWithUrl_ss": [
+          "20071IN-4-CP|aag69350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag69350_rgb"
+        ],
+        "priceList.GST.price_d": 6699.0,
+        "priceList.GST.finalPrice_d": 6699.0,
+        "ProductDescriptionProductShort_s": "PILLAR TAP, TALL",
+        "productName_s": "ALEO+ PILLAR TAP, TALL",
+        "ctId_s": "619bfe81-6337-493e-a5c5-0aef19f70c71",
+        "Color.GST.Details_ss": [
+          "20071IN-4-CP|Polished Chrome|8180.0|6699.0||https://kohler.scene7.com/is/image/PAWEB/aag69350_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "20071IN-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag69350_rgb"
+        ],
+        "priceList.ANY.price_d": 8180.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "20071IN-4-CP",
+        "ProductBrandNameDisplay_s": "Aleo+™",
+        "variantList.sku_ss": [
+          "20071IN-4-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 6699.0,
+        "displayPriceStartingAt_s": "₹6,699.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "aleo-pillar-tap-tall-20071in-4",
+        "priceStartingAt.GST_d": 6699.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "619bfe81-6337-493e-a5c5-0aef19f70c71|20071IN-4-CP"
+      }
+    ],
+    "numFound": 4,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "Available_Now_s:\"Yes\"": 4
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        4
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Aleo",
+        2,
+        "Aleo+™",
+        1,
+        "Avid™",
+        1
+      ],
+      "FaucetsInstallationType_ss": [
+        "Single control Faucets",
+        48,
+        "Tall Faucets",
+        4,
+        "Wall-Mount Faucets",
+        33,
+        "Widespread Faucets",
+        9
+      ],
+      "FaucetsProductType_s": [
+        "Cold Only",
+        3,
+        "Hot and Cold",
+        1
+      ],
+      "ATTR_SPEC_SpoutType_s": [
+        "Tall",
+        4
+      ],
+      "SpecialFeatureList_ss": [
+        "With pop-up drain",
+        1
+      ],
+      "FaucetsProductStyle_ss": [
+        "Contemporary",
+        4
+      ],
+      "Available_Now_s": [
+        "Yes",
+        4
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        3,
+        "Paid",
+        1
+      ]
+    },
+    "facet_ranges": {
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          3,
+          "40000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          3,
+          "60000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          3,
+          "60000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          3,
+          "60000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

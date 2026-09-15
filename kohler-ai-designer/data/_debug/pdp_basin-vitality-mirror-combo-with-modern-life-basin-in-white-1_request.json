@@ -1,0 +1,183 @@
+{
+  "product_url": "https://www.kohler.co.in/p/basin-vitality-mirror-combo-with-modern-life-basin-in-white-1?skuId=C64",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/basin-vitality-mirror-combo-with-modern-life-basin-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/basin-vitality-mirror-combo-with-modern-life-basin-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/basin-vitality-mirror-combo-with-modern-life-basin-in-white-1?skuId=C64",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "PcqJc17yCB",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=280, origin; dur=743, ak_p; desc=\"1789421116344_400553078_266619662_102412_10329_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:25:17 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2069",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 76.0,
+            "Color.SKU.Details_ss": [
+              "Not Applicable|swatch_NA|22931IN-NA|true|false|K-22931IN-NA"
+            ],
+            "ProductPackageContents_s": "1 WALL MOUNT MIRROR, 1 HARDWARE KIT, 1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "22931IN-NA|aaf67773_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67773_rgb",
+              "22931IN-NA|aae33371_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae33371_rgb",
+              "22931IN-NA|aae33371_rgb|IMGITEMISOLightOn||3/4 view of product with light on|https://kohler.scene7.com/is/image/PAWEB/aae33371_rgb",
+              "22931IN-NA|aaf67767_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67767_rgb",
+              "22931IN-NA|aaf67768_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67768_rgb",
+              "22931IN-NA|aaf67769_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67769_rgb",
+              "22931IN-NA|aaf67770_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67770_rgb",
+              "22931IN-NA|aaf67771_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67771_rgb",
+              "22931IN-NA|aaf67772_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67772_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "76.2 cm round lighted mirror",
+            "ColorFinish_s": "Not Applicable",
+            "productName_s": "Vitality™ 76.2 cm round lighted mirror",
+            "ctId_s": "5d68e944-2f29-4036-aaac-97bf1b6bcea5",
+            "ProductWebFeatures_ss": [
+              "Internal LED light guide provides optimally bright bathroom vanity lighting for grooming tasks",
+              "Integrated LED bulbs have an estimated life expectancy of 30,000 hours",
+              "Brightness at 830 lumens ensures consistent bright lighting with no harsh shadows",
+              "Approx. 4000 Kelvin light appearance delivers a neutral light ideal for overall bathroom aesthetics as well as tasks",
+              "Minimum 90 CRI (color rendering index) lets you see yourself in the truest light for makeup application, grooming, and skin care",
+              "Touchless sensor-activated lighting",
+              "Built-in 9-7/8\" x 13-3/4\" (25 cm x 35 cm) electric defogger ensures reflection visibility—even in high humidity"
+            ],
+            "ProductOverallWidthCm_d": 76.0,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "22931IN-NA",
+            "SKUShippingWidth_s": "83.500",
+            "ProductLocalCategory_s": "Medicine Cabinets & Mirrors",
+            "ProductBrandNameDisplay_s": "Vitality™",
+            "SKUShippingHeight_s": "39.000",
+            "SKUShippingLength_s": "89.500",
+            "slug_s": "vitality-762-mm-round-lighted-mirror-22931in",
+            "ProductOverallLengthCm_d": 3.0
+          },
+          {
+            "ProductOverallHeightCm_d": 13.3,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|21226IN-SS-0|true|false|K-21226IN-SS-0"
+            ],
+            "ProductPackageContents_s": "1 LAVATORY;\n1 INSTALLATION TEMPLATE AND\n1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "21226IN-SS-0|aaf59668_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf59668_rgb",
+              "21226IN-SS-0|aaf66558_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66558_rgb",
+              "21226IN-SS-0|aaf66559_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66559_rgb",
+              "21226IN-SS-0|aaf66556_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66556_rgb",
+              "21226IN-SS-0|aaf66557_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66557_rgb",
+              "21226IN-SS-0|aaf66560_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66560_rgb",
+              "21226IN-SS-0|aaf66561_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf66561_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "60 cm Edge Vessel Basin",
+            "ColorFinish_s": "White",
+            "productName_s": "ModernLife® 60 cm Edge Vessel Basin",
+            "ctId_s": "fe5bde8d-a4ca-40b0-9656-b68310082266",
+            "ProductWebFeatures_ss": [
+              "A new thin ModernLife Edge vessel, with a 40% thinner edge (6mm)",
+              "Only drain-cut required, no core cutting needed",
+              "Compatible with all Kohler tall faucets & wall-mount faucets",
+              "Without overflow channel"
+            ],
+            "ProductOverallWidthCm_d": 40.0,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "21226IN-SS-0",
+            "SKUShippingWidth_s": "45.000",
+            "ProductLocalCategory_s": "Bathroom Sinks",
+            "ProductBrandNameDisplay_s": "ModernLife® Edge",
+            "SKUShippingHeight_s": "17.000",
+            "SKUShippingLength_s": "67.000",
+            "slug_s": "modernlife-edge-edge-600-vessel-21226in-ss",
+            "ProductOverallLengthCm_d": 60.0
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Basin Vitality mirror combo with Modern life  basin in white",
+            "ctId_s": "877b248f-c22a-4df9-9566-d6a92f5eb063",
+            "priceList.ANY.finalPrice_d": 62700.0,
+            "redirectUrl_s": "https://shopkohler.in/products/vitality-mirror-with-modern-life-white-basin-combo",
+            "sku_s": "C64",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 62700.0,
+            "Product_Category": "Grooming Area Combos",
+            "CustomerFacingSKU_s": "K-C64",
+            "variantList.sku_ss": [
+              "C64"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "C64|aaf68453_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68453_rgb",
+              "C64|aaf68454_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68454_rgb",
+              "C64|aaf68455_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68455_rgb",
+              "C64|aaf68456_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf68456_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 50158.0,
+            "priceList.KEMP.finalPrice_d": 62700.0,
+            "id": "877b248f-c22a-4df9-9566-d6a92f5eb063|C64"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

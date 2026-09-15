@@ -1,0 +1,177 @@
+{
+  "product_url": "https://www.kohler.co.in/p/arise-single-function-lighted-showerhead-9-5-lpm-24613in?skuId=24613IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/arise-single-function-lighted-showerhead-9-5-lpm-24613in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/arise-single-function-lighted-showerhead-9-5-lpm-24613in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/arise-single-function-lighted-showerhead-9-5-lpm-24613in?skuId=24613IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "iDrVPng8Yy",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=249, origin; dur=716, ak_p; desc=\"1789449094220_400553078_274087568_96530_13080_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:11:35 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1905",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613in.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/arise-®-lighted-showerhead-in-chrome",
+            "ProductWebInstallation_ss": [
+              "G 1/2 inlet connection",
+              "Required for installation: Sealant tape and adjustable wrench",
+              "Wall-mount",
+              "Shower arm and flange sold separately"
+            ],
+            "ProductOverallWidthInches_s": "5-11/16\"",
+            "ProductNarrativeDescription_s": "See yourself in a better light with the Arise™ lighted showerhead. Powered by the water flowing through your showerhead alone, with no batteries or electrical connection required, the Arise™ showerhead offers softly diffused LED lighting to gently illuminate your shower space. Our angled nozzles produce a rich and luxurious full-coverage spray, creating the perfect environment for relaxation.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|24613IN-CP|false|false|K-24613IN-CP",
+              "Vibrant Brushed Nickel|swatch_BN|24613IN-BN|false|false|K-24613IN-BN"
+            ],
+            "ProductBrandName_s": "Arise™",
+            "ProductPackageContents_s": " 1 SHOWERHEAD; 1 WARRANTY; 1 INSTALLATION MANUAL",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613in.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-24613IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613in.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "24613IN-CP|aah42110_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah42110_rgb",
+              "24613IN-CP|aah42107_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42107_rgb",
+              "24613IN-CP|aah42109_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42109_rgb",
+              "24613IN-CP|aah42108_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aah42108_rgb",
+              "24613IN-CP|aah42111_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aah42111_rgb",
+              "24613IN-CP|aad01942_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad01942_rgb",
+              "24613IN-BN|aaf07791_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf07791_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3689.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 4500.0,
+            "ProductOverallLengthInches_s": "5-11/16\"",
+            "ProductDescriptionProductShort_s": "Single-function lighted showerhead, 9.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613insde.dxf"
+            ],
+            "productName_s": "Arise™ Single-function lighted showerhead, 9.5 lpm",
+            "ctId_s": "cfb4e659-1ef9-4626-9823-f77cbdfa4931",
+            "ProductWebFeatures_ss": [
+              "Single-function showerhead",
+              "Softly diffused LED lighting illuminates your shower and provides improved grooming visibility",
+              "Lighting powered by water flowing through showerhead; no batteries or electrical connection required",
+              "Angled nozzles provide a full-coverage spray",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "2.5 gpm (9.5 lpm) maximum flow rate at 80 psi (5.5 bar)",
+              "Box includes: Showerhead"
+            ],
+            "priceList.ANY.finalPrice_d": 4500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613insde.dwg"
+            ],
+            "ProductCaliforniaProp65WarningDisclaimer_s": "",
+            "sku_s": "24613IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-Arise-K-24613IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613in.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "16.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "24613IN",
+            "productInRiverId_s": "inRiver_2696549",
+            "priceList.CTR.finalPrice_d": 4500.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-24613IN-CP",
+            "ProductBrandNameDisplay_s": "Arise™",
+            "variantList.sku_ss": [
+              "24613IN-CP",
+              "24613IN-BN"
+            ],
+            "SKUShippingHeight_s": "15.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "17.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/24613in.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-1/8\"",
+            "id": "cfb4e659-1ef9-4626-9823-f77cbdfa4931|24613IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

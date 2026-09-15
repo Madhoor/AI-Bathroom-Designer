@@ -1,0 +1,129 @@
+{
+  "product_url": "https://www.kohler.co.in/p/hone-wall-mount-bath-spout-22543in-n?skuId=22543IN-N-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/hone-wall-mount-bath-spout-22543in-n",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/hone-wall-mount-bath-spout-22543in-n",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/hone-wall-mount-bath-spout-22543in-n?skuId=22543IN-N-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "otIIwvvG1S",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=245, origin; dur=728, ak_p; desc=\"1789446739689_400553039_335265603_99568_11440_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:32:20 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1588",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "Featuring a contemporary silhouette and soft edges, the Hone® collection from Kohler draws inspiration from the elegance of modern European design to create a more premium aesthetic. Crafted with precision from premium brass, this wall-mount bath spout offers both functionality and aesthetic appeal, seamlessly balancing form with utility. The square shape, tempered by gently rounded corners, adds a touch of refined minimalism to create a sleek, timeless look. Ideal for those who appreciate understated sophistication, the Hone® collection enhances any bathroom with subtle charm and enduring style, embodying a perfect harmony of modern design and reliable performance.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|22543IN-N-CP|true|false|K-22543IN-N-CP",
+              "Vibrant French Gold|swatch_AF|22543IN-N-AF|true|false|K-22543IN-N-AF"
+            ],
+            "ProductBrandName_s": "Hone™",
+            "ProductPackageContents_s": " HONEBATHSPOUTPACKAGECONTENT:1BATHSPOUT;1ESCUTCHEON;1INSTALLATIONGUIDE",
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-22543IN-N_spec_IN_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "22543IN-N-AF|aai00750_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai00750_rgb",
+              "22543IN-N-AF|aaj06059_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaj06059_rgb",
+              "22543IN-N-AF|aaj06057_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06057_rgb",
+              "22543IN-N-AF|aaj06058_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06058_rgb",
+              "22543IN-N-AF|aaj06052_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj06052_rgb",
+              "22543IN-N-CP|aai00745_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai00745_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3519.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 4300.0,
+            "ProductOverallLengthInches_s": "6-9/16\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout",
+            "productName_s": "Hone® Wall-mount bath spout",
+            "ctId_s": "975a86d7-3bcc-4d8e-b4f4-1f5ea879f889",
+            "ProductWebFeatures_ss": [
+              "Sleek, minimalist design",
+              "Nondiverter spout",
+              "6.5 inch (16.4 cm) spout reach",
+              "Coordinates with other products in the Hone® collection to complete your bathroom"
+            ],
+            "priceList.ANY.finalPrice_d": 4300.0,
+            "sku_s": "22543IN-N-CP",
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "8.800",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "22543IN-N",
+            "productInRiverId_s": "inRiver_3469035",
+            "priceList.CTR.finalPrice_d": 4300.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-22543IN-N-CP",
+            "ProductBrandNameDisplay_s": "Hone™",
+            "variantList.sku_ss": [
+              "22543IN-N-CP",
+              "22543IN-N-AF"
+            ],
+            "SKUShippingHeight_s": "5.500",
+            "ctProductType_s": "bath-shower-faucets",
+            "SKUShippingLength_s": "24.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductWebMaterial_ss": [
+              "Premium brass construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductOverallHeightInches_s": "2-3/8\"",
+            "id": "975a86d7-3bcc-4d8e-b4f4-1f5ea879f889|22543IN-N-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

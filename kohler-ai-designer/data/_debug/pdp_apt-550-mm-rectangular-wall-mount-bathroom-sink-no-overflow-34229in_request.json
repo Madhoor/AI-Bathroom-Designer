@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/apt-550-mm-rectangular-wall-mount-bathroom-sink-no-overflow-34229in?skuId=34229IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/apt-550-mm-rectangular-wall-mount-bathroom-sink-no-overflow-34229in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/apt-550-mm-rectangular-wall-mount-bathroom-sink-no-overflow-34229in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/apt-550-mm-rectangular-wall-mount-bathroom-sink-no-overflow-34229in?skuId=34229IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "GND1DmNpYq",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=1706, ak_p; desc=\"1789421089336_400553078_266617931_197116_14051_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:24:51 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1785",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Installation hardware included",
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "18-3/16\"",
+            "ProductNarrativeDescription_s": "The KOHLER® APT™ collection exemplifies the perfect union of modern beauty and practical functionality, offering a reliable experience that elevates any bathroom. This sink, with its sleek and contemporary wall-mount design, boasts a compact, rectangular shape, making it an ideal choice for smaller bathrooms or powder rooms. Its space-saving silhouette ensures it fits seamlessly into tighter layouts without compromising style or performance. Crafted from durable, high-quality materials, this sink is built to withstand the demands of daily use while retaining its polished appearance for years to come. For a cohesive look, consider coordinating your new sink with other thoughtfully designed pieces from the APT™ collection, creating a harmonious and sophisticated bathroom that combines elegance with enduring practicality.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|34229IN-0|true|false|K-34229IN-0"
+            ],
+            "ProductBrandName_s": "APT™",
+            "ProductPackageContents_s": "1 Lavatory ; 1 Installation Instruction ; 1 Installation Kit ; 1 Warranty card",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1587978-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-34229IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "34229IN-0|aaf40240_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf40240_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 6369.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 7500.0,
+            "ProductOverallLengthInches_s": "21-11/16\"",
+            "ProductDescriptionProductShort_s": "55 cm rectangular wall-mount bathroom sink, no overflow",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229insde.dxf"
+            ],
+            "productName_s": "APT™ 55 cm rectangular wall-mount bathroom sink, no overflow",
+            "ctId_s": "f502e6ea-563a-4ab8-8921-e33eab6054fa",
+            "ProductWebFeatures_ss": [
+              "Contemporary design makes a modern statement",
+              "Rectangular basin with rounded corners",
+              "Integrated rear faucet deck provides countertop space for placing small items",
+              "Single faucet hole at deck center",
+              "Without overflow",
+              "Coordinates with other products in the APT™ collection"
+            ],
+            "priceList.ANY.finalPrice_d": 7500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229insde.dwg"
+            ],
+            "sku_s": "34229IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Wall_Mount-Lavatory-KOHLER-APT-K-34229IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "18.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "34229IN",
+            "productInRiverId_s": "inRiver_3048704",
+            "priceList.CTR.finalPrice_d": 7500.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-34229IN-0",
+            "ProductBrandNameDisplay_s": "APT™",
+            "variantList.sku_ss": [
+              "34229IN-0"
+            ],
+            "SKUShippingHeight_s": "49.500",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "60.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34229IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "5-1/8\"",
+            "id": "f502e6ea-563a-4ab8-8921-e33eab6054fa|34229IN-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rain-duet-round-178mm-single-function-rainhead-72438in?skuId=72438IN-AF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rain-duet-round-178mm-single-function-rainhead-72438in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rain-duet-round-178mm-single-function-rainhead-72438in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5389>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rain-duet-round-178mm-single-function-rainhead-72438in?skuId=72438IN-AF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "xETirCxBo7",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=264, origin; dur=716, ak_p; desc=\"1789449178397_400553078_274129017_98052_11302_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:12:59 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1165",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "redirectUrl_s": "https://shopkohler.in/products/rain-duet-round-178mm-rainhead-in-french-gold-finish",
+            "ProductNarrativeDescription_s": "\nEmbark on a journey of sensory indulgence with KOHLER showerheads and sprays, where the transformative power of water becomes an immersive experience. Unveiling a harmonious blend of stunning design and functionality, each fixture is meticulously crafted to refresh your body, renew your mind, and rejuvenate your spirit. With a commitment to tailoring experiences to every need, KOHLER showerheads and sprays unlock a world of possibilities, allowing you to explore the full potential of water in your daily routine.bathroom.",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|72438IN-AF|false|false|K-72438IN-AF"
+            ],
+            "ProductBrandName_s": "Rain Duet™",
+            "ProductPackageContents_s": "1 RAINDUET ROUND 178MM RAINHEAD, 1 CERTIFICATE OF MAINTENANCE, 1 INSERT, 1 INSTALLATION INSTRUCTION",
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "72438IN-AF|72438IN-AF|HIPPOIMGITEMISO||3/4 view of product|https://s7g10.scene7.com/is/image/kohlerindia/72438IN-AF"
+            ],
+            "priceList.GST.finalPrice_d": 7499.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 9150.0,
+            "ProductDescriptionProductShort_s": "Round 17.8 cm single-function rainhead",
+            "productName_s": "Rain Duet™ Round 17.8 cm single-function rainhead",
+            "ctId_s": "bfd628d1-aee0-4ee1-b835-38b624097a70",
+            "priceList.ANY.finalPrice_d": 9150.0,
+            "sku_s": "72438IN-AF",
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "22.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "72438IN",
+            "productInRiverId_s": "inRiver_2491779",
+            "priceList.CTR.finalPrice_d": 9150.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-72438IN-AF",
+            "ProductBrandNameDisplay_s": "Rain Duet™",
+            "variantList.sku_ss": [
+              "72438IN-AF"
+            ],
+            "SKUShippingHeight_s": "10.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "23.500",
+            "SKUIsProjectPack_s": "No",
+            "id": "bfd628d1-aee0-4ee1-b835-38b624097a70|72438IN-AF"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

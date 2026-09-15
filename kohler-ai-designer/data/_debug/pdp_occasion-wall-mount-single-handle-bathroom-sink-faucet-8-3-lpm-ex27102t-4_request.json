@@ -1,0 +1,171 @@
+{
+  "product_url": "https://www.kohler.co.in/p/occasion-wall-mount-single-handle-bathroom-sink-faucet-8-3-lpm-ex27102t-4?skuId=EX27102T-4-2MB",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/occasion-wall-mount-single-handle-bathroom-sink-faucet-8-3-lpm-ex27102t-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/occasion-wall-mount-single-handle-bathroom-sink-faucet-8-3-lpm-ex27102t-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/occasion-wall-mount-single-handle-bathroom-sink-faucet-8-3-lpm-ex27102t-4?skuId=EX27102T-4-2MB",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "EqHMSOapVr",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=303, origin; dur=763, ak_p; desc=\"1789422067390_400553039_333241572_106640_10259_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:41:08 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1899",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX27102T-4.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex27102t_4frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Trim only; requires valve to complete installation (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "2-5/8\"",
+            "ProductNarrativeDescription_s": "Unapologetically luxurious and truly unforgettable, Occasion bathroom faucets and accessories draw inspiration from 1960s Hollywood glamour and extravagance. Fashioned after the era’s sleek dress lines and bold car designs, the Occasion collection reflects graceful elegance, blending classic midcentury and modern design. Customize your bathroom with the collection’s distinctive pentagonal accents, faceted bases, flowing lines, and delicate edges. Sleek and statuesque, the Occasion wall-mount single-handle bathroom sink faucet is as fashionable as it is functional. Valve is sold separately.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Brushed Moderne Brass|swatch_2MB|EX27102T-4-2MB|false|false|K-EX27102T-4-2MB",
+              "Vibrant Rose Gold|swatch_RGD|EX27102T-4-RGD|false|false|K-EX27102T-4-RGD",
+              "Matte Black with Brushed Moderne Brass|swatch_BMB|EX27102T-4-BMB|false|false|K-EX27102T-4-BMB"
+            ],
+            "ProductBrandName_s": "Occasion™",
+            "ProductPackageContents_s": "1-WM LAV FAUCET, 1 MOUNTING KIT; 1 ESCUTCHEON KIT;1 \nWARRANTY;1INSTALLATION INSTRUCTION",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX27102T-4.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1425622-2-C(EX27102T-4).pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-EX27102T-4_spec_CN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-EX27102T-4_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX27102T-4.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "EX27102T-4-RGD|aad99370_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99370_rgb",
+              "EX27102T-4-2MB|aad99374_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99374_rgb",
+              "EX27102T-4-BMB|aad99373_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99373_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 78200.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 78200.0,
+            "ProductOverallLengthInches_s": "",
+            "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet, 8.3 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex27102t_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex27102t_4sde.dxf"
+            ],
+            "productName_s": "Occasion™ Wall-mount single-handle bathroom sink faucet, 8.3 lpm",
+            "ctId_s": "6b3909c7-d621-482e-b8b2-b3e2b24b485c",
+            "ProductWebFeatures_ss": [
+              "A single handle controls both on/off activation and temperature setting",
+              "8-5/8\" (21.9 cm) spout reach",
+              "2.2 gpm (8.3 lpm) maximum flow rate at 60 psi (4.14 bar)",
+              "Includes clicker drain with 1-1/4\" (32 mm) metal tailpiece",
+              "Part of the Occasion bathroom faucet and accessory collection"
+            ],
+            "priceList.ANY.finalPrice_d": 78200.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex27102t_4sde.dwg"
+            ],
+            "ProductCaliforniaProp65WarningDisclaimer_s": "",
+            "sku_s": "EX27102T-4-2MB",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-OCCASION-K-EX27102T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX27102T-4.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "8.071",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "EX27102T-4",
+            "productInRiverId_s": "inRiver_1730154",
+            "priceList.CTR.finalPrice_d": 78200.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-EX27102T-4-2MB",
+            "ProductBrandNameDisplay_s": "Occasion™",
+            "variantList.sku_ss": [
+              "EX27102T-4-2MB",
+              "EX27102T-4-BMB",
+              "EX27102T-4-RGD"
+            ],
+            "SKUShippingHeight_s": "3.346",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "12.913",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex27102t_4pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/ex27102t_4frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/EX27102T-4.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-11/16\"",
+            "id": "6b3909c7-d621-482e-b8b2-b3e2b24b485c|EX27102T-4-2MB"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

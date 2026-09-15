@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/sveda-663-mm-oval-vessel-bathroom-sink-31347in?skuId=31347IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/sveda-663-mm-oval-vessel-bathroom-sink-31347in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/sveda-663-mm-oval-vessel-bathroom-sink-31347in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/sveda-663-mm-oval-vessel-bathroom-sink-31347in?skuId=31347IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "oxUtVUiLvX",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=239, origin; dur=733, ak_p; desc=\"1789420746628_400553078_266591237_97263_10534_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:19:07 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1635",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Vessel"
+            ],
+            "ProductOverallWidthInches_s": "16-3/4\"",
+            "ProductNarrativeDescription_s": "Bring the luxury of a spa to your home with the Sveda® vessel bathroom sink. A slanted oval basin and a sleek slotted drain create a unique modern look. When paired with the Sveda® steam generator, this first-of-its-kind bathroom sink produces a soothing, warm steam that can aid in rejuvenating, detoxifying, and hydrating the skin. It can also provide relief from throat and nose congestion.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|31347IN-0|true|false|K-31347IN-0"
+            ],
+            "ProductBrandName_s": "Sveda™",
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 LAVATORY;\n1 WARRANTY CARD; 1 INSTALLATION\nGUIDE; 1 DRAIN ASSEMBLY",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1486830-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1557351-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-31347IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "31347IN-0|aae80450_rgb|IMGITEMISO||3.4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae80450_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 25599.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 32000.0,
+            "ProductOverallLengthInches_s": "26-1/8\"",
+            "ProductDescriptionProductShort_s": "66.3 cm oval vessel bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347insde.dxf"
+            ],
+            "productName_s": "Sveda® 66.3 cm oval vessel bathroom sink",
+            "ctId_s": "58bfec1e-2877-4262-a511-352d6151616e",
+            "ProductWebFeatures_ss": [
+              "Unique slanted oval basin",
+              "No faucet holes; requires wall- or counter-mount faucet",
+              "Unique slotted drain creates a sleek look",
+              "No overflow",
+              "With deck-mount digital control",
+              "Sveda® steam generator required for steam functionality (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 32000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "31347IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Steam-Vessel-Lavatory-KOHLER-Swedna-K-31347IN.rfa"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "55.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "31347IN",
+            "productInRiverId_s": "inRiver_2312528",
+            "priceList.CTR.finalPrice_d": 32000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-31347IN-0",
+            "ProductBrandNameDisplay_s": "Sveda™",
+            "variantList.sku_ss": [
+              "31347IN-0"
+            ],
+            "SKUShippingHeight_s": "30.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "72.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347inpln.dwg"
+            ],
+            "ProductResource.HomeownersGuide.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1490657-IN5.pdf"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_2312522",
+              "inRiver_3128234"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31347infrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "7-5/8\"",
+            "id": "58bfec1e-2877-4262-a511-352d6151616e|31347IN-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

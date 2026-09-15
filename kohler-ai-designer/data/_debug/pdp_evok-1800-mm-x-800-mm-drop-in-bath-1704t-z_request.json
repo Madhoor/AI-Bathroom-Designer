@@ -1,0 +1,181 @@
+{
+  "product_url": "https://www.kohler.co.in/p/evok-1800-mm-x-800-mm-drop-in-bath-1704t-z?skuId=1704T-Z-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/evok-1800-mm-x-800-mm-drop-in-bath-1704t-z",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/evok-1800-mm-x-800-mm-drop-in-bath-1704t-z",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/evok-1800-mm-x-800-mm-drop-in-bath-1704t-z?skuId=1704T-Z-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "XDlf4udFxf",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=243, origin; dur=759, ak_p; desc=\"1789420379221_400553039_333166799_100200_10085_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:13:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1755",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704T-Z.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704t_zfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/evok-1800mm-drop-in-acrylic-bathtub-in-white",
+            "ProductWebInstallation_ss": [
+              "Drop-in"
+            ],
+            "ProductOverallWidthInches_s": "31-1/2\"",
+            "ProductNarrativeDescription_s": "Clean, elegant, and contained, the Evok™ drop-in bath expresses contemporary warmth and simplicity. This Evok™ rectangular bath lets you indulge in a deep, immersive soak as you relax against the sloped lumbar support at either end. The sleek acrylic construction offers exceptional durability, with thoughtful touches like built-in integral overflow and center toe-tap drain.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1704T-Z-0|false|false|K-1704T-Z-0"
+            ],
+            "ProductBrandName_s": "Evok™",
+            "ProductPackageContents_s": "1 BATHTUB; 1 INSTALLATION GUIDE; 1 WARRANTY SHEET",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704T-Z.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556175"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1704T-Z_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704T-Z.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1704T-Z-0|aag07812_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aag07812_rgb",
+              "1704T-Z-0|aaf80569_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf80569_rgb",
+              "1704T-Z-0|aaf80568_rgb|IMGTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aaf80568_rgb",
+              "1704T-Z-0|aag07813_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07813_rgb",
+              "1704T-Z-0|aag07815_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07815_rgb",
+              "1704T-Z-0|aag07814_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07814_rgb",
+              "1704T-Z-0|aag07818_rgb|IMGTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aag07818_rgb",
+              "1704T-Z-0|aag07816_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07816_rgb",
+              "1704T-Z-0|aag07819_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07819_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 56999.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 60000.0,
+            "ProductOverallLengthInches_s": "70-7/8\"",
+            "ProductDescriptionProductShort_s": "180 cm x 80 cm drop-in bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704t_zpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704t_zsde.dxf"
+            ],
+            "productName_s": "Evok™ 180 cm x 80 cm drop-in bath",
+            "ctId_s": "af5f77a3-7860-467c-bbc9-8596c0d9e9be",
+            "ProductWebFeatures_ss": [
+              "Rectangular basin creates a spacious bathing experience",
+              "Drop-in design creates a seamless bathroom aesthetic",
+              "70-7/8\" (180 cm) x 31-1/2\" (80 cm) x 21-5/8\" (55 cm)",
+              "Round overflow",
+              "Center drain",
+              "15-1/2\" (39.3 cm) soaking depth",
+              "Integral lumbar support on both ends"
+            ],
+            "priceList.ANY.finalPrice_d": 60000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704t_zsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2"
+            ],
+            "sku_s": "1704T-Z-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In-KOHLER-EVOK-K-1704T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704T-Z.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "87.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1704T-Z",
+            "productInRiverId_s": "inRiver_2492203",
+            "priceList.CTR.finalPrice_d": 60000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-1704T-Z-0",
+            "ProductBrandNameDisplay_s": "Evok™",
+            "variantList.sku_ss": [
+              "1704T-Z-0"
+            ],
+            "SKUShippingHeight_s": "61.000",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "186.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704t_zpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1336299",
+              "inRiver_878644"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704t_zfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1704T-Z.dwg"
+            ],
+            "ProductOverallHeightInches_s": "21-5/8\"",
+            "id": "af5f77a3-7860-467c-bbc9-8596c0d9e9be|1704T-Z-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

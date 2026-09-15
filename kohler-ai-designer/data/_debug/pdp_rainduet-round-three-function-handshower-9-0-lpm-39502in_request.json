@@ -1,0 +1,179 @@
+{
+  "product_url": "https://www.kohler.co.in/p/rainduet-round-three-function-handshower-9-0-lpm-39502in?skuId=39502IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/rainduet-round-three-function-handshower-9-0-lpm-39502in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/rainduet-round-three-function-handshower-9-0-lpm-39502in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4906>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/rainduet-round-three-function-handshower-9-0-lpm-39502in?skuId=39502IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "yiXVvH8gtA",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=258, origin; dur=716, ak_p; desc=\"1789449451327_400553039_335971670_97489_13921_13_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:17:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1999",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502infrt.dxf"
+            ],
+            "ProductOverallWidthInches_s": "5-1/8\"",
+            "ProductNarrativeDescription_s": "Maximize your showering experience with the KOHLER® Rainduet® round three-function handshower. This multifunction handshower lets you select from a basic laminar flow for full coverage, soft rain for a drenching experience, or hydromassage for a targeted stream aimed at sore muscles. Easily toggle between all three spray experiences with a conveniently placed button. The innovative Purge function quickly clears clogged nozzles with the press of a button, keeping every spray at optimal performance. Pair with your choice of other KOHLER showering components to express your personal style and create your dream shower—one that is both beautiful and intuitive.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|39502IN-CP|true|false|K-39502IN-CP",
+              "Vibrant French Gold|swatch_AF|39502IN-AF|true|false|K-39502IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|39502IN-RGD|true|false|K-39502IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|39502IN-BV|true|false|K-39502IN-BV",
+              "Matte Black|swatch_BL|39502IN-BL|true|false|K-39502IN-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|39502IN-BRD|true|false|K-39502IN-BRD"
+            ],
+            "ProductBrandName_s": "Rainduet™",
+            "ProductPackageContents_s": "1 RAINHEAD; 1 INSTALLATION INSTRUCTION; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1655558-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-39502IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "39502IN-AF|aai35585_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35585_rgb",
+              "39502IN-RGD|aai35593_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35593_rgb",
+              "39502IN-BRD|aai35595_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35595_rgb",
+              "39502IN-BV|aai35582_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35582_rgb",
+              "39502IN-CP|aai35583_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35583_rgb",
+              "39502IN-BL|aai35586_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai35586_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 6559.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 8000.0,
+            "ProductOverallLengthInches_s": "10-7/16\"",
+            "ProductDescriptionProductShort_s": "Round three-function handshower, 9.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502insde.dxf"
+            ],
+            "productName_s": "Rainduet® Round three-function handshower, 9.0 lpm",
+            "ctId_s": "dd569e40-1247-4b2b-8bd9-e9e97b4548b3",
+            "ProductWebFeatures_ss": [
+              "Multifunction handshower with advanced spray engine provides three spray experiences: laminar, soft rain, and hydromassage",
+              "Laminar spray provides full coverage with soft water droplets",
+              "Soft rain spray delivers a thick, ultra-soft drenching experience",
+              "Hydromassage spray consists of four targeted kinetic streams to soothe tired and sore muscles",
+              "Purge functionality clears clogged nozzles with the press of a button",
+              "Optimized sprayface for maximum performance",
+              "13 cm (5-1/8 inch) diameter sprayface",
+              "12.0 lpm (3.16 gpm) maximum flow rate at 3.0 bar (43.5 psi)",
+              "Requires shower hose (sold separately)",
+              "Requires wall-mount bracket (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 8000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502insde.dwg"
+            ],
+            "sku_s": "39502IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower-KOHLER-K-39502IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502IN.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "4.726",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "39502IN",
+            "productInRiverId_s": "inRiver_3273700",
+            "priceList.CTR.finalPrice_d": 8000.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-39502IN-CP",
+            "ProductBrandNameDisplay_s": "Rainduet™",
+            "variantList.sku_ss": [
+              "39502IN-CP",
+              "39502IN-BRD",
+              "39502IN-AF",
+              "39502IN-BL",
+              "39502IN-BV",
+              "39502IN-RGD"
+            ],
+            "SKUShippingHeight_s": "3.545",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "11.225",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39502IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-15/16\"",
+            "id": "dd569e40-1247-4b2b-8bd9-e9e97b4548b3|39502IN-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

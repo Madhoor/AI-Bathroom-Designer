@@ -1,0 +1,159 @@
+{
+  "product_url": "https://www.kohler.co.in/p/deck-mount-trim-for-transfer-valve-vacuum-breaker-with-lever-handle-valve-not-included-t9540-4?skuId=T9540-4-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/deck-mount-trim-for-transfer-valve-vacuum-breaker-with-lever-handle-valve-not-included-t9540-4",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/deck-mount-trim-for-transfer-valve-vacuum-breaker-with-lever-handle-valve-not-included-t9540-4",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5438>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/deck-mount-trim-for-transfer-valve-vacuum-breaker-with-lever-handle-valve-not-included-t9540-4?skuId=T9540-4-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "xFJYBFUr9K",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=243, origin; dur=795, ak_p; desc=\"1789446723243_400553039_335261149_103851_11078_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 04:32:04 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1468",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/t9540_4frt.dxf"
+            ],
+            "ProductOverallWidthInches_s": "8\"",
+            "ProductNarrativeDescription_s": "Easily transfer water from your KOHLER® bath spout to the showerhead with this sturdy transfer valve trim. The ergonomic lever is easy to use and complements a wide variety of bathroom styles. Pair this trim with a bath-mount or deck-mount 2- or 3-way transfer valve with integral check valve for a personalized shower experience.",
+            "ProductBrandName_s": "",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|T9540-4-CP|false|false|K-T9540-4-CP"
+            ],
+            "ProductPackageContents_s": "1 TRANSFER VALVE\nTRIM KIT;\n1 INSTALLATION AND USER GUIDE",
+            "RegionSoldOnline_b": false,
+            "ProductServices_ss": [
+              "3-INSTALL-SERVICE"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/086840-2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-T9540-4_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-T9540-4_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-T9540-4_spec_US-CA_Kohler_fr-ca.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "T9540-4-CP|zaa75443_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa75443_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 64000.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 64000.0,
+            "ProductOverallLengthInches_s": "4-1/4\"",
+            "ProductDescriptionProductShort_s": "Deck-mount trim for transfer valve/vacuum breaker with lever handle, valve not included",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/t9540_4pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/t9540_4sde.dxf"
+            ],
+            "productName_s": "Deck-mount trim for transfer valve/vacuum breaker with lever handle, valve not included",
+            "ctId_s": "187ba61d-22dd-4e6d-8968-ac6062e14573",
+            "ProductWebFeatures_ss": [
+              "Available with lever handle",
+              "Bath-mount or deck-mount installation options"
+            ],
+            "priceList.ANY.finalPrice_d": 64000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/t9540_4sde.dwg"
+            ],
+            "ProductCaliforniaProp65WarningDisclaimer_s": "",
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2"
+            ],
+            "sku_s": "T9540-4-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Valve_Trim-KOHLER-K-T9540.rfa"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "4.875",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "T9540-4",
+            "productInRiverId_s": "inRiver_226220",
+            "priceList.CTR.finalPrice_d": 64000.0,
+            "Product_Category": "Bathtub Faucets",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1085654_8_p01.svg",
+              "1008081_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-T9540-4-CP",
+            "variantList.sku_ss": [
+              "T9540-4-CP"
+            ],
+            "SKUShippingHeight_s": "3.500",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "5.688",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/t9540_4pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Brass",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_237832",
+              "inRiver_239197"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/t9540_4frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-7/8\"",
+            "id": "187ba61d-22dd-4e6d-8968-ac6062e14573|T9540-4-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

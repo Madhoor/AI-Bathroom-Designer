@@ -1,0 +1,168 @@
+{
+  "product_url": "https://www.kohler.co.in/p/quila-vana-vessel-bathroom-sink-7799in-fdl?skuId=7799IN-FDL-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/quila-vana-vessel-bathroom-sink-7799in-fdl",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/quila-vana-vessel-bathroom-sink-7799in-fdl",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/quila-vana-vessel-bathroom-sink-7799in-fdl?skuId=7799IN-FDL-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "d2Gpm7nIiv",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=256, origin; dur=1345, ak_p; desc=\"1789420763289_400553078_266593629_160207_13210_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:19:24 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1514",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799IN-FDL.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799in_fdlfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/kohler-quila-vana",
+            "ProductWebInstallation_ss": [
+              "Vessel"
+            ],
+            "ProductOverallWidthInches_s": "14-9/16\"",
+            "ProductNarrativeDescription_s": "Named after the opulent forts and vibrant forests of India, the Quila Vana Carillon Rectangle vessel bathroom sink showcases the beauty of daily life through the eyes of artist Jai Prakash Lakhiwal. Designed for striking vessel installation, this Wading Pool sink has a short clearance to accommodate a broad range of faucet options.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|7799IN-FDL-0|false|false|K-7799IN-FDL-0"
+            ],
+            "ProductBrandName_s": "Quila Vana™",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 WALL DECOR FRAME;\n1 CUTOUT TEMPLATE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799IN-FDL.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-7799IN-FDL_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799IN-FDL.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "7799IN-FDL-0|aae30831_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae30831_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 150000.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 150000.0,
+            "ProductOverallLengthInches_s": "21-1/8\"",
+            "ProductDescriptionProductShort_s": "Vessel bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799in_fdlpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799in_fdlsde.dxf"
+            ],
+            "productName_s": "Quila Vana™ Vessel bathroom sink",
+            "ctId_s": "34aa1486-603f-4aa3-8977-eecc5ffd233e",
+            "ProductWebFeatures_ss": [
+              "Produced in collaboration with renowned artist Jai Prakash Lakhiwal",
+              "Rectangular basin with subtle lift at edges",
+              "Wading pool design accommodates a wide variety of faucets",
+              "No faucet holes; requires wall- or counter-mount faucet"
+            ],
+            "priceList.ANY.finalPrice_d": 150000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799in_fdlsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "7799IN-FDL-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Drop_In-Lavatory-KOHLER-QUILA_VANA-K-7799IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799IN-FDL.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "17.938",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "7799IN-FDL",
+            "productInRiverId_s": "inRiver_2285117",
+            "priceList.CTR.finalPrice_d": 150000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-7799IN-FDL-0",
+            "ProductBrandNameDisplay_s": "Quila Vana™",
+            "variantList.sku_ss": [
+              "7799IN-FDL-0"
+            ],
+            "SKUShippingHeight_s": "8.938",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "26.438",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799in_fdlpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1482653",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799in_fdlfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/7799IN-FDL.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-1/8\"",
+            "id": "34aa1486-603f-4aa3-8977-eecc5ffd233e|7799IN-FDL-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

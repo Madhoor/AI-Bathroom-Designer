@@ -1,0 +1,156 @@
+{
+  "product_url": "https://www.kohler.co.in/p/awaken-254mm-rainhead-76465in?skuId=76465IN-BL",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/awaken-254mm-rainhead-76465in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/awaken-254mm-rainhead-76465in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4883>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/awaken-254mm-rainhead-76465in?skuId=76465IN-BL",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "heg4CNKERq",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=305, origin; dur=781, ak_p; desc=\"1789448850421_400553039_335796185_109915_10970_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:07:31 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1520",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/awaken-single-flow-overhead-shower-in-matte-black-finish",
+            "ProductNarrativeDescription_s": "Bring the invigorating freshness of a summer rain to your shower with the Awaken rainhead. An optimized sprayface with angled nozzles generates a uniform spray pattern with wide, even coverage, simulating the experience of walking in a warm rainshower. The Awaken rainhead can be installed on a wall- or ceiling-mount showerarm, and a swivel joint allows for precise placement of the spray. Its simple and contemporary design complements the Awaken collection.",
+            "Color.SKU.Details_ss": [
+              "Matte Black|swatch_BL|76465IN-BL|false|false|K-76465IN-BL"
+            ],
+            "ProductBrandName_s": "Awaken",
+            "ProductPackageContents_s": ": 1 254MM ROUND RAINHEAD, 1 INSTALLATION INSTRUCTION \n& 1 WARRANTY CARD.",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "76465IN-BL|aae23481_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae23481_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 28449.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 34700.0,
+            "ProductDescriptionProductShort_s": "25.4 cm Rainhead",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465insde.dxf"
+            ],
+            "productName_s": "Awaken 25.4 cm Rainhead",
+            "ctId_s": "9080dcb8-adf9-42d2-b804-e79eeae139ae",
+            "ProductWebFeatures_ss": [
+              "Spray performance delivers a drenching \"rain\" experience.",
+              "Standard NPT 13 mm connection perfect use with any standard Rain head.",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup.",
+              "Angled nozzles provide a full-coverage spray.",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "priceList.ANY.finalPrice_d": 34700.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "76465IN-BL",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Showerhead-KOHLER-RAINDUET-K-76465IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "27.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "76465IN",
+            "productInRiverId_s": "inRiver_2371714",
+            "priceList.CTR.finalPrice_d": 34700.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-76465IN-BL",
+            "ProductBrandNameDisplay_s": "Awaken",
+            "variantList.sku_ss": [
+              "76465IN-BL"
+            ],
+            "SKUShippingHeight_s": "6.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "31.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465inpln.dwg"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_2492049"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76465IN.dwg"
+            ],
+            "id": "9080dcb8-adf9-42d2-b804-e79eeae139ae|76465IN-BL"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

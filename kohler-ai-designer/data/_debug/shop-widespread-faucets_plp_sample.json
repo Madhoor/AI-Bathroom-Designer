@@ -1,0 +1,682 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"FaucetsInstallationType_ss\"}FaucetsInstallationType_ss",
+      "ATTR_SPEC_WaterSaving_s",
+      "FaucetsProductType_s",
+      "{!ex=\"ATTR_SPEC_SpoutType_s\"}ATTR_SPEC_SpoutType_s",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "{!ex=\"FaucetsProductStyle_ss\"}FaucetsProductStyle_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "French Gold with Blackened Bronze Handle": "swatch_R2B",
+      "Oil-Rubbed Bronze": "swatch_2BZ",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant Brushed Bronze": "swatch_BV",
+      "Vibrant Brushed Nickel": "swatch_BN",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD",
+      "Vibrant Titanium": "swatch_TT"
+    },
+    "facet_labels": {
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "FaucetsInstallationType_ss": "Installation Type",
+      "ATTR_SPEC_WaterSaving_s": "Water Saving",
+      "FaucetsProductType_s": "Product Type",
+      "ATTR_SPEC_SpoutType_s": "Spout Type",
+      "SpecialFeatureList_ss": "Special Feature",
+      "FaucetsProductStyle_ss": "Design Style",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|8670IN-4M-CP|false|false|K-8670IN-4M-CP"
+        ],
+        "ProductBrandName_s": "Finial™",
+        "masterSKU_s": "8670IN-4M-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "8670IN-4M-CP",
+        "productImages.labelWithUrl_ss": [
+          "8670IN-4M-CP|zaa53940_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa53940_rgb"
+        ],
+        "priceList.GST.price_d": 34939.0,
+        "priceList.GST.finalPrice_d": 34939.0,
+        "ProductDescriptionProductShort_s": "Widespread lavatory faucet with lever handles and pop-up drain in polished chrome",
+        "productName_s": "Finial™ Widespread lavatory faucet with lever handles and pop-up drain in polished chrome",
+        "ctId_s": "e112fc53-ac65-4868-a9af-edbb825b87fb",
+        "Color.GST.Details_ss": [
+          "8670IN-4M-CP|Polished Chrome|42610.0|34939.0||https://kohler.scene7.com/is/image/PAWEB/zaa53940_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "8670IN-4M",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa53940_rgb"
+        ],
+        "priceList.ANY.price_d": 42610.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "8670IN-4M-CP",
+        "ProductBrandNameDisplay_s": "Finial™",
+        "variantList.sku_ss": [
+          "8670IN-4M-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 34939.0,
+        "displayPriceStartingAt_s": "₹34,939.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "finial-widespread-lavatory-faucet-with-lever-handles-and-pop-up-drain-in-polished-chrome-8670in-4m",
+        "priceStartingAt.GST_d": 34939.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e112fc53-ac65-4868-a9af-edbb825b87fb|8670IN-4M-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|98068T-3M-CP|false|false|K-98068T-3M-CP"
+        ],
+        "ProductBrandName_s": "Artifacts™",
+        "masterSKU_s": "98068T-3M-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "98068T-3M-CP",
+        "productImages.labelWithUrl_ss": [
+          "98068T-3M-CP|zab31042_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31042_rgb"
+        ],
+        "priceList.GST.price_d": 22399.0,
+        "priceList.GST.finalPrice_d": 22399.0,
+        "ProductDescriptionProductShort_s": "Classic Style Handles",
+        "productName_s": "Artifacts™ Classic Style Handles",
+        "ctId_s": "44483876-7cc2-48db-afca-b636e1fa36ff",
+        "Color.GST.Details_ss": [
+          "98068T-3M-CP|Polished Chrome|28000.0|22399.0||https://kohler.scene7.com/is/image/PAWEB/zab31042_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "98068T-3M",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab31042_rgb"
+        ],
+        "priceList.ANY.price_d": 28000.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "98068T-3M-CP",
+        "ProductBrandNameDisplay_s": "Artifacts™",
+        "variantList.sku_ss": [
+          "98068T-3M-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 22399.0,
+        "displayPriceStartingAt_s": "₹22,399.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "artifacts-classic-style-handles-98068t-3m",
+        "priceStartingAt.GST_d": 22399.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "44483876-7cc2-48db-afca-b636e1fa36ff|98068T-3M-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Titanium|swatch_TT|73060T-9GCH-TT|false|false|K-73060T-9GCH-TT"
+        ],
+        "ProductBrandName_s": "Composed™ ",
+        "metaTitle_s": "KOHLER | K-73060T-9GCH | COMPOSED® LIU GUANG JING YUN Series COMPOSED® 8” Bathroom Sink Faucet with Ink Gray Glazed Glass Handle",
+        "masterSKU_s": "73060T-9GCH-TT",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_TT"
+        ],
+        "sourceId_s": "73060T-9GCH-TT",
+        "productImages.labelWithUrl_ss": [
+          "73060T-9GCH-TT|aad98764_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad98764_rgb"
+        ],
+        "priceList.GST.price_d": 76799.0,
+        "priceList.GST.finalPrice_d": 76799.0,
+        "ProductDescriptionProductShort_s": "Widespread bathroom sink faucet, 4.5 lpm",
+        "productName_s": "Composed™ Liu Guang Jing Yun Widespread bathroom sink faucet, 4.5 lpm",
+        "ctId_s": "c6a7a421-a157-4fc9-80b3-880ff2222936",
+        "Color.GST.Details_ss": [
+          "73060T-9GCH-TT|Vibrant Titanium|96000.0|76799.0||https://kohler.scene7.com/is/image/PAWEB/aad98764_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "73060T-9GCH",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad98764_rgb"
+        ],
+        "priceList.ANY.price_d": 96000.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "73060T-9GCH-TT",
+        "ProductBrandNameDisplay_s": "Composed™",
+        "variantList.sku_ss": [
+          "73060T-9GCH-TT"
+        ],
+        "discountedPriceStartingAt.GST_d": 76799.0,
+        "displayPriceStartingAt_s": "₹76,799.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Titanium"
+        ],
+        "slug_s": "composed-liu-guang-jing-yun-widespread-bathroom-sink-faucet-4-5-lpm-73060t-9gch",
+        "priceStartingAt.GST_d": 76799.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "c6a7a421-a157-4fc9-80b3-880ff2222936|73060T-9GCH-TT"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Rose Gold|swatch_RGD|13491T-4-RGD|false|false|K-13491T-4-RGD"
+        ],
+        "ProductBrandName_s": "Kelston™",
+        "masterSKU_s": "13491T-4-RGD",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_RGD"
+        ],
+        "sourceId_s": "13491T-4-RGD",
+        "productImages.labelWithUrl_ss": [
+          "13491T-4-RGD|aad04452_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad04452_rgb"
+        ],
+        "priceList.GST.price_d": 84600.0,
+        "priceList.GST.finalPrice_d": 84600.0,
+        "ProductDescriptionProductShort_s": "Dual Handle 8\" (20.3 cm) Lavatory Faucet",
+        "productName_s": "Kelston Dual Handle 8\" (20.3 cm) Lavatory Faucet",
+        "ctId_s": "195ac832-623f-4949-9391-ac72e51c6fd7",
+        "Color.GST.Details_ss": [
+          "13491T-4-RGD|Vibrant Rose Gold|84600.0|84600.0||https://kohler.scene7.com/is/image/PAWEB/aad04452_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "13491T-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad04452_rgb"
+        ],
+        "priceList.ANY.price_d": 84600.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "13491T-4-RGD",
+        "ProductBrandNameDisplay_s": "Kelston™",
+        "variantList.sku_ss": [
+          "13491T-4-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 84600.0,
+        "displayPriceStartingAt_s": "₹84,600.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "kelston-dual-handle-8-203-mm-lavatory-faucet-13491t-4",
+        "priceStartingAt.GST_d": 84600.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "195ac832-623f-4949-9391-ac72e51c6fd7|13491T-4-RGD"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|72758T-CP|false|false|K-72758T-CP"
+        ],
+        "ProductBrandName_s": "Artifacts™",
+        "masterSKU_s": "72758T-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "72758T-CP",
+        "productImages.labelWithUrl_ss": [
+          "72758T-CP|zab30982_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30982_rgb"
+        ],
+        "priceList.GST.price_d": 17599.0,
+        "priceList.GST.finalPrice_d": 17599.0,
+        "ProductDescriptionProductShort_s": "Widespread lav faucets, tea",
+        "productName_s": "Artifacts™ Widespread lav faucets, tea",
+        "ctId_s": "9a049d25-c7a1-4307-a700-c9f4b0138c1c",
+        "Color.GST.Details_ss": [
+          "72758T-CP|Polished Chrome|22000.0|17599.0||https://kohler.scene7.com/is/image/PAWEB/zab30982_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "72758T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab30982_rgb"
+        ],
+        "priceList.ANY.price_d": 22000.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "72758T-CP",
+        "ProductBrandNameDisplay_s": "Artifacts™",
+        "variantList.sku_ss": [
+          "72758T-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 17599.0,
+        "displayPriceStartingAt_s": "₹17,599.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "artifacts-widespread-lav-faucets-tea-72758t",
+        "priceStartingAt.GST_d": 17599.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "9a049d25-c7a1-4307-a700-c9f4b0138c1c|72758T-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|72759T-CP|false|false|K-72759T-CP",
+          "Vibrant Brushed Nickel|swatch_BN|72759T-BN|false|false|K-72759T-BN",
+          "Vibrant Brushed Bronze|swatch_BV|72759T-BV|true|false|K-72759T-BV",
+          "Oil-Rubbed Bronze|swatch_2BZ|72759T-2BZ|false|false|K-72759T-2BZ"
+        ],
+        "ProductBrandName_s": "Artifacts™",
+        "masterSKU_s": "72759T-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BN",
+          "swatch_2BZ",
+          "swatch_BV"
+        ],
+        "sourceId_s": "72759T-CP",
+        "productImages.labelWithUrl_ss": [
+          "72759T-CP|zab30994_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30994_rgb",
+          "72759T-BN|zab30990_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30990_rgb",
+          "72759T-BV|zab31060_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31060_rgb",
+          "72759T-2BZ|zab30986_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30986_rgb"
+        ],
+        "priceList.GST.price_d": 49200.0,
+        "priceList.GST.finalPrice_d": 49200.0,
+        "ProductDescriptionProductShort_s": "Widespread lav faucets, bell",
+        "productName_s": "Artifacts™ Widespread lav faucets, bell",
+        "ctId_s": "96834a0b-f7d9-4a9a-b2d5-3f9403699f43",
+        "Color.GST.Details_ss": [
+          "72759T-CP|Polished Chrome|49200.0|49200.0||https://kohler.scene7.com/is/image/PAWEB/zab30994_rgb",
+          "72759T-BN|Vibrant Brushed Nickel|61500.0|61500.0||https://kohler.scene7.com/is/image/PAWEB/zab30990_rgb",
+          "72759T-2BZ|Oil-Rubbed Bronze|68900.0|55119.0||https://kohler.scene7.com/is/image/PAWEB/zab30986_rgb",
+          "72759T-BV|Vibrant Brushed Bronze|68900.0|68900.0||https://kohler.scene7.com/is/image/PAWEB/zab31060_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "72759T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab30994_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zab30990_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zab31060_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zab30986_rgb"
+        ],
+        "priceList.ANY.price_d": 49200.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "72759T-BN",
+        "ProductBrandNameDisplay_s": "Artifacts™",
+        "variantList.sku_ss": [
+          "72759T-CP",
+          "72759T-BN",
+          "72759T-2BZ",
+          "72759T-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 49200.0,
+        "displayPriceStartingAt_s": "₹49,200.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Nickel",
+          "Oil-Rubbed Bronze",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "artifacts-widespread-lav-faucets-bell-72759t",
+        "priceStartingAt.GST_d": 49200.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "96834a0b-f7d9-4a9a-b2d5-3f9403699f43|72759T-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|72760T-CP|false|false|K-72760T-CP",
+          "Vibrant Brushed Nickel|swatch_BN|72760T-BN|false|false|K-72760T-BN",
+          "Vibrant Brushed Bronze|swatch_BV|72760T-BV|true|false|K-72760T-BV",
+          "Oil-Rubbed Bronze|swatch_2BZ|72760T-2BZ|false|false|K-72760T-2BZ"
+        ],
+        "ProductBrandName_s": "Artifacts™",
+        "masterSKU_s": "72760T-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_2BZ",
+          "swatch_BV",
+          "swatch_BN"
+        ],
+        "sourceId_s": "72760T-CP",
+        "productImages.labelWithUrl_ss": [
+          "72760T-CP|zab31006_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31006_rgb",
+          "72760T-2BZ|zab30998_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab30998_rgb",
+          "72760T-BV|zab31068_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31068_rgb",
+          "72760T-BN|zab31002_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31002_rgb"
+        ],
+        "priceList.GST.price_d": 51600.0,
+        "priceList.GST.finalPrice_d": 51600.0,
+        "ProductDescriptionProductShort_s": "Widespread bathroom sink faucets",
+        "productName_s": "Artifacts™ Widespread bathroom sink faucets",
+        "ctId_s": "d409b9e4-a4d7-4485-8036-39fcef17a7fe",
+        "Color.GST.Details_ss": [
+          "72760T-CP|Polished Chrome|51600.0|51600.0||https://kohler.scene7.com/is/image/PAWEB/zab31006_rgb",
+          "72760T-2BZ|Oil-Rubbed Bronze|72300.0|57839.0||https://kohler.scene7.com/is/image/PAWEB/zab30998_rgb",
+          "72760T-BV|Vibrant Brushed Bronze|72300.0|72300.0||https://kohler.scene7.com/is/image/PAWEB/zab31068_rgb",
+          "72760T-BN|Vibrant Brushed Nickel|64600.0|64600.0||https://kohler.scene7.com/is/image/PAWEB/zab31002_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "72760T",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab31006_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zab30998_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zab31068_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/zab31002_rgb"
+        ],
+        "priceList.ANY.price_d": 51600.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "72760T-BN",
+        "ProductBrandNameDisplay_s": "Artifacts™",
+        "variantList.sku_ss": [
+          "72760T-CP",
+          "72760T-2BZ",
+          "72760T-BV",
+          "72760T-BN"
+        ],
+        "discountedPriceStartingAt.GST_d": 51600.0,
+        "displayPriceStartingAt_s": "₹51,600.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Oil-Rubbed Bronze",
+          "Vibrant Brushed Bronze",
+          "Vibrant Brushed Nickel"
+        ],
+        "slug_s": "artifacts-widespread-bathroom-sink-faucets-72760t",
+        "priceStartingAt.GST_d": 51600.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "d409b9e4-a4d7-4485-8036-39fcef17a7fe|72760T-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|98068T-9M-CP|false|false|K-98068T-9M-CP"
+        ],
+        "ProductBrandName_s": "Artifacts™",
+        "masterSKU_s": "98068T-9M-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "98068T-9M-CP",
+        "productImages.labelWithUrl_ss": [
+          "98068T-9M-CP|zab31048_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab31048_rgb"
+        ],
+        "priceList.GST.price_d": 43999.0,
+        "priceList.GST.finalPrice_d": 43999.0,
+        "ProductDescriptionProductShort_s": "Swing lever handles",
+        "productName_s": "Artifacts™ Swing lever handles",
+        "ctId_s": "beb7aeb3-cb3d-4a62-9353-33c94865ef61",
+        "Color.GST.Details_ss": [
+          "98068T-9M-CP|Polished Chrome|55000.0|43999.0||https://kohler.scene7.com/is/image/PAWEB/zab31048_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "98068T-9M",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab31048_rgb"
+        ],
+        "priceList.ANY.price_d": 55000.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "98068T-9M-CP",
+        "ProductBrandNameDisplay_s": "Artifacts™",
+        "variantList.sku_ss": [
+          "98068T-9M-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 43999.0,
+        "displayPriceStartingAt_s": "₹43,999.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "artifacts-swing-lever-handles-98068t-9m",
+        "priceStartingAt.GST_d": 43999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "beb7aeb3-cb3d-4a62-9353-33c94865ef61|98068T-9M-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant French Gold|swatch_AF|8670T-4M-AF|false|false|K-8670T-4M-AF",
+          "French Gold with Blackened Bronze Handle|swatch_R2B|8670T-4M-R2B|false|false|K-8670T-4M-R2B"
+        ],
+        "ProductBrandName_s": "Finial™",
+        "masterSKU_s": "8670T-4M-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_R2B"
+        ],
+        "sourceId_s": "8670T-4M-AF",
+        "productImages.labelWithUrl_ss": [
+          "8670T-4M-AF|zaa53936_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa53936_rgb",
+          "8670T-4M-R2B|aae00899_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae00899_rgb"
+        ],
+        "priceList.GST.price_d": 71679.0,
+        "priceList.GST.finalPrice_d": 71679.0,
+        "ProductDescriptionProductShort_s": "8\" (20.3 cm) Widespread Bathroom Sink Faucet",
+        "productName_s": "Finial(R) 8\" (20.3 cm) Widespread Bathroom Sink Faucet",
+        "ctId_s": "ff4ab56f-ce9c-4125-855e-512fe3f292d2",
+        "Color.GST.Details_ss": [
+          "8670T-4M-AF|Vibrant French Gold|89600.0|71679.0||https://kohler.scene7.com/is/image/PAWEB/zaa53936_rgb",
+          "8670T-4M-R2B|French Gold with Blackened Bronze Handle|99000.0|79199.0||https://kohler.scene7.com/is/image/PAWEB/aae00899_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "8670T-4M",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zaa53936_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae00899_rgb"
+        ],
+        "priceList.ANY.price_d": 89600.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "8670T-4M-AF",
+        "ProductBrandNameDisplay_s": "Finial™",
+        "variantList.sku_ss": [
+          "8670T-4M-AF",
+          "8670T-4M-R2B"
+        ],
+        "discountedPriceStartingAt.GST_d": 71679.0,
+        "displayPriceStartingAt_s": "₹71,679.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "French Gold with Blackened Bronze Handle"
+        ],
+        "slug_s": "finial-r-8-203-mm-widespread-bathroom-sink-faucet-8670t-4m",
+        "priceStartingAt.GST_d": 71679.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "ff4ab56f-ce9c-4125-855e-512fe3f292d2|8670T-4M-AF"
+      }
+    ],
+    "numFound": 9,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "Available_Now_s:\"Yes\"": 0
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        6,
+        "Vibrant Titanium",
+        1,
+        "Vibrant French Gold",
+        1,
+        "Vibrant Rose Gold",
+        1,
+        "Vibrant Brushed Nickel",
+        2,
+        "Vibrant Brushed Bronze",
+        2,
+        "Oil-Rubbed Bronze",
+        2,
+        "French Gold with Blackened Bronze Handle",
+        1
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Artifacts™",
+        5,
+        "Composed™",
+        1,
+        "Finial™",
+        2,
+        "Kelston™",
+        1
+      ],
+      "FaucetsInstallationType_ss": [
+        "Single control Faucets",
+        48,
+        "Tall Faucets",
+        4,
+        "Wall-Mount Faucets",
+        33,
+        "Widespread Faucets",
+        9
+      ],
+      "FaucetsProductStyle_ss": [
+        "Contemporary",
+        1,
+        "Traditional",
+        8
+      ],
+      "Available_Now_s": [
+        "Yes",
+        2,
+        "No",
+        9
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        5,
+        "Paid",
+        4
+      ]
+    },
+    "facet_ranges": {
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          1,
+          "20000",
+          2,
+          "40000",
+          3,
+          "60000",
+          4,
+          "80000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "20000",
+          2,
+          "40000",
+          4,
+          "60000",
+          2,
+          "80000",
+          3
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "20000",
+          2,
+          "40000",
+          4,
+          "60000",
+          2,
+          "80000",
+          3
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "20000",
+          2,
+          "40000",
+          4,
+          "60000",
+          2,
+          "80000",
+          3
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

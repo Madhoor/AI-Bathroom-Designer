@@ -1,0 +1,177 @@
+{
+  "product_url": "https://www.kohler.co.in/p/eo-single-function-small-handshower-with-hose-98444in?skuId=98444IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/eo-single-function-small-handshower-with-hose-98444in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/eo-single-function-small-handshower-with-hose-98444in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4906>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/eo-single-function-small-handshower-with-hose-98444in?skuId=98444IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "bsQ7lfZRtC",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=251, origin; dur=714, ak_p; desc=\"1789449368540_400553039_335944904_96539_11136_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:16:09 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1824",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/eo-single-function-small-handshower-with-hose-in-polished-chrome",
+            "ProductWebInstallation_ss": [
+              "Bracket or slidebar required for wall-mount installation (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "2-1/4\"",
+            "ProductNarrativeDescription_s": "Modern and unique, the Spatula® single-function handshower delivers both function and style to the showering space. Its full-coverage spray delivers consistent rinsing regardless of water pressure, while the sprayface surface resists mineral buildup for easier cleaning. Featuring a sleek square head and ergonomic design, the versatile shower component brings ease to your daily routine.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|98444IN-CP|true|false|K-98444IN-CP"
+            ],
+            "ProductBrandName_s": "Spatula™",
+            "ProductPackageContents_s": "1 HANDSHOWER; 1 HOSE;\n1 INSTALLATION INSTRUCTION;\n1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-98444IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "98444IN-CP|aaj81999_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj81999_rgb",
+              "98444IN-CP|zac73581_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zac73581_rgb",
+              "98444IN-CP|aaj81997_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81997_rgb",
+              "98444IN-CP|aaj81998_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81998_rgb",
+              "98444IN-CP|aaj81993_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81993_rgb",
+              "98444IN-CP|aaj81994_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj81994_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 4509.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 5500.0,
+            "ProductOverallLengthInches_s": "3-5/16\"",
+            "ProductDescriptionProductShort_s": "57 mm square single-function handshower, 13.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444insde.dxf"
+            ],
+            "productName_s": "Spatula® 57 mm square single-function handshower, 13.0 lpm",
+            "ctId_s": "e22bdeb3-94b3-4456-b929-4721f8e32ef2",
+            "ProductWebFeatures_ss": [
+              "Square shape offers modern geometric style",
+              "Single-function handshower delivers a full, consistent spray, regardless of water pressure",
+              "2.25 inch (57 mm) diameter sprayface",
+              "Ergonomic design is easy to use, even with soapy hands",
+              "Optimized sprayface for maximum performance",
+              "3.43 gpm (13.0 lpm) maximum flow rate at 43.5 psi (3.0 bar)",
+              "Includes hose"
+            ],
+            "priceList.ANY.finalPrice_d": 5500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "98444IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower-KOHLER-SPATULA-K-98444IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "13.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "98444IN",
+            "productInRiverId_s": "inRiver_1337834",
+            "priceList.CTR.finalPrice_d": 5500.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-98444IN-CP",
+            "ProductBrandNameDisplay_s": "Spatula™",
+            "variantList.sku_ss": [
+              "98444IN-CP"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "31.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Durable ABS plastic",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1337884"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/98444IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "9-3/8\"",
+            "id": "e22bdeb3-94b3-4456-b929-4721f8e32ef2|98444IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

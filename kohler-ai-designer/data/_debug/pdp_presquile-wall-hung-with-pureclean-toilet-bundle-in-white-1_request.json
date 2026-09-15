@@ -1,0 +1,162 @@
+{
+  "product_url": "https://www.kohler.co.in/p/presquile-wall-hung-with-pureclean-toilet-bundle-in-white-1?skuId=6321IN-SS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/presquile-wall-hung-with-pureclean-toilet-bundle-in-white-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/presquile-wall-hung-with-pureclean-toilet-bundle-in-white-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/presquile-wall-hung-with-pureclean-toilet-bundle-in-white-1?skuId=6321IN-SS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "kPHbB2sVUZ",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=272, origin; dur=751, ak_p; desc=\"1789450051128_400553039_336152570_102312_11456_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:27:32 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1597",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 10.7,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|72757IN-0|true|false|K-72757IN-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1 ACCESSORIES PACK, 1 INSTALLATION MANUAL,\n1 FIXATION KIT & 1 WARRANTY CARD.",
+            "productImages.labelWithUrl_ss": [
+              "72757IN-0|aad76873_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad76873_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Manual bidet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Pureclean Manual bidet seat",
+            "ctId_s": "2e0b37e9-7ab0-4532-a9cb-91576487e5c5",
+            "ProductWebFeatures_ss": [
+              "Cleanliness: Self-Cleaning nozzles",
+              "Convenience: Quiet-Close seat, One second Quick-Release hinges",
+              "Adjust water spray position and spray pressure as per your personal needs.",
+              "Self-cleaning nozzles automatically cleans itself after every use.",
+              "Manually operated handle requires no batteries or Electrical power.",
+              "Quick-Release™ hinges allow seat to be unlatched from toilet for easy removal and convenient cleaning; no tools required.",
+              "Quiet-Close™ lid closes slowly and quietly without slamming.",
+              "Quick-Attach® hardware for fast and secure installation."
+            ],
+            "ProductOverallWidthCm_d": 43.0,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "72757IN-0",
+            "SKUShippingWidth_s": "48.500",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Pureclean",
+            "SKUShippingHeight_s": "14.500",
+            "SKUShippingLength_s": "53.000",
+            "slug_s": "pureclean-manual-bidet-seat-72757in",
+            "ProductOverallLengthCm_d": 48.9
+          },
+          {
+            "ProductOverallHeightCm_d": 33.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|19080IN-SS-0|true|false|K-19080IN-SS-0"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG;\n1 INSTALLATION KIT; 1 WARRANTY CARD;\n1 INSTALLATION INSTRUCTION",
+            "productImages.labelWithUrl_ss": [
+              "19080IN-SS-0|aae01202_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01202_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung toilet bowl",
+            "ColorFinish_s": "White",
+            "productName_s": "Presqu'ile Wall-hung toilet bowl",
+            "ctId_s": "911857ce-369e-48f1-bbb0-7e3c4e1b6ce7",
+            "ProductWebFeatures_ss": [
+              "Elegant and classic styling",
+              "Smooth side surface with no dirt traps",
+              "It is not a coating on top of the toilet which can get scratched or worn."
+            ],
+            "ProductOverallWidthCm_d": 38.0,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "19080IN-SS-0",
+            "SKUShippingWidth_s": "42.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Presqu'ile",
+            "SKUShippingHeight_s": "62.000",
+            "SKUShippingLength_s": "42.000",
+            "slug_s": "presqu-ile-wall-hung-toilet-bowl-19080in-ss",
+            "ProductOverallLengthCm_d": 55.5
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Presquile wall hung with pureclean toilet bundle in White",
+            "ctId_s": "c1e9b153-479e-4fcd-bbcd-9666e6207ed8",
+            "priceList.ANY.finalPrice_d": 37000.0,
+            "sku_s": "6321IN-SS-0",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 37000.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-6321IN-SS-0",
+            "variantList.sku_ss": [
+              "6321IN-SS-0"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "productImages.labelWithUrl_ss": [
+              "6321IN-SS-0|aaf86903_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf86903_rgb",
+              "6321IN-SS-0|aaf86895_rgb||||https://kohler.scene7.com/is/image/PAWEB/aaf86895_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 30338.94,
+            "priceList.KEMP.finalPrice_d": 37000.0,
+            "id": "c1e9b153-479e-4fcd-bbcd-9666e6207ed8|6321IN-SS-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

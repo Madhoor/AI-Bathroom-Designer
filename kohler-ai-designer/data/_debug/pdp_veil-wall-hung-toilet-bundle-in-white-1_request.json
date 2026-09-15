@@ -16,7 +16,7 @@
       "authorization": "<present, length=388>",
       "content-length": "3158",
       "content-type": "application/json",
-      "cookie": "<present, length=4925>",
+      "cookie": "<present, length=4930>",
       "origin": "https://www.kohler.co.in",
       "priority": "u=1, i",
       "referer": "https://www.kohler.co.in/p/veil-wall-hung-toilet-bundle-in-white-1?skuId=75708IN-SS-0",
@@ -33,10 +33,10 @@
       "etag": "W/\"9\"",
       "expect-ct": "max-age=604800,enforce",
       "x-content-type-options": "nosniff",
-      "x-fusion-query-id": "AvHO9SSelx",
-      "server-timing": "cdn-cache; desc=MISS, edge; dur=270, origin; dur=731, ak_p; desc=\"1789416337614_400553039_332762583_100109_10696_8_0_219\";dur=1",
+      "x-fusion-query-id": "ij5Tz1ySeh",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=239, origin; dur=951, ak_p; desc=\"1789449972915_400553039_336125319_119093_10337_13_0_219\";dur=1",
       "accept-encoding": "gzip",
-      "date": "Mon, 14 Sep 2026 20:05:38 GMT",
+      "date": "Tue, 15 Sep 2026 05:26:14 GMT",
       "content-type": "application/json",
       "vary": "Accept-Encoding",
       "x-frame-options": "deny",
@@ -48,12 +48,46 @@
       "referrer-policy": "no-referrer",
       "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
       "access-control-allow-origin": "https://www.kohler.co.in",
-      "content-length": "1716",
+      "content-length": "1711",
       "x-xss-protection": "1; mode=block"
     },
     "response": {
       "fusion": {
         "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 5.2,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|77070IN-SS-0|true|false|K-77070IN-SS-0"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT",
+            "productImages.labelWithUrl_ss": [
+              "77070IN-SS-0|aae47130_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae47130_rgb"
+            ],
+            "SKUCountryofOrigin_s": "CN",
+            "ProductDescriptionProductShort_s": "Quiet-Close™ elongated toilet seat",
+            "ColorFinish_s": "White",
+            "productName_s": "Veil™ Quiet-Close™ elongated toilet seat",
+            "ctId_s": "4b5a8b4c-7f1c-4cda-93ac-af5b49ce824d",
+            "ProductWebFeatures_ss": [
+              "Elongated closed-front seat with lid",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Release™ hinge design allows both adult seat and child ring to be removed for easy cleaning",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Thermoset plastic material is strong and durable, allowing for a thin, modern aesthetic with enhanced scratch-resistance"
+            ],
+            "ProductOverallWidthCm_d": 37.3,
+            "RegionSupplyChain_ss": [
+              "Imported By"
+            ],
+            "sku_s": "77070IN-SS-0",
+            "SKUShippingWidth_s": "40.500",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Veil™",
+            "SKUShippingHeight_s": "7.500",
+            "SKUShippingLength_s": "52.500",
+            "slug_s": "veil-quiet-close-elongated-toilet-seat-77070in-ss",
+            "ProductOverallLengthCm_d": 50.0
+          },
           {
             "ProductOverallHeightCm_d": 33.3,
             "Color.SKU.Details_ss": [
@@ -92,40 +126,6 @@
             "SKUShippingLength_s": "42.000",
             "slug_s": "veil-wall-hung-elongated-toilet-bowl-with-skirted-trapway-31539in-ss",
             "ProductOverallLengthCm_d": 55.4
-          },
-          {
-            "ProductOverallHeightCm_d": 5.2,
-            "Color.SKU.Details_ss": [
-              "White|swatch_0|77070IN-SS-0|true|false|K-77070IN-SS-0"
-            ],
-            "ProductPackageContents_s": "1 TOILET SEAT",
-            "productImages.labelWithUrl_ss": [
-              "77070IN-SS-0|aae47130_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae47130_rgb"
-            ],
-            "SKUCountryofOrigin_s": "CN",
-            "ProductDescriptionProductShort_s": "Quiet-Close™ elongated toilet seat",
-            "ColorFinish_s": "White",
-            "productName_s": "Veil™ Quiet-Close™ elongated toilet seat",
-            "ctId_s": "4b5a8b4c-7f1c-4cda-93ac-af5b49ce824d",
-            "ProductWebFeatures_ss": [
-              "Elongated closed-front seat with lid",
-              "Quiet-Close™ functionality to prevent seat from slamming",
-              "Quick-Release™ hinge design allows both adult seat and child ring to be removed for easy cleaning",
-              "Grip-Tight bumpers hold seat firmly in place",
-              "Thermoset plastic material is strong and durable, allowing for a thin, modern aesthetic with enhanced scratch-resistance"
-            ],
-            "ProductOverallWidthCm_d": 37.3,
-            "RegionSupplyChain_ss": [
-              "Imported By"
-            ],
-            "sku_s": "77070IN-SS-0",
-            "SKUShippingWidth_s": "40.500",
-            "ProductLocalCategory_s": "Toilet Seats",
-            "ProductBrandNameDisplay_s": "Veil™",
-            "SKUShippingHeight_s": "7.500",
-            "SKUShippingLength_s": "52.500",
-            "slug_s": "veil-quiet-close-elongated-toilet-seat-77070in-ss",
-            "ProductOverallLengthCm_d": 50.0
           }
         ]
       },

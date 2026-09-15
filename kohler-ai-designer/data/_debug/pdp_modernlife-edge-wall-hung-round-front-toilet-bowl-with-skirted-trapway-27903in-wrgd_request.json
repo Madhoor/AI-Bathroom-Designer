@@ -1,0 +1,116 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27903in-wrgd?skuId=27903IN-WRGD-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27903in-wrgd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27903in-wrgd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27903in-wrgd?skuId=27903IN-WRGD-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "xACmRwYQnl",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=283, origin; dur=715, ak_p; desc=\"1789450080533_400553078_274607075_104068_14177_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:28:01 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1324",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductNarrativeDescription_s": "The ModernLife Edge® collection combines thoughtful design with a contemporary and minimalist form. This wall-hung toilet bowl from Kohler features a compact round-front design, perfect for smaller bathrooms, while a fully skirted trapway creates a sleek profile that's easy to clean. Premium rose gold decal elevates the bowl with an opulent, romantic flair—its elegant, yet simplistic visuals adding a sculptural element to the space without sacrificing practicality and comfort. Pair your new toilet bowl with a compatible in-wall tank, faceplate, and seat and lid for a complete experience.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|27903IN-WRGD-0|false|false|K-27903IN-WRGD-0"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "1 WALL HUNG TOILET;1 HOMEOWNER'S GUIDE; 1 HARDWARE KIT;1 FLOW RESTRICTOR; 1 INSTALLATION GUIDE",
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1625013-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1434774-IN8.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27903IN-WRGD-0|aah26712_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aah26712_rgb",
+              "27903IN-WRGD-0|aah65123_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah65123_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 56799.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 71000.0,
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl with skirted trapway",
+            "productName_s": "ModernLife Edge® Wall-hung round-front toilet bowl with skirted trapway",
+            "ctId_s": "bc8b3c9e-4a23-4c57-968b-742fe253cd8f",
+            "ProductWebFeatures_ss": [
+              "Decorated with premium rose gold-colored shades"
+            ],
+            "priceList.ANY.finalPrice_d": 71000.0,
+            "sku_s": "27903IN-WRGD-0",
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "15.313",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27903IN-WRGD",
+            "productInRiverId_s": "inRiver_3208991",
+            "priceList.CTR.finalPrice_d": 71000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-27903IN-WRGD-0",
+            "ProductBrandNameDisplay_s": "ModernLife Edge",
+            "variantList.sku_ss": [
+              "27903IN-WRGD-0"
+            ],
+            "SKUShippingHeight_s": "15.688",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "22.813",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.HomeownersGuide.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1632607-IN5.pdf"
+            ],
+            "id": "bc8b3c9e-4a23-4c57-968b-742fe253cd8f|27903IN-WRGD-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

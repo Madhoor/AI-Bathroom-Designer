@@ -1,0 +1,178 @@
+{
+  "product_url": "https://www.kohler.co.in/p/brazn-2200-mm-h-sliding-shower-door-with-10-mm-thick-glass-702650in-lh0?skuId=702650IN-LH0-BL",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/brazn-2200-mm-h-sliding-shower-door-with-10-mm-thick-glass-702650in-lh0",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/brazn-2200-mm-h-sliding-shower-door-with-10-mm-thick-glass-702650in-lh0",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4965>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/brazn-2200-mm-h-sliding-shower-door-with-10-mm-thick-glass-702650in-lh0?skuId=702650IN-LH0-BL",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "f9vNaTdPSR",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=249, origin; dur=749, ak_p; desc=\"1789449717013_400553078_274422583_99858_11887_12_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:21:58 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2113",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650IN-LH0.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650in_lh0frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Fits opening widths 1300 – 1700 mm (51-3/16 – 66-15/16 inches)",
+              "400 mm (15-3/4 inch) width adjustment",
+              "2200 mm (86-5/8 inch) height with 2175 mm (85-5/8 inch) minimum head clearance",
+              "Installs with the sliding panel opening on the left when entering the shower",
+              "Alcove"
+            ],
+            "ProductNarrativeDescription_s": "The KOHLER® Brazn™ collection boasts a simplicity that is purposeful in every detail and bold in any space. With a minimalist design, this sliding shower door adds a refined and modern element to your bathroom. The ultra-narrow frame boasts a hidden accessory design with no exposed screws, making it sleek and easy to clean. Unique long handles on both the inside and outside provide a comfortable and considerate user-friendly grip. Crystal Clear tempered glass resists breakage with an additional layer of film for safety and durability. The sliding door is on the left-hand side when entering the shower.",
+            "Color.SKU.Details_ss": [
+              "Vibrant French Gold|swatch_AF|702650IN-LH0-AF|false|false|K-702650IN-LH0-AF",
+              "Vibrant Rose Gold|swatch_RGD|702650IN-LH0-RGD|false|false|K-702650IN-LH0-RGD",
+              "Matte Black|swatch_BL|702650IN-LH0-BL|false|false|K-702650IN-LH0-BL"
+            ],
+            "ProductBrandName_s": "Brazn™",
+            "ProductPackageContents_s": "PACKAGE CONTENT: 1 HARDWARE KIT; 1 HANDLE ASSEMBLY; 1 INSTALLATION GUIDE\nNOTE: TOUGHENED GLASS PACK IS SEPARATE & TO BE SUPPLIED AFTER SITE MEASUREMENT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650IN-LH0.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556176"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1495926-IN8.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/1495926-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-702650IN-LH0_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650IN-LH0.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "702650IN-LH0-AF|aae27956_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27956_rgb",
+              "702650IN-LH0-AF|aaj06894_rgb|IMGFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj06894_rgb",
+              "702650IN-LH0-RGD|aae27957_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27957_rgb",
+              "702650IN-LH0-RGD|aaj06895_rgb|IMGFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj06895_rgb",
+              "702650IN-LH0-BL|aaj45457_rgb|IMGFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaj45457_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 137749.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 145000.0,
+            "ProductOverallLengthInches_s": "4-13/16\"",
+            "ProductDescriptionProductShort_s": "220 cm H sliding shower door with 10 mm-thick glass",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650in_lh0pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650in_lh0sde.dxf"
+            ],
+            "productName_s": "Brazn™ 220 cm H sliding shower door with 10 mm-thick glass",
+            "ctId_s": "966b6b9e-1735-4368-989e-c64988a6f073",
+            "ProductWebFeatures_ss": [
+              "Shower door configuration consists of one sliding panel and one stationary panel",
+              "Tempered glass ensures enhanced safety and durability",
+              "CleanCoat™ technology creates a protective barrier that repels water, prevents dirt and minerals from collecting, and makes it easier to remove hard water spots",
+              "Vertical handles accentuate the contemporary style",
+              "45 mm (1-25/32 inch) threshold height",
+              "No exposed screws for sleek, contemporary look"
+            ],
+            "priceList.ANY.finalPrice_d": 145000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650in_lh0sde.dwg"
+            ],
+            "sku_s": "702650IN-LH0-BL",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Shower_Door-KOHLER-Brazn-K-702650IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650IN-LH0.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "9.843",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "702650IN-LH0",
+            "productInRiverId_s": "inRiver_3441486",
+            "priceList.CTR.finalPrice_d": 145000.0,
+            "Product_Category": "Shower Doors",
+            "CustomerFacingSKU_s": "K-702650IN-LH0-BL",
+            "ProductBrandNameDisplay_s": "Brazn™",
+            "variantList.sku_ss": [
+              "702650IN-LH0-BL",
+              "702650IN-LH0-RGD",
+              "702650IN-LH0-AF"
+            ],
+            "SKUShippingHeight_s": "7.677",
+            "ctProductType_s": "shower-doors",
+            "SKUShippingLength_s": "90.551",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650in_lh0pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Framed 10 mm (3/8 inch)-thick Crystal Clear tempered glass",
+              "Stainless steel prevents rust and corrosion"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650in_lh0frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/702650IN-LH0.dwg"
+            ],
+            "ProductOverallHeightInches_s": "86-5/8\"",
+            "id": "966b6b9e-1735-4368-989e-c64988a6f073|702650IN-LH0-BL"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

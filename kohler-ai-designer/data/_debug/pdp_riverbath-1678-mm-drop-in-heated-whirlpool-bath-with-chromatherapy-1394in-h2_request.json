@@ -1,0 +1,184 @@
+{
+  "product_url": "https://www.kohler.co.in/p/riverbath-1678-mm-drop-in-heated-whirlpool-bath-with-chromatherapy-1394in-h2?skuId=1394IN-H2-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/riverbath-1678-mm-drop-in-heated-whirlpool-bath-with-chromatherapy-1394in-h2",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/riverbath-1678-mm-drop-in-heated-whirlpool-bath-with-chromatherapy-1394in-h2",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/riverbath-1678-mm-drop-in-heated-whirlpool-bath-with-chromatherapy-1394in-h2?skuId=1394IN-H2-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "7TsnbsPQGD",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=253, origin; dur=758, ak_p; desc=\"1789420461596_400553039_333170401_101251_9676_4_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:14:22 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1814",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394IN-H2.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394in_h2frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in",
+              "Requires 240 V hard-wired electrical service",
+              "Requires bath drain and jet trim kit (sold separately)"
+            ],
+            "ProductOverallWidthInches_s": "66\"",
+            "ProductNarrativeDescription_s": "The natural rhythm of water can be found in the hypnotic cascade of a waterfall, a tranquil brook, and the exhilarating rush of rapids. The RiverBath™ whirlpool brings home these natural sounds and rhythms combined with heat and mood-enhancing color light therapy. Rapids, whitewater, and whirlpool settings offer a full range of water massage treatments at the touch of a button; in a spacious bath sized for up to three bathers.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|1394IN-H2-0|false|false|K-1394IN-H2-0"
+            ],
+            "ProductBrandName_s": "Riverbath™",
+            "ProductPackageContents_s": "Bathtub, Installation Manual, Warranty Document",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394IN-H2.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-1394IN-H2_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394IN-H2.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "1394IN-H2-0|zaa72870_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zaa72870_rgb",
+              "1394IN-H2-0|zaa72870_rgb|IMGITEMARCHITECTTOPDOWN||angled overhead view, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/zaa72870_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 2300000.0,
+            "SKUCountryofOrigin_s": "US",
+            "priceList.KEMP.finalPrice_d": 2300000.0,
+            "ProductOverallLengthInches_s": "66\"",
+            "ProductDescriptionProductShort_s": "167.8 cm drop-in heated whirlpool bath with chromatherapy",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394in_h2pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394in_h2sde.dxf"
+            ],
+            "productName_s": "Riverbath™ 167.8 cm drop-in heated whirlpool bath with chromatherapy",
+            "ctId_s": "12f3b547-92b3-4bb3-b6c5-f04d58e47355",
+            "ProductWebFeatures_ss": [
+              "Drop-in design creates a seamless bathroom aesthetic",
+              "Integral overflow",
+              "Spacious design accommodates up to two bathers",
+              "19.92 inch (50.6 cm) soaking depth",
+              "Four Riverjets and eight hydromassage jets can be individually adjusted for water flow and direction",
+              "Two variable-speed pumps for adjusting massage intensity",
+              "Lighted keypad control",
+              "Chromatherapy lighting allows you to select a preferred color scheme to suit your mood",
+              "Built-in heater",
+              "Floating remote control",
+              "Three pillows provide extra comfort"
+            ],
+            "ProductWebHydrotherapy_ss": [
+              "RiverBath Whirlpool",
+              "Chromatherapy"
+            ],
+            "priceList.ANY.finalPrice_d": 2300000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394in_h2sde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1",
+              "Option 2",
+              "Option 3",
+              "Option 4"
+            ],
+            "sku_s": "1394IN-H2-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In_Whirlpool_Heater-KOHLER-RiverBath-K-1394IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394IN-H2.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "73.130",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "1394IN-H2",
+            "productInRiverId_s": "inRiver_3067518",
+            "priceList.CTR.finalPrice_d": 2300000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-1394IN-H2-0",
+            "ProductBrandNameDisplay_s": "Riverbath™",
+            "variantList.sku_ss": [
+              "1394IN-H2-0"
+            ],
+            "SKUShippingHeight_s": "31.630",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "73.130",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394in_h2pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_247956",
+              "inRiver_213884",
+              "inRiver_213880",
+              "inRiver_241232",
+              "inRiver_1520238"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394in_h2frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/1394IN-H2.dwg"
+            ],
+            "ProductOverallHeightInches_s": "25\"",
+            "id": "12f3b547-92b3-4bb3-b6c5-f04d58e47355|1394IN-H2-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

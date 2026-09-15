@@ -1,0 +1,147 @@
+{
+  "product_url": "https://www.kohler.co.in/p/nysa-vessel-basin-without-faucet-hole-in-white-31343in-ss?skuId=31343IN-SS-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/nysa-vessel-basin-without-faucet-hole-in-white-31343in-ss",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/nysa-vessel-basin-without-faucet-hole-in-white-31343in-ss",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/nysa-vessel-basin-without-faucet-hole-in-white-31343in-ss?skuId=31343IN-SS-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "Dc6bDc38xJ",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=287, origin; dur=739, ak_p; desc=\"1789420704918_400553078_266587634_102564_10556_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:18:25 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1313",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343IN-SS.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343in_ssfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/nysa-vessel-in-white",
+            "ProductNarrativeDescription_s": "An expressive premium vessel, with differentiated form - to move beyond convention and make vessels centrepiece of the bathroom.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|31343IN-SS-0|true|false|K-31343IN-SS-0"
+            ],
+            "ProductBrandName_s": "Nysa",
+            "ProductPackageContents_s": "1 LAVATORY;\n1 HARDWARE KIT; 1 INSTALLATION GUIDE;\n1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343IN-SS.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1656584-IN8.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343IN-SS.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "31343IN-SS-0|aae27428_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae27428_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 18399.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 23000.0,
+            "ProductDescriptionProductShort_s": "Vessel Basin Without Faucet Hole In White",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343in_sspln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343in_sssde.dxf"
+            ],
+            "productName_s": "Nysa Vessel Basin Without Faucet Hole In White",
+            "ctId_s": "041ca950-5917-4440-8031-702f1e9fe64f",
+            "ProductWebFeatures_ss": [
+              "Fluid and aerodynamic form with thin ceramic of 7 mm.",
+              "Recessed drain with a drain cover.",
+              "Easy installation - no core-cutting required, drain-cut only",
+              "Superior Glaze: Long lasting, durable glaze easy to clean surface, resistant to chemicals and stains.",
+              "Optimum Depth to contain Splashes."
+            ],
+            "priceList.ANY.finalPrice_d": 23000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343in_sssde.dwg"
+            ],
+            "sku_s": "31343IN-SS-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-NYSA-K-31343IN.rfa"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "52.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "31343IN-SS",
+            "productInRiverId_s": "inRiver_2454022",
+            "priceList.CTR.finalPrice_d": 23000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-31343IN-SS-0",
+            "ProductBrandNameDisplay_s": "Nysa",
+            "variantList.sku_ss": [
+              "31343IN-SS-0"
+            ],
+            "SKUShippingHeight_s": "27.500",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "68.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343in_sspln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31343in_ssfrt.dwg"
+            ],
+            "id": "041ca950-5917-4440-8031-702f1e9fe64f|31343IN-SS-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

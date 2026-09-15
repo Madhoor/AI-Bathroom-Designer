@@ -1,0 +1,175 @@
+{
+  "product_url": "https://www.kohler.co.in/p/duo-1670-mm-x-760-mm-drop-in-bath-18775t?skuId=18775T-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/duo-1670-mm-x-760-mm-drop-in-bath-18775t",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/duo-1670-mm-x-760-mm-drop-in-bath-18775t",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4862>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/duo-1670-mm-x-760-mm-drop-in-bath-18775t?skuId=18775T-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "iGOzDbnGw5",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=246, origin; dur=786, ak_p; desc=\"1789420372332_400553039_333166509_103270_11059_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:12:53 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1676",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775T.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775tfrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/duo-1670mm-drop-in-acrylic-bathtub-with-integral-tile-flange",
+            "ProductWebInstallation_ss": [
+              "Drop-in"
+            ],
+            "ProductOverallWidthInches_s": "29-15/16\"",
+            "ProductNarrativeDescription_s": "Clean, elegant, and contained, the Duo™ bath expresses contemporary warmth and simplicity. This Duo™ rectangular bath lets you indulge in a deep, immersive soak as you relax against the sloped lumbar support. The sleek, acrylic construction offers exceptional durability and location versatility.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|18775T-0|true|false|K-18775T-0"
+            ],
+            "ProductBrandName_s": "Duo™",
+            "ProductPackageContents_s": "1 BATHTUB; 1 WARRANTY CARD; 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775T.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556175"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/18775t_18776t.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-18775T_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775T.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "18775T-0|aag07345_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07345_rgb",
+              "18775T-0|aag07344_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07344_rgb",
+              "18775T-0|aag07346_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07346_rgb",
+              "18775T-0|aag07347_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07347_rgb",
+              "18775T-0|aag07348_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aag07348_rgb",
+              "18775T-0|aag07350_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb",
+              "18775T-0|aag07350_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag07350_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 39899.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 42000.0,
+            "ProductOverallLengthInches_s": "65-3/4\"",
+            "ProductDescriptionProductShort_s": "167 cm x 76 cm drop-in bath",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775tpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775tsde.dxf"
+            ],
+            "productName_s": "Duo™ 167 cm x 76 cm drop-in bath",
+            "ctId_s": "2bbd05c8-dc6e-40d3-8723-8c3af2d7c11e",
+            "ProductWebFeatures_ss": [
+              "Complements traditional and contemporary bathroom designs",
+              "Rectangular basin creates a spacious bathing experience",
+              "Drop-in design creates a seamless bathroom aesthetic",
+              "65.75 inch (167 cm) x 30 inch (76 cm) x 15.35 inch (39 cm)",
+              "Round overflow",
+              "10.28 inch (26.1 cm) soaking depth provides a relaxing bathing experience",
+              "Integral lumbar support",
+              "Sloping backrest provides comfort"
+            ],
+            "priceList.ANY.finalPrice_d": 42000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775tsde.dwg"
+            ],
+            "sku_s": "18775T-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Bath-Drop_In-KOHLER-DUO-K-18775T.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775T.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "82.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "18775T",
+            "productInRiverId_s": "inRiver_1336343",
+            "priceList.CTR.finalPrice_d": 42000.0,
+            "Product_Category": "Bathing",
+            "CustomerFacingSKU_s": "K-18775T-0",
+            "ProductBrandNameDisplay_s": "Duo™",
+            "variantList.sku_ss": [
+              "18775T-0"
+            ],
+            "SKUShippingHeight_s": "48.000",
+            "ctProductType_s": "bathing",
+            "SKUShippingLength_s": "174.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775tpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Acrylic"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775tfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/18775T.dwg"
+            ],
+            "ProductOverallHeightInches_s": "16-3/4\"",
+            "id": "2bbd05c8-dc6e-40d3-8723-8c3af2d7c11e|18775T-0",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

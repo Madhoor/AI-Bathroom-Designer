@@ -1,0 +1,153 @@
+{
+  "product_url": "https://www.kohler.co.in/p/ladena-semi-recessed-bathroom-sink-72907k-1?skuId=72907K-1-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/ladena-semi-recessed-bathroom-sink-72907k-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/ladena-semi-recessed-bathroom-sink-72907k-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4950>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/ladena-semi-recessed-bathroom-sink-72907k-1?skuId=72907K-1-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "PY9av7O1xX",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=319, origin; dur=912, ak_p; desc=\"1789421339091_400553078_266636551_123191_10992_5_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:29:00 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1271",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907K-1.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907k_1frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Drop-in or vessel"
+            ],
+            "ProductOverallWidthInches_s": "18-5/16\"",
+            "ProductNarrativeDescription_s": "With its unique, soft rectangular shape and clean lines, Ladena™ evokes casual elegance. This spacious and distinctive semi-recessed sink pairs classic style with versatility. The enameled cast iron sink is a great choice to complement both traditional and modern bathrooms.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|72907K-1-0|false|false|K-72907K-1-0"
+            ],
+            "ProductBrandName_s": "Ladena™",
+            "ProductPackageContents_s": "1 Lavatory, 1 Cutout template,1 warranty card",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907K-1.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/ri-72907k.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907K-1.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "72907K-1-0|aad78584_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad78584_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 12299.0,
+            "SKUCountryofOrigin_s": "TH",
+            "priceList.KEMP.finalPrice_d": 15000.0,
+            "ProductOverallLengthInches_s": "21-7/16\"",
+            "ProductDescriptionProductShort_s": "Semi-recessed bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907k_1pln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907k_1sde.dxf"
+            ],
+            "productName_s": "Ladena™ Semi-recessed bathroom sink",
+            "ctId_s": "b2019043-7406-4877-a537-e1d27d2f33f0",
+            "ProductWebFeatures_ss": [
+              "Sleek and contemporary design"
+            ],
+            "priceList.ANY.finalPrice_d": 15000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907k_1sde.dwg"
+            ],
+            "sku_s": "72907K-1-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Semi_Recessed-Lavatory-KOHLER-LADENA-K-72907K.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907K-1.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "20.276",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "72907K-1",
+            "productInRiverId_s": "inRiver_593876",
+            "priceList.CTR.finalPrice_d": 15000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-72907K-1-0",
+            "ProductBrandNameDisplay_s": "Ladena",
+            "variantList.sku_ss": [
+              "72907K-1-0"
+            ],
+            "SKUShippingHeight_s": "9.252",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "23.425",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907k_1pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "KOHLER® enameled cast iron"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907k_1frt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72907K-1.dwg"
+            ],
+            "id": "b2019043-7406-4877-a537-e1d27d2f33f0|72907K-1-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

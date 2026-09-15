@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/accliv-single-handle-bathroom-sink-faucet-with-paddle-handle-15-1-lpm-33059in-4nd?skuId=33059IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/accliv-single-handle-bathroom-sink-faucet-with-paddle-handle-15-1-lpm-33059in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/accliv-single-handle-bathroom-sink-faucet-with-paddle-handle-15-1-lpm-33059in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5541>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/accliv-single-handle-bathroom-sink-faucet-with-paddle-handle-15-1-lpm-33059in-4nd?skuId=33059IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "bzdbrUckeh",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=239, origin; dur=774, ak_p; desc=\"1789421520826_400553039_333215329_101373_10572_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:32:01 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2060",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Deck-mount",
+              "For single-hole installation",
+              "Flexible supply lines simplify installation"
+            ],
+            "ProductOverallWidthInches_s": "2\"",
+            "ProductNarrativeDescription_s": "With contemporary curves and sleek, tapered lines, the KOHLER® Accliv™ bathroom collection infuses your space with sophisticated, modern styling that transforms any bathroom into a serene retreat. A variety of faucet sizes and configurations allows you to create a unique, tailored space, while the thoughtfully engineered spout designs are crafted to provide precise water angles, ensuring a delightful and functional experience throughout the collection. The ergonomic, single Paddle handle allows for easy, intuitive control of water temperature and volume, providing a seamless experience every time. This KOHLER® Accliv™ bathroom sink faucet features a single handle with paddle design for easy-to-grip, ergonomic control of both water volume and temperature. Drain sold separately. Whether you’re refreshing your bathroom with modern touches or designing a fully updated space, the KOHLER® Accliv™ collection brings timeless elegance, innovative engineering, and exceptional quality to your home.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|33059IN-4ND-CP|true|false|K-33059IN-4ND-CP",
+              "Vibrant French Gold|swatch_AF|33059IN-4ND-AF|true|false|K-33059IN-4ND-AF"
+            ],
+            "ProductBrandName_s": "Accliv™",
+            "ProductPackageContents_s": "1 LAV FAUCET; 1 MOUNTING KIT 1 WARRANTY CARD; 1 INSTALLATION GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1472382-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-33059IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "33059IN-4ND-AF|aae60486_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae60486_rgb",
+              "33059IN-4ND-CP|aad95030_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad95030_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 6039.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 7110.0,
+            "ProductOverallLengthInches_s": "14-7/8\"",
+            "ProductDescriptionProductShort_s": "Single-handle bathroom sink faucet with paddle handle, 15.1 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059in_4ndsde.dxf"
+            ],
+            "productName_s": "Accliv™ Single-handle bathroom sink faucet with paddle handle, 15.1 lpm",
+            "ctId_s": "9e45a642-0519-4f94-8ae2-155ac7fc823e",
+            "ProductWebFeatures_ss": [
+              "Single lever handle allows for both on/off activation and temperature setting",
+              "10.8 cm (4.3 inch) spout reach",
+              "15.1 lpm (4.0 gpm) at 3.1 bar (45 psi)",
+              "Red/blue indexing on handle",
+              "KOHLER ceramic disc valves exceed industry longevity standards by over two times, ensuring durable performance for life",
+              "Part of the Accliv bathroom faucet and showering collection",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 7110.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059in_4ndsde.dwg"
+            ],
+            "sku_s": "33059IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-ACCLIV-K-33059IN.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "19.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "33059IN-4ND",
+            "productInRiverId_s": "inRiver_2011537",
+            "priceList.CTR.finalPrice_d": 7110.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-33059IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "Accliv™",
+            "variantList.sku_ss": [
+              "33059IN-4ND-AF",
+              "33059IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "9.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "38.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/33059IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6\"",
+            "id": "9e45a642-0519-4f94-8ae2-155ac7fc823e|33059IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,25 +1,25 @@
 category,subcategory,slug,url,kind,enabled,scraped_product_count
 Wellness,Freestanding Bathtubs,freestanding-bathtubs,https://www.kohler.co.in/p/bathtubs/shop-freestanding-bathtubs,product,True,5
-Wellness,Drop-in Bathtubs,dropin-bathtubs,https://www.kohler.co.in/p/bathtubs/shop-drop-in-bathtubs,product,False,0
+Wellness,Drop-in Bathtubs,dropin-bathtubs,https://www.kohler.co.in/p/bathtubs/shop-drop-in-bathtubs,product,False,14
 Wellness,Alcove Bathtubs,alcove-bathtubs,https://www.kohler.co.in/p/bathtubs/shop-alcove-bathtubs,product,False,0
-Basin Area,Vessel Basin,vessel-basin,https://www.kohler.co.in/p/washbasins/shop-vessel-basin,product,False,0
-Basin Area,Undercounter Basin,undercounter-basin,https://www.kohler.co.in/p/washbasins/shop-undercounter-basin,product,False,0
-Basin Area,Wall Mount Basin,wallmount-basin,https://www.kohler.co.in/p/washbasins/shop-wall-mount-basin,product,False,0
-Basin Area,Semi Recessed Basin,semirecessed-basin,https://www.kohler.co.in/p/washbasins/shop-semi-recessed-basin,product,False,0
-Basin Area,Vanity Top Basin,vanitytop-basin,https://www.kohler.co.in/p/washbasins/shop-vanity-top-basin,product,False,0
-Basin Area,Single Control Faucets,faucets-single-control,https://www.kohler.co.in/p/faucets/shop-single-control-faucets,product,False,10
-Basin Area,Tall Faucets,faucets-tall,https://www.kohler.co.in/p/faucets/shop-tall-faucets,product,False,0
-Basin Area,Wall-Mount Faucets,faucets-wallmount,https://www.kohler.co.in/p/faucets/shop-wall-mount-faucets,product,False,0
-Basin Area,Widespread Faucets,faucets-widespread,https://www.kohler.co.in/p/faucets/shop-widespread-faucets,product,False,0
-Basin Area,Bathtub Faucets,faucets-bathtub,https://www.kohler.co.in/p/faucets/shop-bathtub-faucets,product,False,10
-Showering Area,Rainpanels,rainpanels,https://www.kohler.co.in/p/showers/shop-rainpanels,product,False,0
-Showering Area,Rainheads,rainheads,https://www.kohler.co.in/p/showers/shop-rainheads,product,False,0
-Showering Area,Showerheads,showerheads,https://www.kohler.co.in/p/showers/shop-showerheads,product,False,10
-Showering Area,Hand Showers,hand-showers,https://www.kohler.co.in/p/showers/shop-hand-showers,product,False,0
-Showering Area,Pivot Shower Doors,shower-doors-pivot,https://www.kohler.co.in/p/shower-doors/shop-pivot-shower-doors,product,False,0
-Showering Area,Sliding Shower Doors,shower-doors-sliding,https://www.kohler.co.in/p/shower-doors/shop-sliding-shower-doors,product,False,0
+Basin Area,Vessel Basin,vessel-basin,https://www.kohler.co.in/p/washbasins/shop-vessel-basin,product,False,30
+Basin Area,Undercounter Basin,undercounter-basin,https://www.kohler.co.in/p/washbasins/shop-undercounter-basin,product,False,9
+Basin Area,Wall Mount Basin,wallmount-basin,https://www.kohler.co.in/p/washbasins/shop-wall-mount-basin,product,False,11
+Basin Area,Semi Recessed Basin,semirecessed-basin,https://www.kohler.co.in/p/washbasins/shop-semi-recessed-basin,product,False,4
+Basin Area,Vanity Top Basin,vanitytop-basin,https://www.kohler.co.in/p/washbasins/shop-vanity-top-basin,product,False,2
+Basin Area,Single Control Faucets,faucets-single-control,https://www.kohler.co.in/p/faucets/shop-single-control-faucets,product,False,17
+Basin Area,Tall Faucets,faucets-tall,https://www.kohler.co.in/p/faucets/shop-tall-faucets,product,False,4
+Basin Area,Wall-Mount Faucets,faucets-wallmount,https://www.kohler.co.in/p/faucets/shop-wall-mount-faucets,product,False,30
+Basin Area,Widespread Faucets,faucets-widespread,https://www.kohler.co.in/p/faucets/shop-widespread-faucets,product,False,9
+Basin Area,Bathtub Faucets,faucets-bathtub,https://www.kohler.co.in/p/faucets/shop-bathtub-faucets,product,False,30
+Showering Area,Rainpanels,rainpanels,https://www.kohler.co.in/p/showers/shop-rainpanels,product,False,3
+Showering Area,Rainheads,rainheads,https://www.kohler.co.in/p/showers/shop-rainheads,product,False,13
+Showering Area,Showerheads,showerheads,https://www.kohler.co.in/p/showers/shop-showerheads,product,False,30
+Showering Area,Hand Showers,hand-showers,https://www.kohler.co.in/p/showers/shop-hand-showers,product,False,18
+Showering Area,Pivot Shower Doors,shower-doors-pivot,https://www.kohler.co.in/p/shower-doors/shop-pivot-shower-doors,product,False,7
+Showering Area,Sliding Shower Doors,shower-doors-sliding,https://www.kohler.co.in/p/shower-doors/shop-sliding-shower-doors,product,False,8
 Toilet Area,Smart Toilet,smart-toilet,https://www.kohler.co.in/p/toilets/shop-smart-toilet,product,False,1
-Toilet Area,Wall Hung Toilets,wallhung-toilets,https://www.kohler.co.in/p/toilets/shop-wall-hung-toilets,product,False,10
+Toilet Area,Wall Hung Toilets,wallhung-toilets,https://www.kohler.co.in/p/toilets/shop-wall-hung-toilets,product,False,30
 Toilet Area,One Piece,toilets-onepiece,https://www.kohler.co.in/p/toilets/shop-one-piece,product,False,8
 Toilet Area,Two Piece,toilets-twopiece,https://www.kohler.co.in/p/toilets/shop-two-piece,product,False,5
 Basin Area,Bathroom Vanity,bathroom-vanity,https://www.kohler.co.in/p/bathroom-vanity,product,False,0

@@ -1,0 +1,222 @@
+{
+  "product_url": "https://www.kohler.co.in/p/purist-2-5-gpm-multifunction-handshower-with-katalyst-air-induction-technology-22166?skuId=22166-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/purist-2-5-gpm-multifunction-handshower-with-katalyst-air-induction-technology-22166",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/purist-2-5-gpm-multifunction-handshower-with-katalyst-air-induction-technology-22166",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4906>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/purist-2-5-gpm-multifunction-handshower-with-katalyst-air-induction-technology-22166?skuId=22166-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "UhNRojQSc6",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=257, origin; dur=752, ak_p; desc=\"1789449459413_400553039_335973310_101018_11787_10_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:17:40 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2929",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166frt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Bracket or slidebar required for wall-mount installation",
+              "Deck-mount holder required for deck-mount installation"
+            ],
+            "ProductBrandName_s": "Purist™",
+            "ProductPackageContents_s": "1 HANDSHOWER; 1 INSTALLATION INSTRUCTION; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166.skp"
+            ],
+            "ProductServices_ss": [
+              "18-INSTALL-SERVICE"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1232145-2.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166.3ds"
+            ],
+            "priceList.GST.finalPrice_d": 17800.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 17800.0,
+            "ProductOverallLengthInches_s": "3-7/8\"",
+            "ProductDescriptionProductShort_s": "Four-function handshower, 2.5 gpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166pln.dxf"
+            ],
+            "productName_s": "Purist® Four-function handshower, 2.5 gpm",
+            "ctId_s": "f7c98eed-0f08-4363-b010-94cbd625a7e7",
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166sde.dwg"
+            ],
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower-KOHLER-Purist-K-22166.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "2.480",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "22166",
+            "priceList.CTR.finalPrice_d": 17800.0,
+            "ProductBrandNameDisplay_s": "Purist",
+            "SKUShippingHeight_s": "12.362",
+            "ctProductType_s": "showerheads",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166frt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "11-3/16\"",
+            "isCollapsedPDP_b": false,
+            "ProductFreightPolicyType_s": "1",
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166.obj"
+            ],
+            "ProductOverallWidthInches_s": "5\"",
+            "ProductNarrativeDescription_s": "Designed with the clean lines of the KOHLER® Purist® collection, this Purist® multifunction handshower provides three distinct sprays – full coverage, pulsating massage, or silk spray – all enhanced with Katalyst® technology for a completely indulgent showering experience. By infusing two liters of air per minute, Katalyst® delivers a powerful, voluptuous spray that clings to the body with larger, fuller water drops. Easily transition between sprays with the thumb tab located at the bottom of the sprayface.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|22166-CP|false|false|K-22166-CP",
+              "Vibrant Brushed Bronze|swatch_BV|22166-BV|true|false|K-22166-BV"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-22166_spec_US-CA_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-22166_spec_US-CA_Kohler_fr-ca.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-22166_spec_IN_Kohler_en.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/K-22166_spec_LM_Kohler_en.pdf"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "22166-BV|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "22166-BV|22166-G-BV_ISO_d2c0054346_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_ISO_d2c0054346_rgb",
+              "22166-BV|22166-G-BV_ISOSquare_d2c0054346_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_ISOSquare_d2c0054346_rgb",
+              "22166-BV|22166-G-BV_CloseRoomViewArchitectFrontSquare_d2c0054353_rgb|IMGITEMCLOSEROOMVIEWArchitectFrontSquare||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewArchitectFrontSquare_d2c0054353_rgb",
+              "22166-BV|22166-G-BV_CloseRoomViewProductDetailSquare_d2c0054333_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewProductDetailSquare_d2c0054333_rgb",
+              "22166-BV|22166-G-BV_FullRoomViewOnePointSquareWithText_d2c0054327_en-US|IMGITEMFULLROOMVIEWOnePointSquareWithText||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FullRoomViewOnePointSquareWithText_d2c0054327_en-US",
+              "22166-BV|22166-G-BV_FullRoomViewTwoPointSquareWithText_d2c0054359_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FullRoomViewTwoPointSquareWithText_d2c0054359_en-US",
+              "22166-BV|22166-G-BV_PartialRoomViewOnePointSquare_d2c0054330_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_PartialRoomViewOnePointSquare_d2c0054330_rgb",
+              "22166-BV|22166-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0054319_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_CloseRoomViewProductDetailInUseSquareWithText_d2c0054319_en-US",
+              "22166-BV|22166-G-BV_FRONTSquare_d2c0054360_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_FRONTSquare_d2c0054360_rgb",
+              "22166-BV|22166-G-BV_DIMENSIONALSquareWithText_d2c0054321_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_DIMENSIONALSquareWithText_d2c0054321_en-US",
+              "22166-BV|22166-G-BV_DETAILFunctionSquare-en-USWithText_d2c0054344_en-US|IMGITEMPRODUCTDETAILFunctionSquareWithText||close-up view of product detail function|https://kohler.scene7.com/is/image/PAWEB/22166-G-BV_DETAILFunctionSquare-en-USWithText_d2c0054344_en-US",
+              "22166-BV|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US",
+              "22166-CP|SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US|IMGITEMFEATUREFinishTechnologySquareWithText||Detail image of a product feature|https://kohler.scene7.com/is/image/PAWEB/SKU_FAUCETS_FEATUREFINISH_ScratchShieldSquareWithText_en-US",
+              "22166-CP|22166-G-CP_FullRoomViewTwoPointSquareWithText_d2c0054349_en-US|IMGITEMFULLROOMVIEWTwoPointSquareWithText||Up to 3 walls & multiple product categories visible, 2-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FullRoomViewTwoPointSquareWithText_d2c0054349_en-US",
+              "22166-CP|22166-G-CP_CloseRoomViewProductDetailSquare_d2c0054348_rgb|IMGITEMCLOSEROOMVIEWProductDetailSquare||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewProductDetailSquare_d2c0054348_rgb",
+              "22166-CP|22166-G-CP_FullRoomViewOnePointSquareWithText_d2c0054355_en-US|IMGITEMFULLROOMVIEWOnePointSquareWithText||Up to 3 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FullRoomViewOnePointSquareWithText_d2c0054355_en-US",
+              "22166-CP|22166-G-CP_DETAILFunctionSquare-en-USWithText_d2c0054322_en-US|IMGITEMPRODUCTDETAILFunctionSquareWithText||close-up view of product detail function|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_DETAILFunctionSquare-en-USWithText_d2c0054322_en-US",
+              "22166-CP|22166-G-CP_DIMENSIONALSquareWithText_d2c0054329_en-US|IMGITEMDIMENSIONALSquareWithText||3/4 view of product with dimensions|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_DIMENSIONALSquareWithText_d2c0054329_en-US",
+              "22166-CP|22166-G-CP_CloseRoomViewArchitectFrontSquare_d2c0054357_rgb|IMGITEMCLOSEROOMVIEWArchitectFrontSquare||image focused on single product story, angled front view, not straight-on, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewArchitectFrontSquare_d2c0054357_rgb",
+              "22166-CP|22166-G-CP_ISOSquare_d2c0054334_rgb|IMGITEMISOSquare||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_ISOSquare_d2c0054334_rgb",
+              "22166-CP|22166-G-CP_PartialRoomViewOnePointSquare_d2c0054342_rgb|IMGITEMPARTIALROOMVIEWOnePointSquare||Up to 2 walls & multiple product categories visible, 1-point perspective|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_PartialRoomViewOnePointSquare_d2c0054342_rgb",
+              "22166-CP|22166-G-CP_ISO_d2c0054334_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_ISO_d2c0054334_rgb",
+              "22166-CP|22166-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0054323_en-US|IMGITEMCLOSEROOMVIEWProductDetailInUseSquareWithText||Shows close up detail of product in use in room|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_CloseRoomViewProductDetailInUseSquareWithText_d2c0054323_en-US",
+              "22166-CP|22166-G-CP_FRONTSquare_d2c0054318_rgb|IMGITEMFRONTSquare||front view of product|https://kohler.scene7.com/is/image/PAWEB/22166-G-CP_FRONTSquare_d2c0054318_rgb",
+              "22166-CP|SKU_SHOWERS_WARRANTYSquareWithText_en-US|IMGITEMWARRANTYSquareWithText||Infographic of product warranty|https://kohler.scene7.com/is/image/PAWEB/SKU_SHOWERS_WARRANTYSquareWithText_en-US"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166sde.dxf"
+            ],
+            "ProductWebFeatures_ss": [
+              "Multifunction showerhead and handshower each have advanced spray engines to provide three experiences: full coverage, pulsating massage, and silk spray",
+              "Full coverage spray produces an encompassing spray ideal for everyday use",
+              "Pulsating massage spray targets sore muscles to ease away aches and pains",
+              "Silk spray releases a dense, luxurious spray ideal for rinsing",
+              "Thumb tab allows for a smooth transition between sprays",
+              "Combination of balance, weight, grip, and angle makes this handshower comfortable and easy to use",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "2.5 gpm (9.5 lpm) maximum flow rate",
+              "Requires K-8593, K-9514, K-98360, K-98359, K-45981, or K-45982 shower hose (sold separately)",
+              "Coordinates with Purist®, Stillness®, and Composed® faucets and accessories",
+              "Features a nonpositive shutoff: water-saving pause mode to temporarily reduce water flow",
+              "Pause feature temporarily pauses water flow to conserve water while you lather, shave, or shampoo"
+            ],
+            "priceList.ANY.finalPrice_d": 17800.0,
+            "RequiredAccessoryGroupName_ss": [
+              "Option 2",
+              "Option 4",
+              "Option 6",
+              "Option 1",
+              "Option 3",
+              "Option 5"
+            ],
+            "sku_s": "22166-CP",
+            "InstallationCost_s": "Not Applicable",
+            "productInRiverId_s": "inRiver_210917",
+            "Product_Category": "Showerheads",
+            "ProductResource.InteractiveSVG.resourceName_ss": [
+              "1363457_8_p01.svg"
+            ],
+            "CustomerFacingSKU_s": "K-22166-CP",
+            "variantList.sku_ss": [
+              "22166-CP",
+              "22166-BV"
+            ],
+            "SKUShippingLength_s": "6.457",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166pln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_241724",
+              "inRiver_240804",
+              "inRiver_242359",
+              "inRiver_201659",
+              "inRiver_240787",
+              "inRiver_242351"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/22166.dwg"
+            ],
+            "id": "f7c98eed-0f08-4363-b010-94cbd625a7e7|22166-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

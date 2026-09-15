@@ -1,0 +1,175 @@
+{
+  "product_url": "https://www.kohler.co.in/p/elate-2000-mm-h-sliding-shower-door-with-8-mm-thick-glass-39061in?skuId=39061IN-SHP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/elate-2000-mm-h-sliding-shower-door-with-8-mm-thick-glass-39061in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/elate-2000-mm-h-sliding-shower-door-with-8-mm-thick-glass-39061in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4965>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/elate-2000-mm-h-sliding-shower-door-with-8-mm-thick-glass-39061in?skuId=39061IN-SHP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "c3NIa6EMb6",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=282, origin; dur=703, ak_p; desc=\"1789449734714_400553078_274432906_98573_14417_13_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:22:15 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1978",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061infrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Fits opening widths 1470 mm (57-7/8 inch) – 1600 mm (63 inch)",
+              "130 mm (5-1/8 inch) width adjustment",
+              "2000 mm (78-3/4 inch) height with 1954 mm (76-15/16 inch) minimum head clearance",
+              "Door can be installed to open to the left or right to suit your bathroom layout",
+              "Out-of-plumb adjustability simplifies installation",
+              "For alcove installation"
+            ],
+            "ProductNarrativeDescription_s": "Complete the setup of your showering space with the KOHLER® Elate™ sliding shower door, featuring a frameless design with no exposed screws and sleek vertical handles that create a minimalist look. While Crystal Clear tempered glass enhances safety, CleanCoat™ technology creates a protective barrier to repel water and prevent any buildup from collecting. Keeping water where it belongs, the full-length magnetic seal keeps the shower door firmly closed. Install the door to open to the left or the right, making the choice that best fits your bathroom layout, and rest assured that the premium metallic hardware is rust and corrosion resistant.",
+            "Color.SKU.Details_ss": [
+              "Bright Polished Silver|swatch_SHP|39061IN-SHP|false|false|K-39061IN-SHP"
+            ],
+            "ProductBrandName_s": "Elate™",
+            "ProductPackageContents_s": "1 FIXED GLASS; 1 GLASS DOOR; 1 HARDWARE KIT; 1 HANDLE ASSEMBLY; 1 CENTER GUIDE ASSEMBLY; 1 INSTALLATION GUIDE;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556176"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1640150-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1640150-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-39061IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "39061IN-SHP|aah37814_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah37814_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 42399.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 53000.0,
+            "ProductOverallLengthInches_s": "2\"",
+            "ProductDescriptionProductShort_s": "200 cm H sliding shower door with 8 mm-thick glass",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061insde.dxf"
+            ],
+            "productName_s": "Elate™ 200 cm H sliding shower door with 8 mm-thick glass",
+            "ctId_s": "9c4d0503-9432-4ea3-ae7e-23d8be7a87eb",
+            "ProductWebFeatures_ss": [
+              "Frameless design emphasizes glass and creates a sleek, minimalist look",
+              "Tempered glass ensures enhanced safety and durability",
+              "CleanCoat™ technology creates a protective barrier that repels water and prevents dirt and minerals from collecting",
+              "Vertical handles accentuate the contemporary style",
+              "37 mm (1-15/32 inch) threshold",
+              "Full-length magnetic seal keeps door firmly closed, providing excellent water containment",
+              "Removable center guide for easy cleaning of surrounding surfaces and bottom threshold",
+              "No exposed screws for sleek, contemporary look"
+            ],
+            "priceList.ANY.finalPrice_d": 53000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061insde.dwg"
+            ],
+            "sku_s": "39061IN-SHP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Shower_Door-KOHLER-Elate-K-39061IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "46.250",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "39061IN",
+            "productInRiverId_s": "inRiver_3236512",
+            "priceList.CTR.finalPrice_d": 53000.0,
+            "Product_Category": "Shower Doors",
+            "CustomerFacingSKU_s": "K-39061IN-SHP",
+            "ProductBrandNameDisplay_s": "Elate™",
+            "variantList.sku_ss": [
+              "39061IN-SHP"
+            ],
+            "SKUShippingHeight_s": "4.375",
+            "ctProductType_s": "shower-doors",
+            "SKUShippingLength_s": "86.250",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Frameless 8 mm (5/16 inch) Crystal Clear tempered glass",
+              "Anodized aluminum prevents rust and corrosion"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/39061IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "78-3/4\"",
+            "id": "9c4d0503-9432-4ea3-ae7e-23d8be7a87eb|39061IN-SHP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

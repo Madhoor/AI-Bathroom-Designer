@@ -1,0 +1,201 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-wall-mount-bathroom-sink-faucet-25759in-4nd?skuId=25759IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-wall-mount-bathroom-sink-faucet-25759in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-wall-mount-bathroom-sink-faucet-25759in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-wall-mount-bathroom-sink-faucet-25759in-4nd?skuId=25759IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "tPxdZyqdKE",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=266, origin; dur=760, ak_p; desc=\"1789421994740_400553039_333238670_102693_10952_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:39:55 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2330",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount",
+              "Preattached flexible supply lines simplify installation"
+            ],
+            "ProductOverallWidthInches_s": "6-5/8\"",
+            "ProductNarrativeDescription_s": "The ModernLife Edge wall-mount bathroom sink faucet reinvents classic cubist design with slim lines and a strong, expressive stance. A unique one-piece design creates a continuous look and is also easier to install. This elegant faucet is made with precision machining and quality craftsmanship, making it both durable and reliable.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|25759IN-4ND-CP|true|false|K-25759IN-4ND-CP",
+              "Vibrant French Gold|swatch_AF|25759IN-4ND-AF|true|false|K-25759IN-4ND-AF",
+              "Vibrant Rose Gold|swatch_RGD|25759IN-4ND-RGD|true|false|K-25759IN-4ND-RGD",
+              "Matte Black|swatch_BL|25759IN-4ND-BL|true|false|K-25759IN-4ND-BL"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "1-WALL MOUNT LAV FAUCET, 1 MOUNTING KIT; 1 ESCUTCHEON KIT;1 WARRANTY CARD;1INSTALLATION INSTRUCTION MANUAL",
+            "Recommended_Accessories_ss": [
+              "inRiver_2312070",
+              "inRiver_3208982",
+              "inRiver_3208985"
+            ],
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556174"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1672150-IN2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1672150-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-25759IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "25759IN-4ND-CP|aae31084_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31084_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_CloseRoomViewProductDetail_d2c0007245_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomViewProductDetail_d2c0007245_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_ISOBackground_d2c0007291_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_ISOBackground_d2c0007291_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_CloseRoomView_d2c0007221_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomView_d2c0007221_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_CloseRoomViewInUse_d2c0007476_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomViewInUse_d2c0007476_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_FRONT_d2c0007231_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_FRONT_d2c0007231_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_PartialRoomView_d2c0007428_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_PartialRoomView_d2c0007428_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_OverheadRoomView_d2c0007319_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_OverheadRoomView_d2c0007319_rgb",
+              "25759IN-4ND-CP|25759IN-4ND-CP_SIDE_d2c0007591_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_SIDE_d2c0007591_rgb",
+              "25759IN-4ND-AF|aae31080_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31080_rgb",
+              "25759IN-4ND-BL|aae31087_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31087_rgb",
+              "25759IN-4ND-RGD|aae31086_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31086_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_ISOBackground_d2c0007355_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_ISOBackground_d2c0007355_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_CloseRoomViewInUse_d2c0007638_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomViewInUse_d2c0007638_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_OverheadRoomView_d2c0007299_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_OverheadRoomView_d2c0007299_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_PartialRoomView_d2c0007282_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_PartialRoomView_d2c0007282_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_SIDE_d2c0007670_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_SIDE_d2c0007670_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_CloseRoomView_d2c0007391_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomView_d2c0007391_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_CloseRoomViewProductDetail_d2c0007441_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomViewProductDetail_d2c0007441_rgb",
+              "25759IN-4ND-RGD|25759IN-4ND-RGD_FRONT_d2c0007230_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_FRONT_d2c0007230_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 22399.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 28000.0,
+            "ProductOverallLengthInches_s": "8-3/4\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759in_4ndsde.dxf"
+            ],
+            "productName_s": "ModernLife Edge™ Wall-mount bathroom sink faucet",
+            "ctId_s": "8e38051f-dbd8-468a-9cf3-85e61ea51726",
+            "ProductWebFeatures_ss": [
+              "Single Lever handle allows for both volume and temperature control",
+              "Unique one-piece design creates a continuous look and simplifies installation",
+              "Available in a range of dazzling finishes",
+              "7-1/2\" (19.1 cm) spout reach",
+              "2.1 gpm (8.0 lpm) maximum flow rate at 45 psi (3.1 bar)",
+              "KOHLER® ceramic disc valves exceed industry longevity standards for a lifetime of durable performance"
+            ],
+            "priceList.ANY.finalPrice_d": 28000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759in_4ndsde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "25759IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-ModernLife_Edge-K-25759IN.rfa"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "20.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "25759IN-4ND",
+            "productInRiverId_s": "inRiver_2486697",
+            "priceList.CTR.finalPrice_d": 28000.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-25759IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "ModernLife Edge™",
+            "variantList.sku_ss": [
+              "25759IN-4ND-CP",
+              "25759IN-4ND-AF",
+              "25759IN-4ND-BL",
+              "25759IN-4ND-RGD"
+            ],
+            "SKUShippingHeight_s": "9.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "27.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558780"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25759in_4ndfrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "2-3/4\"",
+            "id": "8e38051f-dbd8-468a-9cf3-85e61ea51726|25759IN-4ND-CP",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

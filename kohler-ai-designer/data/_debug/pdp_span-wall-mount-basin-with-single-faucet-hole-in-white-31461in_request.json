@@ -1,0 +1,173 @@
+{
+  "product_url": "https://www.kohler.co.in/p/span-wall-mount-basin-with-single-faucet-hole-in-white-31461in?skuId=31461IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/span-wall-mount-basin-with-single-faucet-hole-in-white-31461in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/span-wall-mount-basin-with-single-faucet-hole-in-white-31461in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/span-wall-mount-basin-with-single-faucet-hole-in-white-31461in?skuId=31461IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "JFfWrJ2O9h",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=264, origin; dur=769, ak_p; desc=\"1789421034717_400553078_266614728_103567_9048_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:23:55 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1787",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/span-wall-hung-corner-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Corner",
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "19-3/16\"",
+            "ProductNarrativeDescription_s": "With graceful edges and a clean, contemporary silhouette, the KOHLER® Span™ wall-mount corner bathroom sink delivers minimalist elegance to compact spaces. Blending a circular bowl with a soft square deck, it offers a warm, tactile experience while staying true to its geometric roots. Designed for versatility, its edge-free form pairs seamlessly with other pieces in the Span™ collection for a cohesive, modern look. Complete the space-saving setup by pairing this corner-mount sink with a contemporary or transitional single-handle bathroom sink faucet. At Kohler, we make it our business to help you create the bathroom space of your dreams.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|31461IN-0|true|false|K-31461IN-0"
+            ],
+            "ProductBrandName_s": "Span™",
+            "ProductPackageContents_s": "1 LAV; 1 INSTALLATION\nTEMPLATE AND 1 WARRANTY CARD\n1 MOUNTING KIT",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1653958-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-31461IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "31461IN-0|aai54656_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai54656_rgb",
+              "31461IN-0|aaj83411_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaj83411_rgb",
+              "31461IN-0|aaj83409_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83409_rgb",
+              "31461IN-0|aaj83410_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83410_rgb",
+              "31461IN-0|aaj83406_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83406_rgb",
+              "31461IN-0|aaj83405_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83405_rgb",
+              "31461IN-0|aaj83407_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83407_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5099.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 6000.0,
+            "ProductOverallLengthInches_s": "22-3/8\"",
+            "ProductDescriptionProductShort_s": "57 cm wall-mount corner bathroom sink",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461insde.dxf"
+            ],
+            "productName_s": "Span™ 57 cm wall-mount corner bathroom sink",
+            "ctId_s": "e42dac7f-6e49-4c19-9069-8f3a362bcffd",
+            "ProductWebFeatures_ss": [
+              "Sleek and contemporary design",
+              "Basin with square back and curved front",
+              "Round basin",
+              "Single faucet hole at deck center",
+              "Center drain and overflow",
+              "Glazed finish is easy to clean"
+            ],
+            "priceList.ANY.finalPrice_d": 6000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461insde.dwg"
+            ],
+            "sku_s": "31461IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Wall_Mount-Lavatory-KOHLER-Span-K-31461IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "21.500",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "31461IN",
+            "productInRiverId_s": "inRiver_2492091",
+            "priceList.CTR.finalPrice_d": 6000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-31461IN-0",
+            "ProductBrandNameDisplay_s": "Span™",
+            "variantList.sku_ss": [
+              "31461IN-0"
+            ],
+            "SKUShippingHeight_s": "42.500",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "43.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31461IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-3/4\"",
+            "id": "e42dac7f-6e49-4c19-9069-8f3a362bcffd|31461IN-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

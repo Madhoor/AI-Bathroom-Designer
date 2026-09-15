@@ -1,0 +1,180 @@
+{
+  "product_url": "https://www.kohler.co.in/p/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27791in-waf?skuId=27791IN-WAF-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27791in-waf",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27791in-waf",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/modernlife-edge-wall-hung-round-front-toilet-bowl-with-skirted-trapway-27791in-waf?skuId=27791IN-WAF-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "LaQVRxIE1G",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=330, origin; dur=740, ak_p; desc=\"1789450150801_400553078_274642764_107692_15529_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:29:11 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2307",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": true,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791IN-WAF.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791in_waffrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-hung",
+              "205 mm (8.1 inch) P-trap rough-in",
+              "Supply line sold separately"
+            ],
+            "ProductOverallWidthInches_s": "14-3/16\"",
+            "ProductNarrativeDescription_s": "The ModernLife Edge® collection combines thoughtful design with a contemporary and minimalist form. This wall-hung toilet bowl from KOHLER® features a compact round-front design, perfect for smaller bathrooms, while a fully skirted trapway creates a sleek profile that's easy to clean. Premium gold decal elevates the bowl with an opulent flair. The elegant, yet simplistic visuals add a sculptural element to the space without sacrificing practicality and comfort. Complete with a Quiet-Close™ seat that prevents slamming, pair your new toilet bowl with a compatible in-wall tank and dual-flush faceplate for a complete configuration.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|27791IN-WAF-0|false|false|K-27791IN-WAF-0"
+            ],
+            "ProductBrandName_s": "ModernLife Edge™",
+            "ProductPackageContents_s": "1 Toilet Bowl, 1 Toilet Seat",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791IN-WAF.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-27791IN-WAF_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791IN-WAF.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "27791IN-WAF-0|aah26713_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aah26713_rgb",
+              "27791IN-WAF-0|aah26715_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aah26715_rgb",
+              "27791IN-WAF-0|aah43495_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aah43495_rgb",
+              "27791IN-WAF-0|aaj91924_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaj91924_rgb",
+              "27791IN-WAF-0|aaj91927_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91927_rgb",
+              "27791IN-WAF-0|aaj92686_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj92686_rgb",
+              "27791IN-WAF-0|aaj91925_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91925_rgb",
+              "27791IN-WAF-0|aaj91929_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91929_rgb",
+              "27791IN-WAF-0|aaj91926_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj91926_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 71999.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 90000.0,
+            "ProductOverallLengthInches_s": "21-1/4\"",
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl with skirted trapway",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791in_wafpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791in_wafsde.dxf"
+            ],
+            "productName_s": "ModernLife Edge® Wall-hung round-front toilet bowl with skirted trapway",
+            "ctId_s": "09358f3a-b47d-4212-83ba-9a25b434ce52",
+            "ProductWebFeatures_ss": [
+              "Decorated with premium gold-colored shades and real gold accents",
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Wall-hung design offers a clean, streamlined look",
+              "Rimless design makes toilet bowl more hygienic and easier to clean",
+              "Washdown flushing system",
+              "52 mm (2 inch) fully glazed trapway",
+              "Fully skirted trapway simplifies cleaning",
+              "Antimicrobial finish inhibits the growth of mold-, mildew-, stain-, and odor-causing bacteria on the fixture surface. This product does not protect users against bacteria, viruses, or other disease organisms. Always clean and wash this product thoroughly before and after each use",
+              "Round-front seat with lid",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "ReadyLatch™ hinge provides a positive lock/unlock latch to securely hold seat in position, yet seat easily removes for cleaning or adjusting fit",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Hinge is concealed by lid when closed to offer a clean profile",
+              "Part of the ModernLife Edge collection",
+              "Refer to homeowner's guide for cleaning and care instructions",
+              "Bowl and seat only; requires KOHLER® in-wall tank and carrier system, and dual-flush faceplate (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 90000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791in_wafsde.dwg"
+            ],
+            "sku_s": "27791IN-WAF-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Toilet-Wall_Hung-KOHLER-Modern_Life-K-27791IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791IN-WAF.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "0.000",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "27791IN-WAF",
+            "productInRiverId_s": "inRiver_3271367",
+            "priceList.CTR.finalPrice_d": 90000.0,
+            "Product_Category": "Toilets",
+            "CustomerFacingSKU_s": "K-27791IN-WAF-0",
+            "variantList.sku_ss": [
+              "27791IN-WAF-0"
+            ],
+            "SKUShippingHeight_s": "0.000",
+            "ctProductType_s": "toilets",
+            "SKUShippingLength_s": "0.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791in_wafpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Plastic seat"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791in_waffrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/27791IN-WAF.dwg"
+            ],
+            "ProductOverallHeightInches_s": "13-3/4\"",
+            "id": "09358f3a-b47d-4212-83ba-9a25b434ce52|27791IN-WAF-0"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "product_url": "https://www.kohler.co.in/p/kankara-vessel-basin-with-1-tap-hole-76600in?skuId=76600IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/kankara-vessel-basin-with-1-tap-hole-76600in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/kankara-vessel-basin-with-1-tap-hole-76600in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4934>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/kankara-vessel-basin-with-1-tap-hole-76600in?skuId=76600IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "RpEDZ2cQ86",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=248, origin; dur=1306, ak_p; desc=\"1789420754515_400553078_266592408_155415_14993_12_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:19:16 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1642",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/kankara-basin-with-faucet-hole-in-white-colour",
+            "ProductWebInstallation_ss": [
+              "Requires countertop cutout",
+              "Vessel"
+            ],
+            "ProductNarrativeDescription_s": "The Kankara™ vessel sink evokes a sense of earthy luxury in your bathroom. Inspired by natural stones and pebbles, the sink's soft shape brings the relaxing environment of the outdoors inside. The elegant vessel sits atop your countertop, creating a striking look in any grooming area. With a glazed finish, this basin is long-lasting and easy to clean, saving you time and money. Pair with your choice of KOHLER® wall- or deck-mount faucet for a comfortable washing experience with minimized splash.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|76600IN-0|true|false|K-76600IN-0"
+            ],
+            "ProductBrandName_s": "Kankara™",
+            "ProductPackageContents_s": "1 LAVATORY;1 CUTOUT TEMPLATE;1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-76600IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "76600IN-0|aad70846_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad70846_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 11889.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 14500.0,
+            "ProductOverallLengthInches_s": "22-3/8\"",
+            "ProductDescriptionProductShort_s": "56.8 cm rectangular vessel bathroom sink with glazed underside",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600insde.dxf"
+            ],
+            "productName_s": "Kankara™ 56.8 cm rectangular vessel bathroom sink with glazed underside",
+            "ctId_s": "0bc1586d-9ea4-4fd5-a8f6-b52cb49fa078",
+            "ProductWebFeatures_ss": [
+              "Unique shape inspired by natural stones and pebbles",
+              "Asymmetrical rectangular bathroom sink with rounded edges",
+              "Integrated rear faucet deck provides countertop space for placing small items",
+              "Single faucet hole",
+              "With overflow",
+              "Glazed underside offers beauty from all angles"
+            ],
+            "priceList.ANY.finalPrice_d": 14500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600insde.dwg"
+            ],
+            "sku_s": "76600IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Vessel-Lavatory-KOHLER-Kankara-K-76600IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "53.300",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "76600IN",
+            "productInRiverId_s": "inRiver_558988",
+            "priceList.CTR.finalPrice_d": 14500.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-76600IN-0",
+            "ProductBrandNameDisplay_s": "Kankara™",
+            "variantList.sku_ss": [
+              "76600IN-0"
+            ],
+            "SKUShippingHeight_s": "24.000",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "67.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/76600IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-1/2\"",
+            "id": "0bc1586d-9ea4-4fd5-a8f6-b52cb49fa078|76600IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "product_url": "https://www.kohler.co.in/p/apt-curv-wall-mount-bathroom-sink-faucet-12-5-lpm-34076in-4nd?skuId=34076IN-4ND-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/apt-curv-wall-mount-bathroom-sink-faucet-12-5-lpm-34076in-4nd",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/apt-curv-wall-mount-bathroom-sink-faucet-12-5-lpm-34076in-4nd",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4956>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/apt-curv-wall-mount-bathroom-sink-faucet-12-5-lpm-34076in-4nd?skuId=34076IN-4ND-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "27GvXGbbZ7",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=402, origin; dur=734, ak_p; desc=\"1789422041156_400553039_333240612_113617_11628_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:40:42 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1695",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076IN-4ND.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076in_4ndfrt.dxf"
+            ],
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "7-1/8\"",
+            "ProductNarrativeDescription_s": "The APT™ Curv collection is an expression of excellence, uniting modern form and function for a reliable experience. This faucet has an easy-to-use lever handle and a contemporary, wall-mount design, providing extra space at the bathroom sink. With its durable, high-quality construction, this faucet was built for longevity. Coordinate your new faucet with other products and accessories in the APT™ collection to complete your bathroom.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|34076IN-4ND-CP|true|false|K-34076IN-4ND-CP"
+            ],
+            "ProductBrandName_s": "APT™ Curv",
+            "ProductPackageContents_s": "1 LAV FAUCET;1 WARRANTY; 1 INSTALLATION MANUAL",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076IN-4ND.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1602897-IN2.pdf",
+              "https://techcomm.kohler.com/techcomm/pdf/1602898-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-34076IN-4ND_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076IN-4ND.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "34076IN-4ND-CP|aaf86883_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86883_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 3559.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 4510.0,
+            "ProductOverallLengthInches_s": "7-7/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 12.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076in_4ndpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076in_4ndsde.dxf"
+            ],
+            "productName_s": "APT™ Curv Wall-mount bathroom sink faucet, 12.5 lpm",
+            "ctId_s": "4a5d02d0-8f7c-444e-a796-81e121ef6cd0",
+            "ProductWebFeatures_ss": [
+              "A geometric, straight-line design with a simple, modern, and stylish touch",
+              "Faceplate with Lever handle",
+              "Single Lever handle allows for on/off activation, volume, and temperature control",
+              "Red/blue indexing on handle",
+              "6.52 inch (16.6 cm) spout reach",
+              "3.3 gpm (12.5 lpm) maximum flow rate at 43.5 psi (3.0 bar)",
+              "Aerated flow",
+              "Coordinates with other products in the APT™ collection",
+              "Requires K-25150IN valve (sold separately)",
+              "Drain sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 4510.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076in_4ndsde.dwg"
+            ],
+            "sku_s": "34076IN-4ND-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Lavatory-KOHLER-APT-K-34076IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076IN-4ND.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "16.500",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "34076IN-4ND",
+            "productInRiverId_s": "inRiver_3093395",
+            "priceList.CTR.finalPrice_d": 4510.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-34076IN-4ND-CP",
+            "ProductBrandNameDisplay_s": "APT™ Curv",
+            "variantList.sku_ss": [
+              "34076IN-4ND-CP"
+            ],
+            "SKUShippingHeight_s": "12.000",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "24.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076in_4ndpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076in_4ndfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/34076IN-4ND.dwg"
+            ],
+            "ProductOverallHeightInches_s": "4-1/2\"",
+            "id": "4a5d02d0-8f7c-444e-a796-81e121ef6cd0|34076IN-4ND-CP"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

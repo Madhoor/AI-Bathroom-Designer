@@ -1,0 +1,179 @@
+{
+  "product_url": "https://www.kohler.co.in/p/parallel-bath-spout-with-diverter-23511in?skuId=23511IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/parallel-bath-spout-with-diverter-23511in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/parallel-bath-spout-with-diverter-23511in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5451>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/parallel-bath-spout-with-diverter-23511in?skuId=23511IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "XK7dxHMGse",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=245, origin; dur=711, ak_p; desc=\"1789422553347_400553039_333260160_95644_12186_7_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:49:14 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1835",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/parallel-bath-spout-with-diverter-in-chrome",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "2-3/8\"",
+            "ProductNarrativeDescription_s": "Elevate your bathroom aesthetic with the Parallel™ wall-mount bath faucet. This sophisticated fixture offers a harmonious blend of versatility and style, effortlessly adapting to any surrounding décor. Whether you prefer a seamless integration or a bold statement piece, the Parallel™ faucet is designed to meet your unique taste. Crafted for both functionality and elegance, this faucet is the perfect addition to transform your bathroom into a space that exudes modern sophistication.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|23511IN-CP|true|false|K-23511IN-CP",
+              "Vibrant French Gold|swatch_AF|23511IN-AF|true|false|K-23511IN-AF",
+              "Vibrant Rose Gold|swatch_RGD|23511IN-RGD|true|false|K-23511IN-RGD",
+              "Vibrant Brushed Bronze|swatch_BV|23511IN-BV|true|false|K-23511IN-BV",
+              "Matte Black|swatch_BL|23511IN-BL|true|false|K-23511IN-BL",
+              "Vibrant Brushed Rose Gold|swatch_BRD|23511IN-BRD|true|false|K-23511IN-BRD"
+            ],
+            "ProductBrandName_s": "Parallel™",
+            "ProductPackageContents_s": "1 PARALLEL BATH SPOUT W DIVERTER, 1 INSTALLATION  INSTRUCTION,  1 WARRANTY SHEET, INDIA",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1339458-IN2.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-23511IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "23511IN-RGD|aae40952_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae40952_rgb",
+              "23511IN-BV|aaf63270_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63270_rgb",
+              "23511IN-AF|aad15686_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad15686_rgb",
+              "23511IN-CP|aad15690_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad15690_rgb",
+              "23511IN-BL|aae62319_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae62319_rgb",
+              "23511IN-BRD|aag61365_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61365_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 7249.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 8850.0,
+            "ProductOverallLengthInches_s": "6-5/8\"",
+            "ProductDescriptionProductShort_s": "Wall-mount bath spout with diverter",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511insde.dxf"
+            ],
+            "productName_s": "Parallel™ Wall-mount bath spout with diverter",
+            "ctId_s": "37fe2989-f2dc-43bf-8f80-3ab5b5d22978",
+            "ProductWebFeatures_ss": [
+              "6.63 inch (16.8 cm) diverter bath spout with G 1/2 connection",
+              "Coordinates with other products in the Parallel collection"
+            ],
+            "priceList.ANY.finalPrice_d": 8850.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511insde.dwg"
+            ],
+            "sku_s": "23511IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Wall_Mount-Bath_Spout-KOHLER-PARALLEL-K-23511IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "3.438",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "23511IN",
+            "productInRiverId_s": "inRiver_880185",
+            "priceList.CTR.finalPrice_d": 8850.0,
+            "Product_Category": "Bathtub Faucets",
+            "CustomerFacingSKU_s": "K-23511IN-CP",
+            "ProductBrandNameDisplay_s": "Parallel™",
+            "variantList.sku_ss": [
+              "23511IN-BV",
+              "23511IN-AF",
+              "23511IN-RGD",
+              "23511IN-CP",
+              "23511IN-BL",
+              "23511IN-BRD"
+            ],
+            "SKUShippingHeight_s": "2.313",
+            "ctProductType_s": "bathtub-faucets",
+            "SKUShippingLength_s": "9.750",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium metal construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/23511IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-1/16\"",
+            "id": "37fe2989-f2dc-43bf-8f80-3ab5b5d22978|23511IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

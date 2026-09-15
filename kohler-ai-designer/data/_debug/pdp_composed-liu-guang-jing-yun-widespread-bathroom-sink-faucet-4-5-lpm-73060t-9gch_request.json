@@ -1,0 +1,148 @@
+{
+  "product_url": "https://www.kohler.co.in/p/composed-liu-guang-jing-yun-widespread-bathroom-sink-faucet-4-5-lpm-73060t-9gch?skuId=73060T-9GCH-TT",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/composed-liu-guang-jing-yun-widespread-bathroom-sink-faucet-4-5-lpm-73060t-9gch",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/composed-liu-guang-jing-yun-widespread-bathroom-sink-faucet-4-5-lpm-73060t-9gch",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4946>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/composed-liu-guang-jing-yun-widespread-bathroom-sink-faucet-4-5-lpm-73060t-9gch?skuId=73060T-9GCH-TT",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "EfwW02XQJI",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=278, origin; dur=1298, ak_p; desc=\"1789422250063_400553039_333248851_157578_10426_6_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:44:11 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1608",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060T-9GCH.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060t_9gchfrt.dxf"
+            ],
+            "ProductNarrativeDescription_s": "\nExperience the allure of exquisite and perfectly balanced forms with KOHLER bathroom faucets, where striking finishes not only draw the eye but also invite a tactile exploration. Unveil the exceptional performance and enduring beauty that defines every KOHLER bathroom faucet, crafted with precision to elevate your bathroom aesthetics. Redefine your bathroom experience with a KOHLER faucet, where form meets function in an exquisite fusion of artistry and innovation.",
+            "Color.SKU.Details_ss": [
+              "Vibrant Titanium|swatch_TT|73060T-9GCH-TT|false|false|K-73060T-9GCH-TT"
+            ],
+            "ProductBrandName_s": "Composed™ ",
+            "ProductPackageContents_s": "1 FAUCET ASSY;\n1 ESCUTCHEON; 1 HARDWARE KIT; 1 DRAIN;\n1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060T-9GCH.skp"
+            ],
+            "RegionSoldOnline_b": false,
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1535448202463_73060T-9ACH&9GCH.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060T-9GCH.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "73060T-9GCH-TT|aad98764_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad98764_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 76799.0,
+            "SKUCountryofOrigin_s": "CN",
+            "priceList.KEMP.finalPrice_d": 96000.0,
+            "ProductDescriptionProductShort_s": "Widespread bathroom sink faucet, 4.5 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060t_9gchpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060t_9gchsde.dxf"
+            ],
+            "productName_s": "Composed™ Liu Guang Jing Yun Widespread bathroom sink faucet, 4.5 lpm",
+            "ctId_s": "c6a7a421-a157-4fc9-80b3-880ff2222936",
+            "ProductWebFeatures_ss": [
+              "The innovative PVD space metal coating is subtly incorporated into the design, showcasing unique artistry",
+              "The style represented by Chinese landscape painting echoes concept of avant-garde science fiction",
+              "Using ancient dewaxing casting technique, which requires firing for 7 days and 7 nights in a 47-stage process",
+              "The natural gradual color on each tap surface is unique and long-lasting; the surface feels silky smooth"
+            ],
+            "priceList.ANY.finalPrice_d": 96000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060t_9gchsde.dwg"
+            ],
+            "sku_s": "73060T-9GCH-TT",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Faucet-Lavatory-KOHLER-COMPOSED-K-73060T.zip"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060T-9GCH.dxf"
+            ],
+            "InstallationAvailable_s": "No",
+            "SKUShippingWidth_s": "16.102",
+            "InstallationCost_s": "Not Applicable",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "73060T-9GCH",
+            "productInRiverId_s": "inRiver_879588",
+            "priceList.CTR.finalPrice_d": 96000.0,
+            "Product_Category": "Bathroom Sink Faucets",
+            "CustomerFacingSKU_s": "K-73060T-9GCH-TT",
+            "ProductBrandNameDisplay_s": "Composed™",
+            "variantList.sku_ss": [
+              "73060T-9GCH-TT"
+            ],
+            "SKUShippingHeight_s": "3.504",
+            "ctProductType_s": "bathroom-sink-faucets",
+            "SKUShippingLength_s": "18.189",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060t_9gchpln.dwg"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060t_9gchfrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/73060T-9GCH.dwg"
+            ],
+            "id": "c6a7a421-a157-4fc9-80b3-880ff2222936|73060T-9GCH-TT"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

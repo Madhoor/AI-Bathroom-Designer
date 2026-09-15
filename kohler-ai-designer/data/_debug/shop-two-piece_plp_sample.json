@@ -220,52 +220,6 @@
       },
       {
         "Color.SKU.Details_ss": [
-          "White|swatch_0|1851IN-0|true|false|K-1851IN-0"
-        ],
-        "ProductBrandName_s": "Brive Plus",
-        "masterSKU_s": "1851IN-0",
-        "SKUColorSwatchFilename_ss": [
-          "swatch_0"
-        ],
-        "sourceId_s": "1851IN-0",
-        "productImages.labelWithUrl_ss": [
-          "1851IN-0|aag42356_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
-        ],
-        "priceList.GST.price_d": 7049.0,
-        "priceList.GST.finalPrice_d": 7049.0,
-        "ProductDescriptionProductShort_s": "Round-front toilet bowl with concealed trapway",
-        "productName_s": "Brive Plus Round-front toilet bowl with concealed trapway",
-        "ctId_s": "2233534b-c7cc-45b2-a5e7-2c44b7eab0d9",
-        "Color.GST.Details_ss": [
-          "1851IN-0|White|8300.0|7049.0||https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
-        ],
-        "RegionSupplyChain_ss": [
-          "Manufactured By"
-        ],
-        "InstallationAvailable_s": "Yes",
-        "ProductProductNo_s": "1851IN",
-        "productImages.url_ss": [
-          "https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
-        ],
-        "priceList.ANY.price_d": 8300.0,
-        "Product_Category": "Toilets",
-        "preferenceSku_s": "1851IN-0",
-        "ProductBrandNameDisplay_s": "Brive Plus",
-        "variantList.sku_ss": [
-          "1851IN-0"
-        ],
-        "discountedPriceStartingAt.GST_d": 7049.0,
-        "displayPriceStartingAt_s": "₹7,049.00",
-        "SKUColorFinishName_ss": [
-          "White"
-        ],
-        "slug_s": "brive-p-trap-2-pc-bowl-only-1851in",
-        "priceStartingAt.GST_d": 7049.0,
-        "priceList.GST.discountedPrice_d": 0.0,
-        "id": "2233534b-c7cc-45b2-a5e7-2c44b7eab0d9|1851IN-0"
-      },
-      {
-        "Color.SKU.Details_ss": [
           "White|swatch_0|17661K-S-0|false|false|K-17661K-S-0"
         ],
         "ProductBrandName_s": "Odeon",
@@ -309,6 +263,52 @@
         "priceStartingAt.GST_d": 23459.0,
         "priceList.GST.discountedPrice_d": 0.0,
         "id": "f93b593c-e22e-4ce3-9480-0177f873e36f|17661K-S-0"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "White|swatch_0|1851IN-0|true|false|K-1851IN-0"
+        ],
+        "ProductBrandName_s": "Brive Plus",
+        "masterSKU_s": "1851IN-0",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_0"
+        ],
+        "sourceId_s": "1851IN-0",
+        "productImages.labelWithUrl_ss": [
+          "1851IN-0|aag42356_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
+        ],
+        "priceList.GST.price_d": 7049.0,
+        "priceList.GST.finalPrice_d": 7049.0,
+        "ProductDescriptionProductShort_s": "Round-front toilet bowl with concealed trapway",
+        "productName_s": "Brive Plus Round-front toilet bowl with concealed trapway",
+        "ctId_s": "2233534b-c7cc-45b2-a5e7-2c44b7eab0d9",
+        "Color.GST.Details_ss": [
+          "1851IN-0|White|8300.0|7049.0||https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "1851IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag42356_rgb"
+        ],
+        "priceList.ANY.price_d": 8300.0,
+        "Product_Category": "Toilets",
+        "preferenceSku_s": "1851IN-0",
+        "ProductBrandNameDisplay_s": "Brive Plus",
+        "variantList.sku_ss": [
+          "1851IN-0"
+        ],
+        "discountedPriceStartingAt.GST_d": 7049.0,
+        "displayPriceStartingAt_s": "₹7,049.00",
+        "SKUColorFinishName_ss": [
+          "White"
+        ],
+        "slug_s": "brive-p-trap-2-pc-bowl-only-1851in",
+        "priceStartingAt.GST_d": 7049.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "2233534b-c7cc-45b2-a5e7-2c44b7eab0d9|1851IN-0"
       }
     ],
     "numFound": 5,

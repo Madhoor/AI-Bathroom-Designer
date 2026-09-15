@@ -1,0 +1,2075 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"FaucetsInstallationType_ss\"}FaucetsInstallationType_ss",
+      "ATTR_SPEC_WaterSaving_s",
+      "FaucetsProductType_s",
+      "{!ex=\"ATTR_SPEC_SpoutType_s\"}ATTR_SPEC_SpoutType_s",
+      "{!ex=\"SpecialFeatureList_ss\"}SpecialFeatureList_ss",
+      "{!ex=\"FaucetsProductStyle_ss\"}FaucetsProductStyle_ss",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "Matte Black with Brushed Moderne Brass": "swatch_BMB",
+      "Matte Black": "swatch_BL",
+      "Polished Chrome": "swatch_CP",
+      "Vibrant Brushed Bronze": "swatch_BV",
+      "Vibrant Brushed Moderne Brass": "swatch_2MB",
+      "Vibrant Brushed Rose Gold": "swatch_BRD",
+      "Vibrant French Gold": "swatch_AF",
+      "Vibrant Rose Gold": "swatch_RGD"
+    },
+    "facet_labels": {
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "FaucetsInstallationType_ss": "Installation Type",
+      "ATTR_SPEC_WaterSaving_s": "Water Saving",
+      "FaucetsProductType_s": "Product Type",
+      "ATTR_SPEC_SpoutType_s": "Spout Type",
+      "SpecialFeatureList_ss": "Special Feature",
+      "FaucetsProductStyle_ss": "Design Style",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|5684IN-4ND-CP|true|false|K-5684IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|5684IN-4ND-AF|true|false|K-5684IN-4ND-AF",
+          "Vibrant Rose Gold|swatch_RGD|5684IN-4ND-RGD|true|false|K-5684IN-4ND-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|5684IN-4ND-BV|true|false|K-5684IN-4ND-BV",
+          "Matte Black|swatch_BL|5684IN-4ND-BL|true|false|K-5684IN-4ND-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|5684IN-4ND-BRD|false|false|K-5684IN-4ND-BRD"
+        ],
+        "ProductBrandName_s": "Aleo+™",
+        "masterSKU_s": "5684IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_RGD",
+          "swatch_BV",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "5684IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "5684IN-4ND-AF|aae34335_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae34335_rgb",
+          "5684IN-4ND-RGD|aae36389_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae36389_rgb",
+          "5684IN-4ND-BL|aae22025_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae22025_rgb",
+          "5684IN-4ND-BL|aaf67033_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67033_rgb",
+          "5684IN-4ND-BL|aaf67047_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67047_rgb",
+          "5684IN-4ND-BL|aaf67048_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf67048_rgb",
+          "5684IN-4ND-BL|aaf67028_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf67028_rgb",
+          "5684IN-4ND-BL|aaf67046_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67046_rgb",
+          "5684IN-4ND-BL|aaf67049_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67049_rgb",
+          "5684IN-4ND-BL|aaf67050_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67050_rgb",
+          "5684IN-4ND-CP|aae02737_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae02737_rgb",
+          "5684IN-4ND-CP|aaf68513_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf68513_rgb",
+          "5684IN-4ND-CP|aaf68515_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf68515_rgb",
+          "5684IN-4ND-CP|aaf68512_rgb|IMGCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf68512_rgb",
+          "5684IN-4ND-CP|aaf68517_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68517_rgb",
+          "5684IN-4ND-CP|aaf68516_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68516_rgb",
+          "5684IN-4ND-CP|aaf68514_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68514_rgb",
+          "5684IN-4ND-BRD|aaj29780_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj29780_rgb",
+          "5684IN-4ND-BV|aaj29779_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj29779_rgb"
+        ],
+        "priceList.GST.price_d": 11519.0,
+        "priceList.GST.finalPrice_d": 11519.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet trim, 9.0 lpm",
+        "productName_s": "Aleo+™ Wall-mount bathroom sink faucet trim, 9.0 lpm",
+        "ctId_s": "f4c78f81-4e50-4fe2-9b52-78940c41354a",
+        "Color.GST.Details_ss": [
+          "5684IN-4ND-CP|Polished Chrome|14050.0|11519.0||https://kohler.scene7.com/is/image/PAWEB/aae02737_rgb",
+          "5684IN-4ND-AF|Vibrant French Gold|17600.0|14429.0||https://kohler.scene7.com/is/image/PAWEB/aae34335_rgb",
+          "5684IN-4ND-BL|Matte Black|19700.0|16149.0||https://kohler.scene7.com/is/image/PAWEB/aae22025_rgb",
+          "5684IN-4ND-RGD|Vibrant Rose Gold|20780.0|17039.0||https://kohler.scene7.com/is/image/PAWEB/aae36389_rgb",
+          "5684IN-4ND-BV|Vibrant Brushed Bronze|22600.0|18529.0||https://kohler.scene7.com/is/image/PAWEB/aaj29779_rgb",
+          "5684IN-4ND-BRD|Vibrant Brushed Rose Gold|22600.0|18529.0||https://kohler.scene7.com/is/image/PAWEB/aaj29780_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "5684IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae34335_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae36389_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae22025_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67033_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67047_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67048_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67028_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67046_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67049_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67050_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae02737_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68513_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68515_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68512_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68517_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68516_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf68514_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj29780_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj29779_rgb"
+        ],
+        "priceList.ANY.price_d": 14050.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "5684IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Aleo+™",
+        "variantList.sku_ss": [
+          "5684IN-4ND-CP",
+          "5684IN-4ND-AF",
+          "5684IN-4ND-BL",
+          "5684IN-4ND-RGD",
+          "5684IN-4ND-BV",
+          "5684IN-4ND-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 11519.0,
+        "displayPriceStartingAt_s": "₹11,519.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "aleo-wall-mount-lavatory-faucet-trim-in-polished-chrome-5684in-4nd",
+        "priceStartingAt.GST_d": 11519.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f4c78f81-4e50-4fe2-9b52-78940c41354a|5684IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|23975IN-4ND-CP|true|false|K-23975IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|23975IN-4ND-AF|true|false|K-23975IN-4ND-AF",
+          "Vibrant Rose Gold|swatch_RGD|23975IN-4ND-RGD|true|false|K-23975IN-4ND-RGD",
+          "Matte Black|swatch_BL|23975IN-4ND-BL|true|false|K-23975IN-4ND-BL"
+        ],
+        "ProductBrandName_s": "KOHLER VIVE®",
+        "masterSKU_s": "23975IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_RGD",
+          "swatch_AF",
+          "swatch_BL"
+        ],
+        "sourceId_s": "23975IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "23975IN-4ND-RGD|aae44205_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae44205_rgb",
+          "23975IN-4ND-RGD|aaf67741_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67741_rgb",
+          "23975IN-4ND-RGD|aaf67740_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67740_rgb",
+          "23975IN-4ND-RGD|aaf67738_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67738_rgb",
+          "23975IN-4ND-RGD|aaf71464_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf71464_rgb",
+          "23975IN-4ND-RGD|aaf73270_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf73270_rgb",
+          "23975IN-4ND-RGD|aaf67739_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67739_rgb",
+          "23975IN-4ND-AF|aae21468_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae21468_rgb",
+          "23975IN-4ND-CP|aae21464_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae21464_rgb",
+          "23975IN-4ND-CP|aaf67735_rgb|IMGCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/aaf67735_rgb",
+          "23975IN-4ND-CP|aae34336_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aae34336_rgb",
+          "23975IN-4ND-CP|aae21466_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aae21466_rgb",
+          "23975IN-4ND-CP|aae22039_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aae22039_rgb",
+          "23975IN-4ND-CP|aaf67736_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67736_rgb",
+          "23975IN-4ND-CP|aaf67737_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67737_rgb",
+          "23975IN-4ND-CP|aaf67732_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67732_rgb",
+          "23975IN-4ND-CP|aaf67733_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67733_rgb",
+          "23975IN-4ND-CP|aaf67734_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf67734_rgb",
+          "23975IN-4ND-CP|aaj83469_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83469_rgb",
+          "23975IN-4ND-CP|aaj83502_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83502_rgb",
+          "23975IN-4ND-CP|aaj83473_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83473_rgb",
+          "23975IN-4ND-CP|aaj83467_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83467_rgb",
+          "23975IN-4ND-CP|aaj83466_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaj83466_rgb",
+          "23975IN-4ND-BL|aae59359_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae59359_rgb"
+        ],
+        "priceList.GST.price_d": 11189.0,
+        "priceList.GST.finalPrice_d": 11189.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 5.5 lpm",
+        "productName_s": "KOHLER VIVE® Wall-mount bathroom sink faucet, 5.5 lpm",
+        "ctId_s": "c32bd052-b116-4947-85d3-aadb373ea28b",
+        "Color.GST.Details_ss": [
+          "23975IN-4ND-CP|Polished Chrome|13650.0|11189.0||https://kohler.scene7.com/is/image/PAWEB/aae21464_rgb",
+          "23975IN-4ND-RGD|Vibrant Rose Gold|19100.0|15659.0||https://kohler.scene7.com/is/image/PAWEB/aae44205_rgb",
+          "23975IN-4ND-AF|Vibrant French Gold|17050.0|13979.0||https://kohler.scene7.com/is/image/PAWEB/aae21468_rgb",
+          "23975IN-4ND-BL|Matte Black|19150.0|15699.0||https://kohler.scene7.com/is/image/PAWEB/aae59359_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "23975IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae44205_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67741_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67740_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67738_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf71464_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf73270_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67739_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae21468_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae21464_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67735_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae34336_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae21466_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae22039_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67736_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67737_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67732_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67733_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf67734_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83469_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83502_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83473_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83467_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj83466_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae59359_rgb"
+        ],
+        "priceList.ANY.price_d": 13650.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "23975IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "KOHLER VIVE®",
+        "variantList.sku_ss": [
+          "23975IN-4ND-CP",
+          "23975IN-4ND-RGD",
+          "23975IN-4ND-AF",
+          "23975IN-4ND-BL"
+        ],
+        "discountedPriceStartingAt.GST_d": 11189.0,
+        "displayPriceStartingAt_s": "₹11,189.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Rose Gold",
+          "Vibrant French Gold",
+          "Matte Black"
+        ],
+        "slug_s": "vive-wall-mount-bathroom-sink-faucet-5-5-lpm-23975in-4nd",
+        "priceStartingAt.GST_d": 11189.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "c32bd052-b116-4947-85d3-aadb373ea28b|23975IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|23486IN-4ND-CP|true|false|K-23486IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|23486IN-4ND-AF|true|false|K-23486IN-4ND-AF",
+          "Vibrant Rose Gold|swatch_RGD|23486IN-4ND-RGD|true|false|K-23486IN-4ND-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|23486IN-4ND-BV|false|false|K-23486IN-4ND-BV",
+          "Matte Black|swatch_BL|23486IN-4ND-BL|true|false|K-23486IN-4ND-BL",
+          "Vibrant Brushed Rose Gold|swatch_BRD|23486IN-4ND-BRD|true|false|K-23486IN-4ND-BRD"
+        ],
+        "ProductBrandName_s": "Parallel™",
+        "masterSKU_s": "23486IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_RGD",
+          "swatch_BRD",
+          "swatch_BV"
+        ],
+        "sourceId_s": "23486IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "23486IN-4ND-AF|aad43847_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad43847_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_CloseRoomView_d2c0007963_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomView_d2c0007963_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_FRONT_d2c0008272_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_FRONT_d2c0008272_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_SIDE_d2c0008375_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_SIDE_d2c0008375_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_PartialRoomView_d2c0008069_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_PartialRoomView_d2c0008069_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_CloseRoomViewProductDetail_d2c0008370_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomViewProductDetail_d2c0008370_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_CloseRoomViewInUse_d2c0007882_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomViewInUse_d2c0007882_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_OverheadRoomView_d2c0008245_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_OverheadRoomView_d2c0008245_rgb",
+          "23486IN-4ND-AF|23486IN-4ND-AF_ISOBackground_d2c0008228_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_ISOBackground_d2c0008228_rgb",
+          "23486IN-4ND-CP|aad39020_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad39020_rgb",
+          "23486IN-4ND-CP|aad39024_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aad39024_rgb",
+          "23486IN-4ND-CP|aad39021_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aad39021_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_PartialRoomView_d2c0008164_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_PartialRoomView_d2c0008164_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_SIDE_d2c0008433_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_SIDE_d2c0008433_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_CloseRoomViewInUse_d2c0007759_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomViewInUse_d2c0007759_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_OverheadRoomView_d2c0008041_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_OverheadRoomView_d2c0008041_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_ISOBackground_d2c0008223_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_ISOBackground_d2c0008223_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_CloseRoomViewProductDetail_d2c0007848_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomViewProductDetail_d2c0007848_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_FRONT_d2c0008014_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_FRONT_d2c0008014_rgb",
+          "23486IN-4ND-CP|23486IN-4ND-CP_CloseRoomView_d2c0007829_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomView_d2c0007829_rgb",
+          "23486IN-4ND-BL|aae59362_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae59362_rgb",
+          "23486IN-4ND-BV|aaj42723_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj42723_rgb",
+          "23486IN-4ND-BRD|aaj42708_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj42708_rgb",
+          "23486IN-4ND-RGD|aaf63271_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb"
+        ],
+        "priceList.GST.price_d": 13769.0,
+        "priceList.GST.finalPrice_d": 13769.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 9.0 lpm",
+        "productName_s": "Parallel™ Wall-mount bathroom sink faucet, 9.0 lpm",
+        "ctId_s": "65eead50-ef07-4281-8c49-8dda67bf39c5",
+        "Color.GST.Details_ss": [
+          "23486IN-4ND-CP|Polished Chrome|16800.0|13769.0||https://kohler.scene7.com/is/image/PAWEB/aad39020_rgb",
+          "23486IN-4ND-AF|Vibrant French Gold|21000.0|17219.0||https://kohler.scene7.com/is/image/PAWEB/aad43847_rgb",
+          "23486IN-4ND-BL|Matte Black|23550.0|19309.0||https://kohler.scene7.com/is/image/PAWEB/aae59362_rgb",
+          "23486IN-4ND-RGD|Vibrant Rose Gold|24800.0|20329.0||https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb",
+          "23486IN-4ND-BRD|Vibrant Brushed Rose Gold|26900.0|22049.0||https://kohler.scene7.com/is/image/PAWEB/aaj42708_rgb",
+          "23486IN-4ND-BV|Vibrant Brushed Bronze|26900.0|22049.0||https://kohler.scene7.com/is/image/PAWEB/aaj42723_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "23486IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad43847_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomView_d2c0007963_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_FRONT_d2c0008272_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_SIDE_d2c0008375_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_PartialRoomView_d2c0008069_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomViewProductDetail_d2c0008370_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_CloseRoomViewInUse_d2c0007882_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_OverheadRoomView_d2c0008245_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-AF_ISOBackground_d2c0008228_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad39020_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad39024_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad39021_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_PartialRoomView_d2c0008164_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_SIDE_d2c0008433_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomViewInUse_d2c0007759_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_OverheadRoomView_d2c0008041_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_ISOBackground_d2c0008223_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomViewProductDetail_d2c0007848_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_FRONT_d2c0008014_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/23486IN-4ND-CP_CloseRoomView_d2c0007829_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae59362_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj42723_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj42708_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb"
+        ],
+        "priceList.ANY.price_d": 16800.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "23486IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Parallel™",
+        "variantList.sku_ss": [
+          "23486IN-4ND-CP",
+          "23486IN-4ND-AF",
+          "23486IN-4ND-BL",
+          "23486IN-4ND-RGD",
+          "23486IN-4ND-BRD",
+          "23486IN-4ND-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 13769.0,
+        "displayPriceStartingAt_s": "₹13,769.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold",
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "parallel-wall-mount-sc-lav-faucet-23486in-4nd",
+        "priceStartingAt.GST_d": 13769.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "65eead50-ef07-4281-8c49-8dda67bf39c5|23486IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|5683IN-4ND-CP|true|false|K-5683IN-4ND-CP",
+          "Vibrant Rose Gold|swatch_RGD|5683IN-4ND-RGD|true|false|K-5683IN-4ND-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|5683IN-4ND-BV|true|false|K-5683IN-4ND-BV",
+          "Vibrant Brushed Rose Gold|swatch_BRD|5683IN-4ND-BRD|false|false|K-5683IN-4ND-BRD"
+        ],
+        "ProductBrandName_s": "Aleo™",
+        "masterSKU_s": "5683IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "5683IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "5683IN-4ND-CP|aae98016_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae98016_rgb",
+          "5683IN-4ND-RGD|aag70629_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag70629_rgb",
+          "5683IN-4ND-BRD|aaj29778_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/aaj29778_rgb",
+          "5683IN-4ND-BV|aad81659_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad81659_rgb"
+        ],
+        "priceList.GST.price_d": 9919.0,
+        "priceList.GST.finalPrice_d": 9919.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 9.0 lpm",
+        "productName_s": "Aleo® Wall-mount bathroom sink faucet, 9.0 lpm",
+        "ctId_s": "b5e8d38c-3171-40e3-8865-256703c6e505",
+        "Color.GST.Details_ss": [
+          "5683IN-4ND-CP|Polished Chrome|12100.0|9919.0||https://kohler.scene7.com/is/image/PAWEB/aae98016_rgb",
+          "5683IN-4ND-BV|Vibrant Brushed Bronze|19780.0|16219.0||https://kohler.scene7.com/is/image/PAWEB/aad81659_rgb",
+          "5683IN-4ND-RGD|Vibrant Rose Gold|18150.0|14879.0||https://kohler.scene7.com/is/image/PAWEB/aag70629_rgb",
+          "5683IN-4ND-BRD|Vibrant Brushed Rose Gold|19780.0|16219.0||https://kohler.scene7.com/is/image/PAWEB/aaj29778_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "5683IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae98016_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag70629_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaj29778_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad81659_rgb"
+        ],
+        "priceList.ANY.price_d": 12100.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "5683IN-4ND-RGD",
+        "ProductBrandNameDisplay_s": "Aleo™",
+        "variantList.sku_ss": [
+          "5683IN-4ND-CP",
+          "5683IN-4ND-BV",
+          "5683IN-4ND-RGD",
+          "5683IN-4ND-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 9919.0,
+        "displayPriceStartingAt_s": "₹9,919.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "aleo-wall-mount-lavatory-faucet-trim-5683in-4nd",
+        "priceStartingAt.GST_d": 9919.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "b5e8d38c-3171-40e3-8865-256703c6e505|5683IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|97358IN-4ND-CP|true|false|K-97358IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "Avid",
+        "masterSKU_s": "97358IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "97358IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "97358IN-4ND-CP|zab78580_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab78580_rgb"
+        ],
+        "priceList.GST.price_d": 57759.0,
+        "priceList.GST.finalPrice_d": 57759.0,
+        "ProductDescriptionProductShort_s": "Sc wm lav faucet without drain",
+        "productName_s": "Avid Single Control Wall mount Lavatory Faucet without Drain",
+        "ctId_s": "05e74e7e-abf0-4298-aa19-d9d06561881f",
+        "Color.GST.Details_ss": [
+          "97358IN-4ND-CP|Polished Chrome|72200.0|57759.0||https://kohler.scene7.com/is/image/PAWEB/zab78580_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "97358IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab78580_rgb"
+        ],
+        "priceList.ANY.price_d": 72200.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "97358IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "Avid",
+        "variantList.sku_ss": [
+          "97358IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 57759.0,
+        "displayPriceStartingAt_s": "₹57,759.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "avid-single-control-wall-mount-lavatory-faucet-without-drain-97358in-4nd",
+        "priceStartingAt.GST_d": 57759.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "05e74e7e-abf0-4298-aa19-d9d06561881f|97358IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant French Gold|swatch_AF|73061T-7-AF|true|false|K-73061T-7-AF",
+          "Vibrant Rose Gold|swatch_RGD|73061T-7-RGD|true|false|K-73061T-7-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|73061T-7-BV|true|false|K-73061T-7-BV"
+        ],
+        "ProductBrandName_s": "Composed™",
+        "masterSKU_s": "73061T-7-BV",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "73061T-7-BV",
+        "productImages.labelWithUrl_ss": [
+          "73061T-7-RGD|aad28700_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad28700_rgb",
+          "73061T-7-BV|aad40440_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad40440_rgb",
+          "73061T-7-AF|aad28713_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad28713_rgb"
+        ],
+        "priceList.GST.price_d": 50799.0,
+        "priceList.GST.finalPrice_d": 50799.0,
+        "ProductDescriptionProductShort_s": "Wall-mount lavatory faucet",
+        "productName_s": "Composed™ Wall-mount lavatory faucet",
+        "ctId_s": "ed50d290-ab6f-4984-ba55-87d568507f57",
+        "Color.GST.Details_ss": [
+          "73061T-7-AF|Vibrant French Gold|63500.0|50799.0||https://kohler.scene7.com/is/image/PAWEB/aad28713_rgb",
+          "73061T-7-BV|Vibrant Brushed Bronze|63500.0|50799.0||https://kohler.scene7.com/is/image/PAWEB/aad40440_rgb",
+          "73061T-7-RGD|Vibrant Rose Gold|63500.0|50799.0||https://kohler.scene7.com/is/image/PAWEB/aad28700_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "73061T-7",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad28700_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad40440_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad28713_rgb"
+        ],
+        "priceList.ANY.price_d": 63500.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "73061T-7-AF",
+        "ProductBrandNameDisplay_s": "Composed™",
+        "variantList.sku_ss": [
+          "73061T-7-AF",
+          "73061T-7-BV",
+          "73061T-7-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 50799.0,
+        "displayPriceStartingAt_s": "₹50,799.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "composed-wall-mount-lavatory-faucet-73061t-7",
+        "priceStartingAt.GST_d": 50799.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "ed50d290-ab6f-4984-ba55-87d568507f57|73061T-7-BV"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|25759IN-4ND-CP|true|false|K-25759IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|25759IN-4ND-AF|true|false|K-25759IN-4ND-AF",
+          "Vibrant Rose Gold|swatch_RGD|25759IN-4ND-RGD|true|false|K-25759IN-4ND-RGD",
+          "Matte Black|swatch_BL|25759IN-4ND-BL|true|false|K-25759IN-4ND-BL"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "masterSKU_s": "25759IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "25759IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "25759IN-4ND-CP|aae31084_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31084_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_CloseRoomViewProductDetail_d2c0007245_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomViewProductDetail_d2c0007245_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_ISOBackground_d2c0007291_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_ISOBackground_d2c0007291_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_CloseRoomView_d2c0007221_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomView_d2c0007221_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_CloseRoomViewInUse_d2c0007476_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomViewInUse_d2c0007476_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_FRONT_d2c0007231_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_FRONT_d2c0007231_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_PartialRoomView_d2c0007428_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_PartialRoomView_d2c0007428_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_OverheadRoomView_d2c0007319_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_OverheadRoomView_d2c0007319_rgb",
+          "25759IN-4ND-CP|25759IN-4ND-CP_SIDE_d2c0007591_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_SIDE_d2c0007591_rgb",
+          "25759IN-4ND-AF|aae31080_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31080_rgb",
+          "25759IN-4ND-BL|aae31087_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31087_rgb",
+          "25759IN-4ND-RGD|aae31086_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae31086_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_ISOBackground_d2c0007355_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_ISOBackground_d2c0007355_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_CloseRoomViewInUse_d2c0007638_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomViewInUse_d2c0007638_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_OverheadRoomView_d2c0007299_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_OverheadRoomView_d2c0007299_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_PartialRoomView_d2c0007282_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_PartialRoomView_d2c0007282_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_SIDE_d2c0007670_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_SIDE_d2c0007670_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_CloseRoomView_d2c0007391_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomView_d2c0007391_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_CloseRoomViewProductDetail_d2c0007441_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomViewProductDetail_d2c0007441_rgb",
+          "25759IN-4ND-RGD|25759IN-4ND-RGD_FRONT_d2c0007230_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_FRONT_d2c0007230_rgb"
+        ],
+        "priceList.GST.price_d": 22399.0,
+        "priceList.GST.finalPrice_d": 22399.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet",
+        "productName_s": "ModernLife Edge™ Wall-mount bathroom sink faucet",
+        "ctId_s": "8e38051f-dbd8-468a-9cf3-85e61ea51726",
+        "Color.GST.Details_ss": [
+          "25759IN-4ND-CP|Polished Chrome|28000.0|22399.0||https://kohler.scene7.com/is/image/PAWEB/aae31084_rgb",
+          "25759IN-4ND-AF|Vibrant French Gold|35000.0|27999.0||https://kohler.scene7.com/is/image/PAWEB/aae31080_rgb",
+          "25759IN-4ND-BL|Matte Black|39200.0|31359.0||https://kohler.scene7.com/is/image/PAWEB/aae31087_rgb",
+          "25759IN-4ND-RGD|Vibrant Rose Gold|39500.0|32389.0||https://kohler.scene7.com/is/image/PAWEB/aae31086_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "25759IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae31084_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomViewProductDetail_d2c0007245_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_ISOBackground_d2c0007291_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomView_d2c0007221_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_CloseRoomViewInUse_d2c0007476_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_FRONT_d2c0007231_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_PartialRoomView_d2c0007428_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_OverheadRoomView_d2c0007319_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-CP_SIDE_d2c0007591_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae31080_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae31087_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae31086_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_ISOBackground_d2c0007355_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomViewInUse_d2c0007638_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_OverheadRoomView_d2c0007299_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_PartialRoomView_d2c0007282_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_SIDE_d2c0007670_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomView_d2c0007391_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_CloseRoomViewProductDetail_d2c0007441_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/25759IN-4ND-RGD_FRONT_d2c0007230_rgb"
+        ],
+        "priceList.ANY.price_d": 28000.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "25759IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "25759IN-4ND-CP",
+          "25759IN-4ND-AF",
+          "25759IN-4ND-BL",
+          "25759IN-4ND-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 22399.0,
+        "displayPriceStartingAt_s": "₹22,399.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "modernlife-edge-wall-mount-bathroom-sink-faucet-25759in-4nd",
+        "priceStartingAt.GST_d": 22399.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "8e38051f-dbd8-468a-9cf3-85e61ea51726|25759IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Bronze|swatch_BV|73067T-9ACH-BV|false|false|K-73067T-9ACH-BV"
+        ],
+        "ProductBrandName_s": "Composed™ ",
+        "metaTitle_s": "KOHLER | K-73067T-9ACH | COMPOSED® LIU GUANG JING YUN Series Double-handle Wall-mounted Bathroom Sink Faucet with Amber Gold Glazed Glass Handle",
+        "masterSKU_s": "73067T-9ACH-BV",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BV"
+        ],
+        "sourceId_s": "73067T-9ACH-BV",
+        "productImages.labelWithUrl_ss": [
+          "73067T-9ACH-BV|aae01669_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01669_rgb"
+        ],
+        "priceList.GST.price_d": 87999.0,
+        "priceList.GST.finalPrice_d": 87999.0,
+        "ProductDescriptionProductShort_s": "2h wm lav faucet-ach",
+        "productName_s": "COMPOSED® LIU GUANG JING YUN Series Double-handle Wall-mounted Bathroom Sink Faucet with Amber Gold Glazed Glass Handle",
+        "ctId_s": "450c9f25-bfba-4013-9823-ee7fea88355e",
+        "Color.GST.Details_ss": [
+          "73067T-9ACH-BV|Vibrant Brushed Bronze|110000.0|87999.0||https://kohler.scene7.com/is/image/PAWEB/aae01669_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "73067T-9ACH",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae01669_rgb"
+        ],
+        "priceList.ANY.price_d": 110000.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "73067T-9ACH-BV",
+        "ProductBrandNameDisplay_s": "Composed™",
+        "variantList.sku_ss": [
+          "73067T-9ACH-BV"
+        ],
+        "discountedPriceStartingAt.GST_d": 87999.0,
+        "displayPriceStartingAt_s": "₹87,999.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Bronze"
+        ],
+        "slug_s": "composed-liu-guang-jing-yun-series-double-handle-wall-mounted-bathroom-sink-faucet-with-amber-gold-glazed-glass-handle-73067t-9ach",
+        "priceStartingAt.GST_d": 87999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "450c9f25-bfba-4013-9823-ee7fea88355e|73067T-9ACH-BV"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|73061IN-4ND-CP|true|false|K-73061IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "Composed™",
+        "masterSKU_s": "73061IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "73061IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "73061IN-4ND-CP|aad84292_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad84292_rgb"
+        ],
+        "priceList.GST.price_d": 46239.0,
+        "priceList.GST.finalPrice_d": 46239.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 8.3 lpm",
+        "productName_s": "Composed™ Wall-mount bathroom sink faucet, 8.3 lpm",
+        "ctId_s": "175dbe8b-73f5-4c23-b327-29031cb7e6e3",
+        "Color.GST.Details_ss": [
+          "73061IN-4ND-CP|Polished Chrome|57800.0|46239.0||https://kohler.scene7.com/is/image/PAWEB/aad84292_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "73061IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad84292_rgb"
+        ],
+        "priceList.ANY.price_d": 57800.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "73061IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "Composed™",
+        "variantList.sku_ss": [
+          "73061IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 46239.0,
+        "displayPriceStartingAt_s": "₹46,239.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "composed-wall-mount-bathroom-sink-faucet-8-3-lpm-73061in-4nd",
+        "priceStartingAt.GST_d": 46239.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "175dbe8b-73f5-4c23-b327-29031cb7e6e3|73061IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|5680IN-4ND-CP|true|false|K-5680IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "July™",
+        "masterSKU_s": "5680IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "5680IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "5680IN-4ND-CP|aaf08405_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf08405_rgb"
+        ],
+        "priceList.GST.price_d": 3209.0,
+        "priceList.GST.finalPrice_d": 3209.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 10.2 lpm",
+        "productName_s": "July™ Wall-mount bathroom sink faucet, 10.2 lpm",
+        "ctId_s": "f4eb112e-abe1-4d5e-aae6-8277979b675f",
+        "Color.GST.Details_ss": [
+          "5680IN-4ND-CP|Polished Chrome|4530.0|3209.0||https://kohler.scene7.com/is/image/PAWEB/aaf08405_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "5680IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf08405_rgb"
+        ],
+        "priceList.ANY.price_d": 4530.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "5680IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "July™",
+        "variantList.sku_ss": [
+          "5680IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 3209.0,
+        "displayPriceStartingAt_s": "₹3,209.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "july-wall-mount-lavatory-faucet-trim-in-polished-chrome-5680in-4nd",
+        "priceStartingAt.GST_d": 3209.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f4eb112e-abe1-4d5e-aae6-8277979b675f|5680IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|99876IN-4ND-CP|false|false|K-99876IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "Beitou™",
+        "masterSKU_s": "99876IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "99876IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "99876IN-4ND-CP|zab74781_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab74781_rgb"
+        ],
+        "priceList.GST.price_d": 69999.0,
+        "priceList.GST.finalPrice_d": 69999.0,
+        "ProductDescriptionProductShort_s": "Wall-mount lavatory facuet",
+        "productName_s": "Beitou™ Wall-mount lavatory facuet",
+        "ctId_s": "0b36e9cd-77ba-4763-b7a9-14087e8e8933",
+        "Color.GST.Details_ss": [
+          "99876IN-4ND-CP|Polished Chrome|87500.0|69999.0||https://kohler.scene7.com/is/image/PAWEB/zab74781_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "99876IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/zab74781_rgb"
+        ],
+        "priceList.ANY.price_d": 87500.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "99876IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "Beitou™",
+        "variantList.sku_ss": [
+          "99876IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 69999.0,
+        "displayPriceStartingAt_s": "₹69,999.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "beitou-wall-mount-lavatory-facuet-99876in-4nd",
+        "priceStartingAt.GST_d": 69999.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "0b36e9cd-77ba-4763-b7a9-14087e8e8933|99876IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Rose Gold|swatch_RGD|21969IN-4ND-RGD|false|false|K-21969IN-4ND-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|21969IN-4ND-BV|false|false|K-21969IN-4ND-BV",
+          "Vibrant Brushed Rose Gold|swatch_BRD|21969IN-4ND-BRD|false|false|K-21969IN-4ND-BRD"
+        ],
+        "ProductBrandName_s": "Aleo™",
+        "masterSKU_s": "21969IN-4ND-BV",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_BV",
+          "swatch_RGD",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "21969IN-4ND-BV",
+        "productImages.labelWithUrl_ss": [
+          "21969IN-4ND-BV|aaf04237_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf04237_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_SIDE_d2c0008214_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_SIDE_d2c0008214_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_PartialRoomView_d2c0008348_rgb|IMGITEMPARTIALROOMVIEW||Up to 2 walls & multiple product categories visible|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_PartialRoomView_d2c0008348_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_CloseRoomView_d2c0007691_rgb|IMGITEMCLOSEROOMVIEW||image focused on single product story|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomView_d2c0007691_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_ISOBackground_d2c0007871_rgb|IMGITEMISOBackground||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_ISOBackground_d2c0007871_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_OverheadRoomView_d2c0007830_rgb|IMGITEMOVERHEADROOMVIEW||View of products in room from above|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_OverheadRoomView_d2c0007830_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_CloseRoomViewProductDetail_d2c0008304_rgb|IMGITEMCLOSEROOMVIEWProductDetail||Shows close up detail of product in room|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomViewProductDetail_d2c0008304_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_CloseRoomViewInUse_d2c0008017_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomViewInUse_d2c0008017_rgb",
+          "21969IN-4ND-BV|21969IN-4ND-BV_FRONT_d2c0008070_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_FRONT_d2c0008070_rgb",
+          "21969IN-4ND-RGD|aag70633_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag70633_rgb",
+          "21969IN-4ND-BRD|aag48856_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag48856_rgb"
+        ],
+        "priceList.GST.price_d": 20779.0,
+        "priceList.GST.finalPrice_d": 20779.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet with Lever handle, 40.9 lpm",
+        "productName_s": "Aleo® Wall-mount bathroom sink faucet with Lever handle, 40.9 lpm",
+        "ctId_s": "e70b1637-77da-402a-820b-7b57e49aec5e",
+        "Color.GST.Details_ss": [
+          "21969IN-4ND-BV|Vibrant Brushed Bronze|25350.0|20779.0||https://kohler.scene7.com/is/image/PAWEB/aaf04237_rgb",
+          "21969IN-4ND-RGD|Vibrant Rose Gold|23650.0|19389.0||https://kohler.scene7.com/is/image/PAWEB/aag70633_rgb",
+          "21969IN-4ND-BRD|Vibrant Brushed Rose Gold|25350.0|20779.0||https://kohler.scene7.com/is/image/PAWEB/aag48856_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "21969IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf04237_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_SIDE_d2c0008214_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_PartialRoomView_d2c0008348_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomView_d2c0007691_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_ISOBackground_d2c0007871_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_OverheadRoomView_d2c0007830_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomViewProductDetail_d2c0008304_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_CloseRoomViewInUse_d2c0008017_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/21969IN-4ND-BV_FRONT_d2c0008070_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag70633_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag48856_rgb"
+        ],
+        "priceList.ANY.price_d": 25350.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "21969IN-4ND-RGD",
+        "ProductBrandNameDisplay_s": "Aleo™",
+        "variantList.sku_ss": [
+          "21969IN-4ND-BV",
+          "21969IN-4ND-RGD",
+          "21969IN-4ND-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 19389.0,
+        "displayPriceStartingAt_s": "₹19,389.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "aleo-wall-mount-bathroom-sink-faucet-with-lever-handle-40-9-lpm-21969in-4nd",
+        "priceStartingAt.GST_d": 19389.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e70b1637-77da-402a-820b-7b57e49aec5e|21969IN-4ND-BV"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|34076IN-4ND-CP|true|false|K-34076IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "APT™ Curv",
+        "masterSKU_s": "34076IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "34076IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "34076IN-4ND-CP|aaf86883_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86883_rgb"
+        ],
+        "priceList.GST.price_d": 3559.0,
+        "priceList.GST.finalPrice_d": 3559.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 12.5 lpm",
+        "productName_s": "APT™ Curv Wall-mount bathroom sink faucet, 12.5 lpm",
+        "ctId_s": "4a5d02d0-8f7c-444e-a796-81e121ef6cd0",
+        "Color.GST.Details_ss": [
+          "34076IN-4ND-CP|Polished Chrome|4510.0|3559.0||https://kohler.scene7.com/is/image/PAWEB/aaf86883_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "34076IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf86883_rgb"
+        ],
+        "priceList.ANY.price_d": 4510.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "34076IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "APT™ Curv",
+        "variantList.sku_ss": [
+          "34076IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 3559.0,
+        "displayPriceStartingAt_s": "₹3,559.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "apt-curv-wall-mount-bathroom-sink-faucet-12-5-lpm-34076in-4nd",
+        "priceStartingAt.GST_d": 3559.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "4a5d02d0-8f7c-444e-a796-81e121ef6cd0|34076IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Rose Gold|swatch_RGD|29199IN-4ND-RGD|true|false|K-29199IN-4ND-RGD"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "masterSKU_s": "29199IN-4ND-RGD",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_RGD"
+        ],
+        "sourceId_s": "29199IN-4ND-RGD",
+        "productImages.labelWithUrl_ss": [
+          "29199IN-4ND-RGD|aaf86155_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86155_rgb"
+        ],
+        "priceList.GST.price_d": 37039.0,
+        "priceList.GST.finalPrice_d": 37039.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 7.6 lpm",
+        "productName_s": "ModernLife Edge® Wall-mount bathroom sink faucet, 7.6 lpm",
+        "ctId_s": "1d25d14c-8c5a-4b16-af08-f7d67bd0a86a",
+        "Color.GST.Details_ss": [
+          "29199IN-4ND-RGD|Vibrant Rose Gold|46300.0|37039.0||https://kohler.scene7.com/is/image/PAWEB/aaf86155_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "29199IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf86155_rgb"
+        ],
+        "priceList.ANY.price_d": 46300.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "29199IN-4ND-RGD",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "29199IN-4ND-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 37039.0,
+        "displayPriceStartingAt_s": "₹37,039.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "modernlife-edge-wm-lav-faucet-trim-valve-29199in-4nd",
+        "priceStartingAt.GST_d": 37039.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "1d25d14c-8c5a-4b16-af08-f7d67bd0a86a|29199IN-4ND-RGD"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Rose Gold|swatch_RGD|29199IN-ECH-RGD|true|false|K-29199IN-ECH-RGD"
+        ],
+        "ProductBrandName_s": "ModernLife Edge™",
+        "masterSKU_s": "29199IN-ECH-RGD",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_RGD"
+        ],
+        "sourceId_s": "29199IN-ECH-RGD",
+        "productImages.labelWithUrl_ss": [
+          "29199IN-ECH-RGD|aaf60617_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf60617_rgb"
+        ],
+        "priceList.GST.price_d": 40719.0,
+        "priceList.GST.finalPrice_d": 40719.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet with decorative handle, 7.6 lpm",
+        "productName_s": "ModernLife Edge® Wall-mount bathroom sink faucet with decorative handle, 7.6 lpm",
+        "ctId_s": "2a90c498-0ed2-4c45-8cb4-ba324478a214",
+        "Color.GST.Details_ss": [
+          "29199IN-ECH-RGD|Vibrant Rose Gold|50900.0|40719.0||https://kohler.scene7.com/is/image/PAWEB/aaf60617_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "29199IN-ECH",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf60617_rgb"
+        ],
+        "priceList.ANY.price_d": 50900.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "29199IN-ECH-RGD",
+        "ProductBrandNameDisplay_s": "ModernLife Edge™",
+        "variantList.sku_ss": [
+          "29199IN-ECH-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 40719.0,
+        "displayPriceStartingAt_s": "₹40,719.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "modernlife-edge-wall-mount-bathroom-sink-faucet-with-decorative-handle-7-6-lpm-29199in-ech",
+        "priceStartingAt.GST_d": 40719.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "2a90c498-0ed2-4c45-8cb4-ba324478a214|29199IN-ECH-RGD"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Brushed Moderne Brass|swatch_2MB|EX27102T-4-2MB|false|false|K-EX27102T-4-2MB",
+          "Vibrant Rose Gold|swatch_RGD|EX27102T-4-RGD|false|false|K-EX27102T-4-RGD",
+          "Matte Black with Brushed Moderne Brass|swatch_BMB|EX27102T-4-BMB|false|false|K-EX27102T-4-BMB"
+        ],
+        "ProductBrandName_s": "Occasion™",
+        "masterSKU_s": "EX27102T-4-2MB",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_2MB",
+          "swatch_BMB",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "EX27102T-4-2MB",
+        "productImages.labelWithUrl_ss": [
+          "EX27102T-4-RGD|aad99370_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99370_rgb",
+          "EX27102T-4-2MB|aad99374_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99374_rgb",
+          "EX27102T-4-BMB|aad99373_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad99373_rgb"
+        ],
+        "priceList.GST.price_d": 78200.0,
+        "priceList.GST.finalPrice_d": 78200.0,
+        "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet, 8.3 lpm",
+        "productName_s": "Occasion™ Wall-mount single-handle bathroom sink faucet, 8.3 lpm",
+        "ctId_s": "6b3909c7-d621-482e-b8b2-b3e2b24b485c",
+        "Color.GST.Details_ss": [
+          "EX27102T-4-2MB|Vibrant Brushed Moderne Brass|78200.0|78200.0||https://kohler.scene7.com/is/image/PAWEB/aad99374_rgb",
+          "EX27102T-4-BMB|Matte Black with Brushed Moderne Brass|83700.0|83700.0||https://kohler.scene7.com/is/image/PAWEB/aad99373_rgb",
+          "EX27102T-4-RGD|Vibrant Rose Gold|78200.0|78200.0||https://kohler.scene7.com/is/image/PAWEB/aad99370_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Imported By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "EX27102T-4",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aad99370_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad99374_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aad99373_rgb"
+        ],
+        "priceList.ANY.price_d": 78200.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "EX27102T-4-RGD",
+        "ProductBrandNameDisplay_s": "Occasion™",
+        "variantList.sku_ss": [
+          "EX27102T-4-2MB",
+          "EX27102T-4-BMB",
+          "EX27102T-4-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 78200.0,
+        "displayPriceStartingAt_s": "₹78,200.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Brushed Moderne Brass",
+          "Matte Black with Brushed Moderne Brass",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "occasion-wall-mount-single-handle-bathroom-sink-faucet-8-3-lpm-ex27102t-4",
+        "priceStartingAt.GST_d": 78200.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "6b3909c7-d621-482e-b8b2-b3e2b24b485c|EX27102T-4-2MB"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|25148IN-4ND-CP|true|false|K-25148IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "Beam",
+        "masterSKU_s": "25148IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "25148IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "25148IN-4ND-CP|aag10690_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag10690_rgb",
+          "25148IN-4ND-CP|aag10691_rgb|IMGITEMSIDE||side view of product|https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE",
+          "25148IN-4ND-CP|aag10689_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aag10689_rgb",
+          "25148IN-4ND-CP|aag10692_rgb|IMGITEMTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aag10692_rgb"
+        ],
+        "priceList.GST.price_d": 2829.0,
+        "priceList.GST.finalPrice_d": 2829.0,
+        "ProductDescriptionProductShort_s": "Wall Mount Cold Only Trim Without Drain",
+        "productName_s": "Beam Wall Mount Cold Only Trim Without Drain",
+        "ctId_s": "152bee3c-674b-4937-a9f3-1586ace1686e",
+        "Color.GST.Details_ss": [
+          "25148IN-4ND-CP|Polished Chrome|3330.0|2829.0||https://kohler.scene7.com/is/image/PAWEB/aag10690_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "25148IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag10690_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/IMGITEMSIDE",
+          "https://kohler.scene7.com/is/image/PAWEB/aag10689_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag10692_rgb"
+        ],
+        "priceList.ANY.price_d": 3330.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "25148IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "Beam",
+        "variantList.sku_ss": [
+          "25148IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 2829.0,
+        "displayPriceStartingAt_s": "₹2,829.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "beam-wall-mount-cold-only-trim-without-drain-25148in-4nd",
+        "priceStartingAt.GST_d": 2829.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "152bee3c-674b-4937-a9f3-1586ace1686e|25148IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|22540IN-4AND-CP|true|false|K-22540IN-4AND-CP",
+          "Vibrant French Gold|swatch_AF|22540IN-4AND-AF|true|false|K-22540IN-4AND-AF"
+        ],
+        "ProductBrandName_s": "Hone™",
+        "masterSKU_s": "22540IN-4AND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "22540IN-4AND-CP",
+        "productImages.labelWithUrl_ss": [
+          "22540IN-4AND-CP|aai13209_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai13209_rgb",
+          "22540IN-4AND-AF|aai13208_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aai13208_rgb"
+        ],
+        "priceList.GST.price_d": 5969.0,
+        "priceList.GST.finalPrice_d": 5969.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 8.3 lpm",
+        "productName_s": "Hone™ Wall-mount bathroom sink faucet, 8.3 lpm",
+        "ctId_s": "f475f4b4-e024-4c22-a9f2-ffd44c8d360f",
+        "Color.GST.Details_ss": [
+          "22540IN-4AND-CP|Polished Chrome|7280.0|5969.0||https://kohler.scene7.com/is/image/PAWEB/aai13209_rgb",
+          "22540IN-4AND-AF|Vibrant French Gold|9100.0|7459.0||https://kohler.scene7.com/is/image/PAWEB/aai13208_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "22540IN-4AND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aai13209_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aai13208_rgb"
+        ],
+        "priceList.ANY.price_d": 7280.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "22540IN-4AND-AF",
+        "ProductBrandNameDisplay_s": "Hone™",
+        "variantList.sku_ss": [
+          "22540IN-4AND-CP",
+          "22540IN-4AND-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 5969.0,
+        "displayPriceStartingAt_s": "₹5,969.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "hone-wall-mount-bathroom-sink-faucet-8-3-lpm-22540in-4and",
+        "priceStartingAt.GST_d": 5969.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f475f4b4-e024-4c22-a9f2-ffd44c8d360f|22540IN-4AND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|33103IN-4ND-CP|true|false|K-33103IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|33103IN-4ND-AF|true|false|K-33103IN-4ND-AF"
+        ],
+        "ProductBrandName_s": "Accliv™",
+        "masterSKU_s": "33103IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "33103IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "33103IN-4ND-CP|aae52007_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae52007_rgb",
+          "33103IN-4ND-AF|aae52005_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae52005_rgb"
+        ],
+        "priceList.GST.price_d": 2599.0,
+        "priceList.GST.finalPrice_d": 2599.0,
+        "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet trim, cold only, 9.0 lpm",
+        "productName_s": "Accliv™ Wall-mount single-handle bathroom sink faucet trim, cold only, 9.0 lpm",
+        "ctId_s": "e9503958-515a-4963-acc3-78db7013361c",
+        "Color.GST.Details_ss": [
+          "33103IN-4ND-CP|Polished Chrome|3300.0|2599.0||https://kohler.scene7.com/is/image/PAWEB/aae52007_rgb",
+          "33103IN-4ND-AF|Vibrant French Gold|4120.0|3249.0||https://kohler.scene7.com/is/image/PAWEB/aae52005_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "33103IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae52007_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae52005_rgb"
+        ],
+        "priceList.ANY.price_d": 3300.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "33103IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Accliv™",
+        "variantList.sku_ss": [
+          "33103IN-4ND-CP",
+          "33103IN-4ND-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 2599.0,
+        "displayPriceStartingAt_s": "₹2,599.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "accliv-wall-mount-single-handle-bathroom-sink-faucet-trim-cold-only-9-0-lpm-33103in-4nd",
+        "priceStartingAt.GST_d": 2599.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e9503958-515a-4963-acc3-78db7013361c|33103IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27483IN-4ND-CP|true|false|K-27483IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|27483IN-4ND-AF|true|false|K-27483IN-4ND-AF"
+        ],
+        "ProductBrandName_s": "Fore Arc™",
+        "masterSKU_s": "27483IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "27483IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "27483IN-4ND-CP|aag61352_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61352_rgb",
+          "27483IN-4ND-AF|aag61343_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag61343_rgb"
+        ],
+        "priceList.GST.price_d": 4639.0,
+        "priceList.GST.finalPrice_d": 4639.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet trim, 8.7 lpm",
+        "productName_s": "Fore Arc® Wall-mount bathroom sink faucet trim, 8.7 lpm",
+        "ctId_s": "f49cd76a-2138-4e67-bc26-4c3bf4be1b5a",
+        "Color.GST.Details_ss": [
+          "27483IN-4ND-CP|Polished Chrome|5460.0|4639.0||https://kohler.scene7.com/is/image/PAWEB/aag61352_rgb",
+          "27483IN-4ND-AF|Vibrant French Gold|6800.0|5369.0||https://kohler.scene7.com/is/image/PAWEB/aag61343_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "27483IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag61352_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag61343_rgb"
+        ],
+        "priceList.ANY.price_d": 5460.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "27483IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Fore Arc™",
+        "variantList.sku_ss": [
+          "27483IN-4ND-CP",
+          "27483IN-4ND-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 4639.0,
+        "displayPriceStartingAt_s": "₹4,639.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "fore-arc-single-control-wall-mount-lav-faucet-trim-without-drain-27483in-4nd",
+        "priceStartingAt.GST_d": 4639.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f49cd76a-2138-4e67-bc26-4c3bf4be1b5a|27483IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27488IN-4ND-CP|true|false|K-27488IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|27488IN-4ND-AF|true|false|K-27488IN-4ND-AF"
+        ],
+        "ProductBrandName_s": "Fore Line™",
+        "masterSKU_s": "27488IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "27488IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "27488IN-4ND-CP|aaf86196_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86196_rgb",
+          "27488IN-4ND-AF|aaf86198_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf86198_rgb"
+        ],
+        "priceList.GST.price_d": 3109.0,
+        "priceList.GST.finalPrice_d": 3109.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet trim, cold only, 9.2 lpm",
+        "productName_s": "Fore Line® Wall-mount bathroom sink faucet trim, cold only, 9.2 lpm",
+        "ctId_s": "0887a545-4235-4587-bf41-819e5499dbd6",
+        "Color.GST.Details_ss": [
+          "27488IN-4ND-CP|Polished Chrome|3660.0|3109.0||https://kohler.scene7.com/is/image/PAWEB/aaf86196_rgb",
+          "27488IN-4ND-AF|Vibrant French Gold|4580.0|3609.0||https://kohler.scene7.com/is/image/PAWEB/aaf86198_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "27488IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf86196_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf86198_rgb"
+        ],
+        "priceList.ANY.price_d": 3660.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "27488IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Fore Line™",
+        "variantList.sku_ss": [
+          "27488IN-4ND-CP",
+          "27488IN-4ND-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 3109.0,
+        "displayPriceStartingAt_s": "₹3,109.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "fore-line-wall-mount-cold-only-trim-assy-27488in-4nd",
+        "priceStartingAt.GST_d": 3109.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "0887a545-4235-4587-bf41-819e5499dbd6|27488IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27487IN-4ND-CP|true|false|K-27487IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "Fore Tri™",
+        "masterSKU_s": "27487IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "27487IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "27487IN-4ND-CP|aaf94987_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf94987_rgb"
+        ],
+        "priceList.GST.price_d": 2899.0,
+        "priceList.GST.finalPrice_d": 2899.0,
+        "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet, 9.0 lpm",
+        "productName_s": "Fore Tri™ Wall-mount single-handle bathroom sink faucet, 9.0 lpm",
+        "ctId_s": "bb44a11a-1db0-4a8d-bbc5-e5de2f85f564",
+        "Color.GST.Details_ss": [
+          "27487IN-4ND-CP|Polished Chrome|3420.0|2899.0||https://kohler.scene7.com/is/image/PAWEB/aaf94987_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "27487IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf94987_rgb"
+        ],
+        "priceList.ANY.price_d": 3420.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "27487IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "Fore Tri™",
+        "variantList.sku_ss": [
+          "27487IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 2899.0,
+        "displayPriceStartingAt_s": "₹2,899.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "fore-tri-wall-mount-cold-only-trim-assy-27487in-4nd",
+        "priceStartingAt.GST_d": 2899.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "bb44a11a-1db0-4a8d-bbc5-e5de2f85f564|27487IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|39560IN-ND-CP|true|false|K-39560IN-ND-CP"
+        ],
+        "ProductBrandName_s": "Components™",
+        "masterSKU_s": "39560IN-ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "39560IN-ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "39560IN-ND-CP|aaf22496_rgb|IMGTOP||top view of product|https://kohler.scene7.com/is/image/PAWEB/aaf22496_rgb",
+          "39560IN-ND-CP|aaf22495_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf22495_rgb"
+        ],
+        "priceList.GST.price_d": 26849.0,
+        "priceList.GST.finalPrice_d": 26849.0,
+        "ProductDescriptionProductShort_s": "Touchless wall-mount 19.5 cm lavatory faucet with Kinesis™ sensor technology, 1.9 lpm",
+        "productName_s": "Components™ Touchless wall-mount 19.5 cm lavatory faucet with Kinesis™ sensor technology, 1.9 lpm",
+        "ctId_s": "22523abc-290d-46b8-8574-b9bc3ff56bac",
+        "Color.GST.Details_ss": [
+          "39560IN-ND-CP|Polished Chrome|32750.0|26849.0||https://kohler.scene7.com/is/image/PAWEB/aaf22496_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "39560IN-ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf22496_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf22495_rgb"
+        ],
+        "priceList.ANY.price_d": 32750.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "39560IN-ND-CP",
+        "ProductBrandNameDisplay_s": "Components™",
+        "variantList.sku_ss": [
+          "39560IN-ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 26849.0,
+        "displayPriceStartingAt_s": "₹26,849.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "components-touchless-wall-mount-195-mm-lavatory-faucet-with-kinesis-sensor-technology-1-9-lpm-39560in-nd",
+        "priceStartingAt.GST_d": 26849.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "22523abc-290d-46b8-8574-b9bc3ff56bac|39560IN-ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26791IN-4ND-CP|true|false|K-26791IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|26791IN-4ND-AF|true|false|K-26791IN-4ND-AF"
+        ],
+        "ProductBrandName_s": "Accliv™",
+        "masterSKU_s": "26791IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "26791IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "26791IN-4ND-CP|aae55887_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae55887_rgb",
+          "26791IN-4ND-AF|aae55893_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae55893_rgb"
+        ],
+        "priceList.GST.price_d": 4029.0,
+        "priceList.GST.finalPrice_d": 4029.0,
+        "ProductDescriptionProductShort_s": "Wall-mount single-handle bathroom sink faucet trim, 9.0 lpm",
+        "productName_s": "Accliv™ Wall-mount single-handle bathroom sink faucet trim, 9.0 lpm",
+        "ctId_s": "081ee46a-ddc9-44d9-916f-06c8f7494ca7",
+        "Color.GST.Details_ss": [
+          "26791IN-4ND-CP|Polished Chrome|4740.0|4029.0||https://kohler.scene7.com/is/image/PAWEB/aae55887_rgb",
+          "26791IN-4ND-AF|Vibrant French Gold|5930.0|4679.0||https://kohler.scene7.com/is/image/PAWEB/aae55893_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "26791IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae55887_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aae55893_rgb"
+        ],
+        "priceList.ANY.price_d": 4740.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "26791IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Accliv™",
+        "variantList.sku_ss": [
+          "26791IN-4ND-CP",
+          "26791IN-4ND-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 4029.0,
+        "displayPriceStartingAt_s": "₹4,029.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "accliv-wall-mount-single-handle-bathroom-sink-faucet-trim-9-0-lpm-26791in-4nd",
+        "priceStartingAt.GST_d": 4029.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "081ee46a-ddc9-44d9-916f-06c8f7494ca7|26791IN-4ND-CP",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27489IN-4ND-CP|true|false|K-27489IN-4ND-CP",
+          "Vibrant French Gold|swatch_AF|27489IN-4ND-AF|true|false|K-27489IN-4ND-AF"
+        ],
+        "ProductBrandName_s": "Fore Arc™",
+        "masterSKU_s": "27489IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP",
+          "swatch_AF"
+        ],
+        "sourceId_s": "27489IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "27489IN-4ND-CP|aaf87257_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf87257_rgb",
+          "27489IN-4ND-AF|aaf87261_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf87261_rgb"
+        ],
+        "priceList.GST.price_d": 3349.0,
+        "priceList.GST.finalPrice_d": 3349.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet trim, cold only, 9.2 lpm",
+        "productName_s": "Fore Arc® Wall-mount bathroom sink faucet trim, cold only, 9.2 lpm",
+        "ctId_s": "e273952d-3a1c-40ed-9e8b-c0af5cec284e",
+        "Color.GST.Details_ss": [
+          "27489IN-4ND-CP|Polished Chrome|3940.0|3349.0||https://kohler.scene7.com/is/image/PAWEB/aaf87257_rgb",
+          "27489IN-4ND-AF|Vibrant French Gold|4930.0|4189.0||https://kohler.scene7.com/is/image/PAWEB/aaf87261_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "27489IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf87257_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf87261_rgb"
+        ],
+        "priceList.ANY.price_d": 3940.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "27489IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Fore Arc™",
+        "variantList.sku_ss": [
+          "27489IN-4ND-CP",
+          "27489IN-4ND-AF"
+        ],
+        "discountedPriceStartingAt.GST_d": 3349.0,
+        "displayPriceStartingAt_s": "₹3,349.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome",
+          "Vibrant French Gold"
+        ],
+        "slug_s": "fore-arc-wall-mount-cold-only-trim-assy-27489in-4nd",
+        "priceStartingAt.GST_d": 3349.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "e273952d-3a1c-40ed-9e8b-c0af5cec284e|27489IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|27481IN-4ND-CP|true|false|K-27481IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "Fore Tri™",
+        "masterSKU_s": "27481IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "27481IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "27481IN-4ND-CP|aaf87262_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf87262_rgb"
+        ],
+        "priceList.GST.price_d": 3499.0,
+        "priceList.GST.finalPrice_d": 3499.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet trim, 8.7 lpm",
+        "productName_s": "Fore Tri® Wall-mount bathroom sink faucet trim, 8.7 lpm",
+        "ctId_s": "8ade7cc5-6b3d-46dc-90fb-35749aa6a9d2",
+        "Color.GST.Details_ss": [
+          "27481IN-4ND-CP|Polished Chrome|4120.0|3499.0||https://kohler.scene7.com/is/image/PAWEB/aaf87262_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "27481IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf87262_rgb"
+        ],
+        "priceList.ANY.price_d": 4120.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "27481IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "Fore Tri™",
+        "variantList.sku_ss": [
+          "27481IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 3499.0,
+        "displayPriceStartingAt_s": "₹3,499.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "fore-tri-single-control-wall-mount-lav-faucet-trim-without-drain-27481in-4nd",
+        "priceStartingAt.GST_d": 3499.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "8ade7cc5-6b3d-46dc-90fb-35749aa6a9d2|27481IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant Rose Gold|swatch_RGD|24280IN-4ND-RGD|true|false|K-24280IN-4ND-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|24280IN-4ND-BV|true|false|K-24280IN-4ND-BV",
+          "Vibrant Brushed Rose Gold|swatch_BRD|24280IN-4ND-BRD|true|false|K-24280IN-4ND-BRD"
+        ],
+        "ProductBrandName_s": "Parallel™",
+        "masterSKU_s": "24280IN-4ND-RGD",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_RGD",
+          "swatch_BV",
+          "swatch_BRD"
+        ],
+        "sourceId_s": "24280IN-4ND-RGD",
+        "productImages.labelWithUrl_ss": [
+          "24280IN-4ND-RGD|aaf63271_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb",
+          "24280IN-4ND-BV|aag42768_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag42768_rgb",
+          "24280IN-4ND-BRD|aag35371_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag35371_rgb"
+        ],
+        "priceList.GST.price_d": 25089.0,
+        "priceList.GST.finalPrice_d": 25089.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 7.5 lpm",
+        "productName_s": "Parallel™ Wall-mount bathroom sink faucet, 7.5 lpm",
+        "ctId_s": "10c1d4f3-3fbf-48dc-93c3-9c954b64d182",
+        "Color.GST.Details_ss": [
+          "24280IN-4ND-RGD|Vibrant Rose Gold|30600.0|25089.0||https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb",
+          "24280IN-4ND-BV|Vibrant Brushed Bronze|32750.0|26849.0||https://kohler.scene7.com/is/image/PAWEB/aag42768_rgb",
+          "24280IN-4ND-BRD|Vibrant Brushed Rose Gold|32750.0|26849.0||https://kohler.scene7.com/is/image/PAWEB/aag35371_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "24280IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf63271_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag42768_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag35371_rgb"
+        ],
+        "priceList.ANY.price_d": 30600.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "24280IN-4ND-RGD",
+        "ProductBrandNameDisplay_s": "Parallel™",
+        "variantList.sku_ss": [
+          "24280IN-4ND-RGD",
+          "24280IN-4ND-BV",
+          "24280IN-4ND-BRD"
+        ],
+        "discountedPriceStartingAt.GST_d": 25089.0,
+        "displayPriceStartingAt_s": "₹25,089.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant Rose Gold",
+          "Vibrant Brushed Bronze",
+          "Vibrant Brushed Rose Gold"
+        ],
+        "slug_s": "wall-mount-lav-faucet-trim-valve-24280in-4nd",
+        "priceStartingAt.GST_d": 25089.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "10c1d4f3-3fbf-48dc-93c3-9c954b64d182|24280IN-4ND-RGD"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|34039IN-4ND-CP|true|false|K-34039IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "APT™ Flux",
+        "masterSKU_s": "34039IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "34039IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "34039IN-4ND-CP|aaf89653_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf89653_rgb"
+        ],
+        "priceList.GST.price_d": 3609.0,
+        "priceList.GST.finalPrice_d": 3609.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet, 12.5 lpm",
+        "productName_s": "APT™ Flux Wall-mount bathroom sink faucet, 12.5 lpm",
+        "ctId_s": "aeb95472-6a90-4ca8-b2df-7f3125ab3386",
+        "Color.GST.Details_ss": [
+          "34039IN-4ND-CP|Polished Chrome|4580.0|3609.0||https://kohler.scene7.com/is/image/PAWEB/aaf89653_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "34039IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf89653_rgb"
+        ],
+        "priceList.ANY.price_d": 4580.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "34039IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "APT™ Flux",
+        "variantList.sku_ss": [
+          "34039IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 3609.0,
+        "displayPriceStartingAt_s": "₹3,609.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "apt-flux-wall-mount-bathroom-sink-faucet-12-5-lpm-34039in-4nd",
+        "priceStartingAt.GST_d": 3609.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "aeb95472-6a90-4ca8-b2df-7f3125ab3386|34039IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Polished Chrome|swatch_CP|26048IN-4ND-CP|true|false|K-26048IN-4ND-CP"
+        ],
+        "ProductBrandName_s": "Beam™",
+        "masterSKU_s": "26048IN-4ND-CP",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_CP"
+        ],
+        "sourceId_s": "26048IN-4ND-CP",
+        "productImages.labelWithUrl_ss": [
+          "26048IN-4ND-CP|aae78183_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae78183_rgb"
+        ],
+        "priceList.GST.price_d": 2729.0,
+        "priceList.GST.finalPrice_d": 2729.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet trim, 7.6 lpm",
+        "productName_s": "Beam™ Wall-mount bathroom sink faucet trim, 7.6 lpm",
+        "ctId_s": "43ebe020-d045-4589-b5f4-cd44fa53645a",
+        "Color.GST.Details_ss": [
+          "26048IN-4ND-CP|Polished Chrome|3460.0|2729.0||https://kohler.scene7.com/is/image/PAWEB/aae78183_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "26048IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aae78183_rgb"
+        ],
+        "priceList.ANY.price_d": 3460.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "26048IN-4ND-CP",
+        "ProductBrandNameDisplay_s": "Beam™",
+        "variantList.sku_ss": [
+          "26048IN-4ND-CP"
+        ],
+        "discountedPriceStartingAt.GST_d": 2729.0,
+        "displayPriceStartingAt_s": "₹2,729.00",
+        "SKUColorFinishName_ss": [
+          "Polished Chrome"
+        ],
+        "slug_s": "beam-single-control-wall-mount-lav-trim-assembly-26048in-4nd",
+        "priceStartingAt.GST_d": 2729.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "43ebe020-d045-4589-b5f4-cd44fa53645a|26048IN-4ND-CP"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Vibrant French Gold|swatch_AF|29310IN-4ND-AF|true|false|K-29310IN-4ND-AF",
+          "Vibrant Rose Gold|swatch_RGD|29310IN-4ND-RGD|true|false|K-29310IN-4ND-RGD",
+          "Vibrant Brushed Bronze|swatch_BV|29310IN-4ND-BV|true|false|K-29310IN-4ND-BV",
+          "Matte Black|swatch_BL|29310IN-4ND-BL|true|false|K-29310IN-4ND-BL"
+        ],
+        "ProductBrandName_s": "Components™",
+        "masterSKU_s": "29310IN-4ND-AF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_AF",
+          "swatch_BL",
+          "swatch_BV",
+          "swatch_RGD"
+        ],
+        "sourceId_s": "29310IN-4ND-AF",
+        "productImages.labelWithUrl_ss": [
+          "29310IN-4ND-AF|aag80562_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80562_rgb",
+          "29310IN-4ND-RGD|aag80567_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80567_rgb",
+          "29310IN-4ND-BL|aag80570_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80570_rgb",
+          "29310IN-4ND-BV|aag80569_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aag80569_rgb"
+        ],
+        "priceList.GST.price_d": 39519.0,
+        "priceList.GST.finalPrice_d": 39519.0,
+        "ProductDescriptionProductShort_s": "Wall-mount bathroom sink faucet with Row spout and Oyl handle, 16.0 lpm",
+        "productName_s": "Components™ Wall-mount bathroom sink faucet with Row spout and Oyl handle, 16.0 lpm",
+        "ctId_s": "dcf95296-e231-429a-a73f-f878c58045fe",
+        "Color.GST.Details_ss": [
+          "29310IN-4ND-AF|Vibrant French Gold|49400.0|39519.0||https://kohler.scene7.com/is/image/PAWEB/aag80562_rgb",
+          "29310IN-4ND-BL|Matte Black|49400.0|39519.0||https://kohler.scene7.com/is/image/PAWEB/aag80570_rgb",
+          "29310IN-4ND-BV|Vibrant Brushed Bronze|49400.0|39519.0||https://kohler.scene7.com/is/image/PAWEB/aag80569_rgb",
+          "29310IN-4ND-RGD|Vibrant Rose Gold|49400.0|39519.0||https://kohler.scene7.com/is/image/PAWEB/aag80567_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Manufactured By"
+        ],
+        "InstallationAvailable_s": "No",
+        "ProductProductNo_s": "29310IN-4ND",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aag80562_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag80567_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag80570_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aag80569_rgb"
+        ],
+        "priceList.ANY.price_d": 49400.0,
+        "Product_Category": "Bathroom Sink Faucets",
+        "preferenceSku_s": "29310IN-4ND-AF",
+        "ProductBrandNameDisplay_s": "Components™",
+        "variantList.sku_ss": [
+          "29310IN-4ND-AF",
+          "29310IN-4ND-BL",
+          "29310IN-4ND-BV",
+          "29310IN-4ND-RGD"
+        ],
+        "discountedPriceStartingAt.GST_d": 39519.0,
+        "displayPriceStartingAt_s": "₹39,519.00",
+        "SKUColorFinishName_ss": [
+          "Vibrant French Gold",
+          "Matte Black",
+          "Vibrant Brushed Bronze",
+          "Vibrant Rose Gold"
+        ],
+        "slug_s": "components-wall-mount-bathroom-sink-faucet-with-row-spout-and-oyl-handle-16-0-lpm-29310in-4nd",
+        "priceStartingAt.GST_d": 39519.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "dcf95296-e231-429a-a73f-f878c58045fe|29310IN-4ND-AF"
+      }
+    ],
+    "numFound": 33,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "Available_Now_s:\"Yes\"": 29
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Polished Chrome",
+        24,
+        "Vibrant French Gold",
+        14,
+        "Vibrant Brushed Moderne Brass",
+        1,
+        "Vibrant Rose Gold",
+        13,
+        "Matte Black with Brushed Moderne Brass",
+        1,
+        "Vibrant Brushed Bronze",
+        9,
+        "Matte Black",
+        5,
+        "Vibrant Brushed Rose Gold",
+        6
+      ],
+      "ProductBrandNameDisplay_s": [
+        "APT™ Curv",
+        1,
+        "APT™ Flux",
+        1,
+        "Accliv™",
+        2,
+        "Aleo+™",
+        2,
+        "Aleo™",
+        2,
+        "Avid",
+        1,
+        "Beam",
+        1,
+        "Beam™",
+        1,
+        "Beitou™",
+        1,
+        "Components™",
+        2,
+        "Composed™",
+        3,
+        "Engage™",
+        1,
+        "Fore Arc™",
+        2,
+        "Fore Line™",
+        2,
+        "Fore Tri™",
+        2,
+        "Hone™",
+        1,
+        "July™",
+        1,
+        "KOHLER VIVE®",
+        1,
+        "ModernLife Edge™",
+        3,
+        "Occasion™",
+        1,
+        "Parallel™",
+        2
+      ],
+      "FaucetsInstallationType_ss": [
+        "Single control Faucets",
+        48,
+        "Tall Faucets",
+        4,
+        "Wall-Mount Faucets",
+        33,
+        "Widespread Faucets",
+        9
+      ],
+      "FaucetsProductType_s": [
+        "Cold Only",
+        5,
+        "Hot and Cold",
+        17
+      ],
+      "ATTR_SPEC_SpoutType_s": [
+        "Standard",
+        5
+      ],
+      "FaucetsProductStyle_ss": [
+        "Contemporary",
+        32,
+        "Transitional",
+        1
+      ],
+      "Available_Now_s": [
+        "Yes",
+        29,
+        "No",
+        8
+      ],
+      "InstallationCost_s": [
+        "Not Applicable",
+        17,
+        "Paid",
+        16
+      ]
+    },
+    "facet_ranges": {
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "0",
+          20,
+          "20000",
+          8,
+          "40000",
+          4,
+          "60000",
+          2,
+          "80000",
+          2
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "0",
+          19,
+          "20000",
+          7,
+          "40000",
+          4,
+          "60000",
+          3,
+          "80000",
+          2,
+          "100000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "0",
+          19,
+          "20000",
+          7,
+          "40000",
+          4,
+          "60000",
+          3,
+          "80000",
+          2,
+          "100000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "0",
+          19,
+          "20000",
+          7,
+          "40000",
+          4,
+          "60000",
+          3,
+          "80000",
+          2,
+          "100000",
+          1
+        ],
+        "start": 0.0,
+        "end": 450000.0,
+        "gap": 20000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

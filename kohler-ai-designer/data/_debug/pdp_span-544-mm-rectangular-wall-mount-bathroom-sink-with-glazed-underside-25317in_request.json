@@ -1,0 +1,180 @@
+{
+  "product_url": "https://www.kohler.co.in/p/span-544-mm-rectangular-wall-mount-bathroom-sink-with-glazed-underside-25317in?skuId=25317IN-0",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/span-544-mm-rectangular-wall-mount-bathroom-sink-with-glazed-underside-25317in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/span-544-mm-rectangular-wall-mount-bathroom-sink-with-glazed-underside-25317in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4958>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/span-544-mm-rectangular-wall-mount-bathroom-sink-with-glazed-underside-25317in?skuId=25317IN-0",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "KJB4arK2Ky",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=265, origin; dur=723, ak_p; desc=\"1789421108069_400553078_266619031_98876_10332_8_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Mon, 14 Sep 2026 21:25:09 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2113",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/span-square-wall-hung-basin-in-white",
+            "ProductWebInstallation_ss": [
+              "Wall-mount"
+            ],
+            "ProductOverallWidthInches_s": "19-1/4\"",
+            "ProductNarrativeDescription_s": "Minimal yet effortlessly refined, the KOHLER® Span™ rectangular wall-mount sink offers a harmonious blend of form and function, elevating any bathroom space with its understated elegance. Its thoughtfully crafted design exudes a sense of balance, boasting clean, angular lines softened by subtle humanist touches, ensuring it complements a wide range of aesthetics, from contemporary to transitional interiors. The integrated faucet deck is a triumph of both practicality and ingenuity, providing an additional layer of water containment while doubling as a convenient surface for personal items, such as soap dispensers or decorative accents. Constructed with meticulous attention to detail, the Span™ features exceptional durability and reliability, making it a lasting addition to your home. Pair this wall-mounted sink seamlessly with a coordinating faucet to complete a cohesive and visually captivating bathroom setup. Whether you’re designing a modern retreat or a functional family space, the Span™ sink delivers unparalleled performance and style in equal measure, effortlessly transforming your bathroom into a sanctuary of thoughtful design.",
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|25317IN-0|true|false|K-25317IN-0"
+            ],
+            "ProductBrandName_s": "Span™",
+            "ProductPackageContents_s": "1 LAVATORY, 1 INSTALLATION KIT, 1 INSTALLATION TEMPLATE, 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1553095"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1389018-IN2_D2.pdf"
+            ],
+            "ProductResource.PartsPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1656586-IN8.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-25317IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "25317IN-0|aae54922_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae54922_rgb",
+              "25317IN-0|aaf69971_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69971_rgb",
+              "25317IN-0|aaf69972_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69972_rgb",
+              "25317IN-0|aaf69973_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf69973_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5949.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 7000.0,
+            "ProductOverallLengthInches_s": "21-7/16\"",
+            "ProductDescriptionProductShort_s": "54.4 cm rectangular wall-mount bathroom sink with glazed underside",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317insde.dxf"
+            ],
+            "productName_s": "Span™ 54.4 cm rectangular wall-mount bathroom sink with glazed underside",
+            "ctId_s": "e9d001d6-3743-4dc0-a9a0-dda2999d70f7",
+            "ProductWebFeatures_ss": [
+              "Minimalist design with thin, rounded edges",
+              "Rectangular basin",
+              "An integrated faucet deck provides additional water containment",
+              "Single faucet hole at deck center",
+              "With overflow",
+              "Glazed underside offers beauty from all angles"
+            ],
+            "priceList.ANY.finalPrice_d": 7000.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "25317IN-0",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Sink-Wall_Mount-Lavatory-KOHLER-Span-K-25317IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "53.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "25317IN",
+            "productInRiverId_s": "inRiver_1428970",
+            "priceList.CTR.finalPrice_d": 7000.0,
+            "Product_Category": "Bathroom Sinks",
+            "CustomerFacingSKU_s": "K-25317IN-0",
+            "ProductBrandNameDisplay_s": "Span™",
+            "variantList.sku_ss": [
+              "25317IN-0"
+            ],
+            "SKUShippingHeight_s": "22.100",
+            "ctProductType_s": "bathroom-sinks",
+            "SKUShippingLength_s": "60.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Vitreous china"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_558305",
+              "inRiver_1730109"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/25317IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "6-3/4\"",
+            "id": "e9d001d6-3743-4dc0-a9a0-dda2999d70f7|25317IN-0",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

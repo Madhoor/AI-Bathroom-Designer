@@ -1,0 +1,176 @@
+{
+  "product_url": "https://www.kohler.co.in/p/awaken-organic-multi-mode-handshower-with-hose-72421in?skuId=72421IN-CP",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/awaken-organic-multi-mode-handshower-with-hose-72421in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/awaken-organic-multi-mode-handshower-with-hose-72421in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4906>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/awaken-organic-multi-mode-handshower-with-hose-72421in?skuId=72421IN-CP",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "XfGTdr6nvp",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=303, origin; dur=810, ak_p; desc=\"1789449352294_400553039_335940454_111377_13002_12_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:15:53 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "2133",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/awaken-multi-spray-handshower",
+            "ProductWebInstallation_ss": [
+              "Bracket or slidebar required for wall-mount installation",
+              "Deck-mount holder required for deck-mount installation"
+            ],
+            "ProductOverallWidthInches_s": "4-5/8\"",
+            "ProductNarrativeDescription_s": "The Awaken® B110 handshower brings KOHLER® quality, design, and performance to your shower space. Advanced spray performance delivers three distinct sprays—wide coverage, intense drenching, or targeted—with a smooth rotation of a thumb tab. Ergonomic design makes for superior comfort and ease of use, with ideal balance and weight in the hand. The artfully sculpted sprayface takes its inspiration from the purposeful patterns found in nature, complementing a wide range of bathroom styles.",
+            "Color.SKU.Details_ss": [
+              "Polished Chrome|swatch_CP|72421IN-CP|true|false|K-72421IN-CP"
+            ],
+            "ProductBrandName_s": "Awaken™ B110",
+            "ProductPackageContents_s": "1- HANDSHOWER; 1-HOSE\n1 FLOW REGULATOR KIT, 1-WARRANTY CARD; 1-INST. GUIDE",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1556173"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-72421IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "72421IN-CP|zab19827_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/zab19827_rgb",
+              "72421IN-CP|aaf70008_rgb|IMGITEMCLOSEROOMVIEWInUse||Products in use in close room view|https://kohler.scene7.com/is/image/PAWEB/aaf70008_rgb",
+              "72421IN-CP|aaf70003_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70003_rgb",
+              "72421IN-CP|aaf70004_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70004_rgb",
+              "72421IN-CP|aaf70002_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70002_rgb",
+              "72421IN-CP|aaf70001_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf70001_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 5329.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 6500.0,
+            "ProductOverallLengthInches_s": "10-1/2\"",
+            "ProductDescriptionProductShort_s": "Three-function handshower, 17.0 lpm",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421insde.dxf"
+            ],
+            "productName_s": "Awaken® B110 Three-function handshower, 17.0 lpm",
+            "ctId_s": "f7b737ec-b052-4a38-bdd9-0aeac62a3741",
+            "ProductWebFeatures_ss": [
+              "Handshower features transitional design, inspired by nature",
+              "Advanced spray engine provides three alternate experiences: wide coverage, intense drenching, and targeted spray",
+              "Wide coverage spray produces an encompassing spray for everyday use",
+              "Intense drenching spray delivers a forceful spray ideal for rinsing shampoo from hair",
+              "Targeted spray is a focused stream for targeting sore muscles or use as a utility spray",
+              "Thumb tab allows for a smooth transition between sprays",
+              "Spray nozzles cover full area of sprayhead",
+              "Combination of balance, weight, grip, and angle makes this handshower comfortable and easy to use",
+              "MasterClean™ sprayface features an easy-to-clean surface that withstands mineral buildup and maximizes spray performance",
+              "4.48 gpm (17.0 lpm) maximum flow rate at 43.5 psi (3.0 bar)",
+              "Shower hose sold separately"
+            ],
+            "priceList.ANY.finalPrice_d": 6500.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421insde.dwg"
+            ],
+            "RequiredAccessoryGroupName_ss": [
+              "Option 1"
+            ],
+            "sku_s": "72421IN-CP",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Shower-Handshower-KOHLER-AWAKEN-K-72421IN.rfa"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "13.000",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "72421IN",
+            "productInRiverId_s": "inRiver_558325",
+            "priceList.CTR.finalPrice_d": 6500.0,
+            "Product_Category": "Showerheads",
+            "CustomerFacingSKU_s": "K-72421IN-CP",
+            "ProductBrandNameDisplay_s": "Awaken™ B110",
+            "variantList.sku_ss": [
+              "72421IN-CP"
+            ],
+            "SKUShippingHeight_s": "8.000",
+            "ctProductType_s": "showerheads",
+            "SKUShippingLength_s": "31.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Premium material construction for durability and reliability",
+              "KOHLER finishes resist corrosion and tarnishing"
+            ],
+            "RequiredAccessoryGroupProduct_ss": [
+              "inRiver_1337884"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/72421infrt.dwg"
+            ],
+            "ProductOverallHeightInches_s": "3-1/8\"",
+            "id": "f7b737ec-b052-4a38-bdd9-0aeac62a3741|72421IN-CP",
+            "RegionReleaseforShipment_dt": "2000-10-10T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

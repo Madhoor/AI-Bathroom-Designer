@@ -1,0 +1,165 @@
+{
+  "product_url": "https://www.kohler.co.in/p/patio-round-front-wall-hung-toilet-bundle-in-black-1?skuId=18131IN-S-7",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/patio-round-front-wall-hung-toilet-bundle-in-black-1",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/patio-round-front-wall-hung-toilet-bundle-in-black-1",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=4930>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/patio-round-front-wall-hung-toilet-bundle-in-black-1?skuId=18131IN-S-7",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "bQhd5bn93r",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=334, origin; dur=724, ak_p; desc=\"1789450097920_400553078_274616235_105881_11361_9_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 05:28:18 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1770",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "fusion": {
+        "bundle-product-results": [
+          {
+            "ProductOverallHeightCm_d": 36.5,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|4187IN-WD-0|true|false|K-4187IN-WD-0",
+              "Black Black|swatch_7|4187IN-WD-7|true|false|K-4187IN-WD-7"
+            ],
+            "ProductPackageContents_s": "1 WALLHUNG BOWL;\n1 INSTL. INSTR; 1 WARRANTY CARD",
+            "productImages.labelWithUrl_ss": [
+              "4187IN-WD-0|aad30816_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aad30816_rgb",
+              "4187IN-WD-7|aaf66519_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66519_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Wall-hung round-front toilet bowl",
+            "ColorFinish_s": "Black Black",
+            "productName_s": "Patio™ Wall-hung round-front toilet bowl",
+            "ctId_s": "e3b6dfcf-f363-4c52-a5ab-7d2afc1d0cce",
+            "ProductWebFeatures_ss": [
+              "Round-front bowl offers an ideal solution for smaller bathrooms and powder rooms",
+              "Wall-hung design allows bowl to be set at preferred height",
+              "66 mm (2-5/8 inch) fully glazed trapway",
+              "Integrated flush diverter helps distribute water into the bowl for a more powerful flush and cleaner surface",
+              "Coordinates with other products in the Patio™ collection",
+              "Bowl only; requires KOHLER® in-wall tank and carrier system, faceplate, and seat (sold separately)"
+            ],
+            "ProductOverallWidthCm_d": 36.6,
+            "RegionSupplyChain_ss": [
+              "Manufactured By"
+            ],
+            "sku_s": "4187IN-WD-7",
+            "SKUShippingWidth_s": "40.000",
+            "ProductLocalCategory_s": "Toilets",
+            "ProductBrandNameDisplay_s": "Patio™",
+            "SKUShippingHeight_s": "59.000",
+            "SKUShippingLength_s": "43.500",
+            "slug_s": "patio-wall-hung-round-front-toilet-bowl-4187in-wd",
+            "ProductOverallLengthCm_d": 53.5
+          },
+          {
+            "ProductOverallHeightCm_d": 6.0,
+            "Color.SKU.Details_ss": [
+              "White|swatch_0|10614IN-0|true|false|K-10614IN-0",
+              "Black Black|swatch_7|10614IN-7|false|2026-07-06T00:00:00Z|K-10614IN-7"
+            ],
+            "ProductPackageContents_s": "1 TOILET SEAT, 1 ACCESSORIES PACK, 1 INSTALLATION MANUAL & 1 WARRANTY CARD.",
+            "productImages.labelWithUrl_ss": [
+              "10614IN-0|aae01454_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aae01454_rgb",
+              "10614IN-0|aaf68477_rgb|IMGINFOGRAPHIC||Infographics used in PDP Gallery|https://kohler.scene7.com/is/image/PAWEB/aaf68477_rgb",
+              "10614IN-7|aaf66517_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf66517_rgb"
+            ],
+            "SKUCountryofOrigin_s": "IN",
+            "ProductDescriptionProductShort_s": "Ready Latch™ Quiet-Close™ round-front toilet seat",
+            "ColorFinish_s": "Black Black",
+            "productName_s": "Patio™ Ready Latch™ Quiet-Close™ round-front toilet seat",
+            "ctId_s": "19ddd561-6309-4386-ad33-833c8fadbe17",
+            "ProductWebFeatures_ss": [
+              "Round-front seat with lid",
+              "Quiet-Close™ functionality to prevent seat from slamming",
+              "Quick-Attach™ hardware for fast and secure installation",
+              "Quick-Release™ functionality allows seat to be removed easily from toilet for convenient cleaning",
+              "ReadyLatch™ hinge provides a positive lock/unlock latch to securely hold seat in position, yet seat easily removes for cleaning or adjusting fit",
+              "Grip-Tight bumpers hold seat firmly in place",
+              "Part of the Patio collection"
+            ],
+            "ProductOverallWidthCm_d": 37.7,
+            "RegionSupplyChain_ss": [
+              "Marketed By"
+            ],
+            "sku_s": "10614IN-7",
+            "SKUShippingWidth_s": "39.000",
+            "ProductLocalCategory_s": "Toilet Seats",
+            "ProductBrandNameDisplay_s": "Patio™",
+            "SKUShippingHeight_s": "7.000",
+            "SKUShippingLength_s": "48.000",
+            "slug_s": "patio-quiet-close-elongated-toilet-seat-10614in",
+            "ProductOverallLengthCm_d": 44.7
+          }
+        ]
+      },
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "productName_s": "Patio round-front wall hung toilet bundle in Black",
+            "ctId_s": "c981066d-85c9-481f-8732-b9821b831ca1",
+            "priceList.ANY.finalPrice_d": 14500.0,
+            "sku_s": "18131IN-S-7",
+            "InstallationAvailable_s": "Yes",
+            "InstallationCost_s": "Paid",
+            "productDiscontinued_b": false,
+            "productInRiverId_s": "",
+            "priceList.CTR.finalPrice_d": 14500.0,
+            "Product_Category": "Toilet Area Combos",
+            "CustomerFacingSKU_s": "K-18131IN-S-7",
+            "variantList.sku_ss": [
+              "18131IN-S-7"
+            ],
+            "ctProductType_s": "virtual-bundle-parent",
+            "priceList.GST.finalPrice_d": 12319.0,
+            "priceList.KEMP.finalPrice_d": 14500.0,
+            "id": "c981066d-85c9-481f-8732-b9821b831ca1|18131IN-S-7"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}
