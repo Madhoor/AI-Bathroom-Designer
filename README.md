@@ -8,6 +8,13 @@ A template-driven AI bathroom design experience built around real KOHLER catalog
 
 # 1. START HERE: RUN THE PROJECT NOW
 
+## Project Links
+
+- **GitHub Repository:** https://github.com/Madhoor/Kohler
+- **Google Drive:**https://drive.google.com/drive/folders/1eBxJZsjufuaTgcwoMJtpp9ARANzxaSJi?usp=sharing
+
+The Google Drive link can be used for the supporting project files/assets or any files that are too large to keep in the GitHub repository.
+
 This is the only section you need for a normal demo/development start.
 
 ## Prerequisites

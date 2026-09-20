@@ -64,7 +64,7 @@ function SingleModel({ productCode, product, normalizedBoundsM }: SingleModelPro
   }, [scene, productCode, resolved.role, product?.finish]);
 
   return (
-    <group rotation={resolved.localRotation}>
+    <group rotation={resolved.previewRotation}>
       <group position={resolved.localPosition}>
         <primitive object={scene as Group} />
       </group>
@@ -82,30 +82,40 @@ function CameraSetup({
   useEffect(() => {
     const [w = 0.5, h = 0.4, d = 0.5] = normalizedBoundsM ?? [0.5, 0.4, 0.5];
     const maxDim = Math.max(w, h, d, 0.25);
-    const dist = Math.max(maxDim * 2.2, 0.55);
+    // Physically meaningful bounding-box fitting:
+    // 1 Three.js unit = 1 metre.
+    // Minimum distance of 1.25m ensures small fixtures (faucets, rainheads)
+    // are not unnaturally enlarged to fill the screen at bathtub scale.
+    const dist = Math.max(maxDim * 1.6 + 0.5, 1.25);
     camera.position.set(dist * 0.75, dist * 0.65, dist * 0.85);
-    camera.lookAt(0, h * 0.25, 0);
+    camera.lookAt(0, h * 0.35, 0);
     camera.updateProjectionMatrix();
   }, [camera, normalizedBoundsM]);
 
   return null;
 }
 
-/** Subtle metric ground scale reference (1m circular pad with 0.2m increments) */
+/** Subtle metric ground scale reference (1m circular pad with 0.25m and 0.5m increments) */
 function MetricGroundReference({ maxDim }: { maxDim: number }) {
-  const radius = Math.max(maxDim * 1.2, 0.6);
+  // Pad radius has a minimum of 0.75m (1.5m diameter) to give consistent 1m scale reference
+  const radius = Math.max(maxDim * 1.1, 0.75);
   return (
     <group position={[0, -0.002, 0]} rotation={[-Math.PI / 2, 0, 0]}>
-      {/* Outer boundary ring */}
+      {/* 0.25m inner reference circle */}
       <mesh>
-        <ringGeometry args={[radius * 0.98, radius, 64]} />
-        <meshBasicMaterial color="#332d27" transparent opacity={0.35} />
+        <ringGeometry args={[0.245, 0.255, 48]} />
+        <meshBasicMaterial color="#4a4238" transparent opacity={0.25} />
       </mesh>
-      {/* 0.5m reference circle if applicable */}
+      {/* 0.50m (1m diameter) primary metric reference circle */}
+      <mesh>
+        <ringGeometry args={[0.495, 0.505, 64]} />
+        <meshBasicMaterial color="#d4af37" transparent opacity={0.35} />
+      </mesh>
+      {/* Outer boundary ring */}
       {radius > 0.6 && (
         <mesh>
-          <ringGeometry args={[0.49, 0.5, 48]} />
-          <meshBasicMaterial color="#2d2620" transparent opacity={0.25} />
+          <ringGeometry args={[radius * 0.98, radius, 64]} />
+          <meshBasicMaterial color="#332d27" transparent opacity={0.3} />
         </mesh>
       )}
     </group>

@@ -13,6 +13,9 @@ interface EditorContextualMenuProps {
   selectedPlacement: DesignPlacement | null;
   tentativePlacement: DesignPlacement | null;
   tentativeValidation: LayoutValidationResult | null;
+  allPlacements?: DesignPlacement[];
+  allProducts?: RecommendationProduct[];
+  onSelectProduct?: (code: string) => void;
   onStartMove: () => void;
   onStartRotate: () => void;
   onRotateStep: (deltaDeg: number) => void;
@@ -30,6 +33,9 @@ export function EditorContextualMenu({
   selectedPlacement,
   tentativePlacement,
   tentativeValidation,
+  allPlacements,
+  allProducts,
+  onSelectProduct,
   onStartMove,
   onStartRotate,
   onRotateStep,
@@ -47,6 +53,9 @@ export function EditorContextualMenu({
     activePlacement && tentativeValidation
       ? getPlacementDiagnosticMessages(activeCode, tentativeValidation)
       : { valid: true, errors: [], warnings: [] };
+
+  const basinPlacement = allPlacements?.find((p) => p.role.includes("basin"));
+  const faucetPlacement = allPlacements?.find((p) => p.role.includes("faucet"));
 
   return (
     <div className="w-full max-w-4xl mx-auto px-4 pb-4">
@@ -66,14 +75,82 @@ export function EditorContextualMenu({
 
         {/* SELECTED STATE */}
         {actionState.type === "SELECTED" && selectedProduct && (
-          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-neutral-800/80 border border-neutral-700/60 flex items-center justify-center text-amber-400 font-mono text-xs">
-                {selectedProduct.category?.substring(0, 2).toUpperCase() || "FX"}
-              </div>
-              <div>
-                <div className="flex items-center gap-2">
-                  <h4 className="text-sm font-medium text-white line-clamp-1">
+          <div>
+            {/* ARCHITECTURAL HIERARCHY BAR FOR VANITY / BASIN / FAUCET */}
+            {selectedPlacement &&
+              (selectedPlacement.role.includes("basin") ||
+                selectedPlacement.role.includes("faucet") ||
+                selectedPlacement.role.includes("vanity")) && (
+                <div className="mb-3 flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-neutral-950/60 border border-neutral-800/80 text-[11px] font-mono">
+                  <span className="text-neutral-500 uppercase text-[10px] tracking-wider font-semibold">Hierarchy:</span>
+                  <span
+                    className={`px-1.5 py-0.5 rounded ${
+                      selectedPlacement.role.includes("vanity")
+                        ? "bg-amber-500/20 text-amber-300 font-semibold"
+                        : "text-neutral-400"
+                    }`}
+                  >
+                    Vanity
+                  </span>
+                  <span className="text-neutral-600">→</span>
+                  {basinPlacement ? (
+                    <button
+                      type="button"
+                      onClick={() => onSelectProduct?.(basinPlacement.productCode)}
+                      className={`cursor-pointer px-1.5 py-0.5 rounded hover:bg-neutral-800 transition-colors ${
+                        selectedPlacement.role.includes("basin")
+                          ? "bg-amber-500/20 text-amber-300 font-semibold"
+                          : "text-neutral-400 underline decoration-neutral-600"
+                      }`}
+                    >
+                      Basin
+                    </button>
+                  ) : (
+                    <span
+                      className={`px-1.5 py-0.5 rounded ${
+                        selectedPlacement.role.includes("basin")
+                          ? "bg-amber-500/20 text-amber-300 font-semibold"
+                          : "text-neutral-500"
+                      }`}
+                    >
+                      Basin
+                    </span>
+                  )}
+                  <span className="text-neutral-600">→</span>
+                  {faucetPlacement ? (
+                    <button
+                      type="button"
+                      onClick={() => onSelectProduct?.(faucetPlacement.productCode)}
+                      className={`cursor-pointer px-1.5 py-0.5 rounded hover:bg-neutral-800 transition-colors ${
+                        selectedPlacement.role.includes("faucet")
+                          ? "bg-amber-500/20 text-amber-300 font-semibold"
+                          : "text-neutral-400 underline decoration-neutral-600"
+                      }`}
+                    >
+                      Faucet
+                    </button>
+                  ) : (
+                    <span
+                      className={`px-1.5 py-0.5 rounded ${
+                        selectedPlacement.role.includes("faucet")
+                          ? "bg-amber-500/20 text-amber-300 font-semibold"
+                          : "text-neutral-500"
+                      }`}
+                    >
+                      Faucet
+                    </span>
+                  )}
+                </div>
+              )}
+
+            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-xl bg-neutral-800/80 border border-neutral-700/60 flex items-center justify-center text-amber-400 font-mono text-xs">
+                  {selectedProduct.category?.substring(0, 2).toUpperCase() || "FX"}
+                </div>
+                <div>
+                  <div className="flex items-center gap-2">
+                    <h4 className="text-sm font-medium text-white line-clamp-1">
                     {selectedProduct.productName}
                   </h4>
                   <span className="text-[10px] font-mono text-neutral-400 px-1.5 py-0.5 rounded bg-neutral-800">
@@ -149,6 +226,7 @@ export function EditorContextualMenu({
               </button>
             </div>
           </div>
+        </div>
         )}
 
         {/* MOVING STATE */}

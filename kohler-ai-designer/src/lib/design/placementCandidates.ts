@@ -1,6 +1,7 @@
 import type { BathroomRoom, PlacedProduct } from "../constraints";
 import type { RecommendationProduct } from "../recommendation";
 import type { DesignPlacement, PlacementSource, PlacementSurface } from "./types";
+import { getShowerZoneAnchor } from "./showerZone";
 
 interface PlacementCandidate {
   placed: PlacedProduct;
@@ -22,7 +23,13 @@ function sourceFor(surfaceName: PlacementSurface): PlacementSource {
   return surfaceName === "unknown" ? "generic_zone_heuristic" : "factual_surface";
 }
 
-function candidatesForSurface(room: BathroomRoom, dims: { widthM: number; depthM: number; heightM: number }, surfaceName: PlacementSurface): Array<{ x: number; y: number; z: number }> {
+function candidatesForSurface(
+  room: BathroomRoom,
+  dims: { widthM: number; depthM: number; heightM: number },
+  surfaceName: PlacementSurface,
+  zone?: string,
+  role?: string,
+): Array<{ x: number; y: number; z: number }> {
   const margin = 0.05;
   const floorZ = 0;
   const wallZ = Math.max(0, room.heightM - dims.heightM - margin);
@@ -35,7 +42,14 @@ function candidatesForSurface(room: BathroomRoom, dims: { widthM: number; depthM
       { x: room.widthM / 2 - margin - dims.widthM / 2, y: 0, z: wallZ },
     ];
   }
-  if (surfaceName === "ceiling") return [{ x: center.x, y: center.y, z: Math.max(0, room.heightM - dims.heightM) }];
+  if (surfaceName === "ceiling") {
+    const isShower =
+      zone === "shower" ||
+      role?.includes("rainhead") ||
+      role?.includes("shower");
+    const ceilingAnchor = isShower ? getShowerZoneAnchor(room) : center;
+    return [{ x: ceilingAnchor.x, y: ceilingAnchor.y, z: Math.max(0, room.heightM - dims.heightM) }];
+  }
   return [
     { x: -room.widthM / 2 + margin + dims.widthM / 2, y: -room.depthM / 2 + margin + dims.depthM / 2, z: floorZ },
     { x: room.widthM / 2 - margin - dims.widthM / 2, y: -room.depthM / 2 + margin + dims.depthM / 2, z: floorZ },
@@ -55,7 +69,7 @@ export function generatePlacementCandidates(product: RecommendationProduct, room
   const candidates: PlacementCandidate[] = [];
   [0, 90].forEach((rotationZ) => {
     const rotated = rotationZ === 90 ? { widthM: dims.depthM, depthM: dims.widthM, heightM: dims.heightM } : dims;
-    candidatesForSurface(room, rotated, placementSurface).forEach((position) => {
+    candidatesForSurface(room, rotated, placementSurface, zone, role).forEach((position) => {
       const placed: PlacedProduct = {
         productCode: product.productCode,
         xM: position.x,

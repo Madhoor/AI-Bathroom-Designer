@@ -3,33 +3,29 @@ import type { RecommendationProduct } from "../recommendation/types";
 import { commitManualEditsToState } from "../design/manualEditing";
 import type { CatalogueProduct } from "../catalogue/types";
 
+import { resolveProductSemantics, isProductEligibleForRole } from "../catalogue/productSemantics";
+
 /**
  * Filters catalogue products to find eligible candidates for replacing an existing fixture.
- * Matches category, ensures dimensions exist, and excludes the currently selected product.
+ * Strictly guarantees semantic role boundaries:
+ * - Basin candidates only for Basins
+ * - Faucet candidates only for Faucets
+ * - Toilet candidates only for Toilets
+ * - Bath candidates only for Bathtubs
  */
 export function getEligibleReplacementCandidates(
   currentProduct: RecommendationProduct,
   allCatalogueProducts: CatalogueProduct[],
   room: DesignState["room"],
 ): CatalogueProduct[] {
-  const currentCategory = (currentProduct.category ?? "").toLowerCase();
-  const currentRole = (currentProduct.metadata?.role?.[0] ?? "").toLowerCase();
+  const currentSemantics = resolveProductSemantics(currentProduct);
+  const targetRole = currentSemantics.role;
 
   return allCatalogueProducts.filter((candidate) => {
     if (candidate.productCode === currentProduct.productCode) return false;
 
-    const candidateCat = (candidate.category ?? "").toLowerCase();
-    const candidateSubcat = (candidate.subcategory ?? "").toLowerCase();
-
-    // Check category match
-    const categoryMatches =
-      candidateCat === currentCategory ||
-      (currentCategory.includes("toilet") && candidateCat.includes("toilet")) ||
-      (currentCategory.includes("basin") && candidateCat.includes("basin")) ||
-      (currentCategory.includes("shower") && candidateCat.includes("shower")) ||
-      (currentCategory.includes("wellness") && candidateCat.includes("wellness"));
-
-    if (!categoryMatches) return false;
+    // Strict semantic role boundary guarantee
+    if (!isProductEligibleForRole(candidate, targetRole)) return false;
 
     // Check physical dimensions exist and fit within the room envelope
     if (!candidate.widthMm || !candidate.depthMm || !candidate.heightMm) return false;
@@ -105,17 +101,44 @@ export function replaceProductInDesignState(
     p.productCode === targetProductCode ? updatedPlacement : p,
   );
 
-  // 5. Update total product cost
+  // 5. If replacing a basin, recompute any hosted faucet's attachment position
+  let finalPlacements = updatedPlacements;
+  if (oldPlacement.role.includes("basin")) {
+    const basinRotRad = ((updatedPlacement.rotation.z ?? 0) * Math.PI) / 180;
+    const localOffsetY = newDepthM * 0.35;
+    const newFaucetX = updatedPlacement.position.x - Math.sin(basinRotRad) * localOffsetY;
+    const newFaucetY = updatedPlacement.position.y + Math.cos(basinRotRad) * localOffsetY;
+
+    finalPlacements = finalPlacements.map((p) => {
+      if (p.hostProductCode === targetProductCode || p.role.includes("faucet")) {
+        return {
+          ...p,
+          position: {
+            x: newFaucetX,
+            y: newFaucetY,
+            z: 0.72,
+          },
+          rotation: {
+            ...p.rotation,
+            z: updatedPlacement.rotation.z,
+          },
+        };
+      }
+      return p;
+    });
+  }
+
+  // 6. Update total product cost
   const oldCost = oldProduct.currentPrice ?? 0;
   const newCost = newProduct.currentPrice ?? 0;
   const updatedTotalCost = Math.max(0, originalState.totalProductCost - oldCost + newCost);
 
-  // 6. Re-evaluate spatial validation with new product
+  // 7. Re-evaluate spatial validation with new product
   const intermediateState: DesignState = {
     ...originalState,
     selectedProducts: updatedSelectedProducts,
     totalProductCost: updatedTotalCost,
   };
 
-  return commitManualEditsToState(intermediateState, updatedPlacements);
+  return commitManualEditsToState(intermediateState, finalPlacements);
 }

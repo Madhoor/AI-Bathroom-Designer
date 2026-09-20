@@ -4,6 +4,7 @@ import React, { useMemo, useRef } from "react";
 import type { DesignPlacement, DesignState } from "@/lib/design";
 import type { EditorActionState } from "@/lib/editor/types";
 import { constrainPositionToSurface } from "@/lib/design/manualEditing";
+import { getShowerZoneDefinition } from "@/lib/design/showerZone";
 
 export interface ArchitecturalFloorPlanProps {
   designState: DesignState;
@@ -76,6 +77,8 @@ export default function ArchitecturalFloorPlan({
       actionState.originalPlacement.placementSurface,
       actionState.originalPlacement.footprint,
       room,
+      undefined,
+      { role: actionState.originalPlacement.role, zone: actionState.originalPlacement.zone },
     );
 
     onMovePreview({ x: constrained.x, y: constrained.y, z: constrained.z });
@@ -237,6 +240,54 @@ export default function ArchitecturalFloorPlan({
           return null;
         })}
 
+        {/* Architectural Glass Shower Screen & Zone Footprint */}
+        {(() => {
+          const shower = getShowerZoneDefinition(room);
+          const screenX = toScreenX(shower.glassX);
+          const screenStartY = toScreenY(shower.bounds.minY);
+          const screenEndY = toScreenY(shower.bounds.maxY);
+          const showerLeft = screenX;
+          const showerRight = toScreenX(shower.bounds.maxX);
+          const showerTop = screenEndY;
+          const showerBottom = screenStartY;
+
+          return (
+            <g key="architectural-shower-zone">
+              {/* Subtle Wet Zone Floor Indicator */}
+              <rect
+                x={showerLeft}
+                y={showerTop}
+                width={showerRight - showerLeft}
+                height={showerBottom - showerTop}
+                fill="#202428"
+                fillOpacity="0.4"
+                stroke="#353e46"
+                strokeWidth="1"
+                strokeDasharray="4,4"
+              />
+              {/* Glass Shower Screen Profile */}
+              <line
+                x1={screenX}
+                y1={screenStartY}
+                x2={screenX}
+                y2={screenEndY}
+                stroke="#7bb8cc"
+                strokeWidth="3"
+                strokeLinecap="square"
+                opacity="0.85"
+              />
+              {/* Screen Wall Mount Profile */}
+              <rect
+                x={screenX - 3}
+                y={screenStartY - 2}
+                width="6"
+                height="4"
+                fill="#94a3b8"
+              />
+            </g>
+          );
+        })()}
+
         {/* Placed Fixtures Footprints */}
         {designState.placements.map((placement) => {
           const isSelected = selectedProductCode === placement.productCode;
@@ -251,9 +302,10 @@ export default function ArchitecturalFloorPlan({
           const rotDeg = placement.rotation.z;
 
           const role = placement.role.toLowerCase();
+          const isFaucet = role.includes("faucet");
           const isToilet = role.includes("toilet");
-          const isBasin = role.includes("basin") || role.includes("vanity");
-          const isBath = role.includes("bath");
+          const isBasin = !isFaucet && (role.includes("basin") || role.includes("vanity"));
+          const isBath = !isFaucet && role.includes("bath");
           const isShower = role.includes("shower") || role.includes("rainhead");
 
           return (
@@ -342,8 +394,39 @@ export default function ArchitecturalFloorPlan({
                     stroke={isSelected ? "#c49a45" : "#8a7e6e"}
                     strokeWidth="1.5"
                   />
-                  {/* Faucet Dot */}
-                  <circle cx="0" cy={-d * 0.32} r="4" fill="#c49a45" />
+                  {/* Basin Center Drain */}
+                  <circle cx="0" cy="0" r="3" fill="#6e6355" />
+                </g>
+              )}
+
+              {isFaucet && (
+                <g>
+                  {/* Faucet Base Flange */}
+                  <circle
+                    cx="0"
+                    cy="0"
+                    r={Math.max(w, d) * 0.45}
+                    fill={isSelected ? "#362e24" : "#24221e"}
+                    stroke={isSelected ? "#c49a45" : "#c29d66"}
+                    strokeWidth="1.5"
+                  />
+                  {/* Spout Line pointing forward */}
+                  <line
+                    x1="0"
+                    y1="0"
+                    x2="0"
+                    y2={-Math.max(w, d) * 0.75}
+                    stroke={isSelected ? "#d4af37" : "#c29d66"}
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                  />
+                  {/* Aerator Dot */}
+                  <circle
+                    cx="0"
+                    cy={-Math.max(w, d) * 0.75}
+                    r="2.5"
+                    fill="#ffffff"
+                  />
                 </g>
               )}
 

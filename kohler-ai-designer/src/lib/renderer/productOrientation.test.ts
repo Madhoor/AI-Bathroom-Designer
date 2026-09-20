@@ -188,8 +188,10 @@ describe("Generic 3D Orientation System - Master Verification Suite", () => {
     expect(resolved.profile.primaryMountSurface).toBe("ceiling");
     // Functional spray vector is facing down towards floor [0, 0, -1]
     expect(resolved.profile.functionalForward).toEqual([0, 0, -1]);
-    // Ceiling elevation = room height
-    expect(resolved.worldPosition[2]).toBe(dummyRoom.heightM);
+    // Ceiling contact: mounting face contacts ceiling at dummyRoom.heightM
+    const rainheadHeight = rainheadAsset.normalizedBoundsM[1];
+    expect(resolved.worldPosition[2]).toBeCloseTo(dummyRoom.heightM - rainheadHeight, 4);
+    expect(resolved.worldPosition[2] + rainheadHeight).toBeCloseTo(dummyRoom.heightM, 4);
   });
 
   // 11. Wall-mounted fixture orients back to wall on South wall

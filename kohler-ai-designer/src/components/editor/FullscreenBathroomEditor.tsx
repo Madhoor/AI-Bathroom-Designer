@@ -22,6 +22,7 @@ import {
   validateTentativePlacement,
   constrainPositionToSurface,
   snapRotation,
+  syncHostedPlacements,
 } from "@/lib/design/manualEditing";
 import BathroomCanvas from "@/components/BathroomCanvas/BathroomCanvas";
 import ArchitecturalFloorPlan from "@/components/editor/ArchitecturalFloorPlan";
@@ -129,11 +130,12 @@ export function FullscreenBathroomEditor({
   // Rendered DesignState: incorporates tentative placement in real-time
   const renderedState = useMemo<DesignState>(() => {
     if (!tentativePlacement) return currentState;
+    const directUpdates = currentState.placements.map((p) =>
+      p.productCode === tentativePlacement.productCode ? tentativePlacement : p,
+    );
     return {
       ...currentState,
-      placements: currentState.placements.map((p) =>
-        p.productCode === tentativePlacement.productCode ? tentativePlacement : p,
-      ),
+      placements: syncHostedPlacements(currentState.placements, directUpdates),
     };
   }, [currentState, tentativePlacement]);
 
@@ -172,6 +174,7 @@ export function FullscreenBathroomEditor({
         selectedPlacement.footprint,
         currentState.room,
         hostPlacement,
+        { role: selectedPlacement.role, zone: selectedPlacement.zone },
       );
 
       setActionState({
@@ -533,6 +536,9 @@ export function FullscreenBathroomEditor({
               selectedPlacement={selectedPlacement}
               tentativePlacement={tentativePlacement}
               tentativeValidation={tentativeValidation}
+              allPlacements={renderedState.placements}
+              allProducts={renderedState.selectedProducts}
+              onSelectProduct={handleSelectProduct}
               onStartMove={handleStartMove}
               onStartRotate={handleStartRotate}
               onRotateStep={handleRotateStep}

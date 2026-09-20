@@ -9,12 +9,38 @@ import {
 } from "./orientationProfiles";
 import type { BathroomRoom } from "../constraints";
 import type { DesignPlacement } from "../design/types";
+import { getShowerZoneAnchor } from "../design/showerZone";
+
+/**
+ * ============================================================================
+ * COORDINATE SYSTEM CONTRACTS:
+ * ============================================================================
+ * 1. NORMALIZED GLB SPACE:
+ *    Raw normalized asset coordinate frame as exported from 3D normalization.
+ *    X = width, Y = height, Z = depth (with metadata: rotationApplied = "-90deg_X").
+ *
+ * 2. CANONICAL WORLD SPACE (Bathroom Renderer & Constraint Engine):
+ *    Standard architectural world space:
+ *    - X = lateral width (room.widthM, left = -X, right = +X)
+ *    - Y = room depth (room.depthM, front/south = -Y, back/north = +Y)
+ *    - Z = vertical elevation (floor = 0, ceiling = room.heightM, Up = +Z)
+ *    Fixtures: Local +Y points towards mounting wall behind fixture, Local -Y points into room.
+ *
+ * 3. CATALOGUE PREVIEW SPACE (Studio Product Viewer):
+ *    Three.js Studio scene with standard camera looking at origin (Up = +Y, Right = +X, Front = +Z).
+ *    To visually align models with the expected architectural orientation in the preview studio:
+ *    CATALOGUE PREVIEW SPACE = NORMALIZED GLB SPACE × PREVIEW AXIS CORRECTION (Z = -90°)
+ * ============================================================================
+ */
+export const CATALOGUE_PREVIEW_AXIS_CORRECTION: [number, number, number] = [0, 0, -Math.PI / 2];
 
 export interface ResolvedProductTransform {
   /** Local offset in metres to center and ground the GLB */
   localPosition: [number, number, number];
   /** Local base Euler rotation to align normalized GLB to canonical fixture space */
   localRotation: [number, number, number];
+  /** Catalogue Studio Preview Euler rotation: Canonical Fixture Space × Preview Axis Correction (Z = -90°) */
+  previewRotation: [number, number, number];
   /** World position in the bathroom or preview scene [X, Y, Z] */
   worldPosition: [number, number, number];
   /** World rotation in the bathroom or preview scene [roll, pitch, yaw] */
@@ -55,6 +81,8 @@ export function detectMountingWall(
 export interface OrientationContext {
   room?: BathroomRoom;
   placement?: DesignPlacement;
+  hostPlacement?: DesignPlacement;
+  allPlacements?: DesignPlacement[];
   isPreview?: boolean;
   overrideWall?: WallOrientation;
 }
@@ -62,7 +90,7 @@ export interface OrientationContext {
 /**
  * Centralized, shared orientation resolution adapter.
  *
- * Consumed by both:
+ * Consumed by:
  * 1. Catalogue 3D Preview (/catalogue)
  * 2. Bathroom 3D Renderer (/designer)
  * 3. Manual Layout Editor
@@ -96,15 +124,23 @@ export function resolveProductOrientation(
   // Z = Height (assetHeight)
   const orientedBoundsM: [number, number, number] = [assetWidth, assetDepth, assetHeight];
 
-  // 4. Local Transform inside canonical fixture group
+  // 4. Canonical Local Transform
   const localPosition: [number, number, number] = [0, assetHeight / 2, -assetDepth / 2];
   const localRotation: [number, number, number] = [...profile.defaultRotation];
 
-  // 5. Preview Mode (Catalogue Viewer)
+  // 5. Catalogue Preview Space Transform (Z = -90° correction for studio camera)
+  const previewRotation: [number, number, number] = [
+    profile.defaultRotation[0],
+    profile.defaultRotation[1],
+    profile.defaultRotation[2] + CATALOGUE_PREVIEW_AXIS_CORRECTION[2],
+  ];
+
+  // Preview Mode (Catalogue Viewer fallback / unplaced)
   if (context.isPreview || !context.room) {
     return {
       localPosition,
       localRotation,
+      previewRotation,
       worldPosition: [0, 0, 0],
       worldRotation: [0, 0, 0],
       orientedBoundsM,
@@ -174,14 +210,46 @@ export function resolveProductOrientation(
     }
 
     case "rainhead": {
-      // Ceiling-mounted, flush with ceiling plane
-      worldZ = room.heightM;
+      // Ceiling-mounted, flush with ceiling plane:
+      // Mounting face contacts ceiling plane at Z = room.heightM
+      // Base anchor is at room.heightM - assetHeight so spray face hangs below ceiling
+      worldZ = Math.max(0, room.heightM - assetHeight);
+      if (worldX === 0 && worldY === 0) {
+        const showerAnchor = getShowerZoneAnchor(room);
+        worldX = showerAnchor.x;
+        worldY = showerAnchor.y;
+      }
       break;
     }
 
     case "faucet": {
-      // If counter/deck mounted at Z=0 without explicit height, align to vanity countertop deck
-      if (
+      // Generic Basin-Host Faucet Attachment Rule:
+      // Faucet sits on the deck/counter surface at Z=0.72m behind the basin bowl,
+      // pointing forward into the basin bowl.
+      const hostBasin =
+        context.hostPlacement ??
+        context.allPlacements?.find(
+          (p) =>
+            p.productCode === placement?.hostProductCode ||
+            p.role === "basin" ||
+            p.role.includes("basin"),
+        );
+
+      if (hostBasin) {
+        // If faucet doesn't have an explicit custom offset, position it relative to host basin
+        if (placement && placement.position.x === 0 && placement.position.y === 0) {
+          worldX = hostBasin.position.x;
+          // Offset behind the basin toward the wall
+          const basinDepth = hostBasin.footprint?.depthM ?? 0.45;
+          const basinRotRad = ((hostBasin.rotation?.z ?? 0) * Math.PI) / 180;
+          // Offset 35% of basin depth backward (+Y in local basin space)
+          const localOffsetY = basinDepth * 0.35;
+          worldX = hostBasin.position.x - Math.sin(basinRotRad) * localOffsetY;
+          worldY = hostBasin.position.y + Math.cos(basinRotRad) * localOffsetY;
+        }
+        worldZ = 0.72;
+        rotationZDeg = hostBasin.rotation?.z ?? rotationZDeg;
+      } else if (
         worldZ === 0 &&
         (placement?.placementSurface === "counter" ||
           (placement?.placementSurface as string) === "deck" ||
@@ -206,6 +274,7 @@ export function resolveProductOrientation(
   return {
     localPosition,
     localRotation,
+    previewRotation,
     worldPosition: [worldX, worldY, worldZ],
     worldRotation,
     orientedBoundsM,

@@ -6,6 +6,7 @@ import {
   type PlacedProduct,
 } from "../constraints";
 import type { DesignPlacement, DesignState, PlacementSurface } from "./types";
+import { getShowerZoneDefinition } from "./showerZone";
 
 /**
  * Converts DesignPlacement items into PlacedProduct items required by the deterministic constraint engine.
@@ -107,6 +108,7 @@ export function constrainPositionToSurface(
   footprint: { widthM: number; depthM: number; heightM: number },
   room: BathroomRoom,
   hostPlacement?: DesignPlacement,
+  fixtureContext?: { role?: string; zone?: string },
 ): { x: number; y: number; z: number; rotationZDeg?: number } {
   const margin = 0.04; // 4cm wall offset
   const halfW = footprint.widthM / 2;
@@ -128,6 +130,31 @@ export function constrainPositionToSurface(
 
   // 2. Ceiling-mounted fixtures (rainheads, recessed downlights)
   if (surface === "ceiling") {
+    // Ceiling elevation: mounting face flush with room.heightM -> z = room.heightM - footprint.heightM
+    const ceilingZ = Math.max(0, room.heightM - footprint.heightM);
+
+    const isShowerFixture =
+      fixtureContext?.role?.includes("rainhead") ||
+      fixtureContext?.role?.includes("shower") ||
+      fixtureContext?.zone === "shower";
+
+    if (isShowerFixture) {
+      const { bounds } = getShowerZoneDefinition(room);
+      const minX = bounds.minX + margin + halfW;
+      const maxX = bounds.maxX - margin - halfW;
+      const minY = bounds.minY + margin + halfD;
+      const maxY = bounds.maxY - margin - halfD;
+
+      const x = minX > maxX ? (bounds.minX + bounds.maxX) / 2 : Math.max(minX, Math.min(maxX, tentativePos.x));
+      const y = minY > maxY ? (bounds.minY + bounds.maxY) / 2 : Math.max(minY, Math.min(maxY, tentativePos.y));
+
+      return {
+        x,
+        y,
+        z: ceilingZ,
+      };
+    }
+
     const minX = -room.widthM / 2 + margin + halfW;
     const maxX = room.widthM / 2 - margin - halfW;
     const minY = -room.depthM / 2 + margin + halfD;
@@ -136,7 +163,7 @@ export function constrainPositionToSurface(
     return {
       x: Math.max(minX, Math.min(maxX, tentativePos.x)),
       y: Math.max(minY, Math.min(maxY, tentativePos.y)),
-      z: room.heightM, // Ceiling plane
+      z: ceilingZ,
     };
   }
 
@@ -234,14 +261,77 @@ export function findBaselinePlacement(
 }
 
 /**
+ * Propagates host transformations (translation and rotation) to hosted dependent fixtures
+ * (e.g., faucet follows basin when moved or rotated).
+ */
+export function syncHostedPlacements(
+  originalPlacements: DesignPlacement[],
+  updatedPlacements: DesignPlacement[],
+): DesignPlacement[] {
+  const result = [...updatedPlacements];
+
+  for (const updated of updatedPlacements) {
+    const original = originalPlacements.find((p) => p.productCode === updated.productCode);
+    if (!original) continue;
+
+    const deltaX = updated.position.x - original.position.x;
+    const deltaY = updated.position.y - original.position.y;
+    const deltaRot = updated.rotation.z - original.rotation.z;
+
+    if (deltaX !== 0 || deltaY !== 0 || deltaRot !== 0) {
+      for (let i = 0; i < result.length; i++) {
+        const dependent = result[i];
+        const isDependent =
+          dependent.productCode !== updated.productCode &&
+          (dependent.hostProductCode === updated.productCode ||
+            (updated.role.includes("basin") && dependent.role.includes("faucet")));
+
+        if (isDependent) {
+          let newX = dependent.position.x + deltaX;
+          let newY = dependent.position.y + deltaY;
+
+          if (deltaRot !== 0) {
+            const rad = (deltaRot * Math.PI) / 180;
+            const relX = dependent.position.x - original.position.x;
+            const relY = dependent.position.y - original.position.y;
+            const rotRelX = relX * Math.cos(rad) - relY * Math.sin(rad);
+            const rotRelY = relX * Math.sin(rad) + relY * Math.cos(rad);
+            newX = updated.position.x + rotRelX;
+            newY = updated.position.y + rotRelY;
+          }
+
+          result[i] = {
+            ...dependent,
+            position: {
+              ...dependent.position,
+              x: newX,
+              y: newY,
+            },
+            rotation: {
+              ...dependent.rotation,
+              z: (dependent.rotation.z + deltaRot + 360) % 360,
+            },
+          };
+        }
+      }
+    }
+  }
+
+  return result;
+}
+
+/**
  * Applies edited placements into a new DesignState, recalculating overall layout validation.
+ * Automatically synchronizes hosted dependents (such as faucets following basins).
  */
 export function commitManualEditsToState(
   originalState: DesignState,
   updatedPlacements: DesignPlacement[],
   constraintOptions?: ConstraintEngineOptions,
 ): DesignState {
-  const placedProducts = updatedPlacements.map((p) =>
+  const syncedPlacements = syncHostedPlacements(originalState.placements, updatedPlacements);
+
+  const placedProducts = syncedPlacements.map((p) =>
     placementToPlacedProduct(p, originalState.room, originalState),
   );
 
@@ -249,7 +339,7 @@ export function commitManualEditsToState(
 
   return {
     ...originalState,
-    placements: updatedPlacements,
+    placements: syncedPlacements,
     validation,
     warnings: validation.valid
       ? (originalState.warnings ?? []).filter((w) => !w.includes("hard spatial constraints"))

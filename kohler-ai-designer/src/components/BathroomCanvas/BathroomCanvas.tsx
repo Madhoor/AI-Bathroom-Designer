@@ -3,7 +3,7 @@
 import * as THREE from "three";
 import { ContactShadows, Environment, OrbitControls, useGLTF } from "@react-three/drei";
 import { Canvas, useThree } from "@react-three/fiber";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import React, { Fragment, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Group } from "three";
 import type { DesignPlacement, DesignState } from "@/lib/design";
 import type { CameraPreset } from "@/lib/design/presentation";
@@ -23,6 +23,7 @@ import {
   type TemplateAesthetic,
 } from "@/lib/renderer/architecturalAesthetics";
 import { applyFixtureDisplayMaterials } from "@/lib/renderer/fixtureMaterialSystem";
+import { getShowerZoneDefinition } from "@/lib/design/showerZone";
 
 function pseudoRandom(seed: number): number {
   let t = (seed + 0x6d2b79f5) | 0;
@@ -481,12 +482,12 @@ function CameraFrame({
 }
 
 function GlassShowerScreen({ room }: { room: DesignState["room"] }) {
-  // Lookbook pages 14, 16, 26, 28:
-  // Minimalist 10mm safety glass partition separating shower zone
-  const glassWidth = 0.96;
-  const glassHeight = 2.20;
-  const glassThickness = 0.01;
-  const glassX = 0.28;
+  // Shared architectural safety glass partition separating shower zone
+  const shower = getShowerZoneDefinition(room);
+  const glassWidth = shower.glassWidth;
+  const glassHeight = shower.glassHeight;
+  const glassThickness = shower.glassThickness;
+  const glassX = shower.glassX;
   const backWallY = -room.depthM / 2;
   const glassCenterY = backWallY + glassWidth / 2;
 
@@ -756,67 +757,100 @@ function FloatingVanityUnit({
         distance={0.9}
         decay={2}
       />
+    </group>
+  );
+}
 
-      {/* 4. Minimalist Tall Deck Faucet */}
-      <group position={[0, vanityDepth / 2 - 0.08, counterZ]}>
-        <mesh position={[0, 0, 0.13]} castShadow>
-          <cylinderGeometry args={[0.016, 0.02, 0.26, 24]} />
-          <meshStandardMaterial color="#f0ece4" roughness={0.28} metalness={0.75} />
-        </mesh>
-        <mesh position={[0, -0.06, 0.25]} rotation={[-Math.PI / 2, 0, 0]} castShadow>
-          <cylinderGeometry args={[0.012, 0.014, 0.13, 24]} />
-          <meshStandardMaterial color="#f0ece4" roughness={0.28} metalness={0.75} />
-        </mesh>
-        <mesh position={[0, 0.015, 0.26]} rotation={[0.2, 0, 0]} castShadow>
-          <boxGeometry args={[0.014, 0.065, 0.01]} />
-          <meshStandardMaterial color="#f0ece4" roughness={0.28} metalness={0.75} />
-        </mesh>
-      </group>
+/**
+ * Architectural Wall-Mounted Mirror with Concealed Backlight Halo
+ * Flush-mounted directly to target wall with thin 16mm profile.
+ * No floating horizontal shelf or slabs.
+ */
+function WallMountedArchitecturalMirror({
+  basinItem,
+  room,
+  aesthetic,
+}: {
+  basinItem: RenderablePlacement;
+  room: DesignState["room"];
+  aesthetic: TemplateAesthetic;
+}) {
+  const arch = useMemo(
+    () => getArchitecturalPlacement(basinItem.placement, basinItem.asset, room),
+    [basinItem.placement, basinItem.asset, room],
+  );
 
-      {/* 5. Architectural Mirror with Top LED Light Bar (Lookbook Page 16) */}
-      <group position={[0, vanityDepth / 2 - 0.01, 1.62]}>
-        {/* Soft Warm Halo Glow Plane on Feature Wall */}
-        <mesh position={[0, 0.012, 0]}>
-          <planeGeometry args={[0.64, 1.0]} />
-          <meshBasicMaterial color="#fff8e8" transparent opacity={0.35} />
-        </mesh>
+  // Derive target wall flush coordinates
+  const mirrorPlacement = useMemo(() => {
+    const wall = arch.mountingWall;
+    const basinX = arch.worldPosition[0];
+    const basinY = arch.worldPosition[1];
+    const mirrorZ = 1.60; // Standard eye-level architectural mirror center
+    const wallPlasterOffset = 0.012; // 12mm flush mounting offset
 
-        {/* Slim Black Frame Bezel */}
-        <mesh position={[0, 0, 0]}>
-          <boxGeometry args={[0.56, 0.018, 0.94]} />
-          <meshStandardMaterial color="#22201d" roughness={0.4} metalness={0.3} />
-        </mesh>
+    if (wall === "south") {
+      return {
+        position: [basinX, -room.depthM / 2 + wallPlasterOffset, mirrorZ] as [number, number, number],
+        rotation: [0, 0, 0] as [number, number, number],
+      };
+    }
+    if (wall === "north") {
+      return {
+        position: [basinX, room.depthM / 2 - wallPlasterOffset, mirrorZ] as [number, number, number],
+        rotation: [0, 0, Math.PI] as [number, number, number],
+      };
+    }
+    if (wall === "west") {
+      return {
+        position: [-room.widthM / 2 + wallPlasterOffset, basinY, mirrorZ] as [number, number, number],
+        rotation: [0, 0, -Math.PI / 2] as [number, number, number],
+      };
+    }
+    // East wall
+    return {
+      position: [room.widthM / 2 - wallPlasterOffset, basinY, mirrorZ] as [number, number, number],
+      rotation: [0, 0, Math.PI / 2] as [number, number, number],
+    };
+  }, [arch.mountingWall, arch.worldPosition, room.depthM, room.widthM]);
 
-        {/* Luminous Mirror Glass Surface */}
-        <mesh position={[0, -0.010, 0]} rotation={[0, Math.PI, 0]}>
-          <planeGeometry args={[0.54, 0.92]} />
-          <meshStandardMaterial
-            color="#eef3f7"
-            roughness={0.12}
-            metalness={0.75}
-            emissive="#ffffff"
-            emissiveIntensity={0.10}
-          />
-        </mesh>
+  const mirrorWidth = 0.58;
+  const mirrorHeight = 0.94;
+  const frameThickness = 0.016; // Slim 16mm architectural bezel
 
-        {/* Integrated Frosted LED Top Light Bar Diffuser (Lookbook Page 16) */}
-        <mesh position={[0, -0.018, 0.47 - 0.038 / 2]}>
-          <boxGeometry args={[0.44, 0.016, 0.038]} />
-          <meshStandardMaterial
-            color="#fffcf7"
-            emissive={aesthetic.mirrorLightColor}
-            emissiveIntensity={aesthetic.mirrorLightIntensity}
-            roughness={0.15}
-          />
-        </mesh>
-        <pointLight
-          position={[0, -0.06, 0.47]}
-          color={aesthetic.mirrorLightColor}
-          intensity={0.9}
-          distance={1.1}
-          decay={2}
+  return (
+    <group position={mirrorPlacement.position} rotation={mirrorPlacement.rotation}>
+      {/* 1. Warm Architectural Halo Glow on Feature Wall (Mounted behind mirror) */}
+      <mesh position={[0, -0.005, 0]}>
+        <planeGeometry args={[mirrorWidth + 0.12, mirrorHeight + 0.12]} />
+        <meshBasicMaterial color={aesthetic.mirrorLightColor} transparent opacity={0.28} />
+      </mesh>
+
+      {/* 2. Slim Minimalist Black Metal Frame */}
+      <mesh position={[0, frameThickness / 2, 0]} castShadow>
+        <boxGeometry args={[mirrorWidth, frameThickness, mirrorHeight]} />
+        <meshStandardMaterial color="#1e1c19" roughness={0.4} metalness={0.3} />
+      </mesh>
+
+      {/* 3. Luminous Reflective Mirror Surface */}
+      <mesh position={[0, frameThickness + 0.001, 0]}>
+        <planeGeometry args={[mirrorWidth - 0.024, mirrorHeight - 0.024]} />
+        <meshStandardMaterial
+          color="#f4f7f9"
+          roughness={0.08}
+          metalness={0.88}
+          emissive="#ffffff"
+          emissiveIntensity={0.08}
         />
-      </group>
+      </mesh>
+
+      {/* 4. Integrated Warm Ambient Mirror Point Light */}
+      <pointLight
+        position={[0, 0.08, 0]}
+        color={aesthetic.mirrorLightColor}
+        intensity={aesthetic.mirrorLightIntensity * 0.7}
+        distance={1.3}
+        decay={2}
+      />
     </group>
   );
 }
@@ -1011,15 +1045,21 @@ function DesignProducts({
         />
       )}
 
-      {/* 2. Floating Reeded Vanity & Backlit Mirror */}
+      {/* 2. Floating Reeded Vanity & Flush Wall-Mounted Backlit Mirror */}
       {unhostedBasins.map((item) => (
-        <FloatingVanityUnit
-          key={`vanity-${item.placement.productCode}`}
-          basinItem={item}
-          room={room}
-          aesthetic={aesthetic}
-          materials={materials}
-        />
+        <Fragment key={`vanity-group-${item.placement.productCode}`}>
+          <FloatingVanityUnit
+            basinItem={item}
+            room={room}
+            aesthetic={aesthetic}
+            materials={materials}
+          />
+          <WallMountedArchitecturalMirror
+            basinItem={item}
+            room={room}
+            aesthetic={aesthetic}
+          />
+        </Fragment>
       ))}
 
       {/* 3. Glass Shower Screen */}

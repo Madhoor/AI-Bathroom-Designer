@@ -1,7 +1,12 @@
 import type { DesignPlacement, DesignState } from "../design/types";
 import type { ResolvedDesignAsset, ArchitecturalPlacement } from "./designStateRenderer";
 
-export type HostAttachmentType = "cistern_joinery" | "vanity_console" | "shower_partition";
+export type HostAttachmentType =
+  | "cistern_joinery"
+  | "vanity_console"
+  | "shower_partition"
+  | "wall_mirror"
+  | "faucet_mount";
 
 export interface HostAttachmentDefinition {
   id: string;
@@ -57,12 +62,13 @@ export function getHostAttachments(
     });
   }
 
-  // 2. Basin Host Attachments (Floating architectural vanity unit & mirror for unhosted vessel basins)
+  // 2. Basin Host Attachments (Floating architectural vanity unit, wall mirror, and faucet deck)
   if (role.includes("basin") && placement.position.z === 0) {
     const vanityWidth = Math.max(0.86, (placement.footprint?.widthM ?? assetWidth) + 0.35);
     const vanityDepth = 0.52;
     const vanityCenterY = assetDepth / 2 - vanityDepth / 2 + 0.04;
 
+    // 2A. Vanity Console
     attachments.push({
       id: `attachment-vanity-${placement.productCode}`,
       type: "vanity_console",
@@ -74,6 +80,36 @@ export function getHostAttachments(
         widthM: vanityWidth,
         depthM: vanityDepth,
         heightM: 0.72,
+      },
+    });
+
+    // 2B. Wall-Mounted Architectural Mirror
+    attachments.push({
+      id: `attachment-mirror-${placement.productCode}`,
+      type: "wall_mirror",
+      hostProductCode: placement.productCode,
+      hostRole: "basin",
+      localPosition: [0, assetDepth / 2 + 0.012, 1.60],
+      localRotation: [0, 0, 0],
+      dimensionsM: {
+        widthM: 0.58,
+        depthM: 0.016,
+        heightM: 0.94,
+      },
+    });
+
+    // 2C. Generic Faucet Host Anchor
+    attachments.push({
+      id: `attachment-faucet-${placement.productCode}`,
+      type: "faucet_mount",
+      hostProductCode: placement.productCode,
+      hostRole: "basin",
+      localPosition: [0, assetDepth * 0.35, 0.72],
+      localRotation: [0, 0, 0],
+      dimensionsM: {
+        widthM: 0.05,
+        depthM: 0.16,
+        heightM: 0.28,
       },
     });
   }
