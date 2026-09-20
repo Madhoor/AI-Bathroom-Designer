@@ -1,0 +1,456 @@
+assembly_id,assembly_type,role,product_code,required,relation_source,confidence,installation_surface,reference_resolved,notes
+bathtub:15847T-0,BATHTUB,bathtub,15847T-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:15847T-0,BATHTUB,required_component,inRiver_1336299,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:18775T-0,BATHTUB,bathtub,18775T-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1704T-Z-0,BATHTUB,bathtub,1704T-Z-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1704T-Z-0,BATHTUB,required_component,inRiver_1336299,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1704T-Z-0,BATHTUB,required_component,inRiver_878644,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:18776T-0,BATHTUB,bathtub,18776T-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:18776T-0,BATHTUB,required_component,inRiver_1336299,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:15848T-0,BATHTUB,bathtub,15848T-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:15848T-0,BATHTUB,required_component,inRiver_1336299,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:18778T-0,BATHTUB,bathtub,18778T-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:18778T-0,BATHTUB,required_component,inRiver_1336299,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:18749IN-W03C-0,BATHTUB,bathtub,18749IN-W03C-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1418-V-0,BATHTUB,bathtub,1418-V-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1418-V-0,BATHTUB,required_component,inRiver_242826,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1418-V-0,BATHTUB,required_component,inRiver_213884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1418-V-0,BATHTUB,required_component,inRiver_213880,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1418-V-0,BATHTUB,required_component,inRiver_241232,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1418-V-0,BATHTUB,required_component,inRiver_1520238,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:20627IN-K-0,BATHTUB,bathtub,20627IN-K-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1360IN-H2-0,BATHTUB,bathtub,1360IN-H2-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1360IN-H2-0,BATHTUB,required_component,inRiver_226220,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1360IN-H2-0,BATHTUB,required_component,inRiver_241232,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1360IN-H2-0,BATHTUB,required_component,inRiver_242948,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1360IN-H2-0,BATHTUB,required_component,inRiver_247956,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1360IN-H2-0,BATHTUB,required_component,inRiver_1520238,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1360IN-H2-0,BATHTUB,required_component,inRiver_213884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1360IN-H2-0,BATHTUB,required_component,inRiver_213880,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1394IN-H2-0,BATHTUB,bathtub,1394IN-H2-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1394IN-H2-0,BATHTUB,required_component,inRiver_247956,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1394IN-H2-0,BATHTUB,required_component,inRiver_213884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1394IN-H2-0,BATHTUB,required_component,inRiver_213880,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1394IN-H2-0,BATHTUB,required_component,inRiver_241232,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1394IN-H2-0,BATHTUB,required_component,inRiver_1520238,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:1709IN-K-0,BATHTUB,bathtub,1709IN-K-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1709IN-K-0,BATHTUB,required_component,inRiver_1336299,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:76442IN-NW-0,BATHTUB,bathtub,76442IN-NW-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+bathtub:1188IN-C1-0,BATHTUB,bathtub,1188IN-C1-0,true,explicit_catalogue,1.0,,true,Role supported by category=Wellness; subcategory=Drop-in Bathtubs.
+faucet:33074IN-CP,FAUCET,bath_filler,33074IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:23973IN-AA-CP,FAUCET,bath_filler,23973IN-AA-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:14426IN-CP,FAUCET,bath_filler,14426IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:33996IN-CP,FAUCET,bath_filler,33996IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:99460IN-4-CP,FAUCET,bath_filler,99460IN-4-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:27493IN-CP,FAUCET,bath_filler,27493IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:14426-2MB,FAUCET,bath_filler,14426-2MB,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:27492IN-CP,FAUCET,bath_filler,27492IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:97905T-NA,FAUCET,bath_filler,97905T-NA,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:14428T-4-RGD,FAUCET,bath_filler,14428T-4-RGD,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:25764IN-CP,FAUCET,bath_filler,25764IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:97904T-NA,FAUCET,bath_filler,97904T-NA,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:10385IN-CP,FAUCET,bath_filler,10385IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:99060IN-CP,FAUCET,bath_filler,99060IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:T98071-4-BV,FAUCET,bath_filler,T98071-4-BV,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:25765IN-CP,FAUCET,bath_filler,25765IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:23512IN-CP,FAUCET,bath_filler,23512IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:73120-2MB,FAUCET,bath_filler,73120-2MB,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:33995IN-CP,FAUCET,bath_filler,33995IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:72791-CP,FAUCET,bath_filler,72791-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:26046IN-CP,FAUCET,bath_filler,26046IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:74046IN-A1-CP,FAUCET,bath_filler,74046IN-A1-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:38471IN-CP,FAUCET,bath_filler,38471IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:99467IN-B-CP,FAUCET,bath_filler,99467IN-B-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+shower:97367T-B4-CP,SHOWER,showerhead,97367T-B4-CP,true,explicit_catalogue,1.0,floor,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+shower:97367T-B4-CP,SHOWER,required_component,inRiver_879409,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:T9540-4-CP,FAUCET,bath_filler,T9540-4-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:T9540-4-CP,FAUCET,required_component,inRiver_237832,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:T9540-4-CP,FAUCET,required_component,inRiver_239197,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:20077IN-CP,FAUCET,bath_filler,20077IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:22543IN-N-CP,FAUCET,bath_filler,22543IN-N-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:27490IN-CP,FAUCET,bath_filler,27490IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:27494IN-CP,FAUCET,bath_filler,27494IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Bathtub Faucets.
+faucet:27477IN-4ND-CP,FAUCET,bath_filler,27477IN-4ND-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:77963-8A-BL,FAUCET,bath_filler,77963-8A-BL,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:77963-8A-BL,FAUCET,required_component,inRiver_258692,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:77963-8A-BL,FAUCET,required_component,inRiver_258700,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:77963-8A-BL,FAUCET,required_component,inRiver_258708,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:77963-8A-BL,FAUCET,required_component,inRiver_258716,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:77963-8A-BL,FAUCET,required_component,inRiver_258734,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:73159IN-7-CP,FAUCET,bath_filler,73159IN-7-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:22534IN-4-CP,FAUCET,basin_faucet,22534IN-4-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:97347T-4-RGD,FAUCET,bath_filler,97347T-4-RGD,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:74028IN-4-CP,FAUCET,basin_faucet,74028IN-4-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:33059IN-4ND-CP,FAUCET,bath_filler,33059IN-4ND-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:33063IN-4ND-CP,FAUCET,bath_filler,33063IN-4ND-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:25757IN-4ND-CP,FAUCET,bath_filler,25757IN-4ND-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:25758IN-4ND-CP,FAUCET,bath_filler,25758IN-4ND-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:14402IN-4A-CP,FAUCET,basin_faucet,14402IN-4A-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:72762T-9M-CP,FAUCET,bath_filler,72762T-9M-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:77958T-4A-CP,FAUCET,bath_filler,77958T-4A-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:73158T-4-RGD,FAUCET,bath_filler,73158T-4-RGD,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:97347-4-BL,FAUCET,bath_filler,97347-4-BL,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:28514IN-ND-CP,FAUCET,bath_filler,28514IN-ND-CP,true,explicit_catalogue,1.0,deck_mount,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:EX28093IN-8-AF,FAUCET,bath_filler,EX28093IN-8-AF,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Single Control Faucets.
+faucet:97347IN-4-CP,FAUCET,basin_faucet,97347IN-4-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Tall Faucets.
+faucet:20070IN-4-CP,FAUCET,basin_faucet,20070IN-4-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Tall Faucets.
+faucet:72288IN-4-CP,FAUCET,basin_faucet,72288IN-4-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Tall Faucets.
+faucet:20071IN-4-CP,FAUCET,basin_faucet,20071IN-4-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Tall Faucets.
+faucet:5684IN-4ND-CP,FAUCET,bath_filler,5684IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:5684IN-4ND-CP,FAUCET,required_component,inRiver_558780,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:23975IN-4ND-CP,FAUCET,bath_filler,23975IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:23486IN-4ND-CP,FAUCET,bath_filler,23486IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:23486IN-4ND-CP,FAUCET,required_component,inRiver_558780,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:5683IN-4ND-CP,FAUCET,bath_filler,5683IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:5683IN-4ND-CP,FAUCET,required_component,inRiver_558780,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:97358IN-4ND-CP,FAUCET,basin_faucet,97358IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:73061T-7-BV,FAUCET,basin_faucet,73061T-7-BV,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:25759IN-4ND-CP,FAUCET,bath_filler,25759IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:25759IN-4ND-CP,FAUCET,required_component,inRiver_558780,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:73067T-9ACH-BV,FAUCET,bath_filler,73067T-9ACH-BV,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:73061IN-4ND-CP,FAUCET,bath_filler,73061IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:5680IN-4ND-CP,FAUCET,bath_filler,5680IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:99876IN-4ND-CP,FAUCET,basin_faucet,99876IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:21969IN-4ND-BV,FAUCET,bath_filler,21969IN-4ND-BV,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:34076IN-4ND-CP,FAUCET,bath_filler,34076IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:29199IN-4ND-RGD,FAUCET,bath_filler,29199IN-4ND-RGD,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:29199IN-ECH-RGD,FAUCET,bath_filler,29199IN-ECH-RGD,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:EX27102T-4-2MB,FAUCET,bath_filler,EX27102T-4-2MB,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:25148IN-4ND-CP,FAUCET,basin_faucet,25148IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:25148IN-4ND-CP,FAUCET,required_component,inRiver_2491222,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:22540IN-4AND-CP,FAUCET,bath_filler,22540IN-4AND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:33103IN-4ND-CP,FAUCET,bath_filler,33103IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:33103IN-4ND-CP,FAUCET,required_component,inRiver_2491222,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:27483IN-4ND-CP,FAUCET,bath_filler,27483IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:27483IN-4ND-CP,FAUCET,required_component,inRiver_1482559,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:27488IN-4ND-CP,FAUCET,bath_filler,27488IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:27488IN-4ND-CP,FAUCET,required_component,inRiver_2491222,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:27487IN-4ND-CP,FAUCET,bath_filler,27487IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:27487IN-4ND-CP,FAUCET,required_component,inRiver_2491222,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:39560IN-ND-CP,FAUCET,basin_faucet,39560IN-ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:26791IN-4ND-CP,FAUCET,bath_filler,26791IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:26791IN-4ND-CP,FAUCET,required_component,inRiver_1482559,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:27489IN-4ND-CP,FAUCET,bath_filler,27489IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:27489IN-4ND-CP,FAUCET,required_component,inRiver_2491222,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:27481IN-4ND-CP,FAUCET,bath_filler,27481IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:27481IN-4ND-CP,FAUCET,required_component,inRiver_1482559,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:24280IN-4ND-RGD,FAUCET,bath_filler,24280IN-4ND-RGD,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:34039IN-4ND-CP,FAUCET,bath_filler,34039IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:26048IN-4ND-CP,FAUCET,bath_filler,26048IN-4ND-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:29310IN-4ND-AF,FAUCET,bath_filler,29310IN-4ND-AF,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall-Mount Faucets.
+faucet:8670IN-4M-CP,FAUCET,basin_faucet,8670IN-4M-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:98068T-3M-CP,FAUCET,basin_faucet,98068T-3M-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:73060T-9GCH-TT,FAUCET,bath_filler,73060T-9GCH-TT,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:13491T-4-RGD,FAUCET,basin_faucet,13491T-4-RGD,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:72758T-CP,FAUCET,basin_faucet,72758T-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:72759T-CP,FAUCET,basin_faucet,72759T-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:72760T-CP,FAUCET,bath_filler,72760T-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:98068T-9M-CP,FAUCET,basin_faucet,98068T-9M-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+faucet:8670T-4M-AF,FAUCET,bath_filler,8670T-4M-AF,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Widespread Faucets.
+bathtub:18343T-0,BATHTUB,bathtub,18343T-0,true,explicit_catalogue,1.0,freestanding,true,Role supported by category=Wellness; subcategory=Freestanding Bathtubs.
+bathtub:8331T-0,BATHTUB,bathtub,8331T-0,true,explicit_catalogue,1.0,freestanding,true,Role supported by category=Wellness; subcategory=Freestanding Bathtubs.
+bathtub:11195T-0,BATHTUB,bathtub,11195T-0,true,explicit_catalogue,1.0,freestanding,true,Role supported by category=Wellness; subcategory=Freestanding Bathtubs.
+bathtub:1800T-0,BATHTUB,bathtub,1800T-0,true,explicit_catalogue,1.0,freestanding,true,Role supported by category=Wellness; subcategory=Freestanding Bathtubs.
+bathtub:20249T-0,BATHTUB,bathtub,20249T-0,true,explicit_catalogue,1.0,freestanding,true,Role supported by category=Wellness; subcategory=Freestanding Bathtubs.
+shower:26284IN-AF,SHOWER,hand_shower,26284IN-AF,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:26284IN-AF,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26284IN-AF,SHOWER,required_component,inRiver_2371536,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:12861IN-ZZ-CP,SHOWER,hand_shower,12861IN-ZZ-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:16359IN-A-CP,SHOWER,hand_shower,16359IN-A-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:16359IN-A-CP,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:16359IN-A-CP,SHOWER,required_component,inRiver_2371536,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:24717IN-CP,SHOWER,hand_shower,24717IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:24717IN-CP,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:24717IN-CP,SHOWER,required_component,inRiver_2371536,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:72421IN-CP,SHOWER,hand_shower,72421IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:72421IN-CP,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:98445IN-CP,SHOWER,hand_shower,98445IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:98445IN-CP,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:98444IN-CP,SHOWER,hand_shower,98444IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:98444IN-CP,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:28695IN-CP,SHOWER,hand_shower,28695IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:28585IN-0,SHOWER,hand_shower,28585IN-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:97009IN-CP,SHOWER,hand_shower,97009IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:97009IN-CP,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:97009IN-CP,SHOWER,required_component,inRiver_2371536,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:28694IN-CP,SHOWER,hand_shower,28694IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:26286IN-G-AF,SHOWER,hand_shower,26286IN-G-AF,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:26286IN-G-AF,SHOWER,required_component,inRiver_1337884,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26286IN-G-AF,SHOWER,required_component,inRiver_2371536,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:97009T-AF,SHOWER,hand_shower,97009T-AF,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:97009T-AF,SHOWER,required_component,inRiver_558981,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:24717T-BL,SHOWER,hand_shower,24717T-BL,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:24717T-BL,SHOWER,required_component,inRiver_201659,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:24717T-BL,SHOWER,required_component,inRiver_241724,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:24717T-BL,SHOWER,required_component,inRiver_242351,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:24717T-BL,SHOWER,required_component,inRiver_242359,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26284T-2MB,SHOWER,hand_shower,26284T-2MB,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:R24717T-MU-BL,SHOWER,hand_shower,R24717T-MU-BL,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:39502IN-CP,SHOWER,hand_shower,39502IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:22166-CP,SHOWER,hand_shower,22166-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Hand Showers.
+shower:22166-CP,SHOWER,required_component,inRiver_241724,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:22166-CP,SHOWER,required_component,inRiver_240804,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:22166-CP,SHOWER,required_component,inRiver_242359,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:22166-CP,SHOWER,required_component,inRiver_201659,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:22166-CP,SHOWER,required_component,inRiver_240787,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:22166-CP,SHOWER,required_component,inRiver_242351,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:9301IN-CL-CP,SHOWER,rainhead,9301IN-CL-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:9301IN-CL-CP,SHOWER,required_component,inRiver_559635,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:9301IN-CL-CP,SHOWER,required_component,inRiver_558250,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:9301IN-CL-CP,SHOWER,required_component,inRiver_1336469,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:9302IN-CL-CP,SHOWER,rainhead,9302IN-CL-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:9302IN-CL-CP,SHOWER,required_component,inRiver_559635,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:73037IN-CL-CP,SHOWER,rainhead,73037IN-CL-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:73039IN-CL-CP,SHOWER,rainhead,73039IN-CL-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:76465IN-BL,SHOWER,rainhead,76465IN-BL,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:76465IN-BL,SHOWER,required_component,inRiver_2492049,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:77276IN-L-CP,SHOWER,rainhead,77276IN-L-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:38973IN-CP,SHOWER,rainhead,38973IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:13693-CP,SHOWER,rainhead,13693-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:9301IN-ZX-RGD,SHOWER,rainhead,9301IN-ZX-RGD,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:38629IN-CP,SHOWER,rainhead,38629IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:39507IN-CP,SHOWER,rainhead,39507IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:98275IN-CL-CP,SHOWER,rainhead,98275IN-CL-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:26303T-CP,SHOWER,rainhead,26303T-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainheads.
+shower:72830IN-L-CP,SHOWER,rainhead,72830IN-L-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Rainpanels.
+shower:97167IN-CP,SHOWER,showerhead,97167IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainpanels.
+shower:97168IN-BL,SHOWER,showerhead,97168IN-BL,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Rainpanels.
+bathtub:98930X-1-0,BATHTUB,bathtub,98930X-1-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Semi Recessed Basin.
+basin:11160T-1-0,BASIN,basin,11160T-1-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Semi Recessed Basin.
+bathtub:72907K-1-0,BATHTUB,bathtub,72907K-1-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Semi Recessed Basin.
+bathtub:11479IN-VC1-0,BATHTUB,bathtub,11479IN-VC1-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Semi Recessed Basin.
+shower_door:704796IN-2BL,SHOWER_DOOR,shower_door,704796IN-2BL,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Pivot Shower Doors.
+shower_door:708067IN-CP,SHOWER_DOOR,shower_door,708067IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Pivot Shower Doors.
+shower_door:708066IN-CP,SHOWER_DOOR,shower_door,708066IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Pivot Shower Doors.
+shower_door:708065IN-CP,SHOWER_DOOR,shower_door,708065IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Pivot Shower Doors.
+shower_door:704699IN-SHP,SHOWER_DOOR,shower_door,704699IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Pivot Shower Doors.
+shower_door:704698IN-SHP,SHOWER_DOOR,shower_door,704698IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Pivot Shower Doors.
+shower_door:704702IN-SHP,SHOWER_DOOR,shower_door,704702IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Pivot Shower Doors.
+shower_door:39059IN-SHP,SHOWER_DOOR,shower_door,39059IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower_door:709076IN-CP,SHOWER_DOOR,shower_door,709076IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower_door:709075IN-CP,SHOWER_DOOR,shower_door,709075IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower_door:702650IN-LH0-BL,SHOWER_DOOR,shower_door,702650IN-LH0-BL,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower_door:39061IN-SHP,SHOWER_DOOR,shower_door,39061IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower_door:705116IN-SHP,SHOWER_DOOR,shower_door,705116IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower_door:39259IN-SHP,SHOWER_DOOR,shower_door,39259IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower_door:705115IN-SHP,SHOWER_DOOR,shower_door,705115IN-SHP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Sliding Shower Doors.
+shower:27724IN-CP,SHOWER,showerhead,27724IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:27724IN-CP,SHOWER,required_component,inRiver_1337905,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26290IN-CP,SHOWER,showerhead,26290IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26290IN-CP,SHOWER,required_component,inRiver_559461,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26290IN-CP,SHOWER,required_component,inRiver_1482720,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26290IN-CP,SHOWER,required_component,inRiver_1337905,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26855IN-CP,SHOWER,rainhead,26855IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26855IN-CP,SHOWER,required_component,inRiver_559635,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26855IN-CP,SHOWER,required_component,inRiver_559628,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26855IN-CP,SHOWER,required_component,inRiver_2492049,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26855IN-CP,SHOWER,required_component,inRiver_2371559,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26855IN-CP,SHOWER,required_component,inRiver_877874,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:73199IN-CP,SHOWER,rainhead,73199IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:73199IN-CP,SHOWER,required_component,inRiver_559628,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:73199IN-CP,SHOWER,required_component,inRiver_558250,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:73199IN-CP,SHOWER,required_component,inRiver_559635,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26856IN-CP,SHOWER,rainhead,26856IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26856IN-CP,SHOWER,required_component,inRiver_559635,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26856IN-CP,SHOWER,required_component,inRiver_559628,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26856IN-CP,SHOWER,required_component,inRiver_2492049,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26856IN-CP,SHOWER,required_component,inRiver_2371559,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26856IN-CP,SHOWER,required_component,inRiver_877874,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26853IN-CP,SHOWER,showerhead,26853IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26853IN-CP,SHOWER,required_component,inRiver_1337905,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:24547IN-CP,SHOWER,showerhead,24547IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:24547IN-CP,SHOWER,required_component,inRiver_1337905,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:73198IN-CP,SHOWER,rainhead,73198IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:73198IN-CP,SHOWER,required_component,inRiver_559628,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:73198IN-CP,SHOWER,required_component,inRiver_558250,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:73198IN-CP,SHOWER,required_component,inRiver_559635,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:22645IN-CP,SHOWER,showerhead,22645IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:16356IN-A-AF,SHOWER,showerhead,16356IN-A-AF,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:73040IN-CL-CP,SHOWER,rainhead,73040IN-CL-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:73038IN-CL-CP,SHOWER,rainhead,73038IN-CL-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:24613IN-CP,SHOWER,showerhead,24613IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:18361IN-CL-AF,SHOWER,rainhead,18361IN-CL-AF,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:18361IN-CL-AF,SHOWER,required_component,inRiver_559628,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:27731IN-CP,SHOWER,rainhead,27731IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:27731IN-CP,SHOWER,required_component,inRiver_1336470,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:27731IN-CP,SHOWER,required_component,inRiver_1336469,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:75924IN-CP,SHOWER,showerhead,75924IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:75924IN-CP,SHOWER,required_component,inRiver_1337905,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:75924IN-CP,SHOWER,required_component,inRiver_559461,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26290T-2MB,SHOWER,showerhead,26290T-2MB,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26294IN-AF,SHOWER,rainhead,26294IN-AF,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26294IN-AF,SHOWER,required_component,inRiver_559628,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26294IN-AF,SHOWER,required_component,inRiver_559635,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26294IN-AF,SHOWER,required_component,inRiver_558250,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26294T-2MB,SHOWER,rainhead,26294T-2MB,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:72425IN-CP,SHOWER,showerhead,72425IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:72425IN-CP,SHOWER,required_component,inRiver_1337905,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:16351IN-CP,SHOWER,showerhead,16351IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:23657IN-CP,SHOWER,showerhead,23657IN-CP,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:72438IN-AF,SHOWER,rainhead,72438IN-AF,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:24470IN-CP,SHOWER,rainhead,24470IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26295T-2MB,SHOWER,rainhead,26295T-2MB,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26296IN-AF,SHOWER,rainhead,26296IN-AF,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26296IN-AF,SHOWER,required_component,inRiver_1482276,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:26296T-2MB,SHOWER,rainhead,26296T-2MB,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26297IN-CP,SHOWER,rainhead,26297IN-CP,true,explicit_catalogue,1.0,,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:26297IN-CP,SHOWER,required_component,inRiver_1482276,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+shower:29959IN-AF,SHOWER,showerhead,29959IN-AF,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+shower:29961IN-CP,SHOWER,rainhead,29961IN-CP,true,explicit_catalogue,1.0,ceiling,true,Role supported by category=Showering Area; subcategory=Showerheads.
+toilet:28529IN-0,TOILET,toilet_bowl,28529IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Smart Toilet.
+toilet:3983IN-S-0,TOILET,toilet_bowl,3983IN-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:17629IN-SM-0,TOILET,toilet_bowl,17629IN-SM-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:1381T-S-0,TOILET,toilet_bowl,1381T-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:8688T-S-0,TOILET,toilet_bowl,8688T-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:29777IN-0,TOILET,toilet_bowl,29777IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:5401IN-0,TOILET,toilet_bowl,5401IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:17629T-NS-0,TOILET,toilet_bowl,17629T-NS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:75708IN-2SS-0,TOILET,toilet_seat,75708IN-2SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=One Piece.
+toilet:17663IN-0,TOILET,toilet_bowl,17663IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Two Piece.
+toilet:1853IN-0,TOILET,toilet_bowl,1853IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Two Piece.
+toilet:1855IN-0,TOILET,toilet_bowl,1855IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Two Piece.
+toilet:17661K-S-0,TOILET,toilet_seat,17661K-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Two Piece.
+toilet:1851IN-0,TOILET,toilet_bowl,1851IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Two Piece.
+bathtub:2215IN-2-0,BATHTUB,bathtub,2215IN-2-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+basin:2211IN-0,BASIN,basin,2211IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+bathtub:2210IN-0,BATHTUB,bathtub,2210IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+bathtub:14008T-RGD-0,BATHTUB,bathtub,14008T-RGD-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+bathtub:14008T-PK-0,BATHTUB,bathtub,14008T-PK-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+bathtub:14008T-PD-0,BATHTUB,bathtub,14008T-PD-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+bathtub:2349IN-FDL-96,BATHTUB,bathtub,2349IN-FDL-96,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+bathtub:2349IN-FDL-96,BATHTUB,required_component,inRiver_1933683,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:2349IN-FDL-96,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:2883-0,BATHTUB,bathtub,2883-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+bathtub:2214IN-0,BATHTUB,bathtub,2214IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Undercounter Basin.
+faucet:14031-BU-96,FAUCET,basin_faucet,14031-BU-96,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vanity Top Basin.
+bathtub:2749T-1-0,BATHTUB,bathtub,2749T-1-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vanity Top Basin.
+basin:C98,BASIN,basin_drain,C98,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C98,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C98,BASIN,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C99,BASIN,basin_drain,C99,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C99,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C99,BASIN,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C100,BASIN,basin_drain,C100,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C100,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C100,BASIN,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C101,BASIN,basin_drain,C101,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C101,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C101,BASIN,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C102,BASIN,basin_drain,C102,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C102,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C102,BASIN,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C103,BASIN,basin_drain,C103,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C103,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C103,BASIN,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:21226IN-HP1,BATHTUB,bathtub,21226IN-HP1,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:21226IN-HP1,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:21226IN-HP1,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:21226IN-SS-0,BASIN,basin,21226IN-SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:21226IN-SS-0,BASIN,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:21226IN-SS-0,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:31459IN-0,BASIN,basin,31459IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:2200IN-0,BATHTUB,bathtub,2200IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:2200IN-0,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:2200IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:5373IN-0,BATHTUB,bathtub,5373IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:5373IN-0,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:5373IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:2661IN-0,BATHTUB,bathtub,2661IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:25318IN-0,BATHTUB,bathtub,25318IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:25318IN-0,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:25318IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:25316IN-0,BATHTUB,bathtub,25316IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:25316IN-0,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:25316IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+faucet:29024IN-1-0,FAUCET,basin_faucet,29024IN-1-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:75374IN-1-0,BATHTUB,bathtub,75374IN-1-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:75374IN-1-0,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:75374IN-1-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:90011T-0,BASIN,basin,90011T-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+faucet:31343IN-SS-0,FAUCET,basin_faucet,31343IN-SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:75375IN-0,BATHTUB,bathtub,75375IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:75375IN-0,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:75375IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:28784IN-0,BATHTUB,bathtub,28784IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:28784IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:28784IN-0,BATHTUB,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:28783IN-0,BATHTUB,bathtub,28783IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:28783IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:28783IN-0,BATHTUB,required_component,inRiver_3086862,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:21060IN-0,BATHTUB,bathtub,21060IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:31347IN-0,BATHTUB,bathtub,31347IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:31347IN-0,BATHTUB,required_component,inRiver_2312522,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:31347IN-0,BATHTUB,required_component,inRiver_3128234,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:76600IN-0,BATHTUB,bathtub,76600IN-0,true,explicit_catalogue,1.0,counter,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:7799IN-FDL-0,BATHTUB,bathtub,7799IN-FDL-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:7799IN-FDL-0,BATHTUB,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:7799IN-FDL-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:20704-0,BATHTUB,bathtub,20704-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:20704-0,BATHTUB,required_component,inRiver_1933656,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:20704-0,BATHTUB,required_component,inRiver_232048,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:20704-0,BATHTUB,required_component,inRiver_244082,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:20703-0,BATHTUB,bathtub,20703-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:20703-0,BATHTUB,required_component,inRiver_200827,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:20703-0,BATHTUB,required_component,inRiver_1933656,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:34251IN-0,BATHTUB,bathtub,34251IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+bathtub:30506IN-1-0,BATHTUB,bathtub,30506IN-1-0,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C60,BASIN,basin,C60,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:C60,BASIN,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C60,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+toilet:26998IN-0,TOILET,toilet_bowl,26998IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:32410IN-0,TOILET,toilet_bowl,32410IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:29150IN-0,TOILET,toilet_bowl,29150IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:29171IN-S-0,TOILET,toilet_bowl,29171IN-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:29174IN-S-0,TOILET,toilet_bowl,29174IN-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:20217IN-S-0,TOILET,toilet_bowl,20217IN-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:20217IN-S-0,TOILET,required_component,inRiver_1336387,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+toilet:30438IN-0,TOILET,toilet_bowl,30438IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:26994IN-0,TOILET,toilet_bowl,26994IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:75708IN-SS-0,TOILET,toilet_bowl,75708IN-SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:75708IN-DGS,TOILET,toilet_bowl,75708IN-DGS,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:72987IN-SR-0,TOILET,toilet_bowl,72987IN-SR-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:18132IN-2SP-0,TOILET,toilet_bowl,18132IN-2SP-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:27902IN-SS-0,TOILET,toilet_bowl,27902IN-SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:18133IN-SS-0,TOILET,toilet_bowl,18133IN-SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:18133IN-2SS-0,TOILET,toilet_bowl,18133IN-2SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:6321IN-SS-0,TOILET,toilet_bowl,6321IN-SS-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:18132IN-2SR-0,TOILET,toilet_bowl,18132IN-2SR-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:27903IN-WRGD-0,TOILET,toilet_bowl,27903IN-WRGD-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:26994IN-HB1,TOILET,toilet_bowl,26994IN-HB1,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:18131IN-S-7,TOILET,toilet_bowl,18131IN-S-7,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:6098IN-SR-0,TOILET,toilet_seat,6098IN-SR-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:33677IN-0,TOILET,toilet_seat,33677IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:38785IN-0,TOILET,toilet_bowl,38785IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:38785IN-0,TOILET,required_component,inRiver_1336387,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+toilet:27792IN-0,TOILET,toilet_seat,27792IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:99992IN-0,TOILET,bidet_seat,99992IN-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:27791IN-WAF-0,TOILET,toilet_bowl,27791IN-WAF-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:18131IN-S-0,TOILET,toilet_bowl,18131IN-S-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:EC42639IN-HC-0,TOILET,toilet_bowl,EC42639IN-HC-0,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:6098IN-S-K4,TOILET,toilet_bowl,6098IN-S-K4,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+toilet:21748IN-HB1,TOILET,toilet_bowl,21748IN-HB1,true,explicit_catalogue,1.0,,true,Role supported by category=Toilet Area; subcategory=Wall Hung Toilets.
+bathtub:31461IN-0,BATHTUB,bathtub,31461IN-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+bathtub:5583IN-1WH-0,BATHTUB,bathtub,5583IN-1WH-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+bathtub:31458IN-0,BATHTUB,bathtub,31458IN-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+bathtub:31458IN-0,BATHTUB,required_component,inRiver_558305,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:31458IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:31460IN-0,BATHTUB,bathtub,31460IN-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+bathtub:31460IN-0,BATHTUB,required_component,inRiver_558305,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:31460IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:30520IN-0,BATHTUB,bathtub,30520IN-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+basin:C63,BASIN,basin,C63,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+basin:C63,BASIN,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C63,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:34229IN-0,BATHTUB,bathtub,34229IN-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+basin:C5,BASIN,basin,C5,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+basin:C5,BASIN,required_component,inRiver_558305,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C5,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:25317IN-0,BATHTUB,bathtub,25317IN-0,true,explicit_catalogue,1.0,wall_mount,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+bathtub:25317IN-0,BATHTUB,required_component,inRiver_558305,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+bathtub:25317IN-0,BATHTUB,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C64,BASIN,basin,C64,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+basin:C64,BASIN,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C64,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C62,BASIN,basin,C62,true,explicit_catalogue,1.0,,true,Role supported by category=Basin Area; subcategory=Wall Mount Basin.
+basin:C62,BASIN,required_component,inRiver_1482653,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.
+basin:C62,BASIN,required_component,inRiver_1730109,true,kohler_api,1.0,,false,Explicit required_components reference; unresolved references are retained without product mapping.

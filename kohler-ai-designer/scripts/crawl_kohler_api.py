@@ -584,11 +584,30 @@ def parse_color_details(doc: dict) -> tuple[str | None, str | None]:
 
 
 def parse_dimensions(doc: dict) -> str | None:
-    w = parse_float(doc.get("ProductOverallWidthCm_d"))
-    d = parse_float(doc.get("ProductOverallLengthCm_d"))
-    h = parse_float(doc.get("ProductOverallHeightCm_d"))
+    def parse_dimension(value):
+        if value is None or value == "":
+            return None
+        if isinstance(value, (int, float)):
+            return float(value)
+        text = str(value).strip().replace("\u2013", "-").replace("\u2014", "-")
+        fraction = re.fullmatch(r"(\d+)\s*-\s*(\d+)\s*/\s*(\d+)", text.rstrip('"'))
+        if fraction:
+            whole, numerator, denominator = map(int, fraction.groups())
+            return whole + numerator / denominator
+        return parse_float(text)
+
+    w = parse_dimension(doc.get("ProductOverallWidthCm_d"))
+    d = parse_dimension(doc.get("ProductOverallLengthCm_d"))
+    h = parse_dimension(doc.get("ProductOverallHeightCm_d"))
     if w is not None and d is not None and h is not None:
         return f"{d:g} cm x {w:g} cm x {h:g} cm"
+
+    inch_w = parse_dimension(doc.get("ProductOverallWidthInches_s"))
+    inch_d = parse_dimension(doc.get("ProductOverallLengthInches_s"))
+    inch_h = parse_dimension(doc.get("ProductOverallHeightInches_s"))
+    if inch_w is not None and inch_d is not None and inch_h is not None:
+        return f"{inch_d * 2.54:g} cm x {inch_w * 2.54:g} cm x {inch_h * 2.54:g} cm"
+
     # Preserve the site's human-readable dimension title if structured fields
     # are incomplete.
     return first_value(doc, "title_s", "ProductDescriptionProductShort_s")
@@ -770,6 +789,30 @@ def write_raw(slug: str, name: str, records: list) -> None:
     print(f"    wrote {path} ({len(df)} rows)")
 
 
+def _has_complete_dimensions(value) -> bool:
+    if value is None or pd.isna(value):
+        return False
+    return bool(re.fullmatch(
+        r"\s*\d+(?:\.\d+)?\s+cm\s+x\s+\d+(?:\.\d+)?\s+cm\s+x\s+\d+(?:\.\d+)?\s+cm\s*",
+        str(value),
+        flags=re.IGNORECASE,
+    ))
+
+
+def merge_product_frames(frames: list[pd.DataFrame]) -> pd.DataFrame:
+    merged = pd.concat(frames, ignore_index=True)
+    if "product_code" not in merged.columns:
+        return merged
+
+    merged["_dimension_quality"] = merged["dimensions"].map(_has_complete_dimensions)
+    merged = (
+        merged.sort_values("_dimension_quality", ascending=False, kind="stable")
+        .drop_duplicates(subset="product_code", keep="first")
+        .drop(columns="_dimension_quality")
+    )
+    return merged
+
+
 def merge_outputs() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     kinds = {
@@ -783,11 +826,16 @@ def merge_outputs() -> None:
         files = sorted(RAW_DIR.glob(f"*_{kind}.csv")) if RAW_DIR.exists() else []
         if not files:
             continue
-        frames = [pd.read_csv(f) for f in files]
-        merged = pd.concat(frames, ignore_index=True)
+        frames = []
+        existing = DATA_DIR / outfile
+        if kind == "products" and existing.exists():
+            frames.append(pd.read_csv(existing))
+        frames.extend(pd.read_csv(f) for f in files)
 
-        if kind == "products" and "product_code" in merged.columns:
-            merged = merged.drop_duplicates(subset="product_code", keep="last")
+        if kind == "products":
+            merged = merge_product_frames(frames)
+        else:
+            merged = pd.concat(frames, ignore_index=True)
         if kind == "assets" and {"product_code", "asset_url"}.issubset(merged.columns):
             merged = merged.drop_duplicates(subset=["product_code", "asset_url"], keep="last")
         if kind == "variants" and {"parent_product_code", "sku"}.issubset(merged.columns):

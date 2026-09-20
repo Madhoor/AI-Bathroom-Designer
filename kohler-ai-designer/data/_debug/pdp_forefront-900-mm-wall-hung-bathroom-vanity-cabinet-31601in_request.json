@@ -1,0 +1,163 @@
+{
+  "product_url": "https://www.kohler.co.in/p/forefront-900-mm-wall-hung-bathroom-vanity-cabinet-31601in?skuId=31601IN-E64",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/forefront-900-mm-wall-hung-bathroom-vanity-cabinet-31601in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/forefront-900-mm-wall-hung-bathroom-vanity-cabinet-31601in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5656>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/forefront-900-mm-wall-hung-bathroom-vanity-cabinet-31601in?skuId=31601IN-E64",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "dlj6ViX0H6",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=245, origin; dur=887, ak_p; desc=\"1789482891416_389543436_104746385_113584_18353_14_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 14:34:52 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1516",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/forefront-vanity-900-mm-in-natural-wood-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-hung"
+            ],
+            "ProductOverallWidthInches_s": "35-7/16\"",
+            "ProductNarrativeDescription_s": "The Forefront™ bathroom vanity cabinet showcases touches of the natural world and minimalism with its sleek rounded edges and smooth walnut finish. With a wall-hung design, you achieve a clean and streamlined look that doesn't use up any precious floor space. A variety of doors, drawers, and shelves offer plenty of options for storing all your bathroom essentials.",
+            "Color.SKU.Details_ss": [
+              "Dark Walnut|swatch_E64|31601IN-E64|false|false|K-31601IN-E64"
+            ],
+            "ProductBrandName_s": "Forefront™",
+            "ProductPackageContents_s": "1 WALL MOUNT CABINET; 1 HARDWARE KIT; 1 INSTALLATION GUIDE & 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600661"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-31601IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "31601IN-E64|aaf11697_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf11697_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 102739.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 108150.0,
+            "ProductOverallLengthInches_s": "20-1/2\"",
+            "ProductDescriptionProductShort_s": "90 cm wall-hung bathroom vanity cabinet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601insde.dxf"
+            ],
+            "productName_s": "Forefront™ 90 cm wall-hung bathroom vanity cabinet",
+            "ctId_s": "a9d7e3c9-a732-42bf-b679-bf5403e7cc29",
+            "ProductWebFeatures_ss": [
+              "Bathroom vanity cabinet",
+              "Wall-hung design offers a clean, streamlined look",
+              "Rounded edges to coordinate with Forefront™ bathroom sinks",
+              "One left-hinged door with interior shelf and one right-side drawer"
+            ],
+            "priceList.ANY.finalPrice_d": 108150.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601insde.dwg"
+            ],
+            "sku_s": "31601IN-E64",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Furniture-Wall_Mount-Vanity-KOHLER-Forefront-K-31601IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "24.000",
+            "InstallationCost_s": "",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "31601IN",
+            "productInRiverId_s": "inRiver_559090",
+            "priceList.CTR.finalPrice_d": 108150.0,
+            "Product_Category": "Vanities",
+            "CustomerFacingSKU_s": "K-31601IN-E64",
+            "ProductBrandNameDisplay_s": "Forefront™",
+            "variantList.sku_ss": [
+              "31601IN-E64"
+            ],
+            "SKUShippingHeight_s": "25.500",
+            "ctProductType_s": "vanities",
+            "SKUShippingLength_s": "38.500",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Plywood and HDMDR",
+              "Walnut wood finish"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/31601IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "20-1/2\"",
+            "id": "a9d7e3c9-a732-42bf-b679-bf5403e7cc29|31601IN-E64",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

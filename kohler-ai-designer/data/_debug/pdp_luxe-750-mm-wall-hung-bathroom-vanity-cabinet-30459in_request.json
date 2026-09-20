@@ -1,0 +1,176 @@
+{
+  "product_url": "https://www.kohler.co.in/p/luxe-750-mm-wall-hung-bathroom-vanity-cabinet-30459in?skuId=30459IN-MWF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/luxe-750-mm-wall-hung-bathroom-vanity-cabinet-30459in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/luxe-750-mm-wall-hung-bathroom-vanity-cabinet-30459in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5656>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/luxe-750-mm-wall-hung-bathroom-vanity-cabinet-30459in?skuId=30459IN-MWF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "eutAaPlwme",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=211, origin; dur=741, ak_p; desc=\"1789482900405_389543436_104753456_96720_15274_22_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 14:35:01 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1692",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/luxe-vanity-wood-finish-750mm-mem",
+            "ProductWebInstallation_ss": [
+              "Wall-hung",
+              "Installation hardware included"
+            ],
+            "ProductOverallWidthInches_s": "29-1/2\"",
+            "ProductNarrativeDescription_s": "Integrate a nautical inspired aesthetic into your bathroom with the Luxe™ bathroom vanity cabinet. The harmonious design of this vanity invokes the serene and elegant lines of the sails on a boat. Pair with your choice of vanity top and vessel sink for a complete bathroom look (sold separately).",
+            "Color.SKU.Details_ss": [
+              "Natural Oak|swatch_MWF|30459IN-MWF|false|false|K-30459IN-MWF",
+              "Titanium Grey|swatch_N21|30459IN-N21|true|false|K-30459IN-N21"
+            ],
+            "ProductBrandName_s": "Luxe™",
+            "ProductPackageContents_s": "1 WALL MOUNT CABINET",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600661"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1416228-IN7.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-30459IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "30459IN-N21|aaf78607_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78607_rgb",
+              "30459IN-N21|aaf78609_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78609_rgb",
+              "30459IN-N21|aaf78608_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78608_rgb",
+              "30459IN-N21|aaf78606_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78606_rgb",
+              "30459IN-MWF|aaf78603_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78603_rgb",
+              "30459IN-MWF|aaf78607_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78607_rgb",
+              "30459IN-MWF|aaf78604_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78604_rgb",
+              "30459IN-MWF|aaf78602_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78602_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 105399.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 110950.0,
+            "ProductOverallLengthInches_s": "22-13/16\"",
+            "ProductDescriptionProductShort_s": "75 cm wall-hung bathroom vanity cabinet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459insde.dxf"
+            ],
+            "productName_s": "Luxe™ 75 cm wall-hung bathroom vanity cabinet",
+            "ctId_s": "346cd0f7-06dd-4cbf-98c5-a8c3d10e2799",
+            "ProductWebFeatures_ss": [
+              "One partial- and one full-extension drawer",
+              "Built-in dividers in drawers to personalize organization",
+              "Clean and timeless design allows for use in any interior space",
+              "Pair with any vanity top cut to size and choice of KOHLER® vessel bathroom sink (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 110950.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459insde.dwg"
+            ],
+            "sku_s": "30459IN-MWF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Furniture-Wall_Mount-Vanity-KOHLER-Luxe-K-30459IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "26.750",
+            "InstallationCost_s": "",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "30459IN",
+            "productInRiverId_s": "inRiver_2448279",
+            "priceList.CTR.finalPrice_d": 110950.0,
+            "Product_Category": "Vanities",
+            "CustomerFacingSKU_s": "K-30459IN-MWF",
+            "ProductBrandNameDisplay_s": "Luxe™",
+            "variantList.sku_ss": [
+              "30459IN-MWF",
+              "30459IN-N21"
+            ],
+            "SKUShippingHeight_s": "21.375",
+            "ctProductType_s": "vanities",
+            "SKUShippingLength_s": "32.938",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Wood composite cabinet",
+              "Durable finish resists moisture, scratches, and stains"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30459IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "16-15/16\"",
+            "id": "346cd0f7-06dd-4cbf-98c5-a8c3d10e2799|30459IN-MWF",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-15T00:00:00.000Z",
+  "room": {
+    "widthM": 2.4384,
+    "depthM": 1.8288000000000002,
+    "heightM": 2.7432000000000003,
+    "doors": [],
+    "windows": []
+  },
+  "selectedProducts": [
+    {
+      "productCode": "29777IN-0",
+      "productName": "Innate™ One-piece elongated smart toilet, dual-flush",
+      "category": "Toilet Area",
+      "subcategory": "One Piece",
+      "currentPrice": 379999,
+      "currency": "INR",
+      "widthMm": 411.16,
+      "depthMm": 428.62,
+      "heightMm": 619.12,
+      "finish": "White",
+      "styles": [],
+      "metadata": {
+        "productCode": "29777IN-0",
+        "role": [
+          "toilet"
+        ],
+        "bathroomZones": [
+          "toilet"
+        ],
+        "mountSurface": [],
+        "requiresHostProduct": false,
+        "hostRoles": []
+      }
+    },
+    {
+      "productCode": "29961IN-CP",
+      "productName": "ModernLife Edge™ 42.5 cm x 33 cm two-function rainhead, 2.0 and 11.5 lpm",
+      "category": "Showering Area",
+      "subcategory": "Showerheads",
+      "currentPrice": 83999,
+      "currency": "INR",
+      "widthMm": 427.04,
+      "depthMm": 330.2,
+      "heightMm": 104.77,
+      "finish": "Polished Chrome",
+      "styles": [],
+      "metadata": {
+        "productCode": "29961IN-CP",
+        "role": [
+          "rainhead"
+        ],
+        "bathroomZones": [
+          "shower"
+        ],
+        "mountSurface": [
+          "ceiling"
+        ],
+        "requiresHostProduct": false,
+        "hostRoles": []
+      }
+    },
+    {
+      "productCode": "90011T-0",
+      "productName": "Mica™ Vessel sink",
+      "category": "Basin Area",
+      "subcategory": "Vessel Basin",
+      "currentPrice": 16799,
+      "currency": "INR",
+      "widthMm": 393.7,
+      "depthMm": 149.22,
+      "heightMm": 158.75,
+      "finish": "White",
+      "styles": [],
+      "metadata": {
+        "productCode": "90011T-0",
+        "role": [
+          "basin"
+        ],
+        "bathroomZones": [
+          "basin"
+        ],
+        "mountSurface": [
+          "floor"
+        ],
+        "requiresHostProduct": false,
+        "hostRoles": []
+      }
+    }
+  ],
+  "selectedAssemblies": [
+    {
+      "assemblyId": "basin:90011T-0",
+      "productCode": "90011T-0",
+      "components": [
+        {
+          "productCode": "90011T-0",
+          "required": true,
+          "referenceResolved": true
+        }
+      ]
+    },
+    {
+      "assemblyId": "shower:29961IN-CP",
+      "productCode": "29961IN-CP",
+      "installationSurface": "ceiling",
+      "components": [
+        {
+          "productCode": "29961IN-CP",
+          "required": true,
+          "referenceResolved": true
+        }
+      ]
+    },
+    {
+      "assemblyId": "toilet:29777IN-0",
+      "productCode": "29777IN-0",
+      "components": [
+        {
+          "productCode": "29777IN-0",
+          "required": true,
+          "referenceResolved": true
+        }
+      ]
+    }
+  ],
+  "placements": [
+    {
+      "productCode": "90011T-0",
+      "role": "basin",
+      "zone": "basin",
+      "position": {
+        "x": -0.97235,
+        "y": -0.7897900000000001,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "footprint": {
+        "widthM": 0.3937,
+        "depthM": 0.14922,
+        "heightM": 0.15875
+      },
+      "placementSurface": "floor",
+      "source": "factual_surface",
+      "validationStatus": "valid"
+    },
+    {
+      "productCode": "29961IN-CP",
+      "role": "rainhead",
+      "zone": "shower",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 2.6384300000000005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "footprint": {
+        "widthM": 0.42704000000000003,
+        "depthM": 0.3302,
+        "heightM": 0.10477
+      },
+      "placementSurface": "ceiling",
+      "source": "factual_surface",
+      "validationStatus": "valid"
+    },
+    {
+      "productCode": "29777IN-0",
+      "role": "toilet",
+      "zone": "toilet",
+      "position": {
+        "x": 0.96362,
+        "y": -0.6500900000000001,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "footprint": {
+        "widthM": 0.41116,
+        "depthM": 0.42862,
+        "heightM": 0.61912
+      },
+      "placementSurface": "unknown",
+      "source": "generic_zone_heuristic",
+      "validationStatus": "valid"
+    }
+  ],
+  "totalProductCost": 480797,
+  "budget": 500000,
+  "style": "Luxury Modern",
+  "warnings": [
+    "Optional vanity assembly is currently unavailable from verified catalogue relationships; no vanity was selected."
+  ],
+  "validation": {
+    "valid": true,
+    "errors": [],
+    "warnings": []
+  }
+}

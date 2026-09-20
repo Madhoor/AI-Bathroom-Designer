@@ -1,0 +1,475 @@
+{
+  "fusion": {
+    "facet.field": [
+      "Color.Name",
+      "{!ex=\"priceList.ANY.finalPrice_d\"}priceList.ANY.finalPrice_d",
+      "{!ex=\"priceList.CTR.finalPrice_d\"}priceList.CTR.finalPrice_d",
+      "{!ex=\"priceList.GST.finalPrice_d\"}priceList.GST.finalPrice_d",
+      "{!ex=\"priceList.KEMP.finalPrice_d\"}priceList.KEMP.finalPrice_d",
+      "ColorFinish_s",
+      "ProductBrandNameDisplay_s",
+      "{!ex=\"VanitiesProductOverallDepthCm_s\"}VanitiesProductOverallDepthCm_s",
+      "{!ex=\"VanitiesProductOverallWidthCm_s\"}VanitiesProductOverallWidthCm_s",
+      "{!ex=\"VanitiesProductOverallHeightCm_s\"}VanitiesProductOverallHeightCm_s",
+      "{!ex=\"ProductInstallationType_ss\"}ProductInstallationType_ss",
+      "{!ex=\"ProductMaterial_s\"}ProductMaterial_s",
+      "{!ex=\"ATTR_SPEC_NumberofDoors_i\"}ATTR_SPEC_NumberofDoors_i",
+      "{!ex=\"ATTR_SPEC_NumberofDrawers_s\"}ATTR_SPEC_NumberofDrawers_s",
+      "Available_Now_s",
+      "InstallationCost_s"
+    ],
+    "color_swatch_labels": {
+      "Dark Walnut": "swatch_E64",
+      "Light Taupe": "swatch_PSH",
+      "Natural Oak": "swatch_MWF",
+      "Titanium Grey": "swatch_N21"
+    },
+    "facet_labels": {
+      "priceList.ANY.finalPrice_d": "Price Range",
+      "priceList.CTR.finalPrice_d": "Price Range",
+      "priceList.GST.finalPrice_d": "Price Range",
+      "priceList.KEMP.finalPrice_d": "Price Range",
+      "ColorFinish_s": "Color/Finish",
+      "ProductBrandNameDisplay_s": "Collections",
+      "VanitiesProductOverallDepthCm_s": "Depth - Front to Back",
+      "VanitiesProductOverallWidthCm_s": "Width - Side to Side",
+      "VanitiesProductOverallHeightCm_s": "Height",
+      "ProductInstallationType_ss": "Installation Type",
+      "ProductMaterial_s": "Material",
+      "ATTR_SPEC_NumberofDoors_i": "Number of Doors",
+      "ATTR_SPEC_NumberofDrawers_s": "Number of Drawers",
+      "Available_Now_s": "Availability",
+      "InstallationCost_s": "Installation"
+    }
+  },
+  "spellcheck": {
+    "suggestions": [
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 3,
+        "endOffset": 9,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "lucene",
+      {
+        "numFound": 2,
+        "startOffset": 39,
+        "endOffset": 45,
+        "suggestion": [
+          "lumens",
+          "license"
+        ]
+      },
+      "orig_q",
+      {
+        "numFound": 1,
+        "startOffset": 80,
+        "endOffset": 86,
+        "suggestion": [
+          "origin"
+        ]
+      }
+    ],
+    "collations": []
+  },
+  "response": {
+    "docs": [
+      {
+        "Color.SKU.Details_ss": [
+          "Natural Oak|swatch_MWF|30460IN-MWF|false|2026-02-09T00:01:01Z|K-30460IN-MWF",
+          "Titanium Grey|swatch_N21|30460IN-N21|false|false|K-30460IN-N21"
+        ],
+        "ProductBrandName_s": "Luxe™",
+        "masterSKU_s": "30460IN-MWF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_MWF",
+          "swatch_N21"
+        ],
+        "sourceId_s": "30460IN-MWF",
+        "productImages.labelWithUrl_ss": [
+          "30460IN-MWF|aaf77784_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf77784_rgb",
+          "30460IN-MWF|aaf77786_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf77786_rgb",
+          "30460IN-MWF|aaf77785_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf77785_rgb",
+          "30460IN-N21|aaf77780_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf77780_rgb",
+          "30460IN-N21|aaf77783_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf77783_rgb",
+          "30460IN-N21|aaf77781_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aaf77781_rgb",
+          "30460IN-N21|aaf77779_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf77779_rgb"
+        ],
+        "priceList.GST.price_d": 115849.0,
+        "priceList.GST.finalPrice_d": 115849.0,
+        "ProductDescriptionProductShort_s": "90 cm wall-hung bathroom vanity cabinet",
+        "productName_s": "Luxe™ 90 cm wall-hung bathroom vanity cabinet",
+        "ctId_s": "74968fa6-caf2-485d-8eef-0ba9fcd387fc",
+        "Color.GST.Details_ss": [
+          "30460IN-MWF|Natural Oak|121950.0|115849.0||https://kohler.scene7.com/is/image/PAWEB/aaf77784_rgb",
+          "30460IN-N21|Titanium Grey|123950.0|117749.0||https://kohler.scene7.com/is/image/PAWEB/aaf77780_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "30460IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf77784_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf77786_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf77785_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf77780_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf77783_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf77781_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf77779_rgb"
+        ],
+        "priceList.ANY.price_d": 121950.0,
+        "Product_Category": "Vanities",
+        "preferenceSku_s": "30460IN-MWF",
+        "ProductBrandNameDisplay_s": "Luxe™",
+        "variantList.sku_ss": [
+          "30460IN-MWF",
+          "30460IN-N21"
+        ],
+        "discountedPriceStartingAt.GST_d": 117749.0,
+        "displayPriceStartingAt_s": "₹117,749.00",
+        "SKUColorFinishName_ss": [
+          "Natural Oak",
+          "Titanium Grey"
+        ],
+        "slug_s": "luxe-900-mm-wall-hung-bathroom-vanity-cabinet-30460in",
+        "priceStartingAt.GST_d": 117749.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "74968fa6-caf2-485d-8eef-0ba9fcd387fc|30460IN-MWF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Dark Walnut|swatch_E64|31601IN-E64|false|false|K-31601IN-E64"
+        ],
+        "ProductBrandName_s": "Forefront™",
+        "masterSKU_s": "31601IN-E64",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_E64"
+        ],
+        "sourceId_s": "31601IN-E64",
+        "productImages.labelWithUrl_ss": [
+          "31601IN-E64|aaf11697_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf11697_rgb"
+        ],
+        "priceList.GST.price_d": 102739.0,
+        "priceList.GST.finalPrice_d": 102739.0,
+        "ProductDescriptionProductShort_s": "90 cm wall-hung bathroom vanity cabinet",
+        "productName_s": "Forefront™ 90 cm wall-hung bathroom vanity cabinet",
+        "ctId_s": "a9d7e3c9-a732-42bf-b679-bf5403e7cc29",
+        "Color.GST.Details_ss": [
+          "31601IN-E64|Dark Walnut|108150.0|102739.0||https://kohler.scene7.com/is/image/PAWEB/aaf11697_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "31601IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf11697_rgb"
+        ],
+        "priceList.ANY.price_d": 108150.0,
+        "Product_Category": "Vanities",
+        "preferenceSku_s": "31601IN-E64",
+        "ProductBrandNameDisplay_s": "Forefront™",
+        "variantList.sku_ss": [
+          "31601IN-E64"
+        ],
+        "discountedPriceStartingAt.GST_d": 102739.0,
+        "displayPriceStartingAt_s": "₹102,739.00",
+        "SKUColorFinishName_ss": [
+          "Dark Walnut"
+        ],
+        "slug_s": "forefront-900-mm-wall-hung-bathroom-vanity-cabinet-31601in",
+        "priceStartingAt.GST_d": 102739.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "a9d7e3c9-a732-42bf-b679-bf5403e7cc29|31601IN-E64",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Natural Oak|swatch_MWF|30459IN-MWF|false|false|K-30459IN-MWF",
+          "Titanium Grey|swatch_N21|30459IN-N21|true|false|K-30459IN-N21"
+        ],
+        "ProductBrandName_s": "Luxe™",
+        "masterSKU_s": "30459IN-MWF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_MWF",
+          "swatch_N21"
+        ],
+        "sourceId_s": "30459IN-MWF",
+        "productImages.labelWithUrl_ss": [
+          "30459IN-N21|aaf78607_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78607_rgb",
+          "30459IN-N21|aaf78609_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78609_rgb",
+          "30459IN-N21|aaf78608_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78608_rgb",
+          "30459IN-N21|aaf78606_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78606_rgb",
+          "30459IN-MWF|aaf78603_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78603_rgb",
+          "30459IN-MWF|aaf78607_rgb|IMGITEMBACK||back view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78607_rgb",
+          "30459IN-MWF|aaf78604_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78604_rgb",
+          "30459IN-MWF|aaf78602_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78602_rgb"
+        ],
+        "priceList.GST.price_d": 105399.0,
+        "priceList.GST.finalPrice_d": 105399.0,
+        "ProductDescriptionProductShort_s": "75 cm wall-hung bathroom vanity cabinet",
+        "productName_s": "Luxe™ 75 cm wall-hung bathroom vanity cabinet",
+        "ctId_s": "346cd0f7-06dd-4cbf-98c5-a8c3d10e2799",
+        "Color.GST.Details_ss": [
+          "30459IN-MWF|Natural Oak|110950.0|105399.0||https://kohler.scene7.com/is/image/PAWEB/aaf78603_rgb",
+          "30459IN-N21|Titanium Grey|117950.0|112049.0||https://kohler.scene7.com/is/image/PAWEB/aaf78607_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "30459IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78607_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78609_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78608_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78606_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78603_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78607_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78604_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78602_rgb"
+        ],
+        "priceList.ANY.price_d": 110950.0,
+        "Product_Category": "Vanities",
+        "preferenceSku_s": "30459IN-MWF",
+        "ProductBrandNameDisplay_s": "Luxe™",
+        "variantList.sku_ss": [
+          "30459IN-MWF",
+          "30459IN-N21"
+        ],
+        "discountedPriceStartingAt.GST_d": 105399.0,
+        "displayPriceStartingAt_s": "₹105,399.00",
+        "SKUColorFinishName_ss": [
+          "Natural Oak",
+          "Titanium Grey"
+        ],
+        "slug_s": "luxe-750-mm-wall-hung-bathroom-vanity-cabinet-30459in",
+        "priceStartingAt.GST_d": 105399.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "346cd0f7-06dd-4cbf-98c5-a8c3d10e2799|30459IN-MWF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      },
+      {
+        "Color.SKU.Details_ss": [
+          "Natural Oak|swatch_MWF|30457IN-MWF|false|false|K-30457IN-MWF",
+          "Light Taupe|swatch_PSH|30457IN-PSH|true|2025-06-16T05:09:00Z|K-30457IN-PSH"
+        ],
+        "ProductBrandName_s": "Prologue™",
+        "masterSKU_s": "30457IN-MWF",
+        "SKUColorSwatchFilename_ss": [
+          "swatch_MWF",
+          "swatch_PSH"
+        ],
+        "sourceId_s": "30457IN-MWF",
+        "productImages.labelWithUrl_ss": [
+          "30457IN-PSH|aaf78590_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78590_rgb",
+          "30457IN-PSH|aaf78587_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78587_rgb",
+          "30457IN-PSH|aaf78591_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78591_rgb",
+          "30457IN-MWF|aaf78585_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78585_rgb",
+          "30457IN-MWF|aaf78584_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78584_rgb",
+          "30457IN-MWF|aaf78586_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78586_rgb"
+        ],
+        "priceList.GST.price_d": 111099.0,
+        "priceList.GST.finalPrice_d": 111099.0,
+        "ProductDescriptionProductShort_s": "75 cm wall-hung bathroom vanity cabinet",
+        "productName_s": "Prologue™ 75 cm wall-hung bathroom vanity cabinet",
+        "ctId_s": "f722185b-3299-4186-a0f1-acb1362b0657",
+        "Color.GST.Details_ss": [
+          "30457IN-MWF|Natural Oak|116950.0|111099.0||https://kohler.scene7.com/is/image/PAWEB/aaf78585_rgb",
+          "30457IN-PSH|Light Taupe|117950.0|112049.0||https://kohler.scene7.com/is/image/PAWEB/aaf78590_rgb"
+        ],
+        "RegionSupplyChain_ss": [
+          "Marketed By"
+        ],
+        "InstallationAvailable_s": "Yes",
+        "ProductProductNo_s": "30457IN",
+        "productImages.url_ss": [
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78590_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78587_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78591_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78585_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78584_rgb",
+          "https://kohler.scene7.com/is/image/PAWEB/aaf78586_rgb"
+        ],
+        "priceList.ANY.price_d": 116950.0,
+        "Product_Category": "Vanities",
+        "preferenceSku_s": "30457IN-MWF",
+        "ProductBrandNameDisplay_s": "Prologue™",
+        "variantList.sku_ss": [
+          "30457IN-MWF",
+          "30457IN-PSH"
+        ],
+        "discountedPriceStartingAt.GST_d": 111099.0,
+        "displayPriceStartingAt_s": "₹111,099.00",
+        "SKUColorFinishName_ss": [
+          "Natural Oak",
+          "Light Taupe"
+        ],
+        "slug_s": "prologue-750-mm-wall-hung-bathroom-vanity-cabinet-30457in",
+        "priceStartingAt.GST_d": 111099.0,
+        "priceList.GST.discountedPrice_d": 0.0,
+        "id": "f722185b-3299-4186-a0f1-acb1362b0657|30457IN-MWF",
+        "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+      }
+    ],
+    "numFound": 4,
+    "start": 0,
+    "numFoundExact": true
+  },
+  "facet_counts": {
+    "facet_queries": {
+      "VanitiesProductOverallDepthCm_s:\"<50cm\"": 0,
+      "VanitiesProductOverallDepthCm_s:\"50cm to 100cm\"": 3,
+      "VanitiesProductOverallDepthCm_s:\"100cm to 150cm\"": 0,
+      "VanitiesProductOverallDepthCm_s:\"150cm to 200cm\"": 0,
+      "VanitiesProductOverallDepthCm_s:\"200cm to 250cm\"": 0,
+      "VanitiesProductOverallWidthCm_s:\"<=50cm\"": 0,
+      "VanitiesProductOverallWidthCm_s:\"50cm to 60cm\"": 0,
+      "VanitiesProductOverallWidthCm_s:\"60cm to 70cm\"": 0,
+      "VanitiesProductOverallWidthCm_s:\"70cm to 80cm\"": 2,
+      "VanitiesProductOverallWidthCm_s:\"80cm to 90cm\"": 2,
+      "VanitiesProductOverallHeightCm_s:\"<50cm\"": 3,
+      "VanitiesProductOverallHeightCm_s:\"50cm to 100cm\"": 1,
+      "VanitiesProductOverallHeightCm_s:\"100cm to 150cm\"": 0,
+      "VanitiesProductOverallHeightCm_s:\"150cm to 200cm\"": 0,
+      "VanitiesProductOverallHeightCm_s:\"200cm to 250cm\"": 0,
+      "Available_Now_s:\"Yes\"": 0
+    },
+    "facet_fields": {
+      "ColorFinish_s": [
+        "Dark Walnut",
+        1,
+        "Light Taupe",
+        1,
+        "Natural Oak",
+        3,
+        "Titanium Grey",
+        2
+      ],
+      "ProductBrandNameDisplay_s": [
+        "Forefront™",
+        1,
+        "Luxe™",
+        2,
+        "Prologue™",
+        1
+      ],
+      "VanitiesProductOverallDepthCm_s": [
+        "50cm to 100cm",
+        3
+      ],
+      "VanitiesProductOverallWidthCm_s": [
+        "70cm to 80cm",
+        2,
+        "80cm to 90cm",
+        2
+      ],
+      "VanitiesProductOverallHeightCm_s": [
+        "<50cm",
+        3,
+        "50cm to 100cm",
+        1
+      ],
+      "ProductInstallationType_ss": [
+        "Wall-mount",
+        4
+      ],
+      "ProductMaterial_s": [
+        "Wood",
+        3
+      ],
+      "ATTR_SPEC_NumberofDoors_i": [
+        "0",
+        3,
+        "1",
+        1
+      ],
+      "ATTR_SPEC_NumberofDrawers_s": [
+        "1",
+        1,
+        "2",
+        3
+      ],
+      "Available_Now_s": [
+        "Yes",
+        2,
+        "No",
+        4
+      ],
+      "InstallationCost_s": [
+        "",
+        4
+      ]
+    },
+    "facet_ranges": {
+      "priceList.ANY.finalPrice_d": {
+        "counts": [
+          "105000",
+          1,
+          "110000",
+          1,
+          "115000",
+          2,
+          "120000",
+          1
+        ],
+        "start": 0.0,
+        "end": 200000.0,
+        "gap": 5000.0
+      },
+      "priceList.CTR.finalPrice_d": {
+        "counts": [
+          "105000",
+          1,
+          "110000",
+          1,
+          "115000",
+          2,
+          "120000",
+          1
+        ],
+        "start": 0.0,
+        "end": 200000.0,
+        "gap": 5000.0
+      },
+      "priceList.GST.finalPrice_d": {
+        "counts": [
+          "100000",
+          1,
+          "105000",
+          1,
+          "110000",
+          2,
+          "115000",
+          1
+        ],
+        "start": 0.0,
+        "end": 200000.0,
+        "gap": 5000.0
+      },
+      "priceList.KEMP.finalPrice_d": {
+        "counts": [
+          "105000",
+          1,
+          "110000",
+          1,
+          "115000",
+          2,
+          "120000",
+          1
+        ],
+        "start": 0.0,
+        "end": 200000.0,
+        "gap": 5000.0
+      }
+    },
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  }
+}

@@ -1,0 +1,11 @@
+product_code,product_name,category,subcategory,asset_type,file_format,asset_url,local_path,http_status,download_ok,result
+10385IN-CP,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/10385IN.obj,data\3d_sample\source\10385IN-CP\10385IN.obj,200,True,404550 bytes
+11160T-1-0,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/11160T-1.obj,data\3d_sample\source\11160T-1-0\11160T-1.obj,200,True,366224 bytes
+11195T-0,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/11195T.obj,data\3d_sample\source\11195T-0\11195T.obj,200,True,1497899 bytes
+11479IN-VC1-0,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/11479IN-VC1.obj,data\3d_sample\source\11479IN-VC1-0\11479IN-VC1.obj,200,True,306618 bytes
+1188IN-C1-0,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/1188IN-C1.obj,data\3d_sample\source\1188IN-C1-0\1188IN-C1.obj,200,True,1238585 bytes
+13491T-4-RGD,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/13491T-4.obj,data\3d_sample\source\13491T-4-RGD\13491T-4.obj,200,True,1053118 bytes
+1360IN-H2-0,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/1360IN-H2.obj,data\3d_sample\source\1360IN-H2-0\1360IN-H2.obj,200,True,1879856 bytes
+13693-CP,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/13693.obj,data\3d_sample\source\13693-CP\13693.obj,200,True,754925 bytes
+1381T-S-0,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/1381T-S.obj,data\3d_sample\source\1381T-S-0\1381T-S.obj,200,True,750059 bytes
+1394IN-H2-0,,,,3D Model,OBJ,https://techcomm.kohler.com/techcomm/cad/1394IN-H2.obj,data\3d_sample\source\1394IN-H2-0\1394IN-H2.obj,200,True,1691072 bytes

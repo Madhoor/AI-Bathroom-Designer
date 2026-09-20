@@ -1,0 +1,11 @@
+product_code,obj_path,obj_size_bytes,load_ok,conversion_ok,vertices,faces,triangles_estimate,geometry_count,materials_detected,extent_x,extent_y,extent_z,plausible_units,glb_path,glb_size_bytes,error
+10385IN-CP,data\3d_sample\source\10385IN-CP\10385IN.obj,404550,True,True,7950,15302,15302,1,0,2.7514,6.277,1.7716,in,data\3d_sample\glb\10385IN-CP.glb,279764,
+11160T-1-0,data\3d_sample\source\11160T-1-0\11160T-1.obj,366224,True,True,7234,14400,14400,1,0,22.0948,17.7113,8.2417,"cm,in",data\3d_sample\glb\11160T-1-0.glb,260364,
+11195T-0,data\3d_sample\source\11195T-0\11195T.obj,1497899,True,True,27790,55003,55003,1,0,68.76859999999999,31.3667,26.0985,"cm,in",data\3d_sample\glb\11195T-0.glb,994268,
+11479IN-VC1-0,data\3d_sample\source\11479IN-VC1-0\11479IN-VC1.obj,306618,True,True,6033,12010,12010,1,0,22.981,18.2613,7.6272,"cm,in",data\3d_sample\glb\11479IN-VC1-0.glb,217276,
+1188IN-C1-0,data\3d_sample\source\1188IN-C1-0\1188IN-C1.obj,1238585,True,True,22509,44148,44148,1,0,75.0,41.0,25.0087,"cm,in",data\3d_sample\glb\1188IN-C1-0.glb,800588,
+13491T-4-RGD,data\3d_sample\source\13491T-4-RGD\13491T-4.obj,1053118,True,True,20081,39438,39438,1,0,13.5877,6.1399,5.9922,"cm,in",data\3d_sample\glb\13491T-4-RGD.glb,714968,
+1360IN-H2-0,data\3d_sample\source\1360IN-H2-0\1360IN-H2.obj,1879856,True,True,32784,63611,63611,1,0,74.9998,45.0,27.9743,"cm,in",data\3d_sample\glb\1360IN-H2-0.glb,1157476,
+13693-CP,data\3d_sample\source\13693-CP\13693.obj,754925,True,True,15028,27290,27290,1,0,10.4256,10.4256,3.7039,"cm,in",data\3d_sample\glb\13693-CP.glb,508548,
+1381T-S-0,data\3d_sample\source\1381T-S-0\1381T-S.obj,750059,True,True,14231,27643,27643,1,0,15.442599999999999,28.2606,26.8547,"cm,in",data\3d_sample\glb\1381T-S-0.glb,503228,
+1394IN-H2-0,data\3d_sample\source\1394IN-H2-0\1394IN-H2.obj,1691072,True,True,30436,59100,59100,1,0,66.0603,66.2358,28.028499999999998,"cm,in",data\3d_sample\glb\1394IN-H2-0.glb,1075192,

@@ -1,0 +1,10 @@
+product_code,attaches_to_role,attaches_to_surface,relation,source,confidence,notes
+T98071-4-BV,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+T9540-4-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+27477IN-4ND-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+73159IN-7-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+33059IN-4ND-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+33063IN-4ND-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+25757IN-4ND-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+25758IN-4ND-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.
+28514IN-ND-CP,bath,deck_mount,mounts_to,catalogue_metadata,0.95,Host role derived from explicit installation wording and controlled product role.

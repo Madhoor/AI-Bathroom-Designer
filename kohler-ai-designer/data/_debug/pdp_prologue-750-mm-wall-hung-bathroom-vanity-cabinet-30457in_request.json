@@ -1,0 +1,175 @@
+{
+  "product_url": "https://www.kohler.co.in/p/prologue-750-mm-wall-hung-bathroom-vanity-cabinet-30457in?skuId=30457IN-MWF",
+  "captured_count": 2,
+  "selected": {
+    "url": "https://www.kohler.co.in/apirequest/search/pdp/prologue-750-mm-wall-hung-bathroom-vanity-cabinet-30457in",
+    "status": 200,
+    "request_method": "POST",
+    "request_headers": {
+      ":authority": "www.kohler.co.in",
+      ":method": "POST",
+      ":path": "/apirequest/search/pdp/prologue-750-mm-wall-hung-bathroom-vanity-cabinet-30457in",
+      ":scheme": "https",
+      "accept": "application/json, text/plain, */*",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "authorization": "<present, length=388>",
+      "content-length": "3158",
+      "content-type": "application/json",
+      "cookie": "<present, length=5656>",
+      "origin": "https://www.kohler.co.in",
+      "priority": "u=1, i",
+      "referer": "https://www.kohler.co.in/p/prologue-750-mm-wall-hung-bathroom-vanity-cabinet-30457in?skuId=30457IN-MWF",
+      "sec-ch-ua": "\"Chromium\";v=\"151\", \"Not=A?Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "response_headers": {
+      "content-encoding": "gzip",
+      "etag": "W/\"9\"",
+      "expect-ct": "max-age=604800,enforce",
+      "x-content-type-options": "nosniff",
+      "x-fusion-query-id": "rCO4n5XipF",
+      "server-timing": "cdn-cache; desc=MISS, edge; dur=206, origin; dur=843, ak_p; desc=\"1789482909619_389543436_104761835_105137_12692_22_0_219\";dur=1",
+      "accept-encoding": "gzip",
+      "date": "Tue, 15 Sep 2026 14:35:10 GMT",
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "deny",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "script-src 'self' p11.techlab-cdn.com",
+      "cache-control": "no-cache, no-store",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "referrer-policy": "no-referrer",
+      "request-context": "appId=cid-v1:33007525-41ba-41d0-b43a-18af755d1ed5",
+      "access-control-allow-origin": "https://www.kohler.co.in",
+      "content-length": "1859",
+      "x-xss-protection": "1; mode=block"
+    },
+    "response": {
+      "response": {
+        "docs": [
+          {
+            "isCollapsedPDP_b": false,
+            "ProductResource.3DOBJ.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457IN.obj"
+            ],
+            "ProductResource.DXFFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457infrt.dxf"
+            ],
+            "redirectUrl_s": "https://shopkohler.in/products/prologue-vanity-750mm-natural-oak-finish",
+            "ProductWebInstallation_ss": [
+              "Wall-hung",
+              "Installation hardware included"
+            ],
+            "ProductOverallWidthInches_s": "29-1/8\"",
+            "ProductNarrativeDescription_s": "Incorporate the sculptural geometry of the Prologue™ collection into your bathroom. Inspired by the Bauhaus Movement, this tasteful bathroom vanity cabinet with two drawers is void of frills and instead embraces minimalist design. Pair with your choice of vanity top and vessel sink for a complete bathroom look (sold separately).",
+            "Color.SKU.Details_ss": [
+              "Natural Oak|swatch_MWF|30457IN-MWF|false|false|K-30457IN-MWF",
+              "Light Taupe|swatch_PSH|30457IN-PSH|true|2025-06-16T05:09:00Z|K-30457IN-PSH"
+            ],
+            "ProductBrandName_s": "Prologue™",
+            "ProductPackageContents_s": "1 WALL MOUNT CABINET; 1 HARDWARE KIT; 2 DRAWER MAT; 3 DRAWER TRAY; 1\nBOTTOM BASKET; 1 INSTALLATION GUIDE; 1 WARRANTY CARD",
+            "ProductResource.3DSketchup.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457IN.skp"
+            ],
+            "RegionSoldOnline_b": true,
+            "ProductServices_ss": [
+              "1600661"
+            ],
+            "ProductResource.InstallationWithoutSPPDF.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/1416228-IN7.pdf"
+            ],
+            "ProductResource.SpecPDFFileName.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/pdf/K-30457IN_spec_IN_Kohler_en.pdf"
+            ],
+            "ProductResource.3D3DS.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457IN.3ds"
+            ],
+            "productImages.labelWithUrl_ss": [
+              "30457IN-PSH|aaf78590_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78590_rgb",
+              "30457IN-PSH|aaf78587_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78587_rgb",
+              "30457IN-PSH|aaf78591_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78591_rgb",
+              "30457IN-MWF|aaf78585_rgb|IMGITEMISO||3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78585_rgb",
+              "30457IN-MWF|aaf78584_rgb|IMGITEMFRONT||front view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78584_rgb",
+              "30457IN-MWF|aaf78586_rgb|IMGITEMISOAlternative||alternative 3/4 view of product|https://kohler.scene7.com/is/image/PAWEB/aaf78586_rgb"
+            ],
+            "priceList.GST.finalPrice_d": 111099.0,
+            "SKUCountryofOrigin_s": "IN",
+            "priceList.KEMP.finalPrice_d": 116950.0,
+            "ProductOverallLengthInches_s": "22-13/16\"",
+            "ProductDescriptionProductShort_s": "75 cm wall-hung bathroom vanity cabinet",
+            "ProductResource.DXFPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457inpln.dxf"
+            ],
+            "ProductResource.DXFSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457insde.dxf"
+            ],
+            "productName_s": "Prologue™ 75 cm wall-hung bathroom vanity cabinet",
+            "ctId_s": "f722185b-3299-4186-a0f1-acb1362b0657",
+            "ProductWebFeatures_ss": [
+              "Two full-extension 12-1/2\" (31.9 cm) soft-close drawers with integrated pull handles",
+              "Built-in dividers in drawers to personalize organization",
+              "Deep bottom drawer provides ample storage for larger bathroom items",
+              "Clean and timeless design allows for use in any interior space",
+              "Pair with any vanity top cut to size and choice of KOHLER® vessel bathroom sink (sold separately)"
+            ],
+            "priceList.ANY.finalPrice_d": 116950.0,
+            "ProductResource.DWGSideView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457insde.dwg"
+            ],
+            "sku_s": "30457IN-MWF",
+            "ProductResource.3DRevit.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/Furniture-Wall_Mount-Vanity-KOHLER-Prologue-K-30457IN.rfa"
+            ],
+            "ProductResource.3DDXFSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457IN.dxf"
+            ],
+            "InstallationAvailable_s": "Yes",
+            "SKUShippingWidth_s": "67.000",
+            "InstallationCost_s": "",
+            "productDiscontinued_b": false,
+            "ProductProductNo_s": "30457IN",
+            "productInRiverId_s": "inRiver_2448269",
+            "priceList.CTR.finalPrice_d": 116950.0,
+            "Product_Category": "Vanities",
+            "CustomerFacingSKU_s": "K-30457IN-MWF",
+            "ProductBrandNameDisplay_s": "Prologue™",
+            "variantList.sku_ss": [
+              "30457IN-MWF",
+              "30457IN-PSH"
+            ],
+            "SKUShippingHeight_s": "54.000",
+            "ctProductType_s": "vanities",
+            "SKUShippingLength_s": "84.000",
+            "SKUIsProjectPack_s": "No",
+            "ProductResource.DWGPlanView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457inpln.dwg"
+            ],
+            "ProductWebMaterial_ss": [
+              "Wood composite cabinet",
+              "Durable finish resists moisture, scratches, and stains"
+            ],
+            "ProductResource.DWGFrontView.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457infrt.dwg"
+            ],
+            "ProductResource.3DDWGSymbol.resourceFullWebURL_ss": [
+              "https://techcomm.kohler.com/techcomm/cad/30457IN.dwg"
+            ],
+            "ProductOverallHeightInches_s": "16-15/16\"",
+            "id": "f722185b-3299-4186-a0f1-acb1362b0657|30457IN-MWF",
+            "RegionReleaseforShipment_dt": "2024-07-01T00:00:00Z"
+          }
+        ],
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true
+      }
+    }
+  }
+}

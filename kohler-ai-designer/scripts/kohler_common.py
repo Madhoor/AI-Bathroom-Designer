@@ -115,7 +115,7 @@ CATEGORY_REGISTRY: list[CategoryEntry] = [
     CategoryEntry("Toilet Area", "Two Piece", "toilets-twopiece",
                    "https://www.kohler.co.in/p/toilets/shop-two-piece", "product"),
     CategoryEntry("Basin Area", "Bathroom Vanity", "bathroom-vanity",
-                   "https://www.kohler.co.in/p/bathroom-vanity", "product"),
+                   "https://www.kohler.co.in/p/bathroom-vanity/shop-bathroom-vanities", "product"),
 
     # --- Combos (routed through the bundle extractor) -----------------
     CategoryEntry("Combos", "Bathroom Combos", "combos-bathroom",

@@ -1,0 +1,12 @@
+check,count,severity,notes
+explicit_relations,167,INFO,Relations extracted from normalized explicit catalogue fields.
+inferred_relations,0,INFO,No inferred relations were generated.
+resolved_target_products,0,INFO,Target reference matches a normalized product code.
+orphan_target_references,167,WARNING,References such as inRiver_* have no normalized product-code mapping.
+self_relations,0,INFO,Relations whose source and target are identical.
+duplicate_relations_removed,0,INFO,Duplicate source/target/type rows suppressed.
+products_without_assembly_role,0,WARNING,No supported category/subcategory role mapping was claimed.
+products_with_required_components,84,INFO,Products with explicit required_components values.
+assemblies_created,288,INFO,One assembly record created per role-supported product.
+assemblies_with_incomplete_components,204,WARNING,Assembly has only its base product or no resolved component mapping.
+unresolved_required_component_references,167,WARNING,Explicit required references retained without invented product links.

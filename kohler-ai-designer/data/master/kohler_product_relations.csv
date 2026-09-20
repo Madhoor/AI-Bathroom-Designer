@@ -1,0 +1,168 @@
+source_product_code,target_product_code,relation_type,source,confidence,target_resolved,notes
+15847T-0,inRiver_1336299,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336299
+1704T-Z-0,inRiver_1336299,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336299; inRiver_878644
+1704T-Z-0,inRiver_878644,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336299; inRiver_878644
+18776T-0,inRiver_1336299,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336299
+15848T-0,inRiver_1336299,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336299
+18778T-0,inRiver_1336299,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336299
+1418-V-0,inRiver_242826,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_242826; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1418-V-0,inRiver_213884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_242826; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1418-V-0,inRiver_213880,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_242826; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1418-V-0,inRiver_241232,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_242826; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1418-V-0,inRiver_1520238,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_242826; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1360IN-H2-0,inRiver_226220,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_226220; inRiver_241232; inRiver_242948; inRiver_247956; inRiver_1520238; inRiver_213884; inRiver_213880
+1360IN-H2-0,inRiver_241232,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_226220; inRiver_241232; inRiver_242948; inRiver_247956; inRiver_1520238; inRiver_213884; inRiver_213880
+1360IN-H2-0,inRiver_242948,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_226220; inRiver_241232; inRiver_242948; inRiver_247956; inRiver_1520238; inRiver_213884; inRiver_213880
+1360IN-H2-0,inRiver_247956,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_226220; inRiver_241232; inRiver_242948; inRiver_247956; inRiver_1520238; inRiver_213884; inRiver_213880
+1360IN-H2-0,inRiver_1520238,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_226220; inRiver_241232; inRiver_242948; inRiver_247956; inRiver_1520238; inRiver_213884; inRiver_213880
+1360IN-H2-0,inRiver_213884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_226220; inRiver_241232; inRiver_242948; inRiver_247956; inRiver_1520238; inRiver_213884; inRiver_213880
+1360IN-H2-0,inRiver_213880,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_226220; inRiver_241232; inRiver_242948; inRiver_247956; inRiver_1520238; inRiver_213884; inRiver_213880
+1394IN-H2-0,inRiver_247956,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_247956; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1394IN-H2-0,inRiver_213884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_247956; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1394IN-H2-0,inRiver_213880,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_247956; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1394IN-H2-0,inRiver_241232,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_247956; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1394IN-H2-0,inRiver_1520238,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_247956; inRiver_213884; inRiver_213880; inRiver_241232; inRiver_1520238
+1709IN-K-0,inRiver_1336299,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336299
+97367T-B4-CP,inRiver_879409,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_879409
+T9540-4-CP,inRiver_237832,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_237832; inRiver_239197
+T9540-4-CP,inRiver_239197,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_237832; inRiver_239197
+77963-8A-BL,inRiver_258692,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_258692; inRiver_258700; inRiver_258708; inRiver_258716; inRiver_258734
+77963-8A-BL,inRiver_258700,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_258692; inRiver_258700; inRiver_258708; inRiver_258716; inRiver_258734
+77963-8A-BL,inRiver_258708,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_258692; inRiver_258700; inRiver_258708; inRiver_258716; inRiver_258734
+77963-8A-BL,inRiver_258716,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_258692; inRiver_258700; inRiver_258708; inRiver_258716; inRiver_258734
+77963-8A-BL,inRiver_258734,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_258692; inRiver_258700; inRiver_258708; inRiver_258716; inRiver_258734
+5684IN-4ND-CP,inRiver_558780,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558780
+23486IN-4ND-CP,inRiver_558780,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558780
+5683IN-4ND-CP,inRiver_558780,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558780
+25759IN-4ND-CP,inRiver_558780,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558780
+25148IN-4ND-CP,inRiver_2491222,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2491222
+33103IN-4ND-CP,inRiver_2491222,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2491222
+27483IN-4ND-CP,inRiver_1482559,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482559
+27488IN-4ND-CP,inRiver_2491222,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2491222
+27487IN-4ND-CP,inRiver_2491222,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2491222
+26791IN-4ND-CP,inRiver_1482559,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482559
+27489IN-4ND-CP,inRiver_2491222,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2491222
+27481IN-4ND-CP,inRiver_1482559,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482559
+26284IN-AF,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+26284IN-AF,inRiver_2371536,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+16359IN-A-CP,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+16359IN-A-CP,inRiver_2371536,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+24717IN-CP,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+24717IN-CP,inRiver_2371536,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+72421IN-CP,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884
+98445IN-CP,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884
+98444IN-CP,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884
+97009IN-CP,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+97009IN-CP,inRiver_2371536,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+26286IN-G-AF,inRiver_1337884,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+26286IN-G-AF,inRiver_2371536,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337884; inRiver_2371536
+97009T-AF,inRiver_558981,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558981
+24717T-BL,inRiver_201659,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_201659; inRiver_241724; inRiver_242351; inRiver_242359
+24717T-BL,inRiver_241724,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_201659; inRiver_241724; inRiver_242351; inRiver_242359
+24717T-BL,inRiver_242351,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_201659; inRiver_241724; inRiver_242351; inRiver_242359
+24717T-BL,inRiver_242359,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_201659; inRiver_241724; inRiver_242351; inRiver_242359
+22166-CP,inRiver_241724,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_241724; inRiver_240804; inRiver_242359; inRiver_201659; inRiver_240787; inRiver_242351
+22166-CP,inRiver_240804,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_241724; inRiver_240804; inRiver_242359; inRiver_201659; inRiver_240787; inRiver_242351
+22166-CP,inRiver_242359,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_241724; inRiver_240804; inRiver_242359; inRiver_201659; inRiver_240787; inRiver_242351
+22166-CP,inRiver_201659,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_241724; inRiver_240804; inRiver_242359; inRiver_201659; inRiver_240787; inRiver_242351
+22166-CP,inRiver_240787,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_241724; inRiver_240804; inRiver_242359; inRiver_201659; inRiver_240787; inRiver_242351
+22166-CP,inRiver_242351,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_241724; inRiver_240804; inRiver_242359; inRiver_201659; inRiver_240787; inRiver_242351
+9301IN-CL-CP,inRiver_559635,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_558250; inRiver_1336469
+9301IN-CL-CP,inRiver_558250,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_558250; inRiver_1336469
+9301IN-CL-CP,inRiver_1336469,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_558250; inRiver_1336469
+9302IN-CL-CP,inRiver_559635,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635
+76465IN-BL,inRiver_2492049,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2492049
+27724IN-CP,inRiver_1337905,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337905
+26290IN-CP,inRiver_559461,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559461; inRiver_1482720; inRiver_1337905
+26290IN-CP,inRiver_1482720,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559461; inRiver_1482720; inRiver_1337905
+26290IN-CP,inRiver_1337905,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559461; inRiver_1482720; inRiver_1337905
+26855IN-CP,inRiver_559635,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26855IN-CP,inRiver_559628,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26855IN-CP,inRiver_2492049,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26855IN-CP,inRiver_2371559,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26855IN-CP,inRiver_877874,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+73199IN-CP,inRiver_559628,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_558250; inRiver_559635
+73199IN-CP,inRiver_558250,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_558250; inRiver_559635
+73199IN-CP,inRiver_559635,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_558250; inRiver_559635
+26856IN-CP,inRiver_559635,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26856IN-CP,inRiver_559628,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26856IN-CP,inRiver_2492049,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26856IN-CP,inRiver_2371559,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26856IN-CP,inRiver_877874,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559635; inRiver_559628; inRiver_2492049; inRiver_2371559; inRiver_877874
+26853IN-CP,inRiver_1337905,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337905
+24547IN-CP,inRiver_1337905,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337905
+73198IN-CP,inRiver_559628,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_558250; inRiver_559635
+73198IN-CP,inRiver_558250,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_558250; inRiver_559635
+73198IN-CP,inRiver_559635,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_558250; inRiver_559635
+18361IN-CL-AF,inRiver_559628,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628
+27731IN-CP,inRiver_1336470,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336470; inRiver_1336469
+27731IN-CP,inRiver_1336469,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336470; inRiver_1336469
+75924IN-CP,inRiver_1337905,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337905; inRiver_559461
+75924IN-CP,inRiver_559461,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337905; inRiver_559461
+26294IN-AF,inRiver_559628,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_559635; inRiver_558250
+26294IN-AF,inRiver_559635,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_559635; inRiver_558250
+26294IN-AF,inRiver_558250,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_559628; inRiver_559635; inRiver_558250
+72425IN-CP,inRiver_1337905,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1337905
+26296IN-AF,inRiver_1482276,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482276
+26297IN-CP,inRiver_1482276,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482276
+2349IN-FDL-96,inRiver_1933683,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1933683; inRiver_1730109
+2349IN-FDL-96,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1933683; inRiver_1730109
+C98,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C98,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C99,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C99,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C100,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C100,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C101,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C101,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C102,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C102,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C103,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+C103,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+21226IN-HP1,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+21226IN-HP1,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+21226IN-SS-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+21226IN-SS-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+2200IN-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+2200IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+5373IN-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+5373IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+25318IN-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+25318IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+25316IN-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+25316IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+75374IN-1-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+75374IN-1-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+75375IN-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+75375IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+28784IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+28784IN-0,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+28783IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+28783IN-0,inRiver_3086862,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1730109; inRiver_3086862
+31347IN-0,inRiver_2312522,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2312522; inRiver_3128234
+31347IN-0,inRiver_3128234,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_2312522; inRiver_3128234
+7799IN-FDL-0,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+7799IN-FDL-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+20704-0,inRiver_1933656,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1933656; inRiver_232048; inRiver_244082
+20704-0,inRiver_232048,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1933656; inRiver_232048; inRiver_244082
+20704-0,inRiver_244082,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1933656; inRiver_232048; inRiver_244082
+20703-0,inRiver_200827,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_200827; inRiver_1933656
+20703-0,inRiver_1933656,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_200827; inRiver_1933656
+C60,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+C60,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+20217IN-S-0,inRiver_1336387,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336387
+38785IN-0,inRiver_1336387,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1336387
+31458IN-0,inRiver_558305,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+31458IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+31460IN-0,inRiver_558305,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+31460IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+C63,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+C63,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+C5,inRiver_558305,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+C5,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+25317IN-0,inRiver_558305,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+25317IN-0,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_558305; inRiver_1730109
+C64,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+C64,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+C62,inRiver_1482653,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
+C62,inRiver_1730109,requires,kohler_api,1.0,false,Explicit normalized required_components reference: inRiver_1482653; inRiver_1730109
