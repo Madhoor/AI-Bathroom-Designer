@@ -2,7 +2,8 @@ import fs from "node:fs";
 import path from "node:path";
 import type { SpatialMetadataRecord } from "../constraints";
 import { assemblyFromCsvRows, productFromCsvRow, relationFromCsvRow } from "./adapters";
-import type { RecommendationCatalog } from "./types";
+import { resolveProductSemantics } from "../catalogue/productSemantics";
+import type { RecommendationCatalog, RecommendationProduct } from "./types";
 
 let cachedCatalog: { catalog: RecommendationCatalog; assetRows: Record<string, string>[] } | null = null;
 
@@ -75,8 +76,37 @@ export function loadMasterCatalog(baseDir = process.cwd()): {
   
   const products = productRows.map((row) => {
     const product = productFromCsvRow(row);
-    const metadata = spatialByCode.get(product.productCode);
-    return metadata ? { ...product, metadata } : product;
+    const rawMetadata = spatialByCode.get(product.productCode);
+
+    // Single Authoritative Semantic Classification Path for the entire system
+    const semantics = resolveProductSemantics({
+      productCode: product.productCode,
+      productName: product.productName,
+      category: product.category,
+      subcategory: product.subcategory,
+      installationType: product.installationType,
+      role: product.role,
+      metadata: rawMetadata ? {
+        role: rawMetadata.role,
+        bathroomZones: rawMetadata.bathroomZones,
+        mountSurface: rawMetadata.mountSurface,
+      } : undefined,
+    });
+
+    const metadata: SpatialMetadataRecord = {
+      productCode: product.productCode,
+      role: [semantics.role],
+      bathroomZones: [semantics.primaryZone],
+      mountSurface: semantics.mountSurface ? [semantics.mountSurface] : (rawMetadata?.mountSurface ?? []),
+      requiresHostProduct: rawMetadata?.requiresHostProduct ?? false,
+      hostRoles: rawMetadata?.hostRoles ?? [],
+    };
+
+    return {
+      ...product,
+      role: semantics.role,
+      metadata,
+    };
   });
 
   const relations = readCsv(masterDir, "kohler_product_relations_resolved.csv").map(relationFromCsvRow);
@@ -84,7 +114,7 @@ export function loadMasterCatalog(baseDir = process.cwd()): {
   const assetRows = readCsv(masterDir, "kohler_assets_normalized.csv");
 
   const constraintOptions = {
-    spatialMetadata: metadataFromRows(spatialRows),
+    spatialMetadata: products.map((p) => p.metadata),
     attachmentRules: readCsv(masterDir, "kohler_attachment_rules.csv").map((row) => ({
       productCode: row.product_code,
       attachesToRole: row.attaches_to_role,

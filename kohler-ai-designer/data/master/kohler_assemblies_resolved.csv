@@ -377,7 +377,7 @@ bathtub:28784IN-0,BATHTUB,required_component,,inRiver_3086862,true,kohler_api,1.
 bathtub:28783IN-0,BATHTUB,bathtub,28783IN-0,,true,explicit_catalogue,1.0,counter,true,resolved,Role supported by category=Basin Area; subcategory=Vessel Basin.
 bathtub:28783IN-0,BATHTUB,required_component,,inRiver_1730109,true,kohler_api,1.0,,false,unresolved,Explicit required_components reference; unresolved references are retained without product mapping.
 bathtub:28783IN-0,BATHTUB,required_component,,inRiver_3086862,true,kohler_api,1.0,,false,unresolved,Explicit required_components reference; unresolved references are retained without product mapping.
-bathtub:21060IN-0,BATHTUB,bathtub,21060IN-0,,true,explicit_catalogue,1.0,,true,resolved,Role supported by category=Basin Area; subcategory=Vessel Basin.
+basin:21060IN-0,BASIN,basin,21060IN-0,,true,explicit_catalogue,1.0,deck,true,resolved,Role supported by category=Basin Area; subcategory=Vessel Basin.
 bathtub:31347IN-0,BATHTUB,bathtub,31347IN-0,,true,explicit_catalogue,1.0,,true,resolved,Role supported by category=Basin Area; subcategory=Vessel Basin.
 bathtub:31347IN-0,BATHTUB,required_component,,inRiver_2312522,true,kohler_api,1.0,,false,unresolved,Explicit required_components reference; unresolved references are retained without product mapping.
 bathtub:31347IN-0,BATHTUB,required_component,,inRiver_3128234,true,kohler_api,1.0,,false,unresolved,Explicit required_components reference; unresolved references are retained without product mapping.

@@ -70,6 +70,90 @@ describe("Factual Product Semantics Layer", () => {
     });
   });
 
+  describe("Product 21060IN-0 Brazn Sink Protection", () => {
+    const braznSink = {
+      productCode: "21060IN-0",
+      productName: "Brazn™ 58.4 cm rectangular vessel bathroom sink",
+      category: "Basin Area",
+      subcategory: "Vessel Basin",
+      installationType: "Vessel",
+      metadata: {
+        role: ["bath"], // legacy corrupted CSV role
+        bathroomZones: ["bathtub"],
+      },
+    };
+
+    it("MUST classify 21060IN-0 as basin and NEVER as bath despite legacy corrupt metadata", () => {
+      const semantics = resolveProductSemantics(braznSink);
+      expect(semantics.role).toBe("basin");
+      expect(semantics.primaryZone).toBe("basin");
+      expect(semantics.mountSurface).toBe("deck");
+    });
+
+    it("ensures isProductEligibleForRole rejects bath for 21060IN-0", () => {
+      expect(isProductEligibleForRole(braznSink, "bath")).toBe(false);
+      expect(isProductEligibleForRole(braznSink, "basin")).toBe(true);
+      expect(isProductEligibleForRole(braznSink, "toilet")).toBe(false);
+    });
+  });
+
+  describe("General Sink & Bathroom Sink Classification", () => {
+    it("classifies products containing 'bathroom sink' in their name as basin", () => {
+      const genericSink = {
+        productCode: "SINK-001",
+        productName: "Modern rectangular vessel bathroom sink",
+        category: "Sanitaryware",
+        subcategory: "Vessels",
+      };
+      const semantics = resolveProductSemantics(genericSink);
+      expect(semantics.role).toBe("basin");
+      expect(semantics.primaryZone).toBe("basin");
+      expect(isProductEligibleForRole(genericSink, "bath")).toBe(false);
+      expect(isProductEligibleForRole(genericSink, "basin")).toBe(true);
+    });
+
+    it("never classifies a product as a bathtub merely because category contains 'wellness'", () => {
+      const wellnessSink = {
+        productCode: "WELLNESS-SINK-1",
+        productName: "Tranquil Oval Vessel Bathroom Sink",
+        category: "Wellness",
+        subcategory: "Vessel Basin",
+      };
+      const semantics = resolveProductSemantics(wellnessSink);
+      expect(semantics.role).toBe("basin");
+      expect(semantics.primaryZone).toBe("basin");
+      expect(semantics.role).not.toBe("bath");
+      expect(isProductEligibleForRole(wellnessSink, "bath")).toBe(false);
+      expect(isProductEligibleForRole(wellnessSink, "basin")).toBe(true);
+    });
+
+    it("ensures products containing 'bath' in their name but NOT being a bathtub are NOT bath", () => {
+      const bathSpout = {
+        productCode: "SPOUT-01",
+        productName: "Modern Bath Spout with Diverter",
+        category: "Faucets",
+      };
+      const bathTowelBar = {
+        productCode: "TOWEL-01",
+        productName: "24-inch Bath Towel Bar in Polished Chrome",
+        category: "Accessories",
+      };
+      const bathMat = {
+        productCode: "MAT-01",
+        productName: "Luxury Microfiber Bath Mat",
+        category: "Accessories",
+      };
+
+      expect(resolveProductSemantics(bathSpout).role).not.toBe("bath");
+      expect(resolveProductSemantics(bathTowelBar).role).not.toBe("bath");
+      expect(resolveProductSemantics(bathMat).role).not.toBe("bath");
+
+      expect(isProductEligibleForRole(bathSpout, "bath")).toBe(false);
+      expect(isProductEligibleForRole(bathTowelBar, "bath")).toBe(false);
+      expect(isProductEligibleForRole(bathMat, "bath")).toBe(false);
+    });
+  });
+
   describe("Bathtub Protection", () => {
     it("classifies real bathtubs as bath", () => {
       const semantics = resolveProductSemantics(reachBathtub);
@@ -113,6 +197,9 @@ describe("Factual Product Semantics Layer", () => {
       expect(semantics.role).toBe("faucet");
       expect(semantics.primaryZone).toBe("basin");
       expect(semantics.mountSurface).toBe("deck");
+      expect(isProductEligibleForRole(composedFaucet, "faucet")).toBe(true);
+      expect(isProductEligibleForRole(composedFaucet, "basin")).toBe(false);
+      expect(isProductEligibleForRole(composedFaucet, "bath")).toBe(false);
     });
 
     it("classifies bathtub spouts as bath_filler with wall mounting", () => {
@@ -120,12 +207,21 @@ describe("Factual Product Semantics Layer", () => {
       expect(semantics.role).toBe("bath_filler");
       expect(semantics.primaryZone).toBe("bath");
       expect(semantics.mountSurface).toBe("wall");
+      expect(isProductEligibleForRole(acclivBathSpout, "bath_filler")).toBe(true);
+      expect(isProductEligibleForRole(acclivBathSpout, "bath")).toBe(false);
+      expect(isProductEligibleForRole(acclivBathSpout, "faucet")).toBe(false);
     });
   });
 
   describe("Role Filtering API (getProductsForRole)", () => {
     const mixedProducts = [
       forefrontSink,
+      {
+        productCode: "21060IN-0",
+        productName: "Brazn™ 58.4 cm rectangular vessel bathroom sink",
+        category: "Basin Area",
+        subcategory: "Vessel Basin",
+      },
       reachBathtub,
       innateToilet,
       modernLifeRainhead,
@@ -133,17 +229,19 @@ describe("Factual Product Semantics Layer", () => {
       acclivBathSpout,
     ];
 
-    it("returns only genuine bathtubs for bath role, excluding 2749T-1-0", () => {
+    it("returns only genuine bathtubs for bath role, excluding 2749T-1-0 and 21060IN-0", () => {
       const baths = getProductsForRole("bath", mixedProducts);
       expect(baths.length).toBe(1);
       expect(baths[0].productCode).toBe("15847T-0");
       expect(baths.some((p) => p.productCode === "2749T-1-0")).toBe(false);
+      expect(baths.some((p) => p.productCode === "21060IN-0")).toBe(false);
     });
 
-    it("returns 2749T-1-0 when filtering for basin role", () => {
+    it("returns both 2749T-1-0 and 21060IN-0 when filtering for basin role", () => {
       const basins = getProductsForRole("basin", mixedProducts);
-      expect(basins.length).toBe(1);
-      expect(basins[0].productCode).toBe("2749T-1-0");
+      expect(basins.length).toBe(2);
+      expect(basins.some((p) => p.productCode === "2749T-1-0")).toBe(true);
+      expect(basins.some((p) => p.productCode === "21060IN-0")).toBe(true);
     });
 
     it("returns toilets when filtering for toilet role", () => {

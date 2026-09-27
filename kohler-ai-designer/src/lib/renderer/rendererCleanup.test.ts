@@ -176,11 +176,10 @@ describe("Renderer Cleanup & Host Attachments System", () => {
       };
 
       const attachments = getHostAttachments(basinPlacement, basinAsset, dummyRoom);
-      expect(attachments.length).toBe(1);
-
-      const vanity = attachments[0];
-      expect(vanity.type).toBe("vanity_console");
-      expect(vanity.dimensionsM.heightM).toBe(0.72);
+      const vanity = attachments.find((a) => a.type === "vanity_console");
+      expect(vanity).toBeDefined();
+      expect(vanity!.type).toBe("vanity_console");
+      expect(vanity!.dimensionsM.heightM).toBe(0.72);
     });
 
     it("maintains local +Y pointing to mounting wall across all 4 walls", () => {

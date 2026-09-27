@@ -75,6 +75,73 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
   const installType = (product.installationType ?? "").trim().toLowerCase();
   const explicitRole = (product.role ?? product.metadata?.role?.[0] ?? "").trim().toLowerCase();
 
+  const isBathFillerSubcategory =
+    subcategory.includes("bathtub faucets") ||
+    subcategory.includes("bath spout") ||
+    subcategory.includes("bath filler") ||
+    subcategory.includes("tub spout") ||
+    subcategory.includes("tub filler");
+
+  const isFaucetSubcategory =
+    !isBathFillerSubcategory &&
+    (subcategory.includes("faucet") ||
+      subcategory.includes("faucets") ||
+      subcategory.includes("single control") ||
+      subcategory.includes("tall faucets") ||
+      subcategory.includes("widespread"));
+
+  const isBathFiller =
+    isBathFillerSubcategory ||
+    productName.includes("bath spout") ||
+    productName.includes("bath filler") ||
+    productName.includes("tub spout") ||
+    productName.includes("tub filler") ||
+    explicitRole === "bath_filler";
+
+  const isFaucet =
+    !isBathFiller &&
+    (isFaucetSubcategory ||
+      productName.includes("faucet") ||
+      productName.includes("tap") ||
+      explicitRole === "faucet");
+
+  const isVanity =
+    !isBathFiller &&
+    !isFaucet &&
+    subcategory.includes("vanity") &&
+    !subcategory.includes("basin");
+
+  const isSinkOrBasinSubcategory =
+    !isBathFiller &&
+    !isFaucet &&
+    !isVanity &&
+    (subcategory.includes("basin") ||
+      subcategory.includes("sink") ||
+      subcategory.includes("lavatory") ||
+      subcategory.includes("washbasin") ||
+      subcategory.includes("vessel") ||
+      subcategory.includes("undermount") ||
+      subcategory.includes("vanity top") ||
+      subcategory.includes("semi recessed"));
+
+  const isSinkOrBasinName =
+    !isBathFiller &&
+    !isFaucet &&
+    !isVanity &&
+    (productName.includes("sink") ||
+      productName.includes("lavatory") ||
+      productName.includes("washbasin") ||
+      productName.includes("basin"));
+
+  const isSinkOrBasinCategory =
+    !isBathFiller &&
+    !isFaucet &&
+    !isVanity &&
+    (category.includes("basin") ||
+      category.includes("washbasin") ||
+      category.includes("sink") ||
+      category.includes("lavatory"));
+
   // -------------------------------------------------------------------------
   // 1. TOILET AREA
   // -------------------------------------------------------------------------
@@ -85,7 +152,7 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
     subcategory.includes("two piece") ||
     subcategory.includes("wall hung") ||
     subcategory.includes("smart toilet") ||
-    explicitRole === "toilet"
+    (explicitRole === "toilet" && !isSinkOrBasinSubcategory && !isSinkOrBasinName && !isFaucet && !isBathFiller)
   ) {
     const isWallHung = subcategory.includes("wall hung") || installType.includes("wall-hung");
     return {
@@ -98,55 +165,20 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
   }
 
   // -------------------------------------------------------------------------
-  // 2. WELLNESS / BATH AREA (BATHTUBS)
+  // 2. BASIN AREA (VANITIES, BASINS, FAUCETS, SPOUTS)
+  // Evaluated BEFORE Wellness/Bathtub to prevent sinks in any category from becoming baths
   // -------------------------------------------------------------------------
   if (
-    category.includes("wellness") ||
-    subcategory.includes("bathtubs") ||
-    subcategory.includes("drop-in bathtubs") ||
-    subcategory.includes("freestanding bathtubs") ||
-    explicitRole === "bath" ||
-    explicitRole === "bathtub"
+    isBathFiller ||
+    isFaucet ||
+    isVanity ||
+    isSinkOrBasinCategory ||
+    isSinkOrBasinSubcategory ||
+    isSinkOrBasinName ||
+    explicitRole === "basin"
   ) {
-    const isFreestanding = subcategory.includes("freestanding") || installType.includes("freestanding");
-    return {
-      role: "bath",
-      mountSurface: isFreestanding ? "freestanding" : "floor",
-      primaryZone: "bath",
-      confidence: "authoritative_catalogue",
-      classificationReason: `Wellness / Bathtub classification: ${product.subcategory ?? product.category ?? explicitRole}`,
-    };
-  }
-
-  // -------------------------------------------------------------------------
-  // 3. BASIN AREA (VANITIES, BASINS, FAUCETS, SPOUTS)
-  // -------------------------------------------------------------------------
-  if (
-    category.includes("basin") ||
-    category.includes("washbasin") ||
-    explicitRole === "basin" ||
-    explicitRole === "faucet" ||
-    explicitRole === "vanity" ||
-    explicitRole === "bath_filler"
-  ) {
-    // 3A. Vanities & Cabinets
-    if (subcategory.includes("vanity") && !subcategory.includes("basin")) {
-      const isWallHung = installType.includes("wall-hung") || productName.includes("wall-hung");
-      return {
-        role: "vanity",
-        mountSurface: isWallHung ? "wall" : "floor",
-        primaryZone: "basin",
-        confidence: "authoritative_catalogue",
-        classificationReason: `Basin Area bathroom vanity classification: ${product.subcategory}`,
-      };
-    }
-
-    // 3B. Bathtub Faucets / Spouts (under Basin Area category in KOHLER India)
-    if (
-      subcategory.includes("bathtub faucets") ||
-      subcategory.includes("bath spout") ||
-      explicitRole === "bath_filler"
-    ) {
+    // 2A. Bathtub Faucets / Spouts (often categorized under Basin Area in KOHLER India)
+    if (isBathFiller) {
       const isWallMount = installType.includes("wall-mount") || productName.includes("wall-mount");
       return {
         role: "bath_filler",
@@ -157,16 +189,9 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
       };
     }
 
-    // 3C. Basin Faucets (Single Control, Tall, Wall-Mount, Widespread)
-    if (
-      subcategory.includes("faucet") ||
-      subcategory.includes("faucets") ||
-      subcategory.includes("single control") ||
-      subcategory.includes("tall faucets") ||
-      subcategory.includes("widespread") ||
-      explicitRole === "faucet"
-    ) {
-      const isWallMount = subcategory.includes("wall-mount") || installType.includes("wall-mount");
+    // 2B. Basin Faucets (Single Control, Tall, Wall-Mount, Widespread)
+    if (isFaucet) {
+      const isWallMount = subcategory.includes("wall-mount") || installType.includes("wall-mount") || productName.includes("wall-mount");
       return {
         role: "faucet",
         mountSurface: isWallMount ? "wall" : "deck",
@@ -176,27 +201,31 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
       };
     }
 
-    // 3D. Basins & Sinks
-    if (
-      subcategory.includes("basin") ||
-      subcategory.includes("sink") ||
-      subcategory.includes("lavatory") ||
-      explicitRole === "basin" ||
-      !subcategory
-    ) {
-      const isWallMount = subcategory.includes("wall mount") || installType.includes("wall-mount");
+    // 2C. Vanities & Cabinets
+    if (isVanity) {
+      const isWallHung = installType.includes("wall-hung") || productName.includes("wall-hung");
       return {
-        role: "basin",
-        mountSurface: isWallMount ? "wall" : "deck",
+        role: "vanity",
+        mountSurface: isWallHung ? "wall" : "floor",
         primaryZone: "basin",
         confidence: "authoritative_catalogue",
-        classificationReason: `Basin Area lavatory/sink classification: ${product.subcategory ?? "Basin"}`,
+        classificationReason: `Basin Area bathroom vanity classification: ${product.subcategory}`,
       };
     }
+
+    // 2D. Basins & Sinks (default for Basin Area or sink/basin subcategories/names)
+    const isWallMount = subcategory.includes("wall mount") || installType.includes("wall-mount") || productName.includes("wall-hung");
+    return {
+      role: "basin",
+      mountSurface: isWallMount ? "wall" : "deck",
+      primaryZone: "basin",
+      confidence: "authoritative_catalogue",
+      classificationReason: `Basin Area lavatory/sink classification: ${product.subcategory || product.category || "Basin"}`,
+    };
   }
 
   // -------------------------------------------------------------------------
-  // 4. SHOWERING AREA (RAINHEADS, SHOWERHEADS, HAND SHOWERS, DOORS)
+  // 3. SHOWERING AREA (RAINHEADS, SHOWERHEADS, HAND SHOWERS, DOORS)
   // -------------------------------------------------------------------------
   if (
     category.includes("showering") ||
@@ -259,8 +288,40 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
     }
   }
 
-  // Direct explicit role fallback
-  if (explicitRole) {
+  // -------------------------------------------------------------------------
+  // 4. BATHTUBS (WELLNESS / BATH AREA)
+  // Rules:
+  // - Never classify as bathtub merely because category contains "wellness".
+  // - A bathtub MUST have authoritative bathtub evidence (explicit subcategory or verified role).
+  // - Explicit role bath/bathtub is ONLY trusted if there is no conflicting sink/faucet evidence.
+  // -------------------------------------------------------------------------
+  const isAuthoritativeBathtubSubcat =
+    subcategory.includes("bathtubs") ||
+    subcategory.includes("drop-in bathtubs") ||
+    subcategory.includes("freestanding bathtubs") ||
+    subcategory.includes("alcove bathtubs") ||
+    subcategory.includes("whirlpools") ||
+    subcategory.includes("whirlpool");
+
+  const hasNoSinkEvidence = !isSinkOrBasinSubcategory && !isSinkOrBasinName && !isSinkOrBasinCategory;
+
+  if (
+    isAuthoritativeBathtubSubcat ||
+    ((explicitRole === "bath" || explicitRole === "bathtub") && hasNoSinkEvidence) ||
+    (category.includes("wellness") && isAuthoritativeBathtubSubcat)
+  ) {
+    const isFreestanding = subcategory.includes("freestanding") || installType.includes("freestanding") || productName.includes("freestanding");
+    return {
+      role: "bath",
+      mountSurface: isFreestanding ? "freestanding" : "floor",
+      primaryZone: "bath",
+      confidence: "authoritative_catalogue",
+      classificationReason: `Bathtub classification: ${product.subcategory || product.category || explicitRole}`,
+    };
+  }
+
+  // Direct explicit role fallback (guarded against corrupt bath tags)
+  if (explicitRole && explicitRole !== "bath" && explicitRole !== "bathtub") {
     for (const validRole of PRODUCT_SEMANTIC_ROLES) {
       if (explicitRole === validRole) {
         return {
@@ -275,7 +336,7 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
   }
 
   // -------------------------------------------------------------------------
-  // 5. INFERRED FROM PRODUCT NAME / SPECIFICATIONS
+  // 5. INFERRED FROM PRODUCT NAME / SPECIFICATIONS (LAST-RESORT FALLBACK ONLY)
   // -------------------------------------------------------------------------
   if (productName.includes("toilet") || productName.includes("commode") || productName.includes("closet")) {
     return {
@@ -287,30 +348,32 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
     };
   }
 
-  if (productName.includes("bath") && !productName.includes("bathroom sink") && !productName.includes("bath spout")) {
+  // Basin / Sink inference (MUST precede bath inference to prevent "bathroom sink" matching bath)
+  if (isSinkOrBasinName) {
+    const isWallMount = productName.includes("wall-hung") || productName.includes("wall-mount") || installType.includes("wall-mount");
     return {
-      role: "bath",
-      mountSurface: productName.includes("freestanding") ? "freestanding" : "floor",
-      primaryZone: "bath",
+      role: "basin",
+      mountSurface: isWallMount ? "wall" : "deck",
+      primaryZone: "basin",
       confidence: "inferred_specification",
-      classificationReason: `Product name inference: bathtub`,
+      classificationReason: `Product name inference: basin/sink fixture`,
     };
   }
 
-  if (productName.includes("sink") || productName.includes("lavatory") || productName.includes("basin")) {
+  if (productName.includes("bath spout") || productName.includes("bath filler") || productName.includes("tub spout")) {
     return {
-      role: "basin",
-      mountSurface: "deck",
-      primaryZone: "basin",
+      role: "bath_filler",
+      mountSurface: productName.includes("wall-mount") ? "wall" : "deck",
+      primaryZone: "bath",
       confidence: "inferred_specification",
-      classificationReason: `Product name inference: basin/sink`,
+      classificationReason: `Product name inference: bath filler`,
     };
   }
 
   if (productName.includes("faucet") || productName.includes("tap")) {
     return {
       role: "faucet",
-      mountSurface: "deck",
+      mountSurface: productName.includes("wall-mount") ? "wall" : "deck",
       primaryZone: "basin",
       confidence: "inferred_specification",
       classificationReason: `Product name inference: faucet`,
@@ -324,6 +387,37 @@ export function resolveProductSemantics(product: ProductInputLike): ResolvedProd
       primaryZone: "shower",
       confidence: "inferred_specification",
       classificationReason: `Product name inference: rainhead`,
+    };
+  }
+
+  // Bathtub name inference: requires strict bathtub evidence and must NEVER match "bathroom sink", "bathroom basin", bath accessories, mats, towels, etc.
+  const isNonBathtubBathPhrase =
+    productName.includes("bathroom") ||
+    productName.includes("bath spout") ||
+    productName.includes("bath filler") ||
+    productName.includes("bath towel") ||
+    productName.includes("towel") ||
+    productName.includes("bath sheet") ||
+    productName.includes("bath mat") ||
+    productName.includes("mat") ||
+    productName.includes("accessory");
+
+  const isGenuineBathtubName =
+    (productName.includes("bathtub") ||
+      productName.includes("bath tub") ||
+      productName.includes("freestanding bath") ||
+      productName.includes("drop-in bath") ||
+      productName.includes("whirlpool bath")) &&
+    !isNonBathtubBathPhrase;
+
+  if (isGenuineBathtubName) {
+    const isFreestanding = productName.includes("freestanding") || installType.includes("freestanding");
+    return {
+      role: "bath",
+      mountSurface: isFreestanding ? "freestanding" : "floor",
+      primaryZone: "bath",
+      confidence: "inferred_specification",
+      classificationReason: `Product name inference: genuine bathtub`,
     };
   }
 

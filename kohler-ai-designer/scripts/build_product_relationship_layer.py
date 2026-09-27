@@ -82,18 +82,18 @@ def classify(row: dict[str, str]) -> tuple[str | None, str | None]:
         if "valve" in text or "diverter" in text:
             return "SHOWER", "diverter" if "diverter" in text else "shower_valve"
         return "SHOWER", "showerhead"
-    if "wellness" in category or "bath" in text:
-        if "faucet" in text or "filler" in text:
-            return "FAUCET", "bath_filler"
-        if "drain" in text:
-            return "BATHTUB", "bath_drain"
-        return "BATHTUB", "bathtub"
-    if "basin" in category or "sink" in text or "washbasin" in text:
+    if "basin" in category or "sink" in text or "washbasin" in text or "lavatory" in text or "vessel" in text:
         if "faucet" in text or "tap" in text:
             return "FAUCET", "basin_faucet"
         if "drain" in text:
             return "BASIN", "basin_drain"
         return "BASIN", "basin"
+    if "bathtub" in text or "bath tub" in text or ("wellness" in category and ("bath" in text or "whirlpool" in text)) or (("freestanding bath" in text or "drop-in bath" in text) and "sink" not in text):
+        if "faucet" in text or "filler" in text or "spout" in text:
+            return "FAUCET", "bath_filler"
+        if "drain" in text:
+            return "BATHTUB", "bath_drain"
+        return "BATHTUB", "bathtub"
     if "vanity" in text:
         return "VANITY", "vanity"
     if "mirror" in text:

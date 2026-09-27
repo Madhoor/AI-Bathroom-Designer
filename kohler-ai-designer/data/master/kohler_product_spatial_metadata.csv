@@ -215,7 +215,7 @@ R24717T-MU-BL,hand_shower,shower,,,false,,false,false,false,catalogue_metadata,0
 2883-0,bath,bathtub,,Undermount,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 2214IN-0,bath,bathtub,counter,Requires countertop cutout; Undermount,false,,false,false,false,catalogue_metadata,0.95,Explicit counter/single-hole mounting wording. Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 14031-BU-96,basin_faucet;faucet,basin,,Vanity top,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
-2749T-1-0,bath,bathtub,,Vessel,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
+2749T-1-0,basin,basin,deck,Vessel,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 C98,accessory,basin,,,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 C99,accessory,basin,,,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 C100,accessory,basin,,,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
@@ -237,7 +237,7 @@ C103,accessory,basin,,,false,,false,false,false,catalogue_metadata,0.85,Role and
 75375IN-0,bath,bathtub,counter,Vessel; Requires countertop cutout,false,,false,false,false,catalogue_metadata,0.95,Explicit counter/single-hole mounting wording. Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 28784IN-0,bath,bathtub,counter,Semi-recessed vessel; Drops partially below vanity top; requires countertop cutout,false,,false,false,false,catalogue_metadata,0.95,Explicit counter/single-hole mounting wording. Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 28783IN-0,bath,bathtub,counter,Semi-recessed vessel; Drops partially below vanity top; requires countertop cutout,false,,false,false,false,catalogue_metadata,0.95,Explicit counter/single-hole mounting wording. Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
-21060IN-0,bath,bathtub,,Vessel,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
+21060IN-0,basin,basin,deck,Vessel,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 31347IN-0,bath,bathtub,,Vessel,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 76600IN-0,bath,bathtub,counter,Requires countertop cutout; Vessel,false,,false,false,false,catalogue_metadata,0.95,Explicit counter/single-hole mounting wording. Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.
 7799IN-FDL-0,bath,bathtub,,Vessel,false,,false,false,false,catalogue_metadata,0.85,Role and zone are category/subcategory metadata mappings; no product compatibility is inferred.

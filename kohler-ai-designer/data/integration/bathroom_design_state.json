@@ -10,44 +10,46 @@
   },
   "selectedProducts": [
     {
-      "productCode": "29777IN-0",
-      "productName": "Innate™ One-piece elongated smart toilet, dual-flush",
-      "category": "Toilet Area",
-      "subcategory": "One Piece",
-      "currentPrice": 379999,
+      "productCode": "21060IN-0",
+      "productName": "Brazn™ 58.4 cm rectangular vessel bathroom sink",
+      "category": "Basin Area",
+      "subcategory": "Vessel Basin",
+      "currentPrice": 16799,
       "currency": "INR",
-      "widthMm": 411.16,
-      "depthMm": 428.62,
-      "heightMm": 619.12,
+      "widthMm": 584.2,
+      "depthMm": 406.4,
+      "heightMm": 339.72,
       "finish": "White",
       "styles": [],
       "metadata": {
-        "productCode": "29777IN-0",
+        "productCode": "21060IN-0",
         "role": [
-          "toilet"
+          "basin"
         ],
         "bathroomZones": [
-          "toilet"
+          "basin"
         ],
-        "mountSurface": [],
+        "mountSurface": [
+          "deck"
+        ],
         "requiresHostProduct": false,
         "hostRoles": []
       }
     },
     {
-      "productCode": "29961IN-CP",
-      "productName": "ModernLife Edge™ 42.5 cm x 33 cm two-function rainhead, 2.0 and 11.5 lpm",
+      "productCode": "24470IN-CP",
+      "productName": "ModernLife™ Rectangular 33 cm x 23 cm two-function rainhead, 12.0 lpm",
       "category": "Showering Area",
       "subcategory": "Showerheads",
-      "currentPrice": 83999,
+      "currentPrice": 33599,
       "currency": "INR",
-      "widthMm": 427.04,
-      "depthMm": 330.2,
-      "heightMm": 104.77,
+      "widthMm": 330.2,
+      "depthMm": 230.19,
+      "heightMm": 63.5,
       "finish": "Polished Chrome",
       "styles": [],
       "metadata": {
-        "productCode": "29961IN-CP",
+        "productCode": "24470IN-CP",
         "role": [
           "rainhead"
         ],
@@ -62,28 +64,26 @@
       }
     },
     {
-      "productCode": "90011T-0",
-      "productName": "Mica™ Vessel sink",
-      "category": "Basin Area",
-      "subcategory": "Vessel Basin",
-      "currentPrice": 16799,
+      "productCode": "28529IN-0",
+      "productName": "Leap™ One-piece round-front smart toilet, dual-flush",
+      "category": "Toilet Area",
+      "subcategory": "Smart Toilet",
+      "currentPrice": 446499,
       "currency": "INR",
-      "widthMm": 393.7,
-      "depthMm": 149.22,
-      "heightMm": 158.75,
+      "widthMm": 679.45,
+      "depthMm": 368.3,
+      "heightMm": 490.54,
       "finish": "White",
       "styles": [],
       "metadata": {
-        "productCode": "90011T-0",
+        "productCode": "28529IN-0",
         "role": [
-          "basin"
+          "toilet"
         ],
         "bathroomZones": [
-          "basin"
+          "toilet"
         ],
-        "mountSurface": [
-          "floor"
-        ],
+        "mountSurface": [],
         "requiresHostProduct": false,
         "hostRoles": []
       }
@@ -91,34 +91,35 @@
   ],
   "selectedAssemblies": [
     {
-      "assemblyId": "basin:90011T-0",
-      "productCode": "90011T-0",
+      "assemblyId": "basin:21060IN-0",
+      "productCode": "21060IN-0",
+      "installationSurface": "deck",
       "components": [
         {
-          "productCode": "90011T-0",
+          "productCode": "21060IN-0",
           "required": true,
           "referenceResolved": true
         }
       ]
     },
     {
-      "assemblyId": "shower:29961IN-CP",
-      "productCode": "29961IN-CP",
+      "assemblyId": "shower:24470IN-CP",
+      "productCode": "24470IN-CP",
       "installationSurface": "ceiling",
       "components": [
         {
-          "productCode": "29961IN-CP",
+          "productCode": "24470IN-CP",
           "required": true,
           "referenceResolved": true
         }
       ]
     },
     {
-      "assemblyId": "toilet:29777IN-0",
-      "productCode": "29777IN-0",
+      "assemblyId": "toilet:28529IN-0",
+      "productCode": "28529IN-0",
       "components": [
         {
-          "productCode": "29777IN-0",
+          "productCode": "28529IN-0",
           "required": true,
           "referenceResolved": true
         }
@@ -127,36 +128,13 @@
   ],
   "placements": [
     {
-      "productCode": "90011T-0",
-      "role": "basin",
-      "zone": "basin",
-      "position": {
-        "x": -0.97235,
-        "y": -0.7897900000000001,
-        "z": 0
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "footprint": {
-        "widthM": 0.3937,
-        "depthM": 0.14922,
-        "heightM": 0.15875
-      },
-      "placementSurface": "floor",
-      "source": "factual_surface",
-      "validationStatus": "valid"
-    },
-    {
-      "productCode": "29961IN-CP",
+      "productCode": "24470IN-CP",
       "role": "rainhead",
       "zone": "shower",
       "position": {
-        "x": 0,
-        "y": 0,
-        "z": 2.6384300000000005
+        "x": 0.7496,
+        "y": -0.4344000000000001,
+        "z": 2.6797000000000004
       },
       "rotation": {
         "x": 0,
@@ -164,21 +142,21 @@
         "z": 0
       },
       "footprint": {
-        "widthM": 0.42704000000000003,
-        "depthM": 0.3302,
-        "heightM": 0.10477
+        "widthM": 0.3302,
+        "depthM": 0.23019,
+        "heightM": 0.0635
       },
       "placementSurface": "ceiling",
       "source": "factual_surface",
       "validationStatus": "valid"
     },
     {
-      "productCode": "29777IN-0",
-      "role": "toilet",
-      "zone": "toilet",
+      "productCode": "21060IN-0",
+      "role": "basin",
+      "zone": "basin",
       "position": {
-        "x": 0.96362,
-        "y": -0.6500900000000001,
+        "x": -0.8771,
+        "y": -0.6612,
         "z": 0
       },
       "rotation": {
@@ -187,16 +165,39 @@
         "z": 0
       },
       "footprint": {
-        "widthM": 0.41116,
-        "depthM": 0.42862,
-        "heightM": 0.61912
+        "widthM": 0.5842,
+        "depthM": 0.4064,
+        "heightM": 0.33972
+      },
+      "placementSurface": "unknown",
+      "source": "generic_zone_heuristic",
+      "validationStatus": "valid"
+    },
+    {
+      "productCode": "28529IN-0",
+      "role": "toilet",
+      "zone": "toilet",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "footprint": {
+        "widthM": 0.67945,
+        "depthM": 0.3683,
+        "heightM": 0.49054000000000003
       },
       "placementSurface": "unknown",
       "source": "generic_zone_heuristic",
       "validationStatus": "valid"
     }
   ],
-  "totalProductCost": 480797,
+  "totalProductCost": 496897,
   "budget": 500000,
   "style": "Luxury Modern",
   "warnings": [
@@ -205,6 +206,25 @@
   "validation": {
     "valid": true,
     "errors": [],
-    "warnings": []
+    "warnings": [
+      {
+        "type": "MINIMUM_CLEARANCE",
+        "severity": "warning",
+        "productCodes": [
+          "24470IN-CP",
+          "28529IN-0"
+        ],
+        "message": "Products are closer than the generic design clearance of 0.60 m."
+      },
+      {
+        "type": "MINIMUM_CLEARANCE",
+        "severity": "warning",
+        "productCodes": [
+          "21060IN-0",
+          "28529IN-0"
+        ],
+        "message": "Products are closer than the generic design clearance of 0.60 m."
+      }
+    ]
   }
 }

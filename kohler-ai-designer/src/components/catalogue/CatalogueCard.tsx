@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import dynamic from "next/dynamic";
 import type { CatalogueProduct } from "@/lib/catalogue";
+import { resolveProductSemantics } from "@/lib/catalogue/productSemantics";
 
 const Product3DViewer = dynamic(() => import("./Product3DViewer"), {
   ssr: false,
@@ -114,9 +115,17 @@ export default function CatalogueCard({
 
       {/* Content Details */}
       <div className="flex flex-1 flex-col">
-        {/* Category & Collection */}
+        {/* Category & Semantic Role */}
         <div className="mb-2 flex flex-wrap items-center gap-2">
-          <span className="text-[11px] font-medium uppercase tracking-wider text-[#c49a45]">
+          {(() => {
+            const semantics = resolveProductSemantics(product);
+            return (
+              <span className="rounded bg-[#c49a45]/20 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-[#f0d8a8] border border-[#c49a45]/40">
+                {semantics.role.replace(/_/g, " ")}
+              </span>
+            );
+          })()}
+          <span className="text-[11px] font-medium uppercase tracking-wider text-stone-400">
             {product.category}
           </span>
           {product.collection && (

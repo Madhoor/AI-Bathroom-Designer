@@ -2,6 +2,7 @@
 
 import React from "react";
 import type { DesignState } from "@/lib/design";
+import { resolveProductSemantics } from "@/lib/catalogue/productSemantics";
 
 interface ProductBreakdownSectionProps {
   designState: DesignState;
@@ -66,8 +67,10 @@ export default function ProductBreakdownSection({
         <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
           {designState.selectedProducts.map((product) => {
             const placement = designState.placements.find((p) => p.productCode === product.productCode);
-            const roles = product.metadata?.role ?? [];
-            const roleLabel = roles.length > 0 ? roles.join(" • ") : product.category ?? "Sanitaryware";
+            const semantics = resolveProductSemantics(product);
+            const roleLabel = semantics.role !== "unknown"
+              ? semantics.role.replace(/_/g, " ")
+              : (product.metadata?.role?.[0] ?? product.category ?? "Sanitaryware");
             const isFocused = focusedProductCode === product.productCode;
 
             return (

@@ -88,15 +88,7 @@ def classify(row: dict[str, str]) -> tuple[list[str], list[str]]:
             add_unique(roles, "shower_valve")
         else:
             add_unique(roles, "showerhead")
-    elif "wellness" in category or "bath" in text:
-        add_unique(zones, "bathtub")
-        if "faucet" in text or "filler" in text:
-            add_unique(roles, "bath_filler")
-        elif "drain" in text:
-            add_unique(roles, "bath_drain")
-        else:
-            add_unique(roles, "bath")
-    elif "basin" in category or "sink" in text or "washbasin" in text:
+    elif "basin" in category or "sink" in text or "washbasin" in text or "lavatory" in text or "vessel" in text:
         add_unique(zones, "basin")
         if "faucet" in text or "tap" in text:
             add_unique(roles, "basin_faucet")
@@ -105,6 +97,14 @@ def classify(row: dict[str, str]) -> tuple[list[str], list[str]]:
             add_unique(roles, "accessory")
         else:
             add_unique(roles, "basin")
+    elif "bathtub" in text or "bath tub" in text or ("wellness" in category and ("bath" in text or "whirlpool" in text)) or (("freestanding bath" in text or "drop-in bath" in text) and "sink" not in text):
+        add_unique(zones, "bathtub")
+        if "faucet" in text or "filler" in text or "spout" in text:
+            add_unique(roles, "bath_filler")
+        elif "drain" in text:
+            add_unique(roles, "bath_drain")
+        else:
+            add_unique(roles, "bath")
     elif "vanity" in text:
         add_unique(zones, "vanity")
         add_unique(roles, "vanity")

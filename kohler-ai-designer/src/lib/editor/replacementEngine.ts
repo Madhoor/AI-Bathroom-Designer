@@ -67,6 +67,8 @@ export function replaceProductInDesignState(
   const newHeightM = (newProduct.heightMm ?? 500) / 1000;
 
   // 1. Create replacement recommendation product
+  // 1. Create replacement recommendation product with authoritative semantics
+  const newSemantics = resolveProductSemantics(newProduct);
   const replacementRecProduct: RecommendationProduct = {
     productCode: newProduct.productCode,
     productName: newProduct.productName,
@@ -76,15 +78,21 @@ export function replaceProductInDesignState(
     widthMm: newProduct.widthMm,
     depthMm: newProduct.depthMm,
     heightMm: newProduct.heightMm,
+    role: newSemantics.role,
     metadata: oldProduct.metadata ? {
       ...oldProduct.metadata,
+      productCode: newProduct.productCode,
+      role: [newSemantics.role],
+      bathroomZones: [newSemantics.primaryZone],
     } : undefined,
   };
 
-  // 2. Create updated placement with new productCode and footprint
+  // 2. Create updated placement with new productCode, role, and footprint
   const updatedPlacement: DesignPlacement = {
     ...oldPlacement,
     productCode: newProduct.productCode,
+    role: newSemantics.role,
+    zone: newSemantics.primaryZone,
     footprint: {
       widthM: newWidthM,
       depthM: newDepthM,

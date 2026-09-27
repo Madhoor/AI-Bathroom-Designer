@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 import type { CatalogueProduct } from "@/lib/catalogue";
+import { resolveProductSemantics } from "@/lib/catalogue/productSemantics";
 
 const Product3DViewer = dynamic(() => import("./Product3DViewer"), {
   ssr: false,
@@ -192,6 +193,15 @@ export default function ProductDetailModal({
 
             {/* Right Column: Factual Specifications & Actions */}
             <div className="flex flex-col">
+              <div className="mb-2 flex items-center gap-2">
+                <span className="rounded bg-[#c49a45]/20 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-[#f0d8a8] border border-[#c49a45]/40">
+                  {resolveProductSemantics(product).role.replace(/_/g, " ")}
+                </span>
+                <span className="text-xs text-stone-400 uppercase tracking-wider">
+                  {product.category}
+                </span>
+              </div>
+
               <h2 id="product-modal-title" className="font-serif text-2xl font-medium leading-tight text-white md:text-3xl">
                 {product.productName}
               </h2>
